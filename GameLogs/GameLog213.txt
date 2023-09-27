@@ -1,0 +1,983 @@
+South Bend ball, Q1, 1-10-NDAM35 (15:00) 0-0
+Robert Brock kicks 66 from South Bend 35 to Hawaii -1. John Katz to Hawaii 16 for a 17 yard 
+return.
+
+Hawaii ball, Q1, 1-10-HAW16 (14:40) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB T. Aiken runs left guard for 22 yards (CB J. Schmidt, FS P. Moran).  OT H. Martin had a 
+key block on the run. FS S. King missed a tackle.
+
+Hawaii ball, Q1, 1-10-HAW38 (14:13) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: 4-2-5, Play: 425-norm-DZ
+RB T. Aiken runs left guard for 1 yard (DT R. Christian).  C J. Johnson missed a block that 
+hurt the play.
+
+Hawaii ball, Q1, 2-9-HAW39 (13:45) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-2-5, Play: 425-norm-DZ
+RB T. Bain runs right guard for -3 yards (OLB M. Springer).
+
+Hawaii ball, Q1, 3-12-HAW36 (13:14) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB T. Newby throws an incomplete pass to RB T. Aiken (CB B. Chatman). CB B. Chatman broke 
+up the pass.
+
+Hawaii ball, Q1, 4-12-HAW36 (12:59) 0-0
+Israel Mosley Punts 41 yards to the South Bend 23 yard line, where James Hutchinson returns 
+it to South Bend 24 for a 1 yard return.
+
+Hawaii ball, Q1, 4-12-HAW36 (12:59) 0-0
+TE Jerry Beckwith (HAW) was injured on the play (Finger). It doesn't look like he will return.
+
+South Bend ball, Q1, 1-10-NDAM24 (12:39) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+QB J. Bradford completes a 14 yard out to WR J. Gray (OOB). FS J. Wong missed a tackle.
+
+South Bend ball, Q1, 1-10-NDAM38 (12:21) 0-0
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB G. Werner runs right tackle for 8 yards (ILB M. Boyce, CB D. Cronin).  CB T. Spicer missed 
+a tackle.
+
+South Bend ball, Q1, 2-2-NDAM46 (11:53) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+RB G. Werner runs right end for 7 yards (SS B. Smith).  FS J. Wong missed a tackle.
+
+South Bend ball, Q1, 1-10-HAW47 (11:22) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB G. Werner runs right tackle for 3 yards (OLB J. Smith, DE J. Rogers). 
+
+South Bend ball, Q1, 2-7-HAW44 (10:56) 0-0
+Offense: Outside Run, Set: I Form, Play: I-HB-toss-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB G. Werner runs right end for 4 yards (SS B. Smith). 
+
+South Bend ball, Q1, 3-3-HAW40 (10:28) 0-0
+Offense: Medium Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB J. Bradford completes a 6 yard post to WR J. Gray (OLB J. Jones). 
+
+South Bend ball, Q1, 1-10-HAW34 (10:13) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB R. Ladner runs right guard for 1 yard (SS B. Smith).  R. Ladner missed a hole that could 
+have resulted in a bigger gain.
+
+South Bend ball, Q1, 2-9-HAW33 (09:46) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-SZ-B5,6
+RB R. Ladner runs right tackle for 1 yard (DE L. Humphrey). 
+
+South Bend ball, Q1, 3-8-HAW32 (09:16) 0-0
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB G. Werner runs left end for -4 yards (DE P. Levine).
+
+South Bend ball, Q1, 4-12-HAW36 (08:48) 0-0
+William Cruz Punts 36 yards to the end zone, Touchback.
+
+Hawaii ball, Q1, 1-10-HAW20 (08:33) 0-0
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB T. Newby throws an incomplete pass to WR D. Mosley. DE P. Hendrickson hurried the QB.
+
+Hawaii ball, Q1, 2-10-HAW20 (08:16) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B5,11
+RB T. Aiken runs left guard for -1 yards (DE P. Hendrickson). OG B. Oconnor missed a block 
+that hurt the play.
+
+Hawaii ball, Q1, 3-11-HAW19 (07:49) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ-B7,9
+QB T. Newby completes a 10 yard screen to RB T. Aiken (FS P. Moran, ILB J. Irwin). 
+
+Hawaii ball, Q1, 4-1-HAW29 (07:27) 0-0
+Israel Mosley Punts 31 yards to the South Bend 40 yard line, where James Hutchinson returns 
+it to South Bend 45 for a 5 yard return.
+
+South Bend ball, Q1, 1-10-NDAM45 (07:12) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man
+QB J. Bradford completes a 55 yard in to TE H. Ward ****Touchdown!***** J. Bradford with the 
+great pass. OT A. Porter earned a pancake on the play. SS B. Smith allowed the big play.
+
+South Bend ball, Q1, 1-0-HAW0 (06:47) 6-0
+Robert Brock converts the PAT.
+
+South Bend ball, Q1, 1-10-NDAM35 (06:47) 7-0
+Robert Brock kicks 73 from South Bend 35 to end zone, Touchback.
+
+Hawaii ball, Q1, 1-10-HAW20 (06:31) 0-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-MZ-B6,8,10
+RB T. Aiken runs right end for 16 yards (CB B. Chatman). 
+
+Hawaii ball, Q1, 1-10-HAW36 (05:58) 0-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: 4-2-5, Play: 425-norm-Man-B8,10
+RB T. Aiken runs right guard for 2 yards (FS P. Moran). 
+
+Hawaii ball, Q1, 2-8-HAW38 (05:32) 0-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Normal, Set: 4-2-5, Play: 425-norm-Man
+RB T. Aiken runs right guard for 21 yards (CB B. Chatman).  OT R. Madrid had a key block on 
+the run.
+
+Hawaii ball, Q1, 1-10-NDAM41 (05:05) 0-7
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-slotrun-RE
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-ZoneBlitz
+WR D. Mosley runs right end for 1 yard (FS P. Moran). 
+
+Hawaii ball, Q1, 2-9-NDAM40 (04:37) 0-7
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB T. Newby throws an incomplete pass to WR N. Koch. DT N. Taylor hurried the QB.
+
+Hawaii ball, Q1, 3-9-NDAM40 (04:22) 0-7
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Normal, Set: 4-2-5, Play: 425-norm-DZ
+QB T. Newby throws an incomplete pass to WR N. Koch.
+
+Hawaii ball, Q1, 4-9-NDAM40 (04:02) 0-7
+Israel Mosley Punts 35 yards to the South Bend 5 yard line, where it goes out of bounds.
+
+South Bend ball, Q1, 1-10-NDAM5 (03:46) 7-0
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB J. Bradford completes a 7 yard screen to TE H. Ward (OOB).
+
+South Bend ball, Q1, 2-3-NDAM12 (03:32) 7-0
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB G. Werner runs right guard for 24 yards (OLB J. Jones).  CB G. Mcmullen was out of position 
+on the play.
+
+South Bend ball, Q1, 1-10-NDAM36 (03:02) 7-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+False Start against OG Samuel Taylor on South Bend. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the South Bend 31.
+
+South Bend ball, Q1, 1-15-NDAM31 (03:02) 7-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+QB J. Bradford throws an incomplete pass to TE H. Ward. J. Bradford made a bad pass.
+
+South Bend ball, Q1, 2-15-NDAM31 (02:46) 7-0
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB J. Bradford throws an incomplete pass to WR T. Hildebrand. WR T. Hildebrand dropped the 
+pass. OLB J. Smith hurried the QB.
+
+South Bend ball, Q1, 3-15-NDAM31 (02:30) 7-0
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB J. Bradford throws an incomplete pass to WR T. Hildebrand (CB D. Cronin). CB D. Cronin 
+broke up the pass.
+
+South Bend ball, Q1, 4-15-NDAM31 (02:15) 7-0
+William Cruz Punts 45 yards to the Hawaii 24 yard line, where it goes out of bounds.
+
+Hawaii ball, Q1, 1-10-HAW24 (01:57) 0-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB T. Aiken runs right guard for -2 yards (CB J. Schmidt). TE R. Miller missed a block that 
+hurt the play.
+
+Hawaii ball, Q1, 2-12-HAW22 (01:25) 0-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B6,8-L
+RB T. Aiken runs right guard for -2 yards (FS S. King). C J. Johnson missed a block that hurt 
+the play.
+
+Hawaii ball, Q1, 3-14-HAW20 (00:54) 0-7
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-DZ
+QB T. Newby throws an incomplete pass to WR N. Koch.
+
+Hawaii ball, Q1, 4-14-HAW20 (00:38) 0-7
+Israel Mosley Punts 43 yards to the South Bend 37 yard line, where James Hutchinson returns 
+it to South Bend 37 for a 0 yard return.
+
+South Bend ball, Q1, 1-10-NDAM37 (00:21) 7-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB G. Werner runs right end for 8 yards (ILB M. Boyce). 
+
+South Bend ball, Q2, 2-2-NDAM45 (15:00) 7-0
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+WR T. Hildebrand runs right end for 7 yards (FS J. Wong). 
+
+South Bend ball, Q2, 1-10-HAW48 (14:47) 7-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB J. Bradford completes a 11 yard out to WR J. Gray (SS B. Smith).  OT S. Graff earned a 
+pancake on the play. OLB J. Smith was out of position on the play.
+
+South Bend ball, Q2, 1-10-HAW37 (14:24) 7-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB J. Bradford completes a 9 yard dump off to WR E. English (SS B. Smith).  He fumbles the 
+ball after a hit by B. Smith. It's recovered by L. Danner of South Bend.
+
+South Bend ball, Q2, 2-1-HAW28 (14:00) 7-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB G. Werner runs right guard for -1 yards (SS B. Smith).
+
+South Bend ball, Q2, 3-2-HAW29 (13:30) 7-0
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB J. Bradford throws an incomplete pass to WR J. Gray. J. Bradford made a bad pass.
+
+South Bend ball, Q2, 4-2-HAW29 (13:15) 7-0
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB J. Bradford completes a 29 yard screen to TE H. Ward ****Touchdown!***** OG S. Taylor earned 
+a pancake on the play. OLB J. Jones allowed the big play.
+
+South Bend ball, Q2, 1-0-HAW0 (12:51) 13-0
+Robert Brock converts the PAT.
+
+South Bend ball, Q2, 1-10-NDAM35 (12:51) 14-0
+Robert Brock kicks 75 from South Bend 35 to end zone, Touchback.
+
+Hawaii ball, Q2, 1-10-HAW20 (12:32) 0-14
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Normal, Set: 4-2-5, Play: 425-norm-TMan-Spy
+RB T. Aiken runs left tackle for 4 yards (ILB J. Irwin). 
+
+Hawaii ball, Q2, 2-6-HAW24 (12:00) 0-14
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB T. Aiken runs right end for 23 yards (FS P. Moran).  FS P. Moran was out of position on 
+the play.
+
+Hawaii ball, Q2, 1-10-HAW47 (11:27) 0-14
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+RB T. Aiken runs right guard for 0 yards (DT R. Christian). 
+
+Hawaii ball, Q2, 2-10-HAW47 (10:54) 0-14
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB T. Aiken runs right guard for 3 yards (DE P. Hendrickson, SS J. Hutchinson). 
+
+Hawaii ball, Q2, 3-7-HAW50 (10:23) 0-14
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+RB T. Aiken runs left tackle for 8 yards (ILB J. Irwin, SS J. Hutchinson).  C J. Johnson had 
+a key block on the run.
+
+Hawaii ball, Q2, 1-10-NDAM42 (09:50) 0-14
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB T. Bain runs right guard for -2 yards (ILB J. Irwin). OG R. Dixon missed a block that hurt 
+the play.
+
+Hawaii ball, Q2, 2-12-NDAM44 (09:21) 0-14
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB T. Aiken runs right tackle for -1 yards (SS J. Hutchinson).
+
+Hawaii ball, Q2, 3-13-NDAM45 (08:49) 0-14
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: 4-2-5, Play: 425-norm-TMan-Spy
+T. Newby has his 45 yard pass intercepted by P. Moran at the NDAM 0. He kneels for the touchback.
+
+South Bend ball, Q2, 1-10-NDAM20 (08:18) 14-0
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ-B6-Spy
+WR T. Hildebrand runs right tackle for 3 yards (ILB M. Boyce). 
+
+South Bend ball, Q2, 2-7-NDAM23 (07:51) 14-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB J. Bradford completes a 10 yard in to WR T. Hildebrand (ILB M. Boyce). 
+
+Offensive Pass Interference against South Bend. The Penalty is for 15 yards.
+South Bend ball, Q2, 2-7-NDAM23 (07:51) 14-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+DE Jeffery Rogers (HAW) was injured on the play (Forearm). It doesn't look too serious and 
+he should return.
+
+The Defense will accept the penalty. It is now Second and 19 at the South Bend 11.
+
+South Bend ball, Q2, 2-19-NDAM11 (07:37) 14-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+False Start against OG Laverne Danner on South Bend. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 24 at the South Bend 6.
+
+South Bend ball, Q2, 2-24-NDAM6 (07:37) 14-0
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+QB J. Bradford throws an incomplete pass to WR J. Gray (CB G. Mcmullen). CB G. Mcmullen broke 
+up the pass.
+
+South Bend ball, Q2, 3-24-NDAM6 (07:17) 14-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB J. Bradford completes a 26 yard cross to WR J. Gray (ILB M. Boyce).  OG L. Danner earned 
+a pancake on the play. ILB M. Boyce allowed the big play.
+
+South Bend ball, Q2, 1-10-NDAM32 (06:53) 14-0
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB G. Werner runs right tackle for 8 yards (CB G. Mcmullen, CB P. Lopez).  G. Werner created 
+the big run with his own skills. OLB J. Smith was out of position on the play.
+
+South Bend ball, Q2, 2-2-NDAM40 (06:27) 14-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,5,6,7,
+QB J. Bradford completes a 14 yard hook to RB G. Werner (SS B. Smith).  He fumbles the ball 
+after a hit by B. Smith. It's recovered by D. Morin of Hawaii. He returns it 0 yards to the Hawaii 46. OT S. Graff earned a pancake on the play. CB T. Spicer missed a tackle.
+
+Hawaii ball, Q2, 1-10-HAW46 (06:06) 0-14
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-DZ
+QB T. Newby throws an incomplete pass to WR D. Mosley. T. Newby made a bad pass.
+
+Hawaii ball, Q2, 2-10-HAW46 (05:49) 0-14
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ
+QB T. Newby throws an incomplete pass to WR N. Koch (CB J. Schmidt). CB J. Schmidt broke up 
+the pass.
+
+Hawaii ball, Q2, 3-10-HAW46 (05:31) 0-14
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+T. Newby has his 33 yard pass intercepted by J. Irwin at the NDAM 21. He returns it 0 yards 
+to the South Bend 21. T. Newby made a bad pass.
+
+South Bend ball, Q2, 1-10-NDAM21 (05:06) 14-0
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+QB J. Bradford completes a 2 yard hook to RB G. Werner (ILB J. Hicks). 
+
+South Bend ball, Q2, 2-8-NDAM23 (04:43) 14-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB G. Werner runs left guard for 4 yards (OLB J. Smith). 
+
+South Bend ball, Q2, 3-4-NDAM27 (04:01) 14-0
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Bradford completes a 5 yard screen to RB G. Werner (DT D. Oconnor).  He fumbles the 
+ball after a hit by D. Oconnor. It's recovered by J. Rogers of Hawaii. He returns it 6 yards to the South Bend 26.
+
+Hawaii ball, Q2, 1-10-NDAM26 (03:47) 0-14
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 4-2-5, Play: 425-run-MZ-B6,8,10
+QB T. Newby completes a 6 yard hook to WR N. Koch (ILB J. Irwin). 
+
+Hawaii ball, Q2, 2-4-NDAM20 (03:25) 0-14
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B6,8-L
+QB T. Newby completes a 14 yard post to TE R. Miller (OOB). R. Miller made a great catch. 
+OG R. Dixon earned a pancake on the play.
+
+Hawaii ball, Q2, 1-6-NDAM6 (03:11) 0-14
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+RB T. Bain runs left end for -1 yards (DE P. Hendrickson).
+
+Hawaii ball, Q2, 2-7-NDAM7 (02:39) 0-14
+Offense: Inside Run, Set: Trips, Play: TR-QB-sneak-RG
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ
+QB T. Newby runs right guard for 4 yards (DT R. Christian). 
+
+Hawaii ball, Q2, 3-3-NDAM3 (02:10) 0-14
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+QB T. Newby completes a 3 yard hook to WR C. Mclaughlin ****Touchdown!*****
+
+Hawaii ball, Q2, 3-3-NDAM3 (02:10) 0-14
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+WR Charles Mclaughlin (HAW) was injured on the play (Hand). It doesn't look too serious and 
+he should return.
+
+Hawaii ball, Q2, 1-0-NDAM0 (01:55) 6-14
+Joe Stovall converts the PAT.
+
+Hawaii ball, Q2, 1-10-HAW35 (01:55) 7-14
+Albert Prather kicks 66 from Hawaii 35 to South Bend -1. James Hutchinson to South Bend 13 
+for a 14 yard return.
+
+South Bend ball, Q2, 1-10-NDAM13 (01:38) 14-7
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB J. Bradford completes a 6 yard out to WR T. Hildebrand (OOB).
+
+South Bend ball, Q2, 2-4-NDAM19 (01:24) 14-7
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-B7,11-R
+QB J. Bradford completes a 12 yard screen to RB G. Werner (OLB J. Smith).  G. Werner made 
+a great catch.
+
+South Bend ball, Q2, 1-10-NDAM31 (01:02) 14-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB J. Bradford throws an incomplete pass to WR E. English (CB T. Spicer). CB T. Spicer broke 
+up the pass.
+
+South Bend ball, Q2, 2-10-NDAM31 (00:54) 14-7
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB J. Bradford completes a 3 yard screen to RB G. Werner (OLB J. Smith, CB D. Cronin). 
+
+Hawaii Timeout!
+
+South Bend ball, Q2, 3-7-NDAM34 (00:47) 14-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man-B6
+QB J. Bradford throws an incomplete pass to WR T. Hildebrand.
+
+South Bend ball, Q2, 4-7-NDAM34 (00:41) 14-7
+William Cruz Punts 41 yards to the Hawaii 25 yard line, where Bradley Brock returns it to 
+Hawaii 43 for a 18 yard return.
+
+Hawaii ball, Q2, 1-10-HAW43 (00:33) 7-14
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: 4-2-5, Play: 425-norm-TMan-Spy
+QB T. Newby throws an incomplete pass to WR D. Mosley. WR D. Mosley dropped the pass.
+
+Hawaii ball, Q2, 2-10-HAW43 (00:25) 7-14
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB T. Newby runs outside for 1 yard (DE L. Bostic).  DT R. Christian hurried the QB.
+
+Hawaii Timeout!
+
+Hawaii ball, Q2, 3-9-HAW44 (00:17) 7-14
+Offense: Short Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ-B7,9
+QB T. Newby completes a 13 yard in to WR D. Mosley (FS S. King, OLB M. Springer).  D. Mosley 
+made a great catch.
+
+Hawaii Timeout!
+
+Hawaii ball, Q2, 1-10-NDAM43 (00:09) 7-14
+Offense: Short Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+T. Newby has his 9 yard pass intercepted by S. King at the NDAM 34. He returns it 6 yards 
+to the South Bend 40.
+
+Hawaii ball, Q3, 1-10-HAW35 (15:00) 7-14
+Albert Prather kicks 55 from Hawaii 35 to South Bend 10. James Hutchinson to South Bend 37 
+for a 27 yard return.
+
+South Bend ball, Q3, 1-10-NDAM37 (14:45) 14-7
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB J. Bradford throws an incomplete pass to RB G. Werner. RB G. Werner dropped the pass. OLB 
+J. Smith hurried the QB.
+
+South Bend ball, Q3, 2-10-NDAM37 (14:27) 14-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB G. Werner runs left guard for 4 yards (CB D. Cronin). 
+
+South Bend ball, Q3, 3-6-NDAM41 (13:59) 14-7
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB G. Werner runs right guard for 2 yards (OLB J. Jones). 
+
+Grabbing Face Mask against DE Lyle Humphrey on Hawaii. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the South Bend 48.
+
+South Bend ball, Q3, 1-10-NDAM48 (13:49) 14-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB J. Bradford throws an incomplete pass to WR J. Gray. WR J. Gray dropped the pass.
+
+South Bend ball, Q3, 2-10-NDAM48 (13:30) 14-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,6,11-R
+QB J. Bradford completes a 11 yard out-and-up to TE H. Ward (CB G. Mcmullen, FS J. Wong). 
+ OT A. Porter earned a pancake on the play.
+
+South Bend ball, Q3, 1-10-HAW41 (13:05) 14-7
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB J. Bradford throws an incomplete pass to WR T. Hildebrand (CB D. Cronin). DE J. Rogers 
+hurried the QB. CB D. Cronin broke up the pass.
+
+South Bend ball, Q3, 2-10-HAW41 (12:50) 14-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB R. Ladner runs left tackle for 2 yards (CB D. Cronin). 
+
+South Bend ball, Q3, 3-8-HAW39 (12:22) 14-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,5,6,7,
+QB J. Bradford completes a 7 yard hook to WR J. Gray (CB D. Cronin). 
+
+South Bend ball, Q3, 4-1-HAW32 (11:58) 14-7
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB J. Bradford completes a 3 yard screen to RB G. Werner (ILB M. Boyce, CB G. Mcmullen). 
+
+South Bend ball, Q3, 4-1-HAW32 (11:58) 14-7
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+CB Graham Mcmullen (HAW) was injured on the play (Finger). It doesn't look like he will return.
+
+South Bend ball, Q3, 1-10-HAW29 (11:43) 14-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB G. Werner runs right guard for 4 yards (OLB L. Glass). 
+
+South Bend ball, Q3, 2-6-HAW25 (11:15) 14-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB R. Ladner runs right guard for 4 yards (ILB M. Boyce). 
+
+South Bend ball, Q3, 3-2-HAW21 (10:42) 14-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+QB J. Bradford completes a 14 yard hook to WR J. Gray (CB D. Cronin).  OG L. Danner earned 
+a pancake on the play.
+
+South Bend ball, Q3, 1-7-HAW7 (10:16) 14-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+RB R. Ladner runs right guard for 7 yards ****Touchdown!*****
+
+Offsides against DT David Oconnor on Hawaii. The Penalty is for 5 yards.
+The penalty will be declined.
+
+South Bend ball, Q3, 1-0-HAW0 (10:03) 20-7
+Robert Brock converts the PAT.
+
+South Bend ball, Q3, 1-10-NDAM35 (10:03) 21-7
+Robert Brock kicks 75 from South Bend 35 to end zone, Touchback.
+
+Hawaii ball, Q3, 1-10-HAW20 (09:44) 7-21
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ
+QB T. Newby throws an incomplete pass to WR D. Mosley. DT R. Christian hurried the QB.
+
+Hawaii ball, Q3, 2-10-HAW20 (09:25) 7-21
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-DZ
+QB T. Newby throws an incomplete pass to WR D. Mosley (FS S. King). FS S. King broke up the 
+pass.
+
+Hawaii ball, Q3, 3-10-HAW20 (09:09) 7-21
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB T. Newby throws an incomplete pass to WR D. Mosley. T. Newby made a bad pass.
+
+Hawaii ball, Q3, 4-10-HAW20 (08:53) 7-21
+Israel Mosley Punts 43 yards to the South Bend 37 yard line, where James Hutchinson returns 
+it to South Bend 37 for a 0 yard return.
+
+South Bend ball, Q3, 1-10-NDAM37 (08:35) 21-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+QB J. Bradford completes a 2 yard post to WR E. English (OLB J. Smith). 
+
+Holding against OT Scott Graff on South Bend. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the South Bend 27.
+
+South Bend ball, Q3, 1-20-NDAM27 (08:25) 21-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB J. Bradford completes a 4 yard post to WR E. English (SS B. Smith). 
+
+South Bend ball, Q3, 2-16-NDAM31 (08:01) 21-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+RB G. Werner runs right guard for 0 yards (OLB J. Jones). 
+
+South Bend ball, Q3, 3-16-NDAM31 (07:33) 21-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB J. Bradford completes a 6 yard hook to WR T. Hildebrand (OLB J. Smith). 
+
+South Bend ball, Q3, 4-10-NDAM37 (07:05) 21-7
+William Cruz Punts 44 yards to the Hawaii 19 yard line,
+
+Hawaii ball, Q3, 1-10-HAW19 (06:49) 7-21
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB T. Newby throws an incomplete pass to WR D. Mosley.
+
+Hawaii ball, Q3, 2-10-HAW19 (06:33) 7-21
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+RB T. Aiken runs left tackle for 0 yards (DE P. Hendrickson). 
+
+Hawaii ball, Q3, 3-10-HAW19 (06:05) 7-21
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B6,8-L
+RB T. Aiken runs left guard for 14 yards (OLB M. Springer, SS J. Hutchinson).  OT H. Martin 
+had a key block on the run.
+
+Hawaii ball, Q3, 1-10-HAW33 (05:35) 7-21
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB T. Newby throws an incomplete pass to RB T. Aiken. T. Newby made a bad pass.
+
+Hawaii ball, Q3, 2-10-HAW33 (05:17) 7-21
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B5,6
+RB T. Aiken runs right guard for 3 yards (CB J. Schmidt). 
+
+Hawaii ball, Q3, 3-7-HAW36 (05:00) 7-21
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: 4-2-5, Play: 425-norm-DZ
+QB T. Newby throws an incomplete pass to WR N. Koch.
+
+Hawaii ball, Q3, 4-7-HAW36 (04:45) 7-21
+Israel Mosley Punts 29 yards to the South Bend 35 yard line, where James Hutchinson returns 
+it to South Bend 36 for a 1 yard return.
+
+South Bend ball, Q3, 1-10-NDAM36 (04:28) 21-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Bradford completes a 41 yard in to TE H. Ward (CB D. Cronin).  J. Bradford with the 
+great pass. ILB M. Boyce allowed the big play.
+
+Pass Interference against FS Joseph Wong on Hawaii. The Penalty is for 15 yards, and an automatic 
+first down.
+The penalty will be declined.
+
+South Bend ball, Q3, 1-10-HAW23 (04:15) 21-7
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+WR T. Hildebrand runs right end for 5 yards (OOB).
+
+South Bend ball, Q3, 1-10-HAW23 (04:15) 21-7
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+C John Wolfe (NDAM) was injured on the play (Finger). It doesn't look too serious and he should 
+return.
+
+South Bend ball, Q3, 2-5-HAW18 (04:01) 21-7
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB G. Werner runs left end for 9 yards (ILB M. Boyce). 
+
+South Bend ball, Q3, 1-9-HAW9 (03:33) 21-7
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB J. Bradford gets sacked for a 7 yard loss (DT D. Oconnor).  TE H. Ward allowed the sack.
+
+South Bend ball, Q3, 2-16-HAW16 (03:13) 21-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB G. Werner runs right guard for 4 yards (OLB J. Smith). 
+
+South Bend ball, Q3, 3-12-HAW12 (02:45) 21-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB J. Bradford completes a 4 yard in to TE H. Ward (OOB).
+
+South Bend ball, Q3, 4-8-HAW8 (02:28) 21-7
+Robert Brock converts the 26 yard field goal.
+
+South Bend ball, Q3, 1-10-NDAM35 (02:09) 24-7
+Robert Brock kicks 55 from South Bend 35 to Hawaii 10. John Katz to Hawaii 35 for a 25 yard 
+return.
+
+Hawaii ball, Q3, 1-10-HAW35 (01:54) 7-24
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB T. Aiken runs right guard for -1 yards (FS P. Moran). OG R. Dixon missed a block that hurt 
+the play.
+
+Hawaii ball, Q3, 2-11-HAW34 (01:26) 7-24
+Offense: Long Pass, Set: Quads, Play: Q-WR3-corner-FL-post
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB T. Newby completes a 62 yard post to WR D. Mosley (OOB). ILB J. Irwin allowed the big play.
+
+Hawaii ball, Q3, 1-4-NDAM4 (01:16) 7-24
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+RB T. Aiken runs right guard for -2 yards (SS J. Hutchinson).
+
+Hawaii ball, Q3, 2-6-NDAM6 (00:45) 7-24
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+RB T. Aiken runs right guard for -3 yards (DE S. Hudson).
+
+Grabbing Face Mask against OLB Marcus Springer on South Bend. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Third and Goal at the South Bend 5.
+
+Hawaii ball, Q3, 3-5-NDAM5 (00:31) 7-24
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B5,11
+QB T. Newby throws an incomplete pass to RB T. Aiken.
+
+Hawaii ball, Q3, 4-5-NDAM5 (00:14) 7-24
+Joe Stovall converts the 23 yard field goal.
+
+Hawaii ball, Q4, 1-10-HAW35 (15:00) 10-24
+Albert Prather kicks 67 from Hawaii 35 to South Bend -2. James Hutchinson to South Bend 19 
+for a 21 yard return.
+
+South Bend ball, Q4, 1-10-NDAM19 (14:41) 24-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB G. Werner runs left guard for 4 yards (CB D. Cronin, FS J. Wong). 
+
+South Bend ball, Q4, 2-6-NDAM23 (14:09) 24-10
+Offense: Long Pass, Set: I Form, Play: I-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB J. Bradford gets sacked for a 10 yard loss (SS G. Chin).  OG S. Taylor allowed the sack.
+
+South Bend ball, Q4, 3-16-NDAM13 (13:50) 24-10
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+RB G. Werner runs right guard for 4 yards (CB D. Cronin). 
+
+South Bend ball, Q4, 4-12-NDAM17 (13:19) 24-10
+William Cruz Punts 42 yards to the Hawaii 41 yard line, where Bradley Brock returns it to 
+South Bend 44 for a 15 yard return. He fumbles the ball after a hit by W. Cowan. It's recovered by J. Perry of South Bend. He returns it 6 yards to the South Bend 50.
+
+South Bend ball, Q4, 1-10-NDAM50 (13:04) 24-10
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB G. Werner runs left end for 3 yards (OLB J. Smith, CB D. Cronin). 
+
+South Bend ball, Q4, 2-7-HAW47 (12:37) 24-10
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB J. Bradford completes a 15 yard corner to WR T. Hildebrand (OOB). SS B. Smith was out of 
+position on the play.
+
+South Bend ball, Q4, 1-10-HAW32 (12:21) 24-10
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man
+QB J. Bradford completes a 7 yard screen to RB R. Ladner (ILB M. Boyce). 
+
+South Bend ball, Q4, 2-3-HAW25 (11:58) 24-10
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB G. Werner runs left end for 1 yard (SS B. Smith). 
+
+South Bend ball, Q4, 3-2-HAW24 (11:44) 24-10
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB J. Bradford completes a 21 yard hook to WR J. Gray (OLB J. Jones).  CB P. Lopez missed 
+a tackle.
+
+South Bend ball, Q4, 1-3-HAW3 (11:16) 24-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+RB G. Werner runs right tackle for 3 yards ****Touchdown!*****
+
+South Bend ball, Q4, 1-0-HAW0 (10:45) 30-10
+Robert Brock converts the PAT.
+
+South Bend ball, Q4, 1-10-NDAM35 (10:45) 31-10
+Robert Brock kicks 67 from South Bend 35 to Hawaii -2. John Katz to Hawaii 33 for a 35 yard 
+return.
+
+Grabbing Face Mask against DT Nelson Taylor on South Bend. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Hawaii 38.
+
+Hawaii ball, Q4, 1-10-HAW38 (10:31) 10-31
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Normal, Set: 4-2-5, Play: 425-norm-Man
+RB T. Aiken runs left guard for 0 yards (DE P. Hendrickson).  OG R. Dixon missed a block that 
+hurt the play.
+
+Hawaii ball, Q4, 2-10-HAW38 (10:05) 10-31
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 4-2-5, Play: 425-norm-Man
+QB T. Newby throws an incomplete pass to WR C. Mclaughlin.
+
+Hawaii ball, Q4, 3-10-HAW38 (09:46) 10-31
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB T. Newby completes a 18 yard in to WR C. Mclaughlin (OLB M. Springer). 
+
+Hawaii ball, Q4, 1-10-NDAM44 (09:21) 10-31
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB T. Aiken runs left end for 1 yard (ILB J. Irwin).  OG B. Oconnor missed a block that hurt 
+the play.
+
+Hawaii ball, Q4, 2-9-NDAM43 (08:49) 10-31
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B6,8-L
+QB T. Newby completes a 43 yard in to WR C. Mclaughlin ****Touchdown!***** FS P. Moran allowed 
+the big play.
+
+Hawaii ball, Q4, 2-9-NDAM43 (08:49) 10-31
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B6,8-L
+WR Charles Mclaughlin (HAW) was injured on the play (Hand). It doesn't look like he will return.
+
+Hawaii ball, Q4, 1-0-NDAM0 (08:33) 16-31
+Joe Stovall converts the PAT.
+
+Hawaii ball, Q4, 1-10-HAW35 (08:33) 17-31
+Albert Prather kicks 55 from Hawaii 35 to South Bend 10. James Hutchinson to South Bend 35 
+for a 25 yard return.
+
+South Bend ball, Q4, 1-10-NDAM35 (08:15) 31-17
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB G. Werner runs right guard for 0 yards (ILB M. Boyce). 
+
+South Bend ball, Q4, 2-10-NDAM35 (07:49) 31-17
+Offense: Short Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+J. Bradford has his 6 yard pass intercepted by J. Jones at the NDAM 41. He returns it 0 yards 
+to the South Bend 41. J. Bradford made a bad pass.
+
+Hawaii ball, Q4, 1-10-NDAM41 (07:24) 17-31
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-DZ
+RB T. Aiken runs right end for 8 yards (ILB J. Irwin, OLB M. Springer). 
+
+Hawaii ball, Q4, 2-2-NDAM33 (06:57) 17-31
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+FB J. Saylor runs left end for -1 yards (FS P. Moran).
+
+Hawaii ball, Q4, 3-3-NDAM34 (06:28) 17-31
+Offense: Short Pass, Set: Trips, Play: TR-SE-screen
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB T. Newby throws an incomplete pass to WR N. Koch. T. Newby made a bad pass.
+
+Hawaii ball, Q4, 4-3-NDAM34 (06:12) 17-31
+Israel Mosley Punts 33 yards to the South Bend 1 yard line, where it goes out of bounds.
+
+South Bend ball, Q4, 1-10-NDAM1 (05:52) 31-17
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+RB R. Ladner runs right guard for 7 yards (FS J. Wong).  OT S. Graff had a key block on the 
+run.
+
+South Bend ball, Q4, 2-3-NDAM8 (05:20) 31-17
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+QB J. Bradford completes a 13 yard hook to FB M. Palmer (OOB).
+
+South Bend ball, Q4, 1-10-NDAM21 (05:09) 31-17
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB G. Werner runs right guard for 7 yards (CB D. Cronin).  OG S. Taylor had a key block on 
+the run.
+
+South Bend ball, Q4, 2-3-NDAM28 (04:43) 31-17
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-RG
+Defense: Stop Run, Set: Dime, Play: Dime-run-SZ
+RB G. Werner runs right tackle for 4 yards (OLB J. Smith). 
+
+South Bend ball, Q4, 1-10-NDAM32 (04:13) 31-17
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+RB G. Werner runs right tackle for 2 yards (DE J. Rogers). 
+
+South Bend ball, Q4, 2-8-NDAM34 (03:46) 31-17
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,7,11
+RB R. Ladner runs right tackle for 4 yards (OLB J. Jones). 
+
+South Bend ball, Q4, 3-4-NDAM38 (03:20) 31-17
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB J. Bradford completes a 17 yard screen to RB G. Werner (OLB J. Smith). 
+
+South Bend ball, Q4, 1-10-HAW45 (02:56) 31-17
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB R. Ladner runs right guard for 5 yards (CB P. Lopez, DE J. Rogers). 
+
+South Bend ball, Q4, 2-5-HAW40 (02:25) 31-17
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+RB R. Ladner runs right guard for 4 yards (OLB J. Smith, SS B. Smith). 
+
+South Bend ball, Q4, 3-1-HAW36 (01:57) 31-17
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+RB G. Werner runs left guard for 1 yard (DE P. Levine).  FB M. Palmer missed a block that 
+hurt the play.
+
+South Bend ball, Q4, 1-10-HAW35 (01:24) 31-17
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB R. Ladner runs right guard for 6 yards (CB D. Cronin). 
+
+Unnecessary Roughness against TE Howard Ward on South Bend. The Penalty is for 15 yards.
+The Defense will accept the penalty. It is now Second and 19 at the Hawaii 44.
+
+South Bend ball, Q4, 2-19-HAW44 (01:09) 31-17
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB R. Ladner runs left end for 1 yard (SS B. Smith).  R. Ladner missed a hole that could have 
+resulted in a bigger gain.
+
+South Bend ball, Q4, 2-19-HAW44 (01:09) 31-17
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+C John Wolfe (NDAM) was injured on the play (Foot). It doesn't look too serious and he should 
+return.
+
+South Bend ball, Q4, 3-18-HAW43 (00:53) 31-17
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-SZ-B5,6
+RB G. Werner runs left guard for 0 yards (FS J. Wong). 
+
+Hawaii Timeout!
+
+South Bend ball, Q4, 4-18-HAW43 (00:44) 31-17
+William Cruz Punts 25 yards to the Hawaii 18 yard line, where it goes out of bounds.
+
+Hawaii ball, Q4, 1-10-HAW18 (00:37) 17-31
+Offense: Short Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B5,11
+QB T. Newby completes a 54 yard in to WR C. Garcia (SS J. Hutchinson).  SS J. Hutchinson allowed 
+the big play.
+
+Hawaii Timeout!
+
+Hawaii ball, Q4, 1-10-NDAM28 (00:31) 17-31
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB T. Newby throws an incomplete pass to WR N. Koch.
+
+Hawaii ball, Q4, 2-10-NDAM28 (00:23) 17-31
+Offense: Short Pass, Set: Trips, Play: TR-TE-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB T. Newby completes a 9 yard screen to TE R. Miller (OOB).
+
+Hawaii ball, Q4, 3-1-NDAM19 (00:17) 17-31
+Offense: Short Pass, Set: Trips, Play: TR-FL-streak-WR3-in
+Defense: Normal, Set: 4-2-5, Play: 425-norm-TMan-Spy
+QB J. Kelley completes a 5 yard in to WR C. Garcia (FS S. King, CB J. Schmidt). 
+
+Hawaii Timeout!
+
+Hawaii ball, Q4, 1-10-NDAM14 (00:09) 17-31
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 4-2-5, Play: 425-norm-TMan-Spy
+QB T. Newby throws an incomplete pass to WR J. Katz.
+
+Hawaii ball, Q4, 2-10-NDAM14 (00:03) 17-31
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B5,6
+QB T. Newby completes a 8 yard screen to RB T. Aiken (CB B. Chatman). 
+
+Hawaii ball, Q4, 2-10-NDAM14 (00:00) 17-31
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B5,6
+The QB spikes the ball to stop the clock!
+

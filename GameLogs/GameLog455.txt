@@ -1,0 +1,999 @@
+Kansas ball, Q1, 1-10-KAN35 (15:00) 0-0
+Albert Moore kicks 73 from Kansas 35 to end zone, Touchback.
+
+Baylor ball, Q1, 1-10-BAY20 (14:41) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB G. Turner throws an incomplete pass to RB B. Ward (CB G. Taylor). RB B. Ward dropped the 
+pass. CB G. Taylor broke up the pass.
+
+Baylor ball, Q1, 2-10-BAY20 (14:21) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB B. Ward runs left end for 10 yards (ILB D. Long). 
+
+Baylor ball, Q1, 1-10-BAY30 (13:49) 0-0
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+RB B. Ward runs right tackle for 1 yard (ILB D. Long). 
+
+Baylor ball, Q1, 2-9-BAY31 (13:18) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+RB G. Sinclair runs right guard for 1 yard (ILB D. Long).  OT M. Jones missed a block that 
+hurt the play.
+
+Baylor ball, Q1, 2-9-BAY31 (13:18) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+OG Thomas Corbin (BAY) was injured on the play (OK). It doesn't look like he will return.
+
+Baylor ball, Q1, 3-8-BAY32 (13:04) 0-0
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man-B6
+QB G. Turner throws an incomplete pass to WR R. Dickerson.
+
+Baylor ball, Q1, 4-8-BAY32 (12:48) 0-0
+Robert Cote Punts 45 yards to the Kansas 23 yard line,
+
+Kansas ball, Q1, 1-10-KAN23 (12:29) 0-0
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB B. Chapman runs right end for 8 yards (CB R. Wilkins).  SS H. Holland missed a tackle.
+
+Kansas ball, Q1, 2-2-KAN31 (12:03) 0-0
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB B. Chapman runs left tackle for 1 yard (ILB C. Winters).  C A. Watkins missed a block that 
+hurt the play.
+
+Kansas ball, Q1, 3-1-KAN32 (11:31) 0-0
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB C. Bradshaw completes a 0 yard dump off to FB D. Mitchell (OLB S. Davis). 
+
+Kansas ball, Q1, 4-1-KAN32 (11:07) 0-0
+Michael Griffin Punts 48 yards to the Baylor 20 yard line, where it goes out of bounds.
+
+Baylor ball, Q1, 1-10-BAY20 (10:48) 0-0
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB G. Turner completes a 67 yard streak to WR R. Jett (CB C. Reed). 
+
+Baylor ball, Q1, 1-10-KAN13 (10:20) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+False Start against OT Wallace Parker on Baylor. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Kansas 18.
+
+Baylor ball, Q1, 1-15-KAN18 (10:20) 0-0
+Offense: Medium Pass, Set: Trips, Play: TR-FL-in-SE-post
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB G. Turner throws an incomplete pass to WR R. Dickerson.
+
+Baylor ball, Q1, 2-15-KAN18 (10:04) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB B. Ward runs right guard for 2 yards (OLB D. Cook, CB S. Bradley). 
+
+Baylor ball, Q1, 3-13-KAN16 (09:32) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB G. Turner gets sacked for a 7 yard loss (DE J. Powell).  TE L. Capps allowed the sack.
+
+Baylor ball, Q1, 3-13-KAN16 (09:32) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+DE Paul Mitchell (KAN) was injured on the play (Stomach). It doesn't look like he will return.
+
+Baylor ball, Q1, 4-20-KAN23 (09:13) 0-0
+Robert Evans converts the 41 yard field goal.
+
+Baylor ball, Q1, 1-10-BAY35 (08:57) 3-0
+Robert Evans kicks 53 from Baylor 35 to Kansas 12. Charles Diaz to Kansas 27 for a 15 yard 
+return.
+
+Kansas ball, Q1, 1-10-KAN27 (08:38) 0-3
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB B. Chapman runs left end for 3 yards (ILB C. Winters, ILB G. Montes). 
+
+Kansas ball, Q1, 1-10-KAN27 (08:38) 0-3
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+CB Robert Wilkins (BAY) was injured on the play (Sternum). It doesn't look like he will return.
+
+Kansas ball, Q1, 2-7-KAN30 (08:24) 0-3
+Offense: Medium Pass, Set: Double TE, Play: DTE-TE-posts
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+C. Bradshaw has his 36 yard pass intercepted by H. Holland at the BAY 34. He returns it -1 
+yards to the Baylor 33. DT J. Snyder hurried the QB.
+
+Baylor ball, Q1, 1-10-BAY33 (07:54) 3-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB G. Sinclair runs right guard for 10 yards (FS G. Hill).  OG R. Alvarez had a key block 
+on the run. DE J. Hines missed a tackle.
+
+Baylor ball, Q1, 1-10-BAY43 (07:23) 3-0
+Offense: Short Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB G. Turner gets sacked for a 4 yard loss (DE R. Godwin).  OG K. Booth allowed the sack.
+
+Baylor ball, Q1, 2-14-BAY39 (07:04) 3-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB G. Sinclair runs right guard for 2 yards (OLB D. Cook). 
+
+Baylor ball, Q1, 3-12-BAY41 (06:32) 3-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+G. Turner has his 12 yard pass intercepted by C. Reed at the KAN 47. He returns it 10 yards 
+to the Baylor 43.
+
+Kansas ball, Q1, 1-10-BAY43 (06:02) 0-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB W. Gonzalez runs right guard for -1 yards (OLB S. Davis).
+
+Kansas ball, Q1, 2-11-BAY44 (05:35) 0-3
+Offense: Long Pass, Set: Strong, Play: ST-SE-curls
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB C. Bradshaw completes a 44 yard hook to WR C. Davis ****Touchdown!*****
+
+Kansas ball, Q1, 1-0-BAY0 (05:07) 6-3
+Jeffrey Hudson converts the PAT.
+
+Kansas ball, Q1, 1-10-KAN35 (05:07) 7-3
+Albert Moore kicks 67 from Kansas 35 to Baylor -2. Benjamin Parrish to Baylor 16 for a 18 
+yard return.
+
+Baylor ball, Q1, 1-10-BAY16 (04:50) 3-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB G. Sinclair runs left guard for 3 yards (FS G. Hill). 
+
+Baylor ball, Q1, 2-7-BAY19 (04:36) 3-7
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-RE
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB G. Sinclair runs right end for 3 yards (CB C. Reed, DT J. Hardin). 
+
+Baylor ball, Q1, 3-4-BAY22 (04:07) 3-7
+Offense: Long Pass, Set: SingleBack, Play: SB-FL-playact-up
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB G. Turner throws an incomplete pass to WR T. Hall.
+
+Holding against OT Martin Jones on Baylor. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Baylor ball, Q1, 4-4-BAY22 (03:54) 3-7
+Robert Cote Punts 69 yards to the Kansas 9 yard line, where it gets downed.
+
+Kansas ball, Q1, 1-10-KAN9 (03:34) 7-3
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-toss-LE
+Defense: Stop Run, Set: Dime, Play: Dime-pass-MZ
+RB W. Gonzalez runs left end for 3 yards (SS H. Holland, DE C. Martinez). 
+
+Kansas ball, Q1, 2-7-KAN12 (03:07) 7-3
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+RB B. Chapman runs left end for 0 yards (ILB C. Winters). 
+
+Kansas ball, Q1, 3-7-KAN12 (02:36) 7-3
+Offense: Short Pass, Set: Strong, Play: ST-FL-rollout-TE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB C. Bradshaw throws an incomplete pass to TE R. Helms (CB J. Bowers). CB J. Bowers broke 
+up the pass.
+
+Kansas ball, Q1, 4-7-KAN12 (02:17) 7-3
+Michael Griffin Punts 41 yards to the Baylor 47 yard line, where Rick Thomas returns it to 
+Kansas 49 for a 4 yard return.
+
+Baylor ball, Q1, 1-10-KAN49 (02:02) 3-7
+Offense: Short Pass, Set: Trips, Play: TR-SE-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB G. Turner completes a 21 yard screen to WR R. Dickerson (CB S. Bradley, CB T. Rosa). 
+
+Baylor ball, Q1, 1-10-KAN28 (01:38) 3-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB B. Ward runs left tackle for 5 yards (DT B. Harmon, ILB J. Mclaughlin). 
+
+Baylor ball, Q1, 2-5-KAN23 (01:09) 3-7
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6
+QB G. Turner throws an incomplete pass to WR E. Briggs. WR E. Briggs dropped the pass.
+
+Baylor ball, Q1, 3-5-KAN23 (00:50) 3-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB B. Ward runs right guard for 6 yards (OLB B. Hart, OLB D. Cook). 
+
+Grabbing Face Mask against ILB John Mclaughlin on Kansas. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Kansas 12.
+
+Baylor ball, Q1, 1-10-KAN12 (00:36) 3-7
+Offense: Outside Run, Set: Quads, Play: Q-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB B. Ward runs right end for -2 yards (ILB D. Long). OT M. Jones missed a block that hurt 
+the play.
+
+Baylor ball, Q1, 2-12-KAN14 (00:21) 3-7
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-slotrun-RE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+WR T. Hall runs right end for 12 yards (OLB D. Cook, CB S. Bradley).  OG R. Alvarez had a 
+key block on the run. FS G. Hill missed a tackle.
+
+Baylor ball, Q2, 1-2-KAN2 (15:00) 3-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+RB B. Ward runs left tackle for 2 yards ****Touchdown!*****
+
+Baylor ball, Q2, 1-2-KAN2 (15:00) 3-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+OLB Billy Hart (KAN) was injured on the play (Head). It doesn't look too serious and he should 
+return.
+
+Baylor ball, Q2, 1-0-KAN0 (14:46) 9-7
+Robert Evans converts the PAT.
+
+Baylor ball, Q2, 1-10-BAY35 (14:46) 10-7
+Robert Evans kicks 54 from Baylor 35 to Kansas 11. Charles Diaz to Kansas 46 for a 35 yard 
+return.
+
+Illegal Use of Hands against TE Christopher Morgan on Kansas. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 10 at the Kansas 36.
+
+Kansas ball, Q2, 1-10-KAN36 (14:33) 7-10
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+QB C. Bradshaw completes a 6 yard hook to WR R. Marsh (OOB).
+
+Kansas ball, Q2, 2-4-KAN42 (14:15) 7-10
+Offense: Outside Run, Set: I Form Big, Play: IB-RB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB B. Chapman runs right end for -3 yards (FS C. Boyle).
+
+Kansas ball, Q2, 3-7-KAN39 (13:47) 7-10
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+C. Bradshaw has his 8 yard pass intercepted by S. Davis at the KAN 47. He returns it 0 yards 
+to the Kansas 47. C. Bradshaw made a bad pass. OLB S. Davis hurried the QB.
+
+Baylor ball, Q2, 1-10-KAN47 (13:21) 10-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB B. Ward runs right tackle for 2 yards (ILB J. Mclaughlin). 
+
+Baylor ball, Q2, 2-8-KAN45 (12:54) 10-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB B. Ward runs right tackle for -1 yards (OLB D. Cook). TE L. Capps missed a block that hurt 
+the play.
+
+Baylor ball, Q2, 2-8-KAN45 (12:54) 10-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+OLB Billy Hart (KAN) was injured on the play (Eye). It doesn't look like he will return.
+
+Baylor ball, Q2, 3-9-KAN46 (12:40) 10-7
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+G. Turner has his 9 yard pass intercepted by G. Taylor at the KAN 37. He returns it 36 yards 
+to the Baylor 27.
+
+Holding against OT Wallace Parker on Baylor. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Kansas ball, Q2, 1-10-BAY27 (12:27) 7-10
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-power-RE
+Defense: Stop Run, Set: Dime, Play: Dime-pass-DZ
+RB B. Chapman runs right end for 2 yards (FS K. Swanson). 
+
+Kansas ball, Q2, 2-8-BAY25 (11:55) 7-10
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB B. Chapman runs right end for -2 yards (ILB C. Winters).
+
+Kansas ball, Q2, 2-8-BAY25 (11:55) 7-10
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+FB David Mitchell (KAN) was injured on the play (Toe). It doesn't look like he will return.
+
+Kansas ball, Q2, 3-10-BAY27 (11:39) 7-10
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB C. Bradshaw completes a 8 yard hook to WR C. Davis (OLB S. Davis, CB H. Avery). 
+
+Kansas ball, Q2, 4-2-BAY19 (11:17) 7-10
+Jeffrey Hudson converts the 37 yard field goal.
+
+Kansas ball, Q2, 1-10-KAN35 (11:01) 10-10
+Albert Moore kicks 67 from Kansas 35 to Baylor -2. Benjamin Parrish to Baylor 12 for a 14 
+yard return.
+
+Baylor ball, Q2, 1-10-BAY12 (10:42) 10-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB G. Sinclair runs right guard for 2 yards (OLB D. Cook). 
+
+Baylor ball, Q2, 2-8-BAY14 (10:14) 10-10
+Offense: Long Pass, Set: Trips, Play: TR-WR3-str-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB G. Turner completes a 51 yard streak to WR T. Hall (FS G. Hill).  T. Hall made a great 
+catch. OT M. Jones earned a pancake on the play.
+
+Baylor ball, Q2, 1-10-KAN35 (09:44) 10-10
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB G. Turner completes a 26 yard streak to WR R. Jett (CB C. Reed).  G. Turner with the great 
+pass. OT M. Jones earned a pancake on the play. CB S. Bradley allowed the big play.
+
+Baylor ball, Q2, 1-9-KAN9 (09:19) 10-10
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+QB G. Turner completes a 7 yard hook to WR R. Dickerson (OOB).
+
+Baylor ball, Q2, 1-9-KAN9 (09:19) 10-10
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+OLB Johnny Ross (KAN) was injured on the play (Chin). It doesn't look too serious and he should 
+return.
+
+Baylor ball, Q2, 2-2-KAN2 (09:05) 10-10
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+RB B. Ward runs left guard for 2 yards ****Touchdown!*****
+
+Baylor ball, Q2, 1-0-KAN0 (08:35) 16-10
+Robert Evans converts the PAT.
+
+Baylor ball, Q2, 1-10-BAY35 (08:35) 17-10
+Robert Evans kicks 67 from Baylor 35 to Kansas -2. Charles Diaz to Kansas 13 for a 15 yard 
+return.
+
+Kansas ball, Q2, 1-10-KAN13 (08:17) 10-17
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB B. Chapman runs left guard for 3 yards (SS H. Holland, DE D. Collins). 
+
+Kansas ball, Q2, 2-7-KAN16 (07:48) 10-17
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+QB C. Bradshaw completes a 8 yard hook to TE R. Helms (CB J. Bowers). 
+
+Kansas ball, Q2, 1-10-KAN24 (07:26) 10-17
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,6,11-R
+QB C. Bradshaw throws an incomplete pass to WR R. Marsh.
+
+Kansas ball, Q2, 2-10-KAN24 (07:11) 10-17
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,6,11-R
+RB B. Chapman runs left end for 7 yards (OOB). OG A. Young had a key block on the run. FS 
+C. Boyle missed a tackle.
+
+Kansas ball, Q2, 3-3-KAN31 (06:58) 10-17
+Offense: Outside Run, Set: Strong, Play: ST-HB-toss-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+RB B. Chapman runs right tackle for 14 yards (SS H. Holland, OLB C. Johnson).  OT R. Davis 
+had a key block on the run. FS C. Boyle missed a tackle.
+
+Kansas ball, Q2, 1-10-KAN45 (06:25) 10-17
+Offense: Short Pass, Set: I Form, Play: I-SE-streaks
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB C. Bradshaw completes a 6 yard dump off to RB B. Chapman (OLB S. Davis). 
+
+Kansas ball, Q2, 2-4-BAY49 (06:01) 10-17
+Offense: Outside Run, Set: I Form Big, Play: IB-RB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB B. Chapman runs right end for 1 yard (ILB C. Winters). 
+
+Kansas ball, Q2, 3-3-BAY48 (05:35) 10-17
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB C. Bradshaw throws an incomplete pass to RB B. Chapman. C. Bradshaw made a bad pass.
+
+Kansas ball, Q2, 4-3-BAY48 (05:17) 10-17
+Michael Griffin Punts 42 yards to the Baylor 6 yard line, where it goes out of bounds.
+
+Baylor ball, Q2, 1-10-BAY6 (04:57) 17-10
+Offense: Short Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: 4-4, Play: 44-norm-Man-Spy
+QB G. Turner completes a 59 yard post to WR T. Hall (CB G. Taylor, CB S. Bradley).  ILB J. 
+Mclaughlin allowed the big play.
+
+Baylor ball, Q2, 1-10-KAN35 (04:36) 17-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+RB G. Sinclair runs right tackle for 12 yards (OLB J. Ross).  DT B. Harmon was out of position 
+on the play.
+
+Baylor ball, Q2, 1-10-KAN23 (04:06) 17-10
+Offense: Short Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB G. Turner completes a 5 yard dump off to RB B. Ward (OLB J. Ross, ILB J. Mclaughlin). 
+
+Pass Interference against OLB David Cook on Kansas. The Penalty is for 5 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Kansas 18.
+
+Baylor ball, Q2, 1-10-KAN18 (03:53) 17-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB G. Sinclair runs right guard for 2 yards (DE R. Godwin, CB C. Reed). 
+
+Baylor ball, Q2, 2-8-KAN16 (03:27) 17-10
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB G. Turner completes a 16 yard out to WR R. Dickerson ****Touchdown!***** FS G. Hill was 
+out of position on the play.
+
+Baylor ball, Q2, 2-8-KAN16 (03:27) 17-10
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+CB Steven Bradley (KAN) was injured on the play (Knee). It doesn't look too serious and he 
+should return.
+
+Baylor ball, Q2, 1-0-KAN0 (03:11) 23-10
+Robert Evans converts the PAT.
+
+Baylor ball, Q2, 1-10-BAY35 (03:11) 24-10
+Robert Evans kicks 55 from Baylor 35 to Kansas 10. Charles Diaz to Kansas 27 for a 17 yard 
+return.
+
+Kansas ball, Q2, 1-10-KAN27 (02:55) 10-24
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB B. Chapman runs left guard for 2 yards (SS H. Holland). 
+
+Kansas ball, Q2, 2-8-KAN29 (02:23) 10-24
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,5,6,7,
+RB B. Chapman runs right tackle for 3 yards (SS H. Holland). 
+
+Kansas ball, Q2, 3-5-KAN32 (01:51) 10-24
+Offense: Short Pass, Set: Strong, Play: ST-FL-rollout-TE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB C. Bradshaw throws an incomplete pass to RB B. Chapman (CB J. Bowers). RB B. Chapman dropped 
+the pass. CB J. Bowers broke up the pass.
+
+Kansas ball, Q2, 4-5-KAN32 (01:36) 10-24
+Michael Griffin Punts 46 yards to the Baylor 22 yard line, where it goes out of bounds.
+
+Baylor ball, Q2, 1-10-BAY22 (01:17) 24-10
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB G. Turner completes a 20 yard in to WR E. Briggs (OOB). OG R. Alvarez earned a pancake 
+on the play. FS G. Hill missed a tackle.
+
+Baylor ball, Q2, 1-10-BAY42 (01:11) 24-10
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB G. Turner completes a 26 yard post to WR R. Dickerson (OOB). OT M. Jones earned a pancake 
+on the play. FS G. Hill allowed the big play.
+
+Baylor ball, Q2, 1-10-KAN32 (01:04) 24-10
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: 4-4, Play: 44-run-Man-B6,7
+QB G. Turner completes a 3 yard screen to RB B. Ward (CB G. Taylor, ILB J. Mclaughlin). 
+
+Baylor Timeout!
+
+Baylor ball, Q2, 2-7-KAN29 (00:57) 24-10
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB G. Turner throws an incomplete pass to WR T. Hall. DT J. Hardin hurried the QB.
+
+Baylor ball, Q2, 3-7-KAN29 (00:50) 24-10
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: 4-4, Play: 44-norm-Man-B6,7
+QB G. Turner completes a 8 yard streak to RB B. Ward (CB G. Taylor, OLB J. Ross). 
+
+Baylor Timeout!
+
+Baylor ball, Q2, 1-10-KAN21 (00:42) 24-10
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB G. Turner completes a 5 yard hook to TE L. Capps (OOB).
+
+Baylor ball, Q2, 2-5-KAN16 (00:36) 24-10
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 4-4, Play: 44-norm-Man-Spy
+QB G. Turner throws an incomplete pass to RB G. Sinclair (CB G. Taylor). RB G. Sinclair dropped 
+the pass. CB G. Taylor broke up the pass.
+
+Baylor ball, Q2, 3-5-KAN16 (00:28) 24-10
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB G. Turner completes a 14 yard screen to RB B. Ward (CB C. Reed, CB G. Taylor).  FS G. Hill 
+was out of position on the play.
+
+Baylor Timeout!
+
+Baylor ball, Q2, 1-2-KAN2 (00:21) 24-10
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+QB G. Turner throws an incomplete pass to WR E. Briggs.
+
+Baylor ball, Q2, 2-2-KAN2 (00:15) 24-10
+Robert Evans converts the 20 yard field goal.
+
+Baylor ball, Q2, 1-10-BAY35 (00:07) 27-10
+Robert Evans kicks 53 from Baylor 35 to Kansas 12. Charles Diaz to Kansas 21 for a 9 yard 
+return.
+
+Baylor ball, Q3, 1-10-BAY35 (15:00) 27-10
+Robert Evans kicks 64 from Baylor 35 to Kansas 1. Charles Diaz to Kansas 22 for a 21 yard 
+return.
+
+Kansas ball, Q3, 1-10-KAN22 (14:41) 10-27
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB B. Chapman runs left end for 0 yards (OOB).
+
+Kansas ball, Q3, 2-10-KAN22 (14:26) 10-27
+Offense: Short Pass, Set: Strong, Play: ST-HB-playact-cross
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+QB C. Bradshaw throws an incomplete pass to WR C. Davis.
+
+Kansas ball, Q3, 3-10-KAN22 (14:07) 10-27
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB C. Bradshaw completes a 4 yard hook to WR R. Marsh (SS H. Holland). 
+
+Kansas ball, Q3, 4-6-KAN26 (13:44) 10-27
+Michael Griffin Punts 36 yards to the Baylor 38 yard line, where Rick Thomas returns it to 
+Kansas 44 for a 18 yard return.
+
+Baylor ball, Q3, 1-10-KAN44 (13:29) 27-10
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+RB B. Ward runs left guard for 4 yards (ILB D. Long). 
+
+Baylor ball, Q3, 2-6-KAN40 (12:56) 27-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB B. Ward runs right end for -1 yards (ILB D. Long).
+
+Baylor ball, Q3, 3-7-KAN41 (12:28) 27-10
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB B. Ward runs left end for 2 yards (FS G. Hill). 
+
+Baylor ball, Q3, 4-5-KAN39 (12:01) 27-10
+Robert Evans misses the 57 yard field goal. It will be Kansas ball at the KAN 39
+
+Kansas ball, Q3, 1-10-KAN39 (11:41) 10-27
+Offense: Short Pass, Set: Strong, Play: ST-FL-rollout-TE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB C. Bradshaw completes a 4 yard post to WR R. Marsh (SS H. Holland). 
+
+Kansas ball, Q3, 2-6-KAN43 (11:20) 10-27
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+RB W. Gonzalez runs right tackle for 41 yards (CB J. Bowers). 
+
+Kansas ball, Q3, 1-10-BAY16 (10:48) 10-27
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB B. Chapman runs left end for 5 yards (OOB).
+
+Kansas ball, Q3, 2-5-BAY11 (10:37) 10-27
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-pass-MZ
+RB B. Chapman runs left guard for -2 yards (ILB C. Winters). C A. Watkins missed a block that 
+hurt the play.
+
+Kansas ball, Q3, 3-7-BAY13 (10:08) 10-27
+Offense: Medium Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-TMan
+QB C. Bradshaw throws an incomplete pass to WR R. Marsh (OLB S. Davis). OLB S. Davis broke 
+up the pass.
+
+Kansas ball, Q3, 4-7-BAY13 (09:53) 10-27
+Jeffrey Hudson converts the 31 yard field goal.
+
+12 players on the field against Kansas. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Fourth and 12 at the Baylor 18.
+
+Kansas ball, Q3, 4-12-BAY18 (09:43) 10-27
+Jeffrey Hudson converts the 36 yard field goal.
+
+Kansas ball, Q3, 1-10-KAN35 (09:24) 13-27
+Albert Moore kicks 73 from Kansas 35 to end zone, Touchback.
+
+Baylor ball, Q3, 1-10-BAY20 (09:07) 27-13
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB G. Turner completes a 22 yard hook to WR R. Dickerson (OLB J. Ross).  G. Turner with the 
+great pass. TE L. Capps earned a pancake on the play.
+
+Pass Interference against CB Steven Bradley on Kansas. The Penalty is for 15 yards, and an 
+automatic first down.
+The penalty will be declined.
+
+Baylor ball, Q3, 1-10-BAY42 (08:52) 27-13
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB B. Ward runs right guard for 5 yards (FS G. Hill). 
+
+Baylor ball, Q3, 2-5-BAY47 (08:22) 27-13
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB G. Sinclair runs right guard for 1 yard (DT B. Harmon). 
+
+Baylor ball, Q3, 2-5-BAY47 (08:22) 27-13
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+OG Richard Alvarez (BAY) was injured on the play (Stomach). It doesn't look too serious and 
+he should return.
+
+Baylor ball, Q3, 3-4-BAY48 (08:07) 27-13
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB G. Turner completes a 1 yard in to WR T. Hall (ILB D. Long). 
+
+Baylor ball, Q3, 4-3-BAY49 (07:45) 27-13
+Robert Cote Punts 53 yards to the end zone, Touchback.
+
+Kansas ball, Q3, 1-10-KAN20 (07:28) 13-27
+Offense: Medium Pass, Set: Strong, Play: ST-SE-corner-FL-out
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB C. Bradshaw completes a 32 yard corner to WR R. Marsh (ILB G. Montes, CB H. Avery). 
+
+Kansas ball, Q3, 1-10-BAY48 (07:03) 13-27
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB C. Bradshaw completes a 47 yard streak to WR R. Marsh (SS H. Holland, CB H. Avery).  FS 
+C. Boyle allowed the big play.
+
+Kansas ball, Q3, 1-1-BAY1 (06:40) 13-27
+Offense: Medium Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+QB C. Bradshaw throws an incomplete pass to WR C. Davis.
+
+Kansas ball, Q3, 2-1-BAY1 (06:20) 13-27
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-power-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+RB B. Chapman runs right tackle for -3 yards (SS H. Holland). B. Chapman missed a hole that 
+could have resulted in a bigger gain.
+
+Kansas ball, Q3, 3-4-BAY4 (05:51) 13-27
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB B. Chapman runs right tackle for 0 yards (OOB).
+
+Kansas ball, Q3, 4-4-BAY4 (05:38) 13-27
+Jeffrey Hudson converts the 22 yard field goal.
+
+Kansas ball, Q3, 1-10-KAN35 (05:18) 16-27
+Albert Moore kicks 75 from Kansas 35 to end zone, Touchback.
+
+Baylor ball, Q3, 1-10-BAY20 (04:58) 27-16
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+QB G. Turner completes a 6 yard hook to WR R. Jett (OLB D. Cook, FS G. Hill). 
+
+Baylor ball, Q3, 2-4-BAY26 (04:37) 27-16
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB G. Sinclair runs left guard for 3 yards (DE J. Hines). 
+
+Baylor ball, Q3, 3-1-BAY29 (04:01) 27-16
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB B. Ward runs left guard for 1 yard (ILB D. Long).  OT W. Parker missed a block that hurt 
+the play.
+
+Baylor ball, Q3, 1-10-BAY30 (03:39) 27-16
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB G. Turner completes a 22 yard post to WR E. Briggs (OOB). CB G. Taylor missed a tackle.
+
+Baylor ball, Q3, 1-10-KAN48 (03:27) 27-16
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+FB E. Castillo runs left guard for 21 yards (OLB J. Ross, CB G. Taylor). 
+
+Baylor ball, Q3, 1-10-KAN27 (03:00) 27-16
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB B. Ward runs left guard for 1 yard (OLB J. Ross). 
+
+Baylor ball, Q3, 2-9-KAN26 (02:31) 27-16
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man-B6
+QB G. Turner completes a 5 yard hook to WR R. Jett (CB C. Reed). 
+
+Baylor ball, Q3, 3-4-KAN21 (02:06) 27-16
+Offense: Short Pass, Set: Trips, Play: TR-FL-in-SE-post
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB G. Turner completes a 11 yard dump off to RB B. Ward (SS E. Campbell). 
+
+Baylor ball, Q3, 1-10-KAN10 (01:43) 27-16
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB G. Sinclair runs left end for 7 yards (OLB J. Ross, ILB J. Mclaughlin). 
+
+Baylor ball, Q3, 2-3-KAN3 (01:12) 27-16
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+RB G. Sinclair runs left guard for 3 yards ****Touchdown!*****
+
+Baylor ball, Q3, 1-0-KAN0 (00:41) 33-16
+Robert Evans converts the PAT.
+
+Baylor ball, Q3, 1-10-BAY35 (00:41) 34-16
+Robert Evans kicks 75 from Baylor 35 to end zone, Touchback.
+
+Kansas ball, Q3, 1-10-KAN20 (00:26) 16-34
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+WR D. James runs right tackle for -1 yards (DE C. Martinez).
+
+Kansas ball, Q4, 2-11-KAN19 (15:00) 16-34
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-toss-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B5
+RB B. Chapman runs left end for 18 yards (CB J. Bowers, FS C. Boyle).  ILB G. Montes missed 
+a tackle.
+
+Kansas ball, Q4, 1-10-KAN37 (14:34) 16-34
+Offense: Medium Pass, Set: Strong, Play: ST-TE-streak-SE-out
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,5,6,7,
+QB C. Bradshaw completes a 2 yard out to WR R. Marsh (SS H. Holland, OLB C. Johnson). 
+
+Kansas ball, Q4, 2-8-KAN39 (14:09) 16-34
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-SZ-B5,6
+QB C. Bradshaw completes a 17 yard post to WR R. Marsh (SS H. Holland, OLB C. Johnson).  OT 
+R. Davis earned a pancake on the play. FS C. Boyle was out of position on the play.
+
+Kansas ball, Q4, 1-10-BAY44 (13:41) 16-34
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB B. Chapman runs left tackle for 6 yards (ILB C. Winters, FS K. Swanson). 
+
+Kansas ball, Q4, 2-4-BAY38 (13:14) 16-34
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+QB C. Bradshaw gets sacked for a 3 yard loss (DE D. Collins).  OG N. Swift allowed the sack.
+
+Kansas ball, Q4, 3-7-BAY41 (12:55) 16-34
+Offense: Short Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB C. Bradshaw throws an incomplete pass to TE R. Helms.
+
+Kansas ball, Q4, 4-7-BAY41 (12:36) 16-34
+Michael Griffin Punts 27 yards to the Baylor 14 yard line, where it goes out of bounds.
+
+Baylor ball, Q4, 1-10-BAY14 (12:20) 34-16
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB B. Ward runs right guard for 8 yards (FS G. Hill, OLB D. Cook).  FS G. Hill missed a tackle.
+
+Baylor ball, Q4, 2-2-BAY22 (11:47) 34-16
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB G. Turner throws an incomplete pass to WR R. Jett (CB S. Bradley). CB S. Bradley broke 
+up the pass.
+
+Baylor ball, Q4, 3-2-BAY22 (11:31) 34-16
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB B. Ward runs right tackle for 16 yards (OLB J. Ross).  FB E. Castillo had a key block on 
+the run.
+
+Offsides against ILB David Long on Kansas. The Penalty is for 5 yards.
+The penalty will be declined.
+
+Baylor ball, Q4, 1-10-BAY38 (11:20) 34-16
+Offense: Inside Run, Set: Shotgun, Play: SG-QB-draw-C
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB G. Turner scrambles out of the pocket and gets sacked for a 2 yard loss (DT J. Hardin). 
+ OG K. Booth allowed the sack.
+
+Baylor ball, Q4, 2-12-BAY36 (10:54) 34-16
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB B. Ward runs left end for 1 yard (ILB D. Long). 
+
+Baylor ball, Q4, 3-11-BAY37 (10:22) 34-16
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB G. Turner completes a 13 yard out to WR R. Dickerson (CB C. Reed).  FS G. Hill was out 
+of position on the play.
+
+Baylor ball, Q4, 3-11-BAY37 (10:22) 34-16
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+CB Gary Taylor (KAN) was injured on the play (OK). It doesn't look like he will return.
+
+Baylor ball, Q4, 1-10-BAY50 (10:09) 34-16
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB G. Turner completes a 10 yard screen to RB G. Sinclair (OOB).
+
+Baylor ball, Q4, 1-10-KAN40 (09:52) 34-16
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+FB E. Castillo runs left guard for 2 yards (FS G. Hill, DE R. Godwin). 
+
+Baylor ball, Q4, 2-8-KAN38 (09:24) 34-16
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB G. Turner completes a 14 yard hook to RB B. Ward (ILB J. Mclaughlin).  He fumbles the ball 
+after a hit by J. Mclaughlin. It's recovered by J. Hardin of Kansas. He returns it 6 yards to the Kansas 30. FS G. Hill missed a tackle.
+
+Kansas ball, Q4, 1-10-KAN30 (09:01) 16-34
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB B. Chapman runs right guard for -2 yards (ILB G. Montes). OG N. Swift missed a block that 
+hurt the play.
+
+Kansas ball, Q4, 2-12-KAN28 (08:33) 16-34
+Offense: Medium Pass, Set: Double TE, Play: DTE-TE-posts
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB C. Bradshaw completes a 47 yard hook to WR R. Marsh (OLB S. Davis, ILB C. Winters).  SS 
+H. Holland allowed the big play.
+
+Kansas ball, Q4, 2-12-KAN28 (08:33) 16-34
+Offense: Medium Pass, Set: Double TE, Play: DTE-TE-posts
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+CB Johnnie Bowers (BAY) was injured on the play (Knee). It doesn't look like he will return.
+
+Kansas ball, Q4, 1-10-BAY25 (08:17) 16-34
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-straight-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+False Start against OG Nathan Swift on Kansas. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Baylor 30.
+
+Kansas ball, Q4, 1-15-BAY30 (08:17) 16-34
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB C. Bradshaw completes a 7 yard streak to WR D. James (SS H. Holland). 
+
+Kansas ball, Q4, 2-8-BAY23 (07:49) 16-34
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,6,11-R
+QB C. Bradshaw throws an incomplete pass to WR D. James.
+
+Kansas ball, Q4, 3-8-BAY23 (07:29) 16-34
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+QB C. Bradshaw throws an incomplete pass to WR C. Davis.
+
+Kansas ball, Q4, 4-8-BAY23 (07:01) 16-34
+Jeffrey Hudson misses the 41 yard field goal. It will be Baylor ball at the BAY 23
+
+Baylor ball, Q4, 1-10-BAY23 (06:51) 34-16
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB G. Sinclair runs right guard for 10 yards (SS E. Campbell). 
+
+Baylor ball, Q4, 1-10-BAY23 (06:51) 34-16
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+DE Jesus Hines (KAN) was injured on the play (Elbow). It doesn't look like he will return.
+
+Baylor ball, Q4, 1-10-BAY33 (06:37) 34-16
+Offense: Inside Run, Set: Shotgun, Play: SG-QB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+QB G. Turner runs right guard for 2 yards (CB C. Reed, DE R. Godwin). 
+
+Baylor ball, Q4, 2-8-BAY35 (06:07) 34-16
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB G. Sinclair runs right end for 6 yards (OOB).
+
+Baylor ball, Q4, 3-2-BAY41 (05:56) 34-16
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6
+QB G. Turner throws an incomplete pass to WR E. Briggs. DE R. Godwin hurried the QB.
+
+Baylor ball, Q4, 4-2-BAY41 (05:36) 34-16
+Robert Cote Punts 39 yards to the Kansas 20 yard line, where it goes out of bounds.
+
+Kansas ball, Q4, 1-10-KAN20 (05:20) 16-34
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,7,11
+QB C. Bradshaw completes a 6 yard screen to TE R. Helms (OLB S. Davis, OLB C. Johnson). 
+
+Kansas ball, Q4, 2-4-KAN26 (04:57) 16-34
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB C. Bradshaw throws an incomplete pass to WR C. Davis. DE C. Martinez hurried the QB.
+
+Kansas ball, Q4, 3-4-KAN26 (04:38) 16-34
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+QB C. Bradshaw throws an incomplete pass to WR C. Davis.
+
+Kansas ball, Q4, 3-4-KAN26 (04:38) 16-34
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+ILB George Montes (BAY) was injured on the play (Ribs). It doesn't look too serious and he 
+should return.
+
+Kansas ball, Q4, 4-4-KAN26 (04:21) 16-34
+Michael Griffin Punts 44 yards to the Baylor 30 yard line, where Rick Thomas returns it to 
+Baylor 30 for a 0 yard return.
+
+Baylor ball, Q4, 1-10-BAY30 (04:04) 34-16
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB B. Ward runs left guard for 7 yards (OLB J. Ross, CB C. Reed). 
+
+Baylor ball, Q4, 2-3-BAY37 (03:34) 34-16
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB G. Turner gets sacked for a 10 yard loss (DT J. Hardin).  C A. Rich allowed the sack.
+
+Baylor ball, Q4, 3-13-BAY27 (03:19) 34-16
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB B. Ward runs left guard for 2 yards (SS E. Campbell). 
+
+Baylor ball, Q4, 4-11-BAY29 (02:53) 34-16
+Robert Cote Punts 42 yards to the Kansas 29 yard line, where Christopher Reed returns it to 
+Kansas 32 for a 3 yard return.
+
+Kansas ball, Q4, 1-10-KAN32 (02:36) 16-34
+Offense: Short Pass, Set: Strong, Play: ST-HB-playact-cross
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB C. Bradshaw throws an incomplete pass to WR C. Davis (OLB S. Davis). OLB S. Davis broke 
+up the pass.
+
+Kansas ball, Q4, 2-10-KAN32 (02:19) 16-34
+Offense: Short Pass, Set: Strong, Play: ST-SE-slant-FL-str
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB C. Bradshaw completes a 2 yard dump off to RB B. Chapman (ILB C. Winters). 
+
+Kansas ball, Q4, 3-8-KAN34 (01:58) 16-34
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB C. Bradshaw completes a 5 yard screen to TE R. Helms (OOB).
+
+Kansas ball, Q4, 4-3-KAN39 (01:44) 16-34
+Offense: Short Pass, Set: Strong, Play: ST-FL-rollout-TE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB C. Bradshaw gets sacked for a 8 yard loss (DE D. Collins).  He fumbles the ball after a 
+hit by D. Collins. It's recovered by A. Young of Kansas. C A. Watkins allowed the sack.
+
+Baylor ball, Q4, 1-10-KAN31 (01:26) 34-16
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB B. Ward runs left guard for 6 yards (CB T. Rosa). 
+
+Baylor ball, Q4, 2-4-KAN25 (00:56) 34-16
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB B. Ward runs right guard for 8 yards (FS G. Hill, OLB J. Ross).  OG R. Alvarez had a key 
+block on the run.
+
+Kansas Timeout!
+
+Baylor ball, Q4, 1-10-KAN17 (00:49) 34-16
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB G. Sinclair runs right guard for 6 yards (FS G. Hill). 
+
+Kansas Timeout!
+
+Baylor ball, Q4, 2-4-KAN11 (00:40) 34-16
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB B. Ward runs left tackle for -1 yards (DE R. Godwin). TE L. Capps missed a block that hurt 
+the play.
+
+Kansas Timeout!
+
+Baylor ball, Q4, 3-5-KAN12 (00:31) 34-16
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+The QB takes a knee.
+
+Baylor ball, Q4, 4-7-KAN14 (00:04) 34-16
+Robert Evans converts the 32 yard field goal.
+

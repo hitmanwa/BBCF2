@@ -1,0 +1,914 @@
+Louisville ball, Q1, 1-10-LOU35 (15:00) 0-0
+Kendrick Nelson kicks 73 from Louisville 35 to end zone, Touchback.
+
+San Jose State ball, Q1, 1-10-SJSU20 (14:41) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB J. Taylor runs left guard for 1 yard (ILB F. Reynolds). 
+
+San Jose State ball, Q1, 2-9-SJSU21 (14:15) 0-0
+Offense: Short Pass, Set: Trips, Play: TR-FL-streak-WR3-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB G. Bryant completes a 46 yard out to WR J. Whitfield (SS T. Allen).  CB R. Council allowed 
+the big play.
+
+San Jose State ball, Q1, 1-10-LOU33 (13:54) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB D. Dennis runs right tackle for 1 yard (ILB C. Phipps). 
+
+San Jose State ball, Q1, 2-9-LOU32 (13:25) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB G. Bryant throws an incomplete pass to WR J. Nguyen (ILB F. Reynolds). G. Bryant made a 
+bad pass. ILB F. Reynolds broke up the pass.
+
+San Jose State ball, Q1, 3-9-LOU32 (13:10) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB D. Dennis runs right guard for 7 yards (ILB F. Reynolds).  OG S. Thompson had a key block 
+on the run.
+
+San Jose State ball, Q1, 4-2-LOU25 (12:44) 0-0
+Louie Sloan misses the 43 yard field goal. It will be Louisville ball at the LOU 25
+
+Louisville ball, Q1, 1-10-LOU25 (12:27) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B5,7
+QB M. Swain throws an incomplete pass to RB R. Dailey. RB R. Dailey dropped the pass. DE J. 
+Porterfield hurried the QB.
+
+Louisville ball, Q1, 2-10-LOU25 (12:08) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB M. Swain scrambles out of the pocket and gets sacked for a 1 yard loss (DE P. Graham). 
+ OG A. Morales allowed the sack.
+
+Louisville ball, Q1, 3-11-LOU24 (11:36) 0-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB R. Dailey runs right guard for 9 yards (FS A. Turner).  OT R. Murray had a key block on 
+the run. DT B. Drake missed a tackle.
+
+Louisville ball, Q1, 4-2-LOU33 (11:04) 0-0
+Michael Martinez Punts 49 yards to the San Jose State 18 yard line, where it goes out of bounds.
+
+San Jose State ball, Q1, 1-10-SJSU18 (10:45) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB D. Dennis runs right end for 2 yards (ILB C. Phipps). 
+
+San Jose State ball, Q1, 2-8-SJSU20 (10:16) 0-0
+Offense: Short Pass, Set: Trips, Play: TR-TE-screen
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan
+QB G. Bryant throws an incomplete pass to TE J. Patterson. G. Bryant made a bad pass.
+
+San Jose State ball, Q1, 3-8-SJSU20 (09:58) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB G. Bryant throws an incomplete pass to WR K. Grimm (CB A. Lehman). G. Bryant made a bad 
+pass. CB A. Lehman broke up the pass.
+
+San Jose State ball, Q1, 4-8-SJSU20 (09:40) 0-0
+George Bauer Punts 41 yards to the Louisville 39 yard line, where Bryan London returns it 
+to Louisville 39 for a 0 yard return.
+
+Louisville ball, Q1, 1-10-LOU39 (09:25) 0-0
+Offense: Long Pass, Set: Quads, Play: Q-WR3-in-WR4-up
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5-L
+QB M. Swain throws an incomplete pass to WR J. Branham (CB M. Collins). M. Swain made a bad 
+pass. CB M. Collins broke up the pass.
+
+Louisville ball, Q1, 2-10-LOU39 (09:10) 0-0
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB R. Dailey runs right end for 5 yards (SS C. Barnes). 
+
+Louisville ball, Q1, 2-10-LOU39 (09:10) 0-0
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+WR James Branham (LOU) was injured on the play (Teeth). It doesn't look too serious and he 
+should return.
+
+Louisville ball, Q1, 3-5-LOU44 (08:53) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB M. Swain completes a 9 yard out to WR J. Dennis (CB H. Quezada). 
+
+Louisville ball, Q1, 1-10-SJSU47 (08:30) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB M. Swain completes a 2 yard hook to WR J. Dennis (OOB).
+
+Louisville ball, Q1, 2-8-SJSU45 (08:15) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB R. Dailey runs left guard for 20 yards (OLB A. Henry).  C E. York had a key block on the 
+run. OLB L. James missed a tackle.
+
+Louisville ball, Q1, 1-10-SJSU25 (07:47) 0-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB C. Moore runs right guard for 10 yards (SS C. Barnes). 
+
+Louisville ball, Q1, 1-10-SJSU15 (07:14) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB R. Dailey runs left tackle for 11 yards (ILB W. Gutierrez, CB H. Quezada).  OG A. Morales 
+had a key block on the run.
+
+Louisville ball, Q1, 1-4-SJSU4 (06:47) 0-0
+Offense: Short Pass, Set: Weak, Play: WK-FL-screen
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+QB M. Swain completes a 3 yard screen to WR D. Wright (CB F. Larson, OLB L. James). 
+
+Louisville ball, Q1, 2-1-SJSU1 (06:26) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+RB C. Moore runs left end for -2 yards (SS C. Barnes). OG L. Barger missed a block that hurt 
+the play.
+
+Louisville ball, Q1, 3-3-SJSU3 (05:55) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+RB R. Dailey runs left guard for 1 yard (DT J. Barker).  OT K. Morrison missed a block that 
+hurt the play.
+
+Louisville ball, Q1, 4-2-SJSU2 (05:27) 0-0
+Kendrick Nelson converts the 20 yard field goal.
+
+Louisville ball, Q1, 1-10-LOU35 (05:08) 3-0
+Kendrick Nelson kicks 55 from Louisville 35 to San Jose State 10. Jonathon Whitfield to San 
+Jose State 27 for a 17 yard return.
+
+San Jose State ball, Q1, 1-10-SJSU27 (04:48) 0-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB D. Dennis runs left tackle for 0 yards (DE B. Rice). 
+
+San Jose State ball, Q1, 2-10-SJSU27 (04:22) 0-3
+Offense: Long Pass, Set: Trips, Play: TR-SE-rollout-post
+Defense: Stop Run, Set: 4-3, Play: 43-run-SZ-B5
+G. Bryant has his 21 yard pass intercepted by T. Allen at the SJSU 48. He returns it 6 yards 
+to the San Jose State 42.
+
+Louisville ball, Q1, 1-10-SJSU42 (03:55) 3-0
+Offense: Short Pass, Set: Weak, Play: WK-SE-slant-FL-in
+Defense: Stop Run, Set: 4-3, Play: 43-run-M-B7-R
+QB M. Swain completes a 13 yard screen to WR D. Wright (OLB A. Henry).  C E. York earned a 
+pancake on the play. SS C. Barnes missed a tackle.
+
+Louisville ball, Q1, 1-10-SJSU29 (03:33) 3-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB M. Swain completes a 1 yard out to WR I. Strickland (ILB W. Gutierrez). 
+
+Louisville ball, Q1, 2-9-SJSU28 (03:11) 3-0
+Offense: Medium Pass, Set: Weak, Play: WK-TE-playact-str
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B5
+QB M. Swain throws an incomplete pass to WR D. Wright.
+
+Louisville ball, Q1, 3-9-SJSU28 (02:51) 3-0
+Offense: Short Pass, Set: Weak, Play: WK-SE-slant-FL-in
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-L
+QB M. Swain completes a 4 yard screen to WR J. Dennis (OLB L. James). 
+
+Louisville ball, Q1, 4-5-SJSU24 (02:30) 3-0
+They line up for the Field Goal...[B]
+Wait, it's a fake![B]
+Donald Koontz runs it and dives 
+for the first down![B]
+ He scores a touchdown!
+
+Louisville ball, Q1, 1-0-SJSU0 (01:59) 9-0
+Kendrick Nelson converts the PAT.
+
+Louisville ball, Q1, 1-10-LOU35 (01:59) 10-0
+Kendrick Nelson kicks 55 from Louisville 35 to San Jose State 10. Jonathon Whitfield to San 
+Jose State 45 for a 35 yard return.
+
+Piling On after the play against OLB Robert Adkins on Louisville. The Penalty is for 15 yards, 
+and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Louisville 40.
+
+San Jose State ball, Q1, 1-10-LOU40 (01:44) 0-10
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB G. Bryant throws an incomplete pass to RB D. Dennis. RB D. Dennis dropped the pass.
+
+San Jose State ball, Q1, 2-10-LOU40 (01:29) 0-10
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B6,7-L
+RB J. Taylor runs right tackle for 4 yards (DT D. Aleman, ILB F. Reynolds). 
+
+San Jose State ball, Q1, 3-6-LOU36 (00:56) 0-10
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+G. Bryant has his 14 yard pass intercepted by L. Crawford at the LOU 22. He returns it 10 
+yards to the Louisville 32.
+
+Louisville ball, Q1, 1-10-LOU32 (00:31) 10-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+RB R. Dailey runs right guard for -1 yards (DE J. Porterfield).
+
+Louisville ball, Q2, 2-11-LOU31 (15:00) 10-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-R
+RB R. Dailey runs right guard for 4 yards (OLB A. Henry, CB H. Quezada). 
+
+Louisville ball, Q2, 3-7-LOU35 (14:28) 10-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB R. Dailey runs left end for 26 yards (CB H. Quezada). 
+
+Louisville ball, Q2, 1-10-SJSU39 (13:59) 10-0
+Offense: Long Pass, Set: Quads, Play: Q-WR3-corner-FL-post
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-R
+QB M. Swain throws an incomplete pass to WR I. Strickland. WR I. Strickland ran an incorrect 
+route.
+
+Louisville ball, Q2, 2-10-SJSU39 (13:39) 10-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB C. Moore runs right guard for 5 yards (ILB W. Gutierrez). 
+
+Louisville ball, Q2, 3-5-SJSU34 (13:13) 10-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB M. Swain completes a 2 yard post to TE F. Harrison (OOB).
+
+Louisville ball, Q2, 4-3-SJSU32 (12:59) 10-0
+Kendrick Nelson converts the 50 yard field goal.
+
+Louisville ball, Q2, 1-10-LOU35 (12:42) 13-0
+Kendrick Nelson kicks 67 from Louisville 35 to San Jose State -2. Jonathon Whitfield to San 
+Jose State 21 for a 23 yard return.
+
+San Jose State ball, Q2, 1-10-SJSU21 (12:25) 0-13
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB J. Taylor runs right guard for 4 yards (SS T. Allen, ILB F. Reynolds). 
+
+San Jose State ball, Q2, 2-6-SJSU25 (11:52) 0-13
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB J. Taylor runs left guard for 1 yard (DE B. Rice). 
+
+San Jose State ball, Q2, 3-5-SJSU26 (11:20) 0-13
+Offense: Long Pass, Set: SingleBack, Play: SB-FL-playact-up
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+G. Bryant has his 42 yard pass intercepted by B. Olsen at the LOU 32. He returns it 6 yards 
+to the Louisville 38. OLB R. Ward hurried the QB.
+
+Louisville ball, Q2, 1-10-LOU38 (10:48) 13-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+False Start against Louisville. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Louisville 33.
+
+Louisville ball, Q2, 1-15-LOU33 (10:48) 13-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB C. Moore runs right tackle for 8 yards (ILB W. Gutierrez).  C E. York had a key block on 
+the run. DE J. Porterfield was out of position on the play.
+
+Louisville ball, Q2, 2-7-LOU41 (10:16) 13-0
+Offense: Long Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+QB M. Swain gets sacked for a 8 yard loss (DE J. Porterfield).  He fumbles the ball after 
+a hit by J. Porterfield. It's recovered by J. Barker of San Jose State. He returns it 0 yards to the Louisville 33. OG A. Morales allowed the sack.
+
+San Jose State ball, Q2, 1-10-LOU33 (09:57) 0-13
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB D. Dennis runs left end for 1 yard (CB R. Council).  OT F. Smith missed a block that hurt 
+the play.
+
+San Jose State ball, Q2, 2-9-LOU32 (09:24) 0-13
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-LE
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+RB D. Dennis runs left tackle for 8 yards (OLB R. Ward).  OG S. Thompson had a key block on 
+the run. CB R. Council missed a tackle.
+
+San Jose State ball, Q2, 3-1-LOU24 (08:54) 0-13
+Offense: Inside Run, Set: Shotgun, Play: SG-QB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB J. Cheek runs right guard for 0 yards (DE B. Rice). 
+
+San Jose State ball, Q2, 4-1-LOU24 (08:25) 0-13
+Louie Sloan misses the 42 yard field goal. It will be Louisville ball at the LOU 24
+
+Louisville ball, Q2, 1-10-LOU24 (08:07) 13-0
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+QB M. Swain completes a 31 yard streak to WR J. Branham (OLB L. James).  M. Swain with the 
+great pass. FS G. Harding allowed the big play.
+
+Louisville ball, Q2, 1-10-SJSU45 (07:41) 13-0
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+FB T. Guerrero runs left guard for 1 yard (SS C. Barnes). 
+
+Louisville ball, Q2, 1-10-SJSU45 (07:41) 13-0
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+DE James Porterfield (SJSU) was injured on the play (Knee). It doesn't look like he will return.
+
+Louisville ball, Q2, 2-9-SJSU44 (07:25) 13-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B5
+RB C. Moore runs right guard for 2 yards (FS G. Harding). 
+
+Louisville ball, Q2, 3-7-SJSU42 (06:52) 13-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB R. Dailey runs left guard for 3 yards (FS G. Harding). 
+
+Louisville ball, Q2, 4-4-SJSU39 (06:26) 13-0
+Michael Martinez Punts 36 yards to the San Jose State 3 yard line, where it goes out of bounds.
+
+San Jose State ball, Q2, 1-10-SJSU3 (06:09) 0-13
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+RB D. Dennis runs right tackle for 15 yards (CB A. Lehman).  FS C. Barrios was out of position 
+on the play.
+
+San Jose State ball, Q2, 1-10-SJSU18 (05:36) 0-13
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB D. Dennis runs right guard for 6 yards (SS T. Allen). 
+
+San Jose State ball, Q2, 2-4-SJSU24 (05:09) 0-13
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB J. Taylor runs right guard for 1 yard (SS T. Allen).  OT F. Smith missed a block that hurt 
+the play.
+
+San Jose State ball, Q2, 3-3-SJSU25 (04:36) 0-13
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man
+QB G. Bryant throws an incomplete pass to WR J. Nguyen (CB R. Council). DT D. Aleman hurried 
+the QB. CB R. Council broke up the pass.
+
+San Jose State ball, Q2, 4-3-SJSU25 (04:19) 0-13
+George Bauer Punts 43 yards to the Louisville 32 yard line, where Bryan London returns it 
+to Louisville 40 for a 8 yard return.
+
+Louisville ball, Q2, 1-10-LOU40 (04:01) 13-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB R. Dailey runs left guard for 10 yards (FS A. Turner, CB M. Collins). 
+
+Louisville ball, Q2, 1-10-LOU50 (03:33) 13-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+RB R. Dailey runs left guard for 1 yard (ILB W. Gutierrez). 
+
+Louisville ball, Q2, 2-9-SJSU49 (03:00) 13-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB M. Swain completes a 2 yard in to WR J. Branham (ILB W. Gutierrez). 
+
+Louisville ball, Q2, 3-7-SJSU47 (02:37) 13-0
+Offense: Long Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB M. Swain throws an incomplete pass to WR D. Wright (ILB W. Gutierrez). ILB W. Gutierrez 
+broke up the pass.
+
+Louisville ball, Q2, 4-7-SJSU47 (02:17) 13-0
+Michael Martinez Punts 37 yards to the San Jose State 10 yard line,
+
+San Jose State ball, Q2, 1-10-SJSU10 (02:01) 0-13
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB G. Bryant throws an incomplete pass to WR J. Nguyen. WR J. Nguyen ran an incorrect route.
+
+San Jose State ball, Q2, 2-10-SJSU10 (01:53) 0-13
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB D. Dennis runs right tackle for 5 yards (ILB F. Reynolds). 
+
+San Jose State ball, Q2, 3-5-SJSU15 (01:23) 0-13
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB G. Bryant completes a 5 yard out to WR J. Nguyen (SS T. Allen). 
+
+San Jose State ball, Q2, 1-10-SJSU20 (01:00) 0-13
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB G. Bryant completes a 40 yard in to WR J. Whitfield (ILB F. Reynolds).  OG S. Thompson 
+earned a pancake on the play. CB A. Lehman allowed the big play.
+
+San Jose State ball, Q2, 1-10-LOU40 (00:38) 0-13
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB G. Bryant completes a 3 yard hook to WR J. Nguyen (OLB B. Olsen). 
+
+San Jose State Timeout!
+
+San Jose State ball, Q2, 2-7-LOU37 (00:30) 0-13
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB G. Bryant throws an incomplete pass to WR J. Nguyen (SS T. Allen). WR J. Nguyen dropped 
+the pass. SS T. Allen broke up the pass.
+
+San Jose State ball, Q2, 3-7-LOU37 (00:24) 0-13
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-R
+QB G. Bryant throws an incomplete pass to WR J. Nguyen (OLB B. Olsen). OLB B. Olsen broke 
+up the pass.
+
+San Jose State ball, Q2, 3-7-LOU37 (00:24) 0-13
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-R
+WR Jonathon Whitfield (SJSU) was injured on the play (Knee). It doesn't look like he will 
+return.
+
+San Jose State ball, Q2, 4-7-LOU37 (00:18) 0-13
+George Bauer Punts 32 yards to the Louisville 5 yard line, where it goes out of bounds.
+
+Louisville ball, Q2, 1-10-LOU5 (00:11) 13-0
+Offense: Inside Run, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+The QB takes a knee.
+
+San Jose State ball, Q3, 1-10-SJSU35 (15:00) 0-13
+Louie Sloan kicks 55 from San Jose State 35 to Louisville 10. James Dennis to Louisville 41 
+for a 31 yard return.
+
+Louisville ball, Q3, 1-10-LOU41 (14:42) 13-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Normal, Set: 4-3, Play: 43-norm-Man
+RB R. Dailey runs right end for 0 yards (OOB). C E. York missed a block that hurt the play.
+
+Louisville ball, Q3, 2-10-LOU41 (14:25) 13-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB M. Swain completes a 9 yard hook to WR D. Wright (ILB J. Ruiz, FS G. Harding). 
+
+Louisville ball, Q3, 3-1-LOU50 (14:04) 13-0
+Offense: Medium Pass, Set: Weak, Play: WK-FL-streaks
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB M. Swain completes a 5 yard streak to WR I. Strickland (SS C. Barnes). 
+
+Louisville ball, Q3, 1-10-SJSU45 (13:38) 13-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB R. Dailey runs right tackle for 3 yards (OOB).
+
+Louisville ball, Q3, 2-7-SJSU42 (13:23) 13-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB C. Moore runs left end for 19 yards (CB M. Collins).  C E. York had a key block on the run.
+
+Louisville ball, Q3, 1-10-SJSU23 (12:53) 13-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB R. Dailey runs right guard for 3 yards (ILB J. Ruiz). 
+
+Louisville ball, Q3, 2-7-SJSU20 (12:23) 13-0
+Offense: Short Pass, Set: Weak, Play: WK-SE-slant-FL-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB M. Swain throws an incomplete pass to WR J. Dennis. M. Swain made a bad pass. DE P. Graham 
+hurried the QB.
+
+Louisville ball, Q3, 3-7-SJSU20 (12:06) 13-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB M. Swain completes a 14 yard screen to RB R. Dailey (CB F. Larson).  SS C. Barnes was out 
+of position on the play.
+
+Louisville ball, Q3, 1-6-SJSU6 (11:44) 13-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-L
+RB C. Moore runs right tackle for 6 yards ****Touchdown!*****
+
+Louisville ball, Q3, 1-0-SJSU0 (11:15) 19-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB M. Swain gets sacked for a 3 yard loss (ILB J. Ruiz).  OT R. Murray allowed the sack.
+
+Louisville ball, Q3, 1-10-LOU35 (11:15) 19-0
+Kendrick Nelson kicks 75 from Louisville 35 to end zone, Touchback.
+
+San Jose State ball, Q3, 1-10-SJSU20 (10:55) 0-19
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB G. Bryant throws an incomplete pass to WR K. Grimm. WR K. Grimm dropped the pass. ILB F. 
+Reynolds hurried the QB.
+
+San Jose State ball, Q3, 2-10-SJSU20 (10:36) 0-19
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB G. Bryant gets sacked for a 2 yard loss (CB A. Lehman).  He fumbles the ball after a hit 
+by A. Lehman. It's recovered by M. Patterson of Louisville. He returns it 0 yards to the San Jose State 18. OT F. Smith allowed the sack.
+
+Louisville ball, Q3, 1-10-SJSU18 (10:19) 19-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB R. Dailey runs right end for 4 yards (OLB A. Henry). 
+
+Louisville ball, Q3, 2-6-SJSU14 (09:51) 19-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+RB R. Dailey runs right guard for 4 yards (CB H. Quezada, SS C. Barnes). 
+
+Louisville ball, Q3, 3-2-SJSU10 (09:25) 19-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB R. Dailey runs right guard for -1 yards (ILB W. Gutierrez). OG A. Morales missed a block 
+that hurt the play.
+
+Louisville ball, Q3, 4-3-SJSU11 (08:59) 19-0
+Kendrick Nelson converts the 29 yard field goal.
+
+Louisville ball, Q3, 1-10-LOU35 (08:43) 22-0
+Kendrick Nelson kicks 66 from Louisville 35 to San Jose State -1. Gary Harding to San Jose 
+State 8 for a 9 yard return.
+
+San Jose State ball, Q3, 1-10-SJSU8 (08:23) 0-22
+Offense: Outside Run, Set: Quads, Play: Q-HB-power-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ-B6
+RB D. Dennis runs right end for 5 yards (OLB B. Olsen, FS L. Crawford). 
+
+San Jose State ball, Q3, 2-5-SJSU13 (07:51) 0-22
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+QB G. Bryant throws an incomplete pass to WR J. Nguyen (CB A. Lehman). WR J. Nguyen dropped 
+the pass. CB A. Lehman broke up the pass.
+
+San Jose State ball, Q3, 3-5-SJSU13 (07:31) 0-22
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+G. Bryant has his 10 yard pass intercepted by T. Allen at the SJSU 23. He returns it 0 yards 
+to the San Jose State 23.
+
+Louisville ball, Q3, 1-10-SJSU23 (07:01) 22-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+False Start against C Eugene York on Louisville. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the San Jose State 28.
+
+Louisville ball, Q3, 1-15-SJSU28 (07:01) 22-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+RB R. Dailey runs left tackle for 1 yard (ILB W. Gutierrez). 
+
+Louisville ball, Q3, 2-14-SJSU27 (06:29) 22-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+QB M. Swain completes a 4 yard out to WR J. Dennis (CB M. Collins, ILB W. Gutierrez). 
+
+Louisville ball, Q3, 3-10-SJSU23 (06:04) 22-0
+Offense: Medium Pass, Set: Weak, Play: WK-FL-streaks
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-L
+Delay of Game against Louisville. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 15 at the San Jose State 28.
+
+Louisville ball, Q3, 3-15-SJSU28 (06:04) 22-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+RB R. Dailey runs right end for 20 yards (OLB L. James). 
+
+Louisville ball, Q3, 1-8-SJSU8 (05:31) 22-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB C. Moore runs right tackle for 8 yards ****Touchdown!***** DE P. Graham missed a tackle.
+
+Louisville ball, Q3, 1-0-SJSU0 (04:59) 28-0
+Kendrick Nelson converts the PAT.
+
+Louisville ball, Q3, 1-10-LOU35 (04:59) 29-0
+Kendrick Nelson kicks 73 from Louisville 35 to end zone, Touchback.
+
+San Jose State ball, Q3, 1-10-SJSU20 (04:44) 0-29
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB D. Dennis runs left guard for 6 yards (CB R. Council). 
+
+San Jose State ball, Q3, 2-4-SJSU26 (04:11) 0-29
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB J. Taylor runs left guard for -1 yards (FS L. Crawford).
+
+San Jose State ball, Q3, 3-5-SJSU25 (03:41) 0-29
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB G. Bryant throws an incomplete pass to WR M. Cottrell. G. Bryant made a bad pass.
+
+San Jose State ball, Q3, 4-5-SJSU25 (03:26) 0-29
+George Bauer Punts 42 yards to the Louisville 33 yard line, where Bryan London returns it 
+to Louisville 39 for a 6 yard return.
+
+Louisville ball, Q3, 1-10-LOU39 (03:08) 29-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB R. Dailey runs right guard for 8 yards (ILB J. Ruiz).  CB H. Quezada missed a tackle.
+
+Louisville ball, Q3, 2-2-LOU47 (02:41) 29-0
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB M. Swain throws an incomplete pass to WR I. Strickland (FS G. Harding). WR I. Strickland 
+ran an incorrect route. ILB W. Gutierrez hurried the QB. FS G. Harding broke up the pass.
+
+Louisville ball, Q3, 3-2-LOU47 (02:21) 29-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB R. Dailey runs left guard for 3 yards (CB M. Collins, OLB L. James). 
+
+Louisville ball, Q3, 1-10-LOU50 (01:55) 29-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB C. Moore runs left guard for 3 yards (CB H. Quezada). 
+
+Louisville ball, Q3, 2-7-SJSU47 (01:24) 29-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB M. Swain completes a 14 yard hook to WR J. Dennis (CB M. Collins, FS A. Turner). 
+
+Louisville ball, Q3, 1-10-SJSU33 (01:02) 29-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB C. Moore runs right guard for 10 yards (CB M. Collins). 
+
+Louisville ball, Q3, 1-10-SJSU23 (00:36) 29-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: 4-3, Play: 43-run-SZ-B5
+RB C. Moore runs left guard for 8 yards (FS G. Harding).  DE J. Okeefe missed a tackle.
+
+Louisville ball, Q3, 2-2-SJSU15 (00:07) 29-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB M. Swain throws an incomplete pass to WR D. Wright.
+
+Louisville ball, Q4, 3-2-SJSU15 (15:00) 29-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB M. Swain completes a 6 yard hook to TE F. Harrison (OLB L. James, ILB J. Ruiz). 
+
+Louisville ball, Q4, 3-2-SJSU15 (15:00) 29-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+SS Christopher Barnes (SJSU) was injured on the play (Groin). It doesn't look too serious 
+and he should return.
+
+Louisville ball, Q4, 1-9-SJSU9 (14:44) 29-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB R. Dailey runs right end for 5 yards (FS A. Turner). 
+
+Louisville ball, Q4, 2-4-SJSU4 (14:15) 29-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+RB R. Dailey runs right guard for 1 yard (DT R. Baker).  OT R. Murray missed a block that 
+hurt the play.
+
+Louisville ball, Q4, 3-3-SJSU3 (13:47) 29-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Goal Line, Play: GL-run-BlitzAll
+QB M. Swain completes a 3 yard cross to WR J. Dennis ****Touchdown!*****
+
+Louisville ball, Q4, 1-0-SJSU0 (13:25) 35-0
+Kendrick Nelson converts the PAT.
+
+Louisville ball, Q4, 1-10-LOU35 (13:25) 36-0
+Kendrick Nelson kicks 54 from Louisville 35 to San Jose State 11. Gary Harding to San Jose 
+State 25 for a 14 yard return.
+
+San Jose State ball, Q4, 1-10-SJSU25 (13:10) 0-36
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 4-3, Play: 43-norm-MZ
+QB G. Bryant throws an incomplete pass to WR J. Nguyen (ILB F. Reynolds). DE B. Rice hurried 
+the QB. ILB F. Reynolds broke up the pass.
+
+San Jose State ball, Q4, 2-10-SJSU25 (12:53) 0-36
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+QB G. Bryant completes a 26 yard streak to WR K. Grimm (FS L. Crawford, CB A. Lehman).  CB 
+R. Council allowed the big play.
+
+San Jose State ball, Q4, 1-10-LOU49 (12:25) 0-36
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+G. Bryant has his 15 yard pass intercepted by L. Crawford at the LOU 34. He returns it 6 yards 
+to the Louisville 40.
+
+Louisville ball, Q4, 1-10-LOU40 (11:56) 36-0
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB M. Swain throws an incomplete pass to WR D. Wright. M. Swain made a bad pass.
+
+Louisville ball, Q4, 2-10-LOU40 (11:37) 36-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB M. Swain completes a 22 yard out to WR J. Dennis (OOB).
+
+Louisville ball, Q4, 1-10-SJSU38 (11:24) 36-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB R. Dailey runs right end for -2 yards (ILB W. Gutierrez). FB T. Guerrero missed a block 
+that hurt the play.
+
+Louisville ball, Q4, 2-12-SJSU40 (10:54) 36-0
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB M. Swain throws an incomplete pass to WR J. Branham (CB M. Collins). CB M. Collins broke 
+up the pass.
+
+Holding against OT Robert Murray on Louisville. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 22 at the San Jose State 50.
+
+Louisville ball, Q4, 2-22-SJSU50 (10:39) 36-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: 4-3, Play: 43-norm-TMan-L
+QB M. Swain gets sacked for a 5 yard loss (DT J. Barker).  OG L. Barger allowed the sack.
+
+Louisville ball, Q4, 3-27-LOU45 (10:23) 36-0
+Offense: Medium Pass, Set: Weak, Play: WK-FL-streaks
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB M. Swain completes a 31 yard streak to WR D. Wright (FS G. Harding).  CB F. Larson allowed 
+the big play.
+
+Louisville ball, Q4, 1-10-SJSU24 (09:58) 36-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+RB C. Moore runs right guard for 3 yards (ILB J. Ruiz). 
+
+Louisville ball, Q4, 2-7-SJSU21 (09:28) 36-0
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+QB M. Swain completes a 19 yard streak to WR J. Branham (CB H. Quezada).  J. Branham made 
+a great catch.
+
+Louisville ball, Q4, 1-2-SJSU2 (09:00) 36-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+RB C. Moore runs right end for 0 yards (ILB J. Ruiz).  OG A. Morales missed a block that hurt 
+the play.
+
+Louisville ball, Q4, 2-2-SJSU2 (08:29) 36-0
+Offense: Inside Run, Set: Weak, Play: WK-FB-straight-C
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+FB T. Guerrero runs right guard for 1 yard (OLB L. James). 
+
+Louisville ball, Q4, 3-1-SJSU1 (07:56) 36-0
+Offense: Medium Pass, Set: Weak, Play: WK-HB-flat-SE-post
+Defense: Stop Run, Set: 4-3, Play: 43-run-M-B7-R
+QB M. Swain throws an incomplete pass to WR D. Wright (CB M. Collins). WR D. Wright dropped 
+the pass. OLB A. Henry hurried the QB. CB M. Collins broke up the pass.
+
+Louisville ball, Q4, 4-1-SJSU1 (07:38) 36-0
+Kendrick Nelson converts the 19 yard field goal.
+
+Louisville ball, Q4, 1-10-LOU35 (07:22) 39-0
+Kendrick Nelson kicks 43 from Louisville 35 to San Jose State 22. Richard Sherman to San Jose 
+State 38 for a 16 yard return.
+
+Tripping against K Kendrick Nelson on Louisville. The Penalty is for 15 yards.
+The Offense will accept the penalty. It is now First and 10 at the Louisville 47.
+
+San Jose State ball, Q4, 1-10-LOU47 (07:09) 0-39
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB D. Dennis runs left end for 5 yards (CB A. Lehman). 
+
+San Jose State ball, Q4, 2-5-LOU42 (06:43) 0-39
+Offense: Inside Run, Set: Shotgun, Play: SG-QB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB G. Bryant scrambles out of the pocket and gets sacked for a 2 yard loss (DT D. Aleman). 
+ OT S. Cardona missed a block that hurt the play. OT F. Smith allowed the sack.
+
+San Jose State ball, Q4, 2-5-LOU42 (06:43) 0-39
+Offense: Inside Run, Set: Shotgun, Play: SG-QB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+DT Glen Shepard (LOU) was injured on the play (Ankle). It doesn't look like he will return.
+
+San Jose State ball, Q4, 3-7-LOU44 (06:28) 0-39
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB L. Hearn throws an incomplete pass to WR K. Grimm. WR K. Grimm dropped the pass.
+
+San Jose State ball, Q4, 4-7-LOU44 (06:13) 0-39
+George Bauer Punts 44 yards to the end zone, Touchback.
+
+Louisville ball, Q4, 1-10-LOU20 (05:56) 39-0
+Offense: Long Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB M. Swain throws an incomplete pass to WR J. Branham.
+
+Louisville ball, Q4, 1-10-LOU20 (05:56) 39-0
+Offense: Long Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+SS Eric Anderson (SJSU) was injured on the play (Ankle). It doesn't look too serious and he 
+should return.
+
+Louisville ball, Q4, 2-10-LOU20 (05:39) 39-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+RB C. Moore runs right guard for 4 yards (OLB C. Blackmon). 
+
+Louisville ball, Q4, 3-6-LOU24 (05:01) 39-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+QB M. Swain completes a 7 yard hook to WR J. Branham (OLB C. Blackmon, CB F. Larson). 
+
+Louisville ball, Q4, 1-10-LOU31 (04:42) 39-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5-L
+RB C. Moore runs right guard for -2 yards (OLB A. Henry).
+
+Louisville ball, Q4, 2-12-LOU29 (04:09) 39-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+RB C. Moore runs right guard for 25 yards (CB F. Larson, SS E. Anderson). 
+
+Louisville ball, Q4, 1-10-SJSU46 (03:42) 39-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Run, Set: 4-3, Play: 43-run-SZ-B5
+False Start against OT Robert Murray on Louisville. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Louisville 49.
+
+Louisville ball, Q4, 1-15-LOU49 (03:42) 39-0
+Offense: Outside Run, Set: Quads, Play: Q-HB-toss-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB C. Moore runs left tackle for 2 yards (DT J. Barker, SS E. Anderson). 
+
+Louisville ball, Q4, 2-13-SJSU49 (03:15) 39-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-SZ-B11
+RB R. Dailey runs left end for 7 yards (OLB A. Henry, OLB C. Blackmon). 
+
+Louisville ball, Q4, 3-6-SJSU42 (02:43) 39-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB R. Dailey runs right tackle for 4 yards (FS A. Turner, ILB W. Gutierrez). 
+
+Louisville ball, Q4, 4-2-SJSU38 (02:15) 39-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B8
+QB M. Swain gets sacked for a 5 yard loss (FS A. Turner).  TE S. Neal allowed the sack.
+
+San Jose State ball, Q4, 1-10-SJSU43 (01:54) 0-39
+Offense: Short Pass, Set: Trips, Play: TR-FL-streak-WR3-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB L. Hearn completes a 2 yard in to WR J. Simpson (FS C. Barrios). 
+
+San Jose State ball, Q4, 2-8-SJSU45 (01:33) 0-39
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+L. Hearn has his 8 yard pass intercepted by C. Phipps at the LOU 47. He returns it 0 yards 
+to the Louisville 47. L. Hearn made a bad pass.
+
+Louisville ball, Q4, 1-10-LOU47 (01:08) 39-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB C. Moore runs left end for 53 yards ****Touchdown!***** OT K. Morrison had a key block 
+on the run. SS E. Anderson missed a tackle.
+
+Louisville ball, Q4, 1-0-SJSU0 (00:45) 45-0
+Kendrick Nelson converts the PAT.
+
+Louisville ball, Q4, 1-10-LOU35 (00:45) 46-0
+Kendrick Nelson kicks 67 from Louisville 35 to San Jose State -2. Gary Harding to San Jose 
+State 33 for a 35 yard return.
+
+Illegal Use of Hands against FB Jason Brown on San Jose State. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 10 at the San Jose State 23.
+
+San Jose State ball, Q4, 1-10-SJSU23 (00:33) 0-46
+Offense: Long Pass, Set: Quads, Play: Q-WR3-in-WR4-up
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB L. Hearn throws an incomplete pass to WR K. Grimm.
+
+Holding against San Jose State. The Penalty is for 10 yards.
+San Jose State ball, Q4, 1-10-SJSU23 (00:33) 0-46
+Offense: Long Pass, Set: Quads, Play: Q-WR3-in-WR4-up
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB Louis Hearn (SJSU) was injured on the play (Toe). It doesn't look like he will return.
+
+The Defense will accept the penalty. It is now First and 20 at the San Jose State 13.
+
+San Jose State ball, Q4, 1-20-SJSU13 (00:22) 0-46
+Offense: Long Pass, Set: Trips, Play: TR-WR3-str-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB G. Bryant gets sacked for a 12 yard loss (ILB F. Reynolds).  OT F. Smith allowed the sack.
+
+San Jose State ball, Q4, 2-32-SJSU1 (00:14) 0-46
+Offense: Long Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB G. Bryant completes a 1 yard post to WR K. Grimm (DE S. Walsh). 
+
+San Jose State Timeout!
+
+San Jose State ball, Q4, 3-31-SJSU2 (00:08) 0-46
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB G. Bryant throws an incomplete pass to WR M. Cottrell (SS T. Allen). ILB F. Reynolds hurried 
+the QB. SS T. Allen broke up the pass.
+
+San Jose State ball, Q4, 4-31-SJSU2 (00:02) 0-46
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB G. Bryant throws an incomplete pass to WR J. Simpson. WR J. Simpson ran an incorrect route.
+

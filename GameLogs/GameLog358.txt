@@ -1,0 +1,983 @@
+Philadelphia ball, Q1, 1-10-TEMP35 (15:00) 0-0
+David Hinton kicks 43 from Philadelphia 35 to Tulsa 22. Kelvin Banks to Tulsa 37 for a 15 
+yard return.
+
+Tulsa ball, Q1, 1-10-TLSA37 (14:40) 0-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB P. Irvine completes a 4 yard cross to WR W. Windham (OLB T. Shannon). 
+
+Tulsa ball, Q1, 2-6-TLSA41 (14:19) 0-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-out-WR3-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB P. Irvine throws an incomplete pass to WR B. Greenwood. OLB T. Shannon hurried the QB.
+
+Tulsa ball, Q1, 3-6-TLSA41 (14:03) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB P. Irvine completes a 8 yard in to WR B. Greenwood (ILB M. Humphrey).  He fumbles the ball 
+after a hit by M. Humphrey. It's recovered by R. King of Philadelphia. He returns it 2 yards to the Tulsa 47.
+
+Tulsa ball, Q1, 3-6-TLSA41 (14:03) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+DE William Walker (TEMP) was injured on the play (OK). It doesn't look like he will return.
+
+Philadelphia ball, Q1, 1-10-TLSA47 (13:47) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB V. Hays runs right end for 2 yards (SS D. Wilson). 
+
+Philadelphia ball, Q1, 2-8-TLSA45 (13:15) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-6, Play: 46-norm-TMan-Spy
+RB V. Hays runs right guard for 0 yards (OLB P. Phillips). 
+
+Philadelphia ball, Q1, 2-8-TLSA45 (13:15) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-6, Play: 46-norm-TMan-Spy
+CB William Moore (TLSA) was injured on the play (OK). It doesn't look like he will return.
+
+Philadelphia ball, Q1, 3-8-TLSA45 (13:02) 0-0
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+RB J. Watkins runs right end for 1 yard (OOB).
+
+Philadelphia ball, Q1, 4-7-TLSA44 (12:51) 0-0
+Benjamin Duran Punts 44 yards to the end zone, Touchback.
+
+Tulsa ball, Q1, 1-10-TLSA20 (12:31) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+QB P. Irvine completes a 10 yard hook to WR R. Robertson (CB H. Mccord, ILB R. Dube). 
+
+Tulsa ball, Q1, 1-10-TLSA30 (12:09) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB K. Banks runs right tackle for -1 yards (ILB M. Humphrey). OT M. Chavarria missed a block 
+that hurt the play.
+
+Tulsa ball, Q1, 2-11-TLSA29 (11:36) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB P. Irvine completes a 3 yard post to WR W. Windham (OLB T. Shannon, SS J. Woodward). 
+
+Tulsa ball, Q1, 2-11-TLSA29 (11:36) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+SS Jim Woodward (TEMP) was injured on the play (Buttocks). It doesn't look too serious and 
+he should return.
+
+Tulsa ball, Q1, 3-8-TLSA32 (11:21) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB P. Irvine completes a 22 yard out-and-up to WR R. Robertson (FS R. Cannon).  C G. Madden 
+earned a pancake on the play. OLB T. Shannon was out of position on the play.
+
+Tulsa ball, Q1, 1-10-TEMP46 (10:58) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB K. Banks runs right tackle for 1 yard (SS J. Woodward). 
+
+Tulsa ball, Q1, 2-9-TEMP45 (10:31) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+RB M. Bernard runs right guard for 2 yards (CB H. Mccord). 
+
+Tulsa ball, Q1, 3-7-TEMP43 (09:58) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+QB P. Irvine completes a 4 yard post to WR B. Greenwood (OLB P. Gonzalez). 
+
+Tulsa ball, Q1, 4-3-TEMP39 (09:45) 0-0
+Michael Vasquez Punts 39 yards to the end zone, Touchback.
+
+Philadelphia ball, Q1, 1-10-TEMP20 (09:26) 0-0
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB J. Watkins runs left end for 1 yard (OLB P. Phillips). 
+
+Philadelphia ball, Q1, 2-9-TEMP21 (08:56) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+QB F. Murphy completes a 63 yard out to WR M. Johnson (SS D. Wilson, FS V. Rains).  OG R. 
+Echols earned a pancake on the play. FS V. Rains allowed the big play.
+
+Philadelphia ball, Q1, 1-10-TLSA16 (08:34) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+RB J. Watkins runs right tackle for 6 yards (SS D. Wilson). 
+
+Philadelphia ball, Q1, 2-4-TLSA10 (08:07) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+FB P. Wallace runs left guard for 10 yards ****Touchdown!***** OT M. Edwards had a key block 
+on the run.
+
+Philadelphia ball, Q1, 1-0-TLSA0 (07:38) 6-0
+David Hinton converts the PAT.
+
+Philadelphia ball, Q1, 1-10-TEMP35 (07:38) 7-0
+David Hinton kicks 75 from Philadelphia 35 to end zone, Touchback.
+
+Tulsa ball, Q1, 1-10-TLSA20 (07:18) 0-7
+Offense: Inside Run, Set: Quads, Play: Q-QB-draw-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB P. Irvine runs right tackle for 3 yards He fumbles the ball after a hit by D. Ochoa. It's 
+recovered by R. King of Philadelphia. He returns it 0 yards to the Tulsa 23.
+
+Philadelphia ball, Q1, 1-10-TLSA23 (06:45) 7-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,11
+RB V. Hays runs left guard for -2 yards (OLB P. Phillips).
+
+Philadelphia ball, Q1, 2-12-TLSA25 (06:17) 7-0
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB J. Watkins runs right tackle for 2 yards (ILB K. Burks). 
+
+Philadelphia ball, Q1, 3-10-TLSA23 (05:50) 7-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB F. Murphy throws an incomplete pass to WR D. Edwards (CB S. Becker). CB S. Becker broke 
+up the pass.
+
+Philadelphia ball, Q1, 4-10-TLSA23 (05:35) 7-0
+David Hinton converts the 41 yard field goal.
+
+Philadelphia ball, Q1, 1-10-TEMP35 (05:19) 10-0
+David Hinton kicks 66 from Philadelphia 35 to Tulsa -1. Paul Shaw to Tulsa 17 for a 18 yard 
+return.
+
+Tulsa ball, Q1, 1-10-TLSA17 (04:59) 0-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB M. Bernard runs right guard for 1 yard (OLB P. Gonzalez). 
+
+Tulsa ball, Q1, 2-9-TLSA18 (04:28) 0-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+RB K. Banks runs right end for 14 yards (OOB).
+
+Tulsa ball, Q1, 1-10-TLSA32 (04:01) 0-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB M. Bernard runs left guard for 11 yards (FS R. Cannon).  OG D. Weber had a key block on 
+the run. FS R. Cannon missed a tackle.
+
+Tulsa ball, Q1, 1-10-TLSA43 (03:39) 0-10
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6
+QB P. Irvine completes a 5 yard hook to WR J. Delgado (FS R. Cannon). 
+
+Tulsa ball, Q1, 2-5-TLSA48 (03:18) 0-10
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB P. Irvine completes a 2 yard in to TE A. Myers (OLB T. Shannon). 
+
+Tulsa ball, Q1, 3-3-TLSA50 (02:57) 0-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB M. Bernard runs left guard for 3 yards He fumbles the ball after a hit by D. Ochoa. It's 
+recovered by W. Walker of Philadelphia. He returns it 0 yards to the Philadelphia 47.
+
+Philadelphia ball, Q1, 1-10-TEMP47 (02:30) 10-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB J. Watkins runs left end for 36 yards He fumbles the ball after a hit by S. Becker. It's 
+recovered by M. Edwards of Philadelphia.
+
+Philadelphia ball, Q1, 1-10-TLSA17 (02:03) 10-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB J. Watkins runs left tackle for 3 yards (CB K. Vargas). 
+
+Philadelphia ball, Q1, 2-7-TLSA14 (01:37) 10-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB V. Hays runs right tackle for 2 yards (DE C. Adams). 
+
+Philadelphia ball, Q1, 3-5-TLSA12 (01:06) 10-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+RB J. Watkins runs right guard for -1 yards (OLB P. Phillips). OG W. Washington missed a block 
+that hurt the play.
+
+Philadelphia ball, Q1, 4-6-TLSA13 (00:40) 10-0
+David Hinton misses the 31 yard field goal. It will be Tulsa ball at the TLSA 20
+
+Tulsa ball, Q1, 1-10-TLSA20 (00:22) 0-10
+Offense: Long Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB P. Irvine throws an incomplete pass to WR R. Robertson (OLB T. Shannon). OLB T. Shannon 
+broke up the pass.
+
+Tulsa ball, Q1, 2-10-TLSA20 (00:02) 0-10
+Offense: Short Pass, Set: Trips, Play: TR-TE-screen
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+QB P. Irvine completes a 13 yard screen to TE A. Myers (SS J. Woodward). 
+
+Passer beyond Line of Scrimmage against QB Paul Irvine on Tulsa. The Penalty is for 5 yards, 
+and a loss of down.
+The Defense will accept the penalty. It is now Third and 15 at the Tulsa 15.
+
+Tulsa ball, Q2, 3-15-TLSA15 (15:00) 0-10
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB P. Irvine gets sacked for a 2 yard loss (DE J. Kim).  C G. Madden allowed the sack.
+
+Tulsa ball, Q2, 4-17-TLSA13 (14:44) 0-10
+Michael Vasquez Punts 53 yards to the Philadelphia 34 yard line, where Michael Woodcock returns 
+it to Philadelphia 41 for a 7 yard return.
+
+Grabbing Face Mask against RB Stephen Zuniga on Tulsa. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Philadelphia 46.
+
+Philadelphia ball, Q2, 1-10-TEMP46 (14:32) 10-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ
+RB V. Hays runs right tackle for 1 yard (DE C. Adams). 
+
+Philadelphia ball, Q2, 2-9-TEMP47 (14:04) 10-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+QB F. Murphy completes a 7 yard out to WR M. Johnson (OLB R. Sorensen, FS V. Rains). 
+
+Philadelphia ball, Q2, 3-2-TLSA46 (13:43) 10-0
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Pass, Set: 4-6, Play: 46-norm-Man
+QB F. Murphy completes a 35 yard post to WR D. Edwards (SS D. Wilson).  CB S. Becker allowed 
+the big play.
+
+Philadelphia ball, Q2, 1-10-TLSA11 (13:18) 10-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,7
+QB F. Murphy completes a 11 yard out to WR D. Edwards ****Touchdown!***** D. Edwards made 
+a great catch. OT M. Edwards earned a pancake on the play.
+
+Philadelphia ball, Q2, 1-0-TLSA0 (13:05) 16-0
+David Hinton converts the PAT.
+
+Philadelphia ball, Q2, 1-10-TEMP35 (13:05) 17-0
+David Hinton kicks 63 from Philadelphia 35 to Tulsa 2. Kyle Gutierrez to Tulsa 18 for a 16 
+yard return.
+
+Tulsa ball, Q2, 1-10-TLSA18 (12:47) 0-17
+Offense: Long Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB P. Irvine throws an incomplete pass to WR W. Windham.
+
+Tulsa ball, Q2, 2-10-TLSA18 (12:30) 0-17
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB M. Bernard runs right end for 3 yards (ILB R. Dube, FS R. Cannon). 
+
+Tulsa ball, Q2, 3-7-TLSA21 (12:00) 0-17
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB P. Irvine completes a 40 yard in to WR B. Greenwood (SS B. Gutierrez, FS R. Cannon).  P. 
+Irvine with the great pass. CB H. Mccord allowed the big play.
+
+Tulsa ball, Q2, 1-10-TEMP39 (11:36) 0-17
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB P. Irvine throws an incomplete pass to WR W. Windham.
+
+Tulsa ball, Q2, 2-10-TEMP39 (11:16) 0-17
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: 4-4, Play: 44-run-Man-B5,8
+QB P. Irvine gets sacked for a 13 yard loss (FS R. Cannon).  OT R. Walden allowed the sack.
+
+Tulsa ball, Q2, 3-23-TLSA48 (10:49) 0-17
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-streaks
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB P. Irvine throws an incomplete pass to WR B. Greenwood. P. Irvine made a bad pass.
+
+Tulsa ball, Q2, 4-23-TLSA48 (10:29) 0-17
+Michael Vasquez Punts 29 yards to the Philadelphia 23 yard line, where it goes out of bounds.
+
+Philadelphia ball, Q2, 1-10-TEMP23 (10:10) 17-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+Delay of Game against Philadelphia. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Philadelphia 18.
+
+Philadelphia ball, Q2, 1-15-TEMP18 (10:10) 17-0
+Offense: Short Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ-B5,6,7,11
+QB F. Murphy completes a 0 yard dump off to FB P. Wallace (SS D. Wilson). 
+
+Philadelphia ball, Q2, 2-15-TEMP18 (09:46) 17-0
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB F. Murphy completes a 13 yard hook to WR D. Edwards (FS V. Rains). 
+
+Passer beyond Line of Scrimmage against QB Franklin Murphy on Philadelphia. The Penalty is 
+for 5 yards, and a loss of down.
+The Defense will accept the penalty. It is now Third and 20 at the Philadelphia 13.
+
+Philadelphia ball, Q2, 3-20-TEMP13 (09:31) 17-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB J. Watkins runs right end for 2 yards (CB S. Becker). 
+
+Philadelphia ball, Q2, 4-18-TEMP15 (09:05) 17-0
+Benjamin Duran Punts 44 yards to the Tulsa 41 yard line, where Marvin Corbett returns it to 
+Tulsa 43 for a 2 yard return.
+
+Tulsa ball, Q2, 1-10-TLSA43 (08:49) 0-17
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ-B5,6,7,8
+QB P. Irvine completes a 49 yard hook to WR W. Windham (ILB M. Humphrey).  OT M. Chavarria 
+earned a pancake on the play. OLB P. Gonzalez allowed the big play.
+
+Tulsa ball, Q2, 1-8-TEMP8 (08:25) 0-17
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB M. Bernard runs right end for -2 yards (ILB R. Dube). M. Bernard missed a hole that could 
+have resulted in a bigger gain.
+
+Tulsa ball, Q2, 2-10-TEMP10 (07:58) 0-17
+Offense: Outside Run, Set: Quads, Play: Q-HB-power-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB M. Bernard runs right end for 1 yard (DE J. Kim). 
+
+Tulsa ball, Q2, 3-9-TEMP9 (07:27) 0-17
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 4-4, Play: 44-norm-Man-B6
+QB P. Irvine throws an incomplete pass to WR R. Robertson (CB H. Mccord). CB H. Mccord broke 
+up the pass.
+
+Tulsa ball, Q2, 4-9-TEMP9 (07:08) 0-17
+Jason Stjohn misses the 27 yard field goal. It will be Philadelphia ball at the TEMP 20
+
+Philadelphia ball, Q2, 1-10-TEMP20 (06:48) 17-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-Man-B7,11
+QB F. Murphy throws an incomplete pass to RB V. Hays.
+
+Philadelphia ball, Q2, 2-10-TEMP20 (06:32) 17-0
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-straight-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB V. Hays runs right guard for 1 yard (OLB R. Sorensen). 
+
+Philadelphia ball, Q2, 3-9-TEMP21 (06:05) 17-0
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB F. Murphy gets sacked for a 10 yard loss (OLB P. Phillips).  OG R. Echols allowed the sack.
+
+Philadelphia ball, Q2, 4-19-TEMP11 (05:50) 17-0
+Benjamin Duran Punts 51 yards to the Tulsa 38 yard line, where Marvin Corbett returns it to 
+Tulsa 40 for a 2 yard return.
+
+Tulsa ball, Q2, 1-10-TLSA40 (05:31) 0-17
+Offense: Outside Run, Set: Quads, Play: Q-HB-counter-RT
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+RB K. Banks runs right end for 4 yards (OLB T. Shannon, DT R. King). 
+
+Tulsa ball, Q2, 2-6-TLSA44 (05:00) 0-17
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB P. Irvine throws an incomplete pass to WR B. Greenwood. P. Irvine made a bad pass.
+
+Tulsa ball, Q2, 3-6-TLSA44 (04:42) 0-17
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+QB P. Irvine completes a 18 yard in to WR W. Windham (CB R. Valle, FS R. Cannon).  OG D. Weber 
+earned a pancake on the play.
+
+Holding against TE Allen Myers on Tulsa. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Third and 16 at the Tulsa 34.
+
+Tulsa ball, Q2, 3-16-TLSA34 (04:32) 0-17
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB P. Irvine throws an incomplete pass to WR R. Robertson. OLB T. Shannon hurried the QB.
+
+Tulsa ball, Q2, 4-16-TLSA34 (04:15) 0-17
+Michael Vasquez Punts 43 yards to the Philadelphia 23 yard line, where Michael Woodcock returns 
+it to Philadelphia 24 for a 1 yard return.
+
+Philadelphia ball, Q2, 1-10-TEMP24 (03:56) 17-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Normal, Set: 4-6, Play: 46-norm-TMan-Spy
+QB F. Murphy completes a 12 yard dump off to WR M. Woodcock (CB K. Vargas, OLB P. Phillips). 
+ TE G. Taylor earned a pancake on the play. CB S. Becker missed a tackle.
+
+Holding against Philadelphia. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Philadelphia 14.
+
+Philadelphia ball, Q2, 1-20-TEMP14 (03:41) 17-0
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B7
+RB J. Watkins runs right guard for 9 yards (FS V. Rains, OLB P. Phillips). 
+
+Philadelphia ball, Q2, 2-11-TEMP23 (03:15) 17-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB F. Murphy completes a 9 yard dump off to WR M. Woodcock (SS D. Jennings, ILB K. Burks). 
+
+Philadelphia ball, Q2, 3-2-TEMP32 (02:51) 17-0
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB J. Watkins runs right guard for 7 yards (OLB P. Phillips, ILB K. Burks). 
+
+Philadelphia ball, Q2, 1-10-TEMP39 (02:20) 17-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB F. Murphy completes a 12 yard out to WR D. Edwards (OOB). OT M. Edwards earned a pancake 
+on the play.
+
+Philadelphia ball, Q2, 1-10-TLSA49 (02:05) 17-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Normal, Set: 4-6, Play: 46-norm-DZ
+QB F. Murphy throws an incomplete pass to WR D. Edwards.
+
+Philadelphia ball, Q2, 2-10-TLSA49 (01:52) 17-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-Man-B7,11
+QB F. Murphy completes a 4 yard streak to TE G. Taylor (ILB C. Bruner). 
+
+Philadelphia ball, Q2, 3-6-TLSA45 (01:28) 17-0
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6
+QB F. Murphy completes a 8 yard post to WR D. Edwards (CB K. Vargas). 
+
+Philadelphia ball, Q2, 1-10-TLSA37 (01:04) 17-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+QB F. Murphy throws an incomplete pass to TE G. Taylor. OLB P. Phillips hurried the QB.
+
+Philadelphia ball, Q2, 2-10-TLSA37 (00:56) 17-0
+Offense: Medium Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6
+QB F. Murphy completes a 37 yard post to WR D. Edwards ****Touchdown!***** CB K. Vargas allowed 
+the big play.
+
+Philadelphia ball, Q2, 1-0-TLSA0 (00:45) 23-0
+David Hinton converts the PAT.
+
+Philadelphia ball, Q2, 1-10-TEMP35 (00:45) 24-0
+David Hinton kicks 54 from Philadelphia 35 to Tulsa 11. Paul Shaw to Tulsa 30 for a 19 yard 
+return.
+
+Tulsa ball, Q2, 1-10-TLSA30 (00:39) 0-24
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+RB M. Bernard runs right guard for 6 yards (OLB P. Gonzalez, ILB M. Humphrey). 
+
+Philadelphia Timeout!
+
+Tulsa ball, Q2, 2-4-TLSA36 (00:32) 0-24
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+RB M. Bernard runs left guard for -2 yards (DE J. Kim). OG D. Weber missed a block that hurt 
+the play.
+
+Tulsa ball, Q2, 3-6-TLSA34 (00:03) 0-24
+Offense: Inside Run, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+The QB takes a knee.
+
+Tulsa ball, Q3, 1-10-TLSA35 (15:00) 0-24
+Jason Stjohn kicks 66 from Tulsa 35 to Philadelphia -1. David Booth to Philadelphia 20 for 
+a 21 yard return.
+
+Philadelphia ball, Q3, 1-10-TEMP20 (14:41) 24-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 4-6, Play: 46-norm-DZ
+RB V. Hays runs left end for 2 yards (SS D. Wilson, FS V. Rains). 
+
+Philadelphia ball, Q3, 2-8-TEMP22 (14:13) 24-0
+Offense: Short Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+QB F. Murphy completes a 8 yard out to TE G. Taylor (SS D. Wilson, CB S. Becker). 
+
+Philadelphia ball, Q3, 1-10-TEMP30 (13:52) 24-0
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Normal, Set: 4-6, Play: 46-norm-SZ-B6
+QB F. Murphy completes a 10 yard screen to RB V. Hays (OOB).
+
+Philadelphia ball, Q3, 1-10-TEMP40 (13:35) 24-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-Man-B7,11
+RB J. Watkins runs right guard for 3 yards (OLB R. Sorensen). 
+
+Philadelphia ball, Q3, 2-7-TEMP43 (13:05) 24-0
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+RB V. Hays runs left tackle for -2 yards (ILB K. Burks).
+
+Philadelphia ball, Q3, 3-9-TEMP41 (12:38) 24-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB F. Murphy completes a 4 yard out-and-up to TE G. Taylor (SS D. Wilson). 
+
+Philadelphia ball, Q3, 4-5-TEMP45 (12:10) 24-0
+Benjamin Duran Punts 57 yards to the end zone, Touchback.
+
+Tulsa ball, Q3, 1-10-TLSA20 (11:51) 0-24
+Offense: Inside Run, Set: Quads, Play: Q-QB-draw-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB P. Irvine runs right guard for 5 yards (OLB P. Gonzalez). 
+
+Tulsa ball, Q3, 2-5-TLSA25 (11:23) 0-24
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB P. Irvine runs outside for 3 yards (OLB P. Gonzalez). 
+
+Grabbing Face Mask against FS Ronald Cannon on Philadelphia. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Tulsa 33.
+
+Tulsa ball, Q3, 1-10-TLSA33 (11:12) 0-24
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB K. Banks runs left guard for 4 yards (ILB M. Humphrey). 
+
+Tulsa ball, Q3, 2-6-TLSA37 (10:45) 0-24
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+P. Irvine has his 14 yard pass intercepted by J. Woodward at the TEMP 49. He returns it 23 
+yards to the Tulsa 28.
+
+Philadelphia ball, Q3, 1-10-TLSA28 (10:15) 24-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+RB V. Hays runs left tackle for 3 yards (FS V. Rains). 
+
+Philadelphia ball, Q3, 2-7-TLSA25 (09:43) 24-0
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-straight-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB J. Watkins runs right tackle for 1 yard (ILB K. Burks).  C M. Jenkins missed a block that 
+hurt the play.
+
+Philadelphia ball, Q3, 3-6-TLSA24 (09:16) 24-0
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB J. Watkins runs right tackle for 0 yards (OLB P. Phillips). 
+
+Philadelphia ball, Q3, 4-6-TLSA24 (08:43) 24-0
+David Hinton converts the 42 yard field goal.
+
+Philadelphia ball, Q3, 1-10-TEMP35 (08:24) 27-0
+David Hinton kicks 66 from Philadelphia 35 to Tulsa -1. Paul Shaw to Tulsa 13 for a 14 yard 
+return.
+
+Tulsa ball, Q3, 1-10-TLSA13 (08:08) 0-27
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB M. Bernard runs left end for -1 yards (DE J. Kim). OG F. Walker missed a block that hurt 
+the play.
+
+Tulsa ball, Q3, 2-11-TLSA12 (07:38) 0-27
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 4-4, Play: 44-norm-Man-B6
+QB P. Irvine completes a 9 yard hook to WR R. Robertson (CB H. Mccord). 
+
+Tulsa ball, Q3, 3-2-TLSA21 (07:17) 0-27
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB P. Irvine completes a 7 yard out to WR B. Greenwood (CB R. Valle, FS R. Cannon). 
+
+Tulsa ball, Q3, 1-10-TLSA28 (06:53) 0-27
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+RB M. Bernard runs left guard for 1 yard (CB R. Valle).  OT M. Chavarria missed a block that 
+hurt the play.
+
+Tulsa ball, Q3, 2-9-TLSA29 (06:26) 0-27
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+QB P. Irvine throws an incomplete pass to WR R. Robertson (SS J. Woodward). DE J. Kim hurried 
+the QB. SS J. Woodward broke up the pass.
+
+Tulsa ball, Q3, 3-9-TLSA29 (06:07) 0-27
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+QB P. Irvine completes a 18 yard hook to WR W. Windham (ILB M. Humphrey).  OT R. Walden earned 
+a pancake on the play. CB H. Mccord was out of position on the play.
+
+Tulsa ball, Q3, 1-10-TLSA47 (05:39) 0-27
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB P. Irvine completes a 22 yard hook to WR R. Robertson (CB R. Valle, SS B. Gutierrez).  
+TE A. Myers earned a pancake on the play. FS R. Cannon missed a tackle.
+
+Tulsa ball, Q3, 1-10-TEMP31 (05:15) 0-27
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB P. Irvine completes a 5 yard screen to RB K. Banks (ILB R. Dube). 
+
+Tulsa ball, Q3, 2-5-TEMP26 (04:51) 0-27
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB P. Irvine completes a 1 yard streak to WR W. Windham (ILB M. Humphrey). 
+
+Tulsa ball, Q3, 3-4-TEMP25 (04:27) 0-27
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+RB M. Bernard runs right tackle for 5 yards (DE J. Kim). 
+
+Tulsa ball, Q3, 1-10-TEMP20 (04:12) 0-27
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB K. Banks runs left end for 7 yards (OLB P. Gonzalez). 
+
+Tulsa ball, Q3, 2-3-TEMP13 (03:39) 0-27
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB P. Irvine completes a 3 yard in to WR B. Greenwood (FS R. Cannon). 
+
+Tulsa ball, Q3, 1-10-TEMP10 (03:15) 0-27
+Offense: Outside Run, Set: Quads, Play: Q-HB-toss-LE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB K. Banks runs left end for 2 yards (ILB R. Dube). 
+
+Tulsa ball, Q3, 2-8-TEMP8 (02:49) 0-27
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB K. Banks runs left guard for 1 yard (DE J. Kim).  OT M. Chavarria missed a block that hurt 
+the play.
+
+Tulsa ball, Q3, 3-7-TEMP7 (02:17) 0-27
+Offense: Short Pass, Set: Trips, Play: TR-TE-screen
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+QB P. Irvine throws an incomplete pass to TE A. Myers. TE A. Myers ran an incorrect route.
+
+Tulsa ball, Q3, 4-7-TEMP7 (02:00) 0-27
+Jason Stjohn converts the 25 yard field goal.
+
+Tulsa ball, Q3, 1-10-TLSA35 (01:45) 3-27
+Jason Stjohn kicks 75 from Tulsa 35 to end zone, Touchback.
+
+Philadelphia ball, Q3, 1-10-TEMP20 (01:27) 27-3
+Offense: Short Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+QB F. Murphy runs right end for 9 yards (SS D. Wilson). 
+
+Philadelphia ball, Q3, 1-10-TEMP20 (01:27) 27-3
+Offense: Short Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+RB Jesus Watkins (TEMP) was injured on the play (OK). It doesn't look like he will return.
+
+Philadelphia ball, Q3, 2-1-TEMP29 (01:14) 27-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB F. Murphy throws an incomplete pass to WR M. Woodcock. F. Murphy made a bad pass.
+
+Philadelphia ball, Q3, 3-1-TEMP29 (00:59) 27-3
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+FB P. Wallace runs left guard for 9 yards (SS D. Wilson). 
+
+Philadelphia ball, Q3, 1-10-TEMP38 (00:26) 27-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,7
+Delay of Game against Philadelphia. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Philadelphia 33.
+
+Philadelphia ball, Q3, 1-15-TEMP33 (00:26) 27-3
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+QB F. Murphy throws an incomplete pass to WR D. Edwards. OLB P. Phillips hurried the QB.
+
+Philadelphia ball, Q3, 2-15-TEMP33 (00:11) 27-3
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB F. Murphy completes a 8 yard screen to RB V. Hays (ILB K. Burks). 
+
+Holding against FS Van Rains on Tulsa. The Penalty is for 10 yards, and an automatic first 
+down.
+The Offense will accept the penalty. It is now First and 10 at the Philadelphia 43.
+
+Philadelphia ball, Q4, 1-10-TEMP43 (15:00) 27-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+RB J. Coker runs right end for 4 yards (CB K. Vargas, SS D. Wilson). 
+
+Philadelphia ball, Q4, 2-6-TEMP47 (14:27) 27-3
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-MZ
+QB F. Murphy throws an incomplete pass to WR M. Johnson (CB K. Vargas). CB K. Vargas broke 
+up the pass.
+
+Philadelphia ball, Q4, 3-6-TEMP47 (14:07) 27-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-6, Play: 46-run-MZ-B5,6,7
+QB F. Murphy completes a 6 yard hook to WR D. Edwards (OOB).
+
+Philadelphia ball, Q4, 1-10-TLSA47 (13:49) 27-3
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB J. Coker runs right guard for 10 yards (FS V. Rains, SS D. Wilson). 
+
+Philadelphia ball, Q4, 1-10-TLSA37 (13:18) 27-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+RB J. Coker runs right tackle for 4 yards (OLB R. Sorensen, SS D. Wilson). 
+
+Philadelphia ball, Q4, 2-6-TLSA33 (12:49) 27-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB F. Murphy completes a 6 yard hook to WR D. Edwards (FS V. Rains, SS D. Wilson). 
+
+Passer beyond Line of Scrimmage against QB Franklin Murphy on Philadelphia. The Penalty is 
+for 5 yards, and a loss of down.
+The Defense will accept the penalty. It is now Third and 11 at the Tulsa 38.
+
+Philadelphia ball, Q4, 3-11-TLSA38 (12:37) 27-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+QB F. Murphy completes a 6 yard out to WR D. Edwards (CB K. Vargas). 
+
+Philadelphia ball, Q4, 3-11-TLSA38 (12:37) 27-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+C Michael Jenkins (TEMP) was injured on the play (OK). It doesn't look like he will return.
+
+Philadelphia ball, Q4, 4-5-TLSA32 (12:21) 27-3
+David Hinton misses the 50 yard field goal. It will be Tulsa ball at the TLSA 32
+
+Offsides against CB Jeff Moore on Tulsa. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Tulsa 27.
+
+Philadelphia ball, Q4, 1-10-TLSA27 (12:06) 27-3
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Normal, Set: 4-6, Play: 46-norm-DZ
+FB P. Wallace runs left guard for 11 yards (FS V. Rains, ILB K. Burks).  OT M. Edwards had 
+a key block on the run. CB E. Kinder missed a tackle.
+
+Philadelphia ball, Q4, 1-10-TLSA16 (11:38) 27-3
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB J. Coker runs left tackle for 1 yard (OLB P. Phillips).  OT G. Perry missed a block that 
+hurt the play.
+
+Philadelphia ball, Q4, 1-10-TLSA16 (11:38) 27-3
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+TE George Taylor (TEMP) was injured on the play (Quadriceps). It doesn't look too serious 
+and he should return.
+
+Philadelphia ball, Q4, 2-9-TLSA15 (11:24) 27-3
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+QB F. Murphy throws an incomplete pass to RB V. Hays. DT R. Strauss hurried the QB.
+
+Philadelphia ball, Q4, 3-9-TLSA15 (11:07) 27-3
+Offense: Short Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB F. Murphy gets sacked for a 4 yard loss (OLB P. Phillips).  C D. Scott allowed the sack.
+
+Philadelphia ball, Q4, 4-13-TLSA19 (10:52) 27-3
+David Hinton converts the 37 yard field goal.
+
+Philadelphia ball, Q4, 1-10-TEMP35 (10:34) 30-3
+David Hinton kicks 73 from Philadelphia 35 to end zone, Touchback.
+
+Tulsa ball, Q4, 1-10-TLSA20 (10:17) 3-30
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB P. Irvine completes a 9 yard screen to RB M. Bernard (OLB P. Gonzalez, CB H. Mccord). 
+
+Tulsa ball, Q4, 2-1-TLSA29 (09:56) 3-30
+Offense: Long Pass, Set: Quads, Play: Q-WR3-corner-FL-post
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+QB P. Irvine throws an incomplete pass to WR W. Windham.
+
+Tulsa ball, Q4, 3-1-TLSA29 (09:39) 3-30
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB P. Irvine throws an incomplete pass to WR B. Greenwood (CB H. Mccord). WR B. Greenwood 
+ran an incorrect route. CB H. Mccord broke up the pass.
+
+Tulsa ball, Q4, 4-1-TLSA29 (09:22) 3-30
+Michael Vasquez Punts 44 yards to the Philadelphia 27 yard line, where Michael Woodcock returns 
+it to Tulsa 47 for a 26 yard return.
+
+Philadelphia ball, Q4, 1-10-TLSA47 (09:07) 30-3
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB F. Murphy completes a 11 yard dump off to TE G. Taylor (CB K. Vargas).  CB S. Becker missed 
+a tackle.
+
+Philadelphia ball, Q4, 1-10-TLSA36 (08:43) 30-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB J. Coker runs right tackle for 36 yards ****Touchdown!***** OT M. Edwards had a key block 
+on the run.
+
+Philadelphia ball, Q4, 1-0-TLSA0 (08:12) 36-3
+David Hinton converts the PAT.
+
+Philadelphia ball, Q4, 1-10-TEMP35 (08:12) 37-3
+David Hinton kicks 75 from Philadelphia 35 to end zone, Touchback.
+
+Tulsa ball, Q4, 1-10-TLSA20 (07:53) 3-37
+Offense: Short Pass, Set: Trips, Play: TR-FL-in-SE-post
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB P. Irvine completes a 4 yard in to WR W. Windham (OOB).
+
+Tulsa ball, Q4, 2-6-TLSA24 (07:35) 3-37
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB M. Bernard runs left end for 1 yard (ILB M. Humphrey). 
+
+Tulsa ball, Q4, 3-5-TLSA25 (07:05) 3-37
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB P. Irvine completes a 13 yard hook to WR R. Robertson (ILB M. Humphrey).  OG D. Weber earned 
+a pancake on the play.
+
+Tulsa ball, Q4, 1-10-TLSA38 (06:43) 3-37
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB P. Irvine completes a 3 yard hook to WR W. Windham (OOB).
+
+Tulsa ball, Q4, 2-7-TLSA41 (06:30) 3-37
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 4-4, Play: 44-run-Man-B6,7
+P. Irvine has his 14 yard pass intercepted by B. Gutierrez at the TEMP 45. He returns it 16 
+yards to the Tulsa 39.
+
+Philadelphia ball, Q4, 1-10-TLSA39 (05:58) 37-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-6, Play: 46-norm-DZ
+RB V. Hays runs right guard for 3 yards (ILB K. Burks). 
+
+Philadelphia ball, Q4, 2-7-TLSA36 (05:29) 37-3
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB F. Murphy throws an incomplete pass to WR M. Woodcock. DE A. Fleming hurried the QB.
+
+Philadelphia ball, Q4, 3-7-TLSA36 (05:12) 37-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B7
+False Start against OG Ricardo Echols on Philadelphia. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 12 at the Tulsa 41.
+
+Philadelphia ball, Q4, 3-12-TLSA41 (05:12) 37-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB F. Murphy completes a 29 yard out-and-up to TE G. Taylor (CB S. Becker).  F. Murphy with 
+the great pass. C D. Scott earned a pancake on the play. SS D. Jennings allowed the big play.
+
+Philadelphia ball, Q4, 1-10-TLSA12 (04:46) 37-3
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB V. Hays runs right tackle for 2 yards (OOB).
+
+Philadelphia ball, Q4, 2-8-TLSA10 (04:33) 37-3
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB J. Coker runs left end for 2 yards (DT R. Strauss). 
+
+Philadelphia ball, Q4, 3-6-TLSA8 (04:00) 37-3
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+QB F. Murphy completes a 4 yard hook to WR M. Woodcock (OOB).
+
+Philadelphia ball, Q4, 4-2-TLSA4 (03:49) 37-3
+David Hinton converts the 22 yard field goal.
+
+Philadelphia ball, Q4, 1-10-TEMP35 (03:32) 40-3
+David Hinton kicks 75 from Philadelphia 35 to end zone, Touchback.
+
+Tulsa ball, Q4, 1-10-TLSA20 (03:12) 3-40
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB L. Rayburn throws an incomplete pass to WR B. Greenwood.
+
+Tulsa ball, Q4, 2-10-TLSA20 (02:57) 3-40
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+L. Rayburn has his 22 yard pass intercepted by T. Shannon at the TLSA 42. He returns it 19 
+yards to the Tulsa 23.
+
+Philadelphia ball, Q4, 1-10-TLSA23 (02:30) 40-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+RB J. Coker runs left end for 1 yard (ILB C. Bruner). 
+
+Philadelphia ball, Q4, 1-10-TLSA23 (02:30) 40-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+WR Michael Woodcock (TEMP) was injured on the play (Face). It doesn't look too serious and 
+he should return.
+
+Philadelphia ball, Q4, 2-9-TLSA22 (02:17) 40-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+RB J. Coker runs left guard for 6 yards (ILB C. Bruner). 
+
+Philadelphia ball, Q4, 3-3-TLSA16 (01:51) 40-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ-B7
+RB J. Coker runs left guard for 2 yards (OLB R. Sorensen, SS D. Jennings). 
+
+Philadelphia ball, Q4, 4-1-TLSA14 (01:25) 40-3
+David Hinton converts the 32 yard field goal.
+
+Philadelphia ball, Q4, 1-10-TEMP35 (01:18) 43-3
+David Hinton kicks 55 from Philadelphia 35 to Tulsa 10. Paul Shaw to Tulsa 24 for a 14 yard 
+return.
+
+Tulsa ball, Q4, 1-10-TLSA24 (01:01) 3-43
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+QB L. Rayburn completes a 42 yard post to WR J. Delgado (OLB S. Peterson).  CB H. Mccord allowed 
+the big play.
+
+Tulsa Timeout!
+
+Tulsa ball, Q4, 1-10-TEMP34 (01:04) 3-43
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB L. Rayburn completes a 3 yard in to WR W. Windham (DT D. Ochoa).  He fumbles the ball after 
+a hit by D. Ochoa. It's recovered by M. Bernard of Tulsa.
+
+Tulsa ball, Q4, 1-10-TEMP34 (01:04) 3-43
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB Mark Bernard (TLSA) was injured on the play (Toe). It doesn't look like he will return.
+
+Tulsa ball, Q4, 2-7-TEMP31 (00:49) 3-43
+Offense: Short Pass, Set: Trips, Play: TR-TE-screen
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+QB L. Rayburn completes a 11 yard screen to TE L. Coon (OLB T. Shannon). 
+
+Tulsa Timeout!
+
+Tulsa ball, Q4, 1-10-TEMP20 (00:42) 3-43
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB L. Rayburn throws an incomplete pass to WR B. Greenwood.
+
+Tulsa ball, Q4, 2-10-TEMP20 (00:36) 3-43
+Offense: Short Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB L. Rayburn gets sacked for a 3 yard loss (DE J. Kim).  C G. Madden allowed the sack.
+
+Tulsa ball, Q4, 3-13-TEMP23 (00:28) 3-43
+Offense: Short Pass, Set: Trips, Play: TR-FL-streak-WR3-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB L. Rayburn completes a 15 yard in to WR J. Delgado (OOB).
+
+Tulsa ball, Q4, 1-8-TEMP8 (00:20) 3-43
+Offense: Short Pass, Set: Trips, Play: TR-SE-screen
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB L. Rayburn completes a 4 yard screen to WR B. Greenwood (OLB T. Shannon). 
+
+Tulsa Timeout!
+
+Tulsa ball, Q4, 2-4-TEMP4 (00:12) 3-43
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB L. Rayburn throws an incomplete pass to WR B. Greenwood (CB A. Moore). CB A. Moore broke 
+up the pass.
+
+Tulsa ball, Q4, 3-4-TEMP4 (00:05) 3-43
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB L. Rayburn throws an incomplete pass to RB S. Zuniga.
+

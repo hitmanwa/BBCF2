@@ -1,0 +1,116 @@
+Passing leaders
+
+1. Michael Gray: 252-428 (58.9), 3920, 27-13
+2. Timothy Wilson: 232-382 (60.7), 3717, 33-7
+3. Martin Cook: 256-410 (62.4), 3535, 31-11
+4. William Jorgensen: 249-417 (59.7), 3493, 38-14
+5. Cody Kidd: 253-401 (63.1), 3475, 28-8
+6. Leonard Henry: 231-395 (58.5), 3457, 23-12
+7. Roger Choate: 239-428 (55.8), 3454, 20-16
+8. Anthony Ferguson: 237-425 (55.8), 3442, 18-12
+9. Clifton Ingram: 226-424 (53.3), 3410, 20-12
+10. Derrick Dillon: 256-417 (61.4), 3373, 20-5
+
+Rushing leaders
+
+1. George Schwartz (RB): 330, 1813 (5.49), 12
+2. Kevin Lake (RB): 338, 1764 (5.22), 10
+3. Ricky Peters (RB): 285, 1641 (5.76), 10
+4. Oscar Thompson (RB): 300, 1604 (5.35), 9
+5. August Bell (RB): 282, 1595 (5.66), 17
+6. Ron Archer (RB): 376, 1579 (4.2), 8
+7. Fredrick Baldwin (RB): 290, 1560 (5.38), 15
+8. Kenneth Metz (RB): 326, 1540 (4.72), 7
+9. Henry Jones (RB): 315, 1540 (4.89), 12
+10. David Miller (RB): 297, 1502 (5.06), 11
+
+Receiving leaders
+
+1. Lonnie Stokes (WR): 66, 1366 (20.7), 11
+2. John Montoya (WR): 82, 1348 (16.44), 12
+3. David Drew (WR): 73, 1205 (16.51), 6
+4. Steve Clark (WR): 66, 1193 (18.08), 8
+5. Thomas Holley (WR): 74, 1184 (16), 10
+6. Francis Cook (WR): 67, 1182 (17.64), 7
+7. Christopher Glover (WR): 71, 1172 (16.51), 7
+8. David Wood (WR): 62, 1139 (18.37), 7
+9. Michael Wallace (WR): 61, 1138 (18.66), 11
+10. Jack Bell (WR): 67, 1117 (16.67), 8
+
+Tackles leaders
+
+1. Karl Ingram (OLB): 125, 93, 32
+2. Paul Williams (OLB): 121, 86, 35
+3. Gerald Garcia (ILB): 119, 89, 30
+4. William Coleman (OLB): 117, 95, 22
+5. Jose Mendez (ILB): 115, 91, 24
+6. William Perkins (ILB): 114, 85, 29
+7. Juan Roberts (ILB): 113, 88, 25
+8. Paul Richardson (OLB): 113, 82, 31
+9. Stanley Gunderson (OLB): 113, 81, 32
+10. Kim Brown (ILB): 112, 90, 22
+
+Sack leaders
+
+1. William Avalos (DE): 15
+2. Jason Miller (OLB): 13
+3. Lawrence Schmitt (DT): 13
+4. James Marion (DE): 12
+5. Larry Johnson (DE): 12
+6. Andrew Burger (DE): 12
+7. Jose Mendez (ILB): 11
+8. Joe Quinn (DE): 11
+9. Eugene Johnson (OLB): 11
+10. Joseph Johnson (DE): 11
+
+Stuffs leaders
+
+1. William Coleman (OLB): 25
+2. Karl Ingram (OLB): 23
+3. Terry Lee (ILB): 22
+4. William Perkins (ILB): 22
+5. Timothy Garvey (ILB): 22
+6. Kim Brown (ILB): 21
+7. Dale Christian (OLB): 21
+8. Dennis Castro (FS): 20
+9. Joseph Chappell (ILB): 19
+10. Robert Erickson (OLB): 19
+
+Int leaders
+
+1. Dale Christian (OLB): 9, 163, 1
+2. Emmanuel King (CB): 8, 59, 0
+3. Joseph Drake (FS): 7, 86, 0
+4. Edward Gibbs (FS): 7, 38, 0
+5. Scott Bennett (FS): 7, 38, 0
+6. Timothy Freeman (FS): 7, 43, 1
+7. Joseph Sellers (FS): 7, 28, 0
+8. Tristan Stafford (CB): 6, 62, 0
+9. Lester Dickerson (SS): 6, 36, 0
+10. Dennis Castro (FS): 6, 107, 0
+
+KR leaders
+
+1. Stephen Martinez (RB): 38, 1181 (31.08), 2
+2. Philip Swain (CB): 45, 1286 (28.58), 2
+3. Roger Milligan (WR): 26, 795 (30.58), 2
+4. Myron Douglas (WR): 43, 1234 (28.7), 2
+5. Scott Fernandez (WR): 33, 982 (29.76), 1
+6. Jamel Terrell (CB): 48, 1328 (27.67), 1
+7. James Robertson (SS): 36, 1178 (32.72), 1
+8. Victor Lewis (RB): 41, 1186 (28.93), 1
+9. Timothy Nixon (RB): 38, 1035 (27.24), 1
+10. Jason Porter (RB): 44, 1269 (28.84), 1
+
+PR leaders
+
+1. Fabian Lane (WR): 42, 709 (16.88), 4
+2. Federico Hudgins (WR): 32, 444 (13.88), 3
+3. Walter Lipscomb (WR): 34, 551 (16.21), 3
+4. Robert Miller (CB): 41, 601 (14.66), 3
+5. Jacob Taylor (CB): 44, 693 (15.75), 3
+6. Edward Williams (FS): 36, 610 (16.94), 3
+7. Eugene Fitzgerald (WR): 44, 746 (16.95), 3
+8. Joey Smith (WR): 42, 592 (14.1), 2
+9. Mark Reyes (WR): 34, 528 (15.53), 2
+10. Matthew Haley (CB): 24, 340 (14.17), 2

@@ -1,0 +1,985 @@
+Mississippi State ball, Q1, 1-10-MSST35 (15:00) 0-0
+Anthony Kirkland kicks 75 from Mississippi State 35 to end zone, Touchback.
+
+Clemson ball, Q1, 1-10-CLEM20 (14:42) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB D. Dillon throws an incomplete pass to TE K. Teague. DE P. Brown hurried the QB.
+
+Clemson ball, Q1, 2-10-CLEM20 (14:22) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB D. Dillon completes a 10 yard out to WR W. Rice (FS C. Parnell, OLB W. Osborn). 
+
+Clemson ball, Q1, 1-10-CLEM30 (14:00) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+RB A. Clark runs right guard for 2 yards (CB J. Elliott, DT L. Coker). 
+
+Clemson ball, Q1, 2-8-CLEM32 (13:28) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB A. Clark runs right guard for 1 yard (SS R. Campos). 
+
+Clemson ball, Q1, 2-8-CLEM32 (13:28) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+DT Louis Coker (MSST) was injured on the play (Forearm). It doesn't look like he will return.
+
+Clemson ball, Q1, 3-7-CLEM33 (13:13) 0-0
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Dillon completes a 15 yard cross to WR A. Hernandez (SS R. Reed, CB J. Elliott).  CB 
+J. Roman missed a tackle.
+
+Clemson ball, Q1, 3-7-CLEM33 (13:13) 0-0
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+OG Fred Estrada (CLEM) was injured on the play (Teeth). It doesn't look like he will return.
+
+Clemson ball, Q1, 1-10-CLEM48 (12:56) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB A. Clark runs right end for 9 yards (SS R. Reed). 
+
+Clemson ball, Q1, 2-1-MSST43 (12:26) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Run, Set: 4-3, Play: 43-run-SZ
+RB E. Johnson runs left guard for 1 yard (DE P. Brown). 
+
+Clemson ball, Q1, 1-10-MSST42 (11:54) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-R
+QB D. Dillon throws an incomplete pass to WR B. Porter. OLB G. Martinez hurried the QB.
+
+Clemson ball, Q1, 2-10-MSST42 (11:39) 0-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB D. Dillon throws an incomplete pass to WR W. Rice.
+
+Clemson ball, Q1, 3-10-MSST42 (11:22) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-streak-SE-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB D. Dillon throws an incomplete pass to WR W. Rice. DT D. Smith hurried the QB.
+
+Clemson ball, Q1, 4-10-MSST42 (11:07) 0-0
+They line up for the Punt...[B]
+Wait, it's a fake![B]
+Dion Mcbride runs it and dives for 
+the first down![B]
+He fell a little short. It was a failed attempt.
+
+Mississippi State ball, Q1, 1-10-MSST42 (10:37) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB F. Baldwin runs right guard for 1 yard (ILB D. Mcbride).  C M. Duncan missed a block that 
+hurt the play.
+
+Mississippi State ball, Q1, 2-9-MSST43 (10:08) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB L. Valencia completes a 7 yard hook to FB M. Finch (ILB D. Mcbride). 
+
+Mississippi State ball, Q1, 3-2-MSST50 (09:46) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB L. Valencia throws an incomplete pass to FB M. Finch. FB M. Finch ran an incorrect route.
+
+Mississippi State ball, Q1, 4-2-MSST50 (09:29) 0-0
+Scott Pena Punts 44 yards to the Clemson 6 yard line, where it goes out of bounds.
+
+Clemson ball, Q1, 1-10-CLEM6 (09:11) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB D. Dillon completes a 6 yard out to WR W. Rice (SS R. Campos, SS J. Carlson). 
+
+Clemson ball, Q1, 2-4-CLEM12 (08:48) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-R
+RB A. Clark runs right guard for 2 yards (OLB W. Osborn, DT D. Smith). 
+
+Clemson ball, Q1, 3-2-CLEM14 (08:20) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B5
+QB D. Dillon completes a 11 yard hook to RB E. Johnson (SS R. Reed).  SS R. Reed was out of 
+position on the play.
+
+Ineligible Receiver Downfield against OG Keith Brown on Clemson. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 7 at the Clemson 9.
+
+Clemson ball, Q1, 3-7-CLEM9 (08:08) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB D. Dillon throws an incomplete pass to WR A. Hernandez.
+
+Clemson ball, Q1, 4-7-CLEM9 (07:52) 0-0
+Thomas Holcomb Punts 57 yards to the Mississippi State 34 yard line, where Christopher Parnell 
+returns it to Mississippi State 36 for a 2 yard return.
+
+Mississippi State ball, Q1, 1-10-MSST36 (07:34) 0-0
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+RB F. Baldwin runs left tackle for 3 yards (SS J. Piper). 
+
+Mississippi State ball, Q1, 2-7-MSST39 (07:06) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB J. Carroll runs left end for 0 yards (ILB D. Mcbride). 
+
+Mississippi State ball, Q1, 3-7-MSST39 (06:35) 0-0
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,6,11-R
+QB L. Valencia throws an incomplete pass to WR W. Bates.
+
+Mississippi State ball, Q1, 4-7-MSST39 (06:20) 0-0
+Scott Pena Punts 45 yards to the Clemson 16 yard line, where it goes out of bounds.
+
+Clemson ball, Q1, 1-10-CLEM16 (06:03) 0-0
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+WR W. Rice runs right end for 1 yard (OOB).
+
+Clemson ball, Q1, 2-9-CLEM17 (05:49) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB D. Dillon throws an incomplete pass to TE K. Teague. DE P. Brown hurried the QB.
+
+Clemson ball, Q1, 3-9-CLEM17 (05:30) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB D. Dillon runs outside for 3 yards (SS R. Reed). 
+
+Clemson ball, Q1, 4-6-CLEM20 (05:09) 0-0
+Thomas Holcomb Punts 56 yards to the Mississippi State 24 yard line, where it goes out of 
+bounds.
+
+Mississippi State ball, Q1, 1-10-MSST24 (04:52) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB L. Valencia completes a 15 yard corner to WR W. Bates (CB F. Meredith, FS F. Shultz).  
+W. Bates made a great catch. OT L. Braun earned a pancake on the play.
+
+Mississippi State ball, Q1, 1-10-MSST39 (04:24) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+FB M. Finch runs left tackle for 2 yards (ILB J. Walton). 
+
+Mississippi State ball, Q1, 2-8-MSST41 (03:53) 0-0
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+FB M. Finch runs right end for 0 yards (DE W. Garcia). 
+
+Mississippi State ball, Q1, 3-8-MSST41 (03:23) 0-0
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB L. Valencia throws an incomplete pass to WR T. Barnes (FS R. Gomez). FS R. Gomez broke 
+up the pass.
+
+Holding against OT Larry Braun on Mississippi State. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Mississippi State ball, Q1, 4-8-MSST41 (03:11) 0-0
+Scott Pena Punts 54 yards to the Clemson 5 yard line, where it gets downed.
+
+Clemson ball, Q1, 1-10-CLEM5 (02:52) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB D. Dillon completes a 43 yard streak to WR A. Hernandez (SS R. Campos, CB J. Elliott). 
+ CB J. Elliott allowed the big play.
+
+Clemson ball, Q1, 1-10-CLEM48 (02:24) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB E. Johnson runs right tackle for 1 yard (FS C. Parnell).  OT J. Young missed a block that 
+hurt the play.
+
+Clemson ball, Q1, 2-9-CLEM49 (01:53) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB D. Dillon runs outside for 4 yards (OOB).
+
+Clemson ball, Q1, 3-5-MSST47 (01:41) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-3, Play: 43-norm-TMan-R
+QB D. Dillon completes a 35 yard post to TE K. Teague (OOB). OT E. Anderson earned a pancake 
+on the play. CB J. Roman allowed the big play.
+
+Holding against OG Keith Brown on Clemson. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Third and 15 at the Clemson 43.
+
+Clemson ball, Q1, 3-15-CLEM43 (01:27) 0-0
+Offense: Long Pass, Set: Pro Set, Play: PS-TE-streak-SE-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB D. Dillon throws an incomplete pass to TE K. Teague (SS R. Campos). SS R. Campos broke 
+up the pass.
+
+Clemson ball, Q1, 3-15-CLEM43 (01:27) 0-0
+Offense: Long Pass, Set: Pro Set, Play: PS-TE-streak-SE-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+WR Benny Porter (CLEM) was injured on the play (OK). It doesn't look like he will return.
+
+Clemson ball, Q1, 4-15-CLEM43 (01:11) 0-0
+Thomas Holcomb Punts 53 yards to the Mississippi State 4 yard line, where it gets downed.
+
+Mississippi State ball, Q1, 1-10-MSST4 (00:53) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB L. Valencia completes a 58 yard hook to RB F. Baldwin (CB F. Meredith).  F. Baldwin made 
+a great catch. TE C. Kirkland earned a pancake on the play. CB F. Meredith allowed the big play.
+
+Mississippi State ball, Q1, 1-10-CLEM38 (00:31) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB F. Baldwin runs right tackle for 0 yards (ILB D. Mcbride). 
+
+Mississippi State ball, Q1, 2-10-CLEM38 (00:02) 0-0
+Offense: Outside Run, Set: I Form, Play: I-HB-toss-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB F. Baldwin runs right end for 0 yards (ILB J. Walton). 
+
+Mississippi State ball, Q1, 2-10-CLEM38 (00:02) 0-0
+Offense: Outside Run, Set: I Form, Play: I-HB-toss-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+OG Steven Winn (MSST) was injured on the play (Forearm). It doesn't look too serious and he 
+should return.
+
+Mississippi State ball, Q2, 3-10-CLEM38 (15:00) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB F. Baldwin runs right guard for 6 yards (ILB J. Walton). 
+
+Mississippi State ball, Q2, 3-10-CLEM38 (15:00) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+WR William Bates (MSST) was injured on the play (OK). It doesn't look like he will return.
+
+Mississippi State ball, Q2, 4-4-CLEM32 (14:44) 0-0
+Anthony Kirkland converts the 50 yard field goal.
+
+Mississippi State ball, Q2, 1-10-MSST35 (14:28) 3-0
+Anthony Kirkland kicks 55 from Mississippi State 35 to Clemson 10. Ray Martin to Clemson 33 
+for a 23 yard return.
+
+Clemson ball, Q2, 1-10-CLEM33 (14:09) 0-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-3, Play: 43-norm-SZ-B11
+QB D. Dillon throws an incomplete pass to WR W. Rice.
+
+Clemson ball, Q2, 2-10-CLEM33 (13:52) 0-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Dillon completes a 6 yard hook to RB A. Clark (OLB G. Martinez). 
+
+Clemson ball, Q2, 3-4-CLEM39 (13:30) 0-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+RB E. Johnson runs left tackle for 1 yard (DT D. Smith).  FB C. Rodriguez missed a block that 
+hurt the play.
+
+Clemson ball, Q2, 4-3-CLEM40 (13:03) 0-3
+Thomas Holcomb Punts 45 yards to the Mississippi State 15 yard line,
+
+Mississippi State ball, Q2, 1-10-MSST15 (12:44) 3-0
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+RB F. Baldwin runs right guard for 4 yards (ILB J. Walton). 
+
+Mississippi State ball, Q2, 2-6-MSST19 (12:16) 3-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB F. Baldwin runs right guard for 0 yards (ILB J. Walton). 
+
+Mississippi State ball, Q2, 3-6-MSST19 (11:48) 3-0
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,7,11
+QB L. Valencia completes a 8 yard screen to RB F. Baldwin (OOB).
+
+Mississippi State ball, Q2, 1-10-MSST27 (11:38) 3-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB F. Baldwin runs right tackle for 18 yards (CB A. Cade).  OT L. Braun had a key block on 
+the run.
+
+Mississippi State ball, Q2, 1-10-MSST45 (11:10) 3-0
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+WR M. Gonzales runs right end for 3 yards (ILB D. Mcbride, SS J. Piper). 
+
+Mississippi State ball, Q2, 2-7-MSST48 (10:41) 3-0
+Offense: Short Pass, Set: I Form, Play: I-TE-corner-FL-post
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB L. Valencia completes a 9 yard in to RB F. Baldwin (CB F. Meredith). 
+
+Mississippi State ball, Q2, 1-10-CLEM43 (10:18) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB F. Baldwin runs right guard for 3 yards (ILB J. Walton). 
+
+Mississippi State ball, Q2, 2-7-CLEM40 (09:48) 3-0
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+WR M. Gonzales runs right end for 3 yards (FS R. Gomez, CB F. Meredith). 
+
+Mississippi State ball, Q2, 3-4-CLEM37 (09:16) 3-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB F. Baldwin runs right tackle for 7 yards (CB F. Meredith).  OG B. Buckner had a key block 
+on the run.
+
+Mississippi State ball, Q2, 1-10-CLEM30 (08:43) 3-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB L. Valencia gets sacked for a 6 yard loss (OLB J. Marx).  He fumbles the ball after a hit 
+by J. Marx. It's recovered by L. Valencia of Mississippi State. OG B. Buckner allowed the sack.
+
+Mississippi State ball, Q2, 2-16-CLEM36 (08:25) 3-0
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+QB L. Valencia throws an incomplete pass to WR M. Gonzales. DE F. Bennett hurried the QB.
+
+Mississippi State ball, Q2, 3-16-CLEM36 (08:07) 3-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB L. Valencia throws an incomplete pass to WR T. Barnes.
+
+Mississippi State ball, Q2, 3-16-CLEM36 (08:07) 3-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB Louis Valencia (MSST) was injured on the play (OK). It doesn't look like he will return.
+
+Mississippi State ball, Q2, 4-16-CLEM36 (07:49) 3-0
+Scott Pena Punts 30 yards to the Clemson 6 yard line, where it goes out of bounds.
+
+Clemson ball, Q2, 1-10-CLEM6 (07:32) 0-3
+Offense: Long Pass, Set: I Form, Play: I-SE-streaks
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-R
+QB D. Dillon throws an incomplete pass to TE K. Teague. DE P. Brown hurried the QB.
+
+Clemson ball, Q2, 2-10-CLEM6 (07:17) 0-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB A. Clark runs right tackle for 1 yard (DT D. Smith). 
+
+Clemson ball, Q2, 3-9-CLEM7 (06:47) 0-3
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man
+QB D. Dillon throws an incomplete pass to WR M. Hilliard (CB J. Elliott). CB J. Elliott broke 
+up the pass.
+
+Clemson ball, Q2, 4-9-CLEM7 (06:29) 0-3
+Thomas Holcomb Punts 61 yards to the Mississippi State 32 yard line, where it gets downed.
+
+Mississippi State ball, Q2, 1-10-MSST32 (06:13) 3-0
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+QB J. Beattie completes a 8 yard hook to WR M. Gonzales (SS J. Piper). 
+
+Mississippi State ball, Q2, 2-2-MSST40 (05:50) 3-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB F. Baldwin runs left end for 12 yards (OOB). ILB J. Walton was out of position on the play.
+
+Mississippi State ball, Q2, 1-10-CLEM48 (05:37) 3-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB F. Baldwin runs left end for 6 yards (OLB D. Mccoy, ILB J. Walton). 
+
+Offsides against DT Carl Brown on Clemson. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 5 at the Clemson 43.
+
+Mississippi State ball, Q2, 1-5-CLEM43 (05:27) 3-0
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB F. Baldwin runs right tackle for 8 yards (FS R. Gomez).  DE F. Bennett was out of position 
+on the play.
+
+Mississippi State ball, Q2, 1-10-CLEM35 (04:56) 3-0
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Beattie completes a 2 yard screen to RB J. Carroll (OOB).
+
+Mississippi State ball, Q2, 1-10-CLEM35 (04:56) 3-0
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+OG Steven Winn (MSST) was injured on the play (Ankle). It doesn't look too serious and he 
+should return.
+
+Mississippi State ball, Q2, 2-8-CLEM33 (04:42) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB F. Baldwin runs right tackle for 10 yards (OLB J. Marx).  SS J. Piper missed a tackle.
+
+Mississippi State ball, Q2, 1-10-CLEM23 (04:13) 3-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,6,11-R
+RB F. Baldwin runs right end for 1 yard (ILB J. Walton).  C M. Duncan missed a block that 
+hurt the play.
+
+Mississippi State ball, Q2, 2-9-CLEM22 (03:45) 3-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+RB F. Baldwin runs left guard for -3 yards (ILB D. Mcbride).
+
+Mississippi State ball, Q2, 2-9-CLEM22 (03:45) 3-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+OG Steven Winn (MSST) was injured on the play (Ankle). It doesn't look too serious and he 
+should return.
+
+Mississippi State ball, Q2, 3-12-CLEM25 (03:30) 3-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Beattie completes a 25 yard corner to WR M. Gonzales ****Touchdown!***** SS J. Piper 
+missed a tackle.
+
+Mississippi State ball, Q2, 1-0-CLEM0 (03:03) 9-0
+Anthony Kirkland converts the PAT.
+
+Mississippi State ball, Q2, 1-10-MSST35 (03:03) 10-0
+Anthony Kirkland kicks 55 from Mississippi State 35 to Clemson 10. Ray Martin to Clemson 38 
+for a 28 yard return.
+
+Illegal Use of Hands against TE Jesus Weiss on Clemson. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 10 at the Clemson 28.
+
+Clemson ball, Q2, 1-10-CLEM28 (02:50) 0-10
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB A. Clark runs right guard for -1 yards (SS R. Reed).
+
+Clemson ball, Q2, 2-11-CLEM27 (02:21) 0-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB A. Clark runs left guard for 3 yards (DE J. Johnson). 
+
+Clemson ball, Q2, 3-8-CLEM30 (01:49) 0-10
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+QB D. Dillon runs outside for 2 yards (ILB B. Cox). 
+
+Clemson ball, Q2, 4-6-CLEM32 (01:32) 0-10
+Thomas Holcomb Punts 38 yards to the Mississippi State 30 yard line, where Christopher Parnell 
+returns it to Clemson 40 for a 30 yard return.
+
+Mississippi State ball, Q2, 1-10-CLEM40 (01:15) 10-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+QB J. Beattie completes a 2 yard out to WR M. Gonzales (OOB).
+
+Mississippi State ball, Q2, 2-8-CLEM38 (01:09) 10-0
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,7,11
+QB J. Beattie throws an incomplete pass to WR T. Barnes (CB F. Meredith). WR T. Barnes dropped 
+the pass. CB F. Meredith broke up the pass.
+
+Mississippi State ball, Q2, 3-8-CLEM38 (01:03) 10-0
+Offense: Medium Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB J. Beattie completes a 38 yard corner to WR T. Barnes ****Touchdown!***** OG S. Winn earned 
+a pancake on the play.
+
+Mississippi State ball, Q2, 1-0-CLEM0 (00:49) 16-0
+Anthony Kirkland converts the PAT.
+
+Mississippi State ball, Q2, 1-10-MSST35 (00:49) 17-0
+Anthony Kirkland kicks 67 from Mississippi State 35 to Clemson -2. Ray Martin to Clemson 15 
+for a 17 yard return.
+
+Clemson ball, Q2, 1-10-CLEM15 (00:43) 0-17
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB D. Dillon completes a 12 yard post to TE K. Teague (OOB). CB J. Roman missed a tackle.
+
+Clemson ball, Q2, 1-10-CLEM27 (00:36) 0-17
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+RB A. Clark runs left end for -2 yards (SS R. Reed).
+
+Mississippi State Timeout!
+
+Clemson ball, Q2, 2-12-CLEM25 (00:29) 0-17
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB A. Clark runs right end for 9 yards (CB J. Roman, OLB G. Martinez). 
+
+Mississippi State Timeout!
+
+Clemson ball, Q2, 3-3-CLEM34 (00:20) 0-17
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB E. Johnson runs left end for 7 yards (OLB W. Osborn).  C C. Mccarty had a key block on 
+the run.
+
+Clemson ball, Q3, 1-10-CLEM35 (15:00) 0-17
+Shane Harrison kicks 66 from Clemson 35 to Mississippi State -1. Charles Wyatt to Mississippi 
+State 12 for a 13 yard return.
+
+Mississippi State ball, Q3, 1-10-MSST12 (14:41) 17-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-TMan-R
+QB J. Beattie throws an incomplete pass to TE C. Kirkland.
+
+Mississippi State ball, Q3, 2-10-MSST12 (14:26) 17-0
+Offense: Short Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+QB J. Beattie runs right end for 0 yards He fumbles the ball after a hit by D. Mcbride. It's 
+recovered by D. Mcbride of Clemson. He returns it 2 yards to the Mississippi State 10. DE W. Garcia hurried the QB.
+
+Mississippi State ball, Q3, 2-10-MSST12 (14:26) 17-0
+Offense: Short Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+TE Michael Rios (MSST) was injured on the play (Foot). It doesn't look like he will return.
+
+Clemson ball, Q3, 1-10-MSST10 (14:11) 0-17
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+RB A. Clark runs right end for 1 yard (FS C. Parnell). 
+
+Clemson ball, Q3, 2-9-MSST9 (13:44) 0-17
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB D. Dillon throws an incomplete pass to WR W. Rice.
+
+Clemson ball, Q3, 3-9-MSST9 (13:24) 0-17
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB E. Johnson runs left end for 7 yards (SS R. Reed). 
+
+Clemson ball, Q3, 4-2-MSST2 (12:53) 0-17
+Shane Harrison converts the 20 yard field goal.
+
+Clemson ball, Q3, 1-10-CLEM35 (12:37) 3-17
+Shane Harrison kicks 73 from Clemson 35 to end zone, Touchback.
+
+Mississippi State ball, Q3, 1-10-MSST20 (12:20) 17-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB F. Baldwin runs left end for 0 yards (SS J. Piper). 
+
+Mississippi State ball, Q3, 2-10-MSST20 (11:49) 17-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB F. Baldwin runs left tackle for 0 yards (ILB J. Walton).  OG S. Winn missed a block that 
+hurt the play.
+
+Mississippi State ball, Q3, 3-10-MSST20 (11:20) 17-3
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB J. Beattie completes a 13 yard corner to WR M. Gonzales (ILB D. Mcbride, OLB D. Mccoy). 
+ CB F. Meredith missed a tackle.
+
+Mississippi State ball, Q3, 1-10-MSST33 (10:57) 17-3
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB F. Baldwin runs right guard for 3 yards (OLB D. Mccoy). 
+
+Mississippi State ball, Q3, 2-7-MSST36 (10:27) 17-3
+Offense: Short Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB J. Beattie completes a 6 yard in to WR M. Gonzales (FS R. Gomez). 
+
+Mississippi State ball, Q3, 3-1-MSST42 (10:03) 17-3
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-RG
+Defense: Stop Run, Set: Dime, Play: Dime-pass-MZ
+RB F. Baldwin runs right guard for 3 yards (OLB J. Marx). 
+
+Mississippi State ball, Q3, 1-10-MSST45 (09:34) 17-3
+Offense: Medium Pass, Set: I Form, Play: I-TE-corner-FL-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB J. Beattie completes a 4 yard corner to WR M. Gonzales (FS R. Gomez, ILB D. Mcbride). 
+
+Mississippi State ball, Q3, 2-6-MSST49 (09:11) 17-3
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB F. Baldwin runs left tackle for -3 yards (OLB D. Mccoy). OT L. Braun missed a block that 
+hurt the play.
+
+Mississippi State ball, Q3, 3-9-MSST46 (08:44) 17-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB J. Beattie completes a 8 yard out to WR T. Barnes (OLB D. Mccoy, OLB J. Marx). 
+
+Mississippi State ball, Q3, 4-1-CLEM46 (08:21) 17-3
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB J. Beattie completes a 4 yard screen to TE C. Kirkland (OLB D. Mccoy, ILB J. Walton). 
+
+Mississippi State ball, Q3, 1-10-CLEM42 (07:58) 17-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB J. Carroll runs right guard for 10 yards (OLB D. Mccoy, SS J. Piper).  DE F. Bennett missed 
+a tackle.
+
+Mississippi State ball, Q3, 1-10-CLEM32 (07:28) 17-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+QB J. Beattie throws an incomplete pass to WR T. Barnes.
+
+Mississippi State ball, Q3, 2-10-CLEM32 (07:08) 17-3
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Beattie completes a 10 yard hook to WR T. Barnes (ILB D. Mcbride). 
+
+Mississippi State ball, Q3, 1-10-CLEM22 (06:46) 17-3
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+FB M. Finch runs left guard for 8 yards (OLB D. Mccoy).  OT L. Braun had a key block on the 
+run.
+
+Mississippi State ball, Q3, 2-2-CLEM14 (06:16) 17-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB F. Baldwin runs left tackle for 2 yards (ILB J. Walton). 
+
+Mississippi State ball, Q3, 1-10-CLEM12 (05:49) 17-3
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB J. Beattie completes a 9 yard hook to WR T. Barnes (FS R. Gomez).  He fumbles the ball 
+after a hit by R. Gomez. It's recovered by R. Roth of Clemson. He returns it 0 yards to the Clemson 3.
+
+Clemson ball, Q3, 1-10-CLEM3 (05:28) 3-17
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: 4-3, Play: 43-norm-Man
+QB D. Dillon gets sacked for a 1 yard loss (OLB W. Osborn).  OG K. Brown allowed the sack.
+
+Clemson ball, Q3, 2-11-CLEM2 (05:01) 3-17
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB D. Dillon completes a 4 yard screen to TE K. Teague (OOB).
+
+Clemson ball, Q3, 3-7-CLEM6 (04:53) 3-17
+Offense: Medium Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB D. Dillon throws an incomplete pass to RB E. Johnson (OLB W. Osborn). OLB W. Osborn broke 
+up the pass.
+
+Clemson ball, Q3, 4-7-CLEM6 (04:33) 3-17
+Thomas Holcomb Punts 50 yards to the Mississippi State 44 yard line, where Christopher Parnell 
+returns it to Mississippi State 50 for a 6 yard return.
+
+Mississippi State ball, Q3, 1-10-MSST50 (04:18) 17-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB J. Beattie throws an incomplete pass to WR T. Barnes (CB A. Cade). CB A. Cade broke up 
+the pass.
+
+Mississippi State ball, Q3, 2-10-MSST50 (04:00) 17-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB J. Carroll runs right guard for 4 yards (SS J. Piper, FS F. Shultz). 
+
+Mississippi State ball, Q3, 2-10-MSST50 (04:00) 17-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+CB Frank Meredith (CLEM) was injured on the play (OK). It doesn't look like he will return.
+
+Mississippi State ball, Q3, 3-6-CLEM46 (03:45) 17-3
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB J. Beattie throws an incomplete pass to WR A. Gomez.
+
+Mississippi State ball, Q3, 4-6-CLEM46 (03:30) 17-3
+Scott Pena Punts 41 yards to the Clemson 5 yard line, where it goes out of bounds.
+
+Clemson ball, Q3, 1-10-CLEM5 (03:14) 3-17
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-SZ-B11
+QB D. Dillon throws an incomplete pass to WR W. Rice.
+
+Clemson ball, Q3, 2-10-CLEM5 (02:55) 3-17
+Offense: Short Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB D. Dillon completes a 9 yard in to WR M. Hilliard (FS C. Parnell). 
+
+Clemson ball, Q3, 3-1-CLEM14 (02:34) 3-17
+Offense: Inside Run, Set: I Form, Play: I-FB-counter-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+FB C. Rodriguez runs right guard for 6 yards (FS C. Parnell). 
+
+Clemson ball, Q3, 1-10-CLEM20 (02:01) 3-17
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB A. Clark runs right tackle for -2 yards (OLB G. Martinez). OT J. Young missed a block that 
+hurt the play.
+
+Clemson ball, Q3, 2-12-CLEM18 (01:32) 3-17
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: 4-3, Play: 43-run-Man-B5,7
+QB D. Dillon completes a 11 yard hook to RB A. Clark (FS C. Parnell).  C C. Mccarty earned 
+a pancake on the play.
+
+Clemson ball, Q3, 3-1-CLEM29 (01:08) 3-17
+Offense: Inside Run, Set: I Form, Play: I-FB-counter-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+FB C. Rodriguez runs right guard for 5 yards (DE P. Brown, DT D. Smith). 
+
+Clemson ball, Q3, 1-10-CLEM34 (00:35) 3-17
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB A. Clark runs left guard for 5 yards (ILB B. Cox, OLB G. Martinez). 
+
+Clemson ball, Q3, 2-5-CLEM39 (00:09) 3-17
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+QB D. Dillon completes a 2 yard post to TE K. Teague (OOB).
+
+Clemson ball, Q4, 3-3-CLEM41 (15:00) 3-17
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: 4-3, Play: 43-run-Man-B5,7
+QB D. Dillon throws an incomplete pass to WR W. Rice. DT J. Dennis hurried the QB.
+
+Clemson ball, Q4, 3-3-CLEM41 (15:00) 3-17
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: 4-3, Play: 43-run-Man-B5,7
+DT Morris Holley (MSST) was injured on the play (Finger). It doesn't look too serious and 
+he should return.
+
+Clemson ball, Q4, 4-3-CLEM41 (14:44) 3-17
+Thomas Holcomb Punts 43 yards to the Mississippi State 16 yard line, where Christopher Parnell 
+returns it to Mississippi State 25 for a 9 yard return.
+
+Mississippi State ball, Q4, 1-10-MSST25 (14:26) 17-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB J. Beattie throws an incomplete pass to WR T. Barnes (FS R. Gomez). WR T. Barnes ran an 
+incorrect route. FS R. Gomez broke up the pass.
+
+Mississippi State ball, Q4, 2-10-MSST25 (14:07) 17-3
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,5,6,7,
+QB J. Beattie throws an incomplete pass to WR A. Gomez. WR A. Gomez dropped the pass.
+
+Holding against OT Julio Gilbert on Mississippi State. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 20 at the Mississippi State 15.
+
+Mississippi State ball, Q4, 2-20-MSST15 (13:55) 17-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-B7,11-R
+RB J. Carroll runs right end for 9 yards (ILB D. Mcbride).  CB A. Cade missed a tackle.
+
+Mississippi State ball, Q4, 3-11-MSST24 (13:23) 17-3
+Offense: Short Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB J. Beattie completes a 15 yard in to WR J. George (SS J. Piper).  FS F. Shultz missed a 
+tackle.
+
+Mississippi State ball, Q4, 1-10-MSST39 (13:00) 17-3
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+FB M. Finch runs left guard for 11 yards (ILB J. Walton, FS A. Hernandez). 
+
+Mississippi State ball, Q4, 1-10-MSST39 (13:00) 17-3
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+DE Frank Bennett (CLEM) was injured on the play (OK). It doesn't look like he will return.
+
+Mississippi State ball, Q4, 1-10-MSST50 (12:46) 17-3
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB J. Beattie throws an incomplete pass to WR M. Gonzales.
+
+Mississippi State ball, Q4, 2-10-MSST50 (12:26) 17-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,7,11
+RB F. Baldwin runs right tackle for 6 yards (ILB D. Mcbride). 
+
+Mississippi State ball, Q4, 3-4-CLEM44 (11:59) 17-3
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B11
+QB J. Beattie completes a 11 yard screen to RB F. Baldwin (OLB J. Marx).  He fumbles the ball 
+after a hit by J. Marx. It's recovered by D. Mcbride of Clemson. He returns it 0 yards to the Clemson 33. F. Baldwin made a great catch. OT J. Gilbert earned a pancake on the play. OLB D. Mccoy was out of position on the play.
+
+Clemson ball, Q4, 1-10-CLEM33 (11:36) 3-17
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+False Start against OG John Brown on Clemson. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Clemson 28.
+
+Clemson ball, Q4, 1-15-CLEM28 (11:36) 3-17
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Dillon completes a 41 yard out-and-up to WR W. Rice (SS R. Reed).  CB J. Roman allowed 
+the big play.
+
+Clemson ball, Q4, 1-15-CLEM28 (11:36) 3-17
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+C Calvin Mccarty (CLEM) was injured on the play (OK). It doesn't look like he will return.
+
+Clemson ball, Q4, 1-10-MSST31 (11:21) 3-17
+Offense: Short Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Dillon completes a 1 yard out to TE K. Teague (SS R. Reed). 
+
+Clemson ball, Q4, 2-9-MSST30 (11:00) 3-17
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+RB A. Clark runs right end for 1 yard (SS R. Reed).  A. Clark missed a hole that could have 
+resulted in a bigger gain.
+
+Clemson ball, Q4, 3-8-MSST29 (10:29) 3-17
+Offense: Medium Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-Man-B5
+QB D. Dillon throws an incomplete pass to WR W. Rice.
+
+Clemson ball, Q4, 4-8-MSST29 (10:14) 3-17
+Shane Harrison converts the 47 yard field goal.
+
+Shane Harrison kicks the ball out of bounds! Penalty against Clemson, the ball will be spotted 
+at the 40 yardline.
+Mississippi State ball, Q4, 1-10-MSST40 (09:40) 17-6
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB J. Carroll runs right tackle for 2 yards (OLB J. Marx). 
+
+Mississippi State ball, Q4, 2-8-MSST42 (09:13) 17-6
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+QB J. Beattie completes a 10 yard hook to RB J. Carroll (OOB).
+
+Mississippi State ball, Q4, 1-10-CLEM48 (08:55) 17-6
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB F. Baldwin runs right end for -3 yards (ILB J. Walton).
+
+Mississippi State ball, Q4, 2-13-MSST49 (08:28) 17-6
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Beattie gets sacked for a 6 yard loss (ILB D. Mcbride).  C M. Duncan allowed the sack.
+
+Mississippi State ball, Q4, 3-19-MSST43 (08:09) 17-6
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B5,7
+QB J. Beattie completes a 57 yard in to TE M. Rios ****Touchdown!***** OT J. Gilbert earned 
+a pancake on the play.
+
+Mississippi State ball, Q4, 1-0-CLEM0 (07:42) 23-6
+Anthony Kirkland has his PAT blocked by ILB Dion Mcbride! The ball is recovered by Clemson 
+CLEM 3
+
+Mississippi State ball, Q4, 1-10-MSST35 (07:42) 23-6
+Anthony Kirkland kicks 67 from Mississippi State 35 to Clemson -2. Ray Martin to Clemson 33 
+for a 35 yard return.
+
+Illegal Use of Hands against OLB Phillip Selby on Clemson. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 10 at the Clemson 23.
+
+Clemson ball, Q4, 1-10-CLEM23 (07:32) 6-23
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB D. Dillon gets sacked for a 14 yard loss (DE J. Johnson).  OG K. Brown allowed the sack.
+
+Clemson ball, Q4, 2-24-CLEM9 (07:13) 6-23
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB A. Clark runs left end for 5 yards (OLB G. Martinez, FS C. Parnell). 
+
+Grabbing Face Mask against CB James Elliott on Mississippi State. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Third and 14 at the Clemson 19.
+
+Clemson ball, Q4, 3-14-CLEM19 (07:03) 6-23
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB D. Dillon throws an incomplete pass to WR A. Hernandez (FS C. Parnell). FS C. Parnell broke 
+up the pass.
+
+Clemson ball, Q4, 4-14-CLEM19 (06:47) 6-23
+Thomas Holcomb Punts 32 yards to the Mississippi State 49 yard line, where Christopher Parnell 
+returns it to Mississippi State 50 for a 1 yard return.
+
+Mississippi State ball, Q4, 1-10-MSST50 (06:31) 23-6
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB F. Baldwin runs left guard for 0 yards (ILB D. Mcbride). 
+
+Mississippi State ball, Q4, 2-10-MSST50 (06:03) 23-6
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B5,8
+QB J. Beattie completes a 2 yard screen to RB F. Baldwin (OOB).
+
+Mississippi State ball, Q4, 3-8-CLEM48 (05:45) 23-6
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-DZ-B7
+QB J. Beattie throws an incomplete pass to WR T. Barnes.
+
+Mississippi State ball, Q4, 4-8-CLEM48 (05:28) 23-6
+Scott Pena Punts 45 yards to the Clemson 3 yard line, where it goes out of bounds.
+
+Clemson ball, Q4, 1-10-CLEM3 (05:11) 6-23
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB A. Clark runs right guard for 4 yards (CB J. Elliott). 
+
+Clemson ball, Q4, 2-6-CLEM7 (04:38) 6-23
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB A. Clark runs right tackle for 2 yards (OLB G. Martinez). 
+
+Clemson ball, Q4, 3-4-CLEM9 (04:05) 6-23
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+QB D. Dillon completes a 5 yard in to WR W. Rice (OLB W. Osborn, FS C. Parnell). 
+
+Clemson ball, Q4, 1-10-CLEM14 (03:38) 6-23
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+QB D. Dillon throws an incomplete pass to RB E. Johnson (OLB G. Martinez). RB E. Johnson dropped 
+the pass. OLB G. Martinez broke up the pass.
+
+Clemson ball, Q4, 2-10-CLEM14 (03:20) 6-23
+Offense: Short Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB D. Dillon completes a 5 yard out to TE K. Teague (SS J. Carlson). 
+
+Clemson ball, Q4, 3-5-CLEM19 (02:57) 6-23
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Dillon throws an incomplete pass to WR W. Rice.
+
+Clemson ball, Q4, 4-5-CLEM19 (02:41) 6-23
+Thomas Holcomb Punts 42 yards to the Mississippi State 39 yard line, where Christopher Parnell 
+returns it to Mississippi State 39 for a 0 yard return.
+
+Mississippi State ball, Q4, 1-10-MSST39 (02:26) 23-6
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB F. Baldwin runs right end for 7 yards (OLB D. Mccoy). 
+
+Mississippi State ball, Q4, 2-3-MSST46 (01:55) 23-6
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+RB F. Baldwin runs right tackle for 10 yards (OLB J. Marx, CB A. Cade).  TE C. Kirkland had 
+a key block on the run. ILB D. Mcbride was out of position on the play.
+
+Mississippi State ball, Q4, 1-10-CLEM44 (01:27) 23-6
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+RB F. Baldwin runs right tackle for 2 yards (ILB D. Mcbride). 
+
+Mississippi State ball, Q4, 2-8-CLEM42 (00:58) 23-6
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB J. Carroll runs right guard for 7 yards (FS F. Shultz).  ILB D. Mcbride was out of position 
+on the play.
+
+Clemson Timeout!
+
+Mississippi State ball, Q4, 3-1-CLEM35 (00:49) 23-6
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB F. Baldwin runs left end for 4 yards (ILB J. Walton). 
+
+Clemson Timeout!
+
+Clemson Timeout!
+
+Mississippi State ball, Q4, 1-10-CLEM31 (00:41) 23-6
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+The QB takes a knee.
+
+Mississippi State ball, Q4, 2-11-CLEM32 (00:33) 23-6
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+The QB takes a knee.
+

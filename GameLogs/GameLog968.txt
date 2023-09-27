@@ -1,0 +1,1016 @@
+Utah ball, Q1, 1-10-UTAH35 (15:00) 0-0
+Jerald Church kicks 73 from Utah 35 to end zone, Touchback.
+
+Houston ball, Q1, 1-10-HOU20 (14:40) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB D. Harris throws an incomplete pass to TE T. Williams. DT R. Alexander hurried the QB.
+
+Houston ball, Q1, 2-10-HOU20 (14:23) 0-0
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB D. Harris completes a 47 yard out-and-up to WR W. Martin (FS R. Bradley).  He fumbles the 
+ball after a hit by R. Bradley. It's recovered by R. Alexander of Utah. He returns it 0 yards to the Utah 33. C W. Medley earned a pancake on the play. SS J. Robertson allowed the big play.
+
+Utah ball, Q1, 1-10-UTAH33 (13:54) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB R. Knight completes a 12 yard hook to RB R. Bowden (OLB M. Peterson, ILB D. Mccabe).  FS 
+F. Green missed a tackle.
+
+Utah ball, Q1, 1-10-UTAH45 (13:30) 0-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+RB P. Vega runs left tackle for 2 yards (CB H. Villarreal). 
+
+Utah ball, Q1, 2-8-UTAH47 (13:04) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB R. Bowden runs right tackle for 3 yards (OOB).
+
+Utah ball, Q1, 3-5-UTAH50 (12:54) 0-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+RB P. Vega runs left tackle for 3 yards (ILB D. Mccabe). 
+
+Utah ball, Q1, 4-2-HOU47 (12:25) 0-0
+Daniel Navarro Punts 42 yards to the Houston 5 yard line, where it goes out of bounds.
+
+Houston ball, Q1, 1-10-HOU5 (12:05) 0-0
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Normal, Set: 4-2-5, Play: 425-norm-DZ
+RB D. Moore runs right tackle for 2 yards (OOB).
+
+Houston ball, Q1, 2-8-HOU7 (11:55) 0-0
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB D. Moore runs left end for 18 yards (FS W. Brown).  FS W. Brown missed a tackle.
+
+Houston ball, Q1, 1-10-HOU25 (11:25) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-2-5, Play: 425-norm-TMan-Spy
+QB D. Harris throws an incomplete pass to RB D. Rivera. RB D. Rivera dropped the pass.
+
+Houston ball, Q1, 2-10-HOU25 (11:08) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B5,11
+RB D. Rivera runs right guard for 2 yards (CB P. Perez, SS J. Robertson). 
+
+Houston ball, Q1, 3-8-HOU27 (10:37) 0-0
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB D. Harris completes a 13 yard streak to WR M. Dalton (SS L. Warren, FS R. Bradley).  SS 
+J. Robertson was out of position on the play.
+
+Houston ball, Q1, 1-10-HOU40 (10:09) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Normal, Set: 4-2-5, Play: 425-norm-DZ
+RB D. Rivera runs right guard for 2 yards (ILB J. Mccollum). 
+
+Grabbing Face Mask against SS James Robertson on Utah. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Second and 3 at the Houston 47.
+
+Houston ball, Q1, 2-3-HOU47 (09:57) 0-0
+Offense: Inside Run, Set: I Form, Play: I-FB-straight-LG
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B6,8-L
+FB T. Albright runs left guard for 1 yard (ILB J. Mccollum). 
+
+Offsides against ILB Jose Mccollum on Utah. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Utah 48.
+
+Houston ball, Q1, 1-10-UTAH48 (09:47) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-MZ-B6,8,10
+RB D. Rivera runs left guard for 17 yards (SS J. Robertson, FS W. Brown).  FS W. Brown was 
+out of position on the play.
+
+Houston ball, Q1, 1-10-UTAH31 (09:17) 0-0
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B5,6
+RB D. Moore runs left end for -4 yards (FS W. Brown). OT C. Hernandez missed a block that 
+hurt the play.
+
+Houston ball, Q1, 2-14-UTAH35 (08:49) 0-0
+Offense: Long Pass, Set: Pro Set, Play: PS-TE-streak-SE-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB D. Harris completes a 35 yard streak to TE T. Williams ****Touchdown!***** C W. Medley 
+earned a pancake on the play. CB M. Brown allowed the big play.
+
+Houston ball, Q1, 1-0-UTAH0 (08:20) 6-0
+Michael Beach converts the PAT.
+
+Houston ball, Q1, 1-10-HOU35 (08:20) 7-0
+Michael Beach kicks 55 from Houston 35 to Utah 10. David Lemons to Utah 33 for a 23 yard return.
+
+Utah ball, Q1, 1-10-UTAH33 (08:02) 0-7
+Offense: Medium Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB R. Knight runs outside for 1 yard (OOB).
+
+Utah ball, Q1, 2-9-UTAH34 (07:46) 0-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB R. Knight completes a 6 yard in to WR D. Denney (FS K. Ford). 
+
+Utah ball, Q1, 2-9-UTAH34 (07:46) 0-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+FB Daniel Thompson (UTAH) was injured on the play (Head). It doesn't look like he will return.
+
+Utah ball, Q1, 3-3-UTAH40 (07:29) 0-7
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-MZ-B7,9
+QB R. Knight completes a 1 yard out to WR D. Denney (SS K. Cantu). 
+
+Utah ball, Q1, 4-2-UTAH41 (07:05) 0-7
+Daniel Navarro Punts 36 yards to the Houston 23 yard line, where Edward Johnson returns it 
+to Houston 27 for a 4 yard return.
+
+Grabbing Face Mask against TE David Baxter on Utah. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Houston 32.
+
+Houston ball, Q1, 1-10-HOU32 (06:54) 7-0
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Normal, Set: 4-2-5, Play: 425-norm-Man
+RB D. Moore runs right end for 1 yard (DE C. Sullivan). 
+
+Houston ball, Q1, 2-9-HOU33 (06:27) 7-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB D. Harris throws an incomplete pass to RB D. Moore.
+
+Houston ball, Q1, 3-9-HOU33 (06:12) 7-0
+Offense: Short Pass, Set: Pro Set, Play: PS-TE-streak-SE-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB D. Harris completes a 8 yard dump off to RB D. Moore (OOB).
+
+Houston ball, Q1, 4-1-HOU41 (06:01) 7-0
+Daniel Daniels Punts 36 yards to the Utah 23 yard line, where Pedro Perez returns it to Utah 
+25 for a 2 yard return.
+
+Utah ball, Q1, 1-10-UTAH25 (05:41) 0-7
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB R. Knight completes a 26 yard hook to WR J. Edwards (OLB M. Peterson, OLB W. Lozano).  
+OG N. Wallace earned a pancake on the play. CB A. Cullen allowed the big play.
+
+Utah ball, Q1, 1-10-UTAH25 (05:41) 0-7
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+WR Charles Braswell (UTAH) was injured on the play (Elbow). It doesn't look too serious and 
+he should return.
+
+Utah ball, Q1, 1-10-HOU49 (05:24) 0-7
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+RB P. Vega runs left guard for 1 yard (ILB D. Mccabe). 
+
+Utah ball, Q1, 2-9-HOU48 (04:51) 0-7
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB R. Bowden runs left end for -4 yards (ILB D. Mccabe).
+
+Utah ball, Q1, 3-13-UTAH48 (04:19) 0-7
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB R. Knight runs outside for 1 yard (FS K. Ford).  OLB M. Peterson hurried the QB.
+
+Utah ball, Q1, 3-13-UTAH48 (04:19) 0-7
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+C Michael White (UTAH) was injured on the play (Groin). It doesn't look too serious and he 
+should return.
+
+Utah ball, Q1, 4-12-UTAH49 (04:02) 0-7
+They line up for the Punt...[B]
+Wait, it's a fake![B]
+Lyle Harris runs it and dives for 
+the first down![B]
+He made it - the fake worked!
+
+Utah ball, Q1, 1-10-HOU31 (03:32) 0-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB P. Vega runs right tackle for 9 yards (FS F. Green, CB H. Villarreal).  DE L. Staton missed 
+a tackle.
+
+Utah ball, Q1, 1-10-HOU31 (03:32) 0-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+WR David Denney (UTAH) was injured on the play (Nose). It doesn't look too serious and he 
+should return.
+
+Utah ball, Q1, 2-1-HOU22 (03:19) 0-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+QB R. Knight throws an incomplete pass to TE T. Bernard.
+
+Utah ball, Q1, 3-1-HOU22 (03:01) 0-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB P. Vega runs right guard for 0 yards (CB H. Villarreal).  OG L. Clark missed a block that 
+hurt the play.
+
+Utah ball, Q1, 3-1-HOU22 (03:01) 0-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+FS Kevin Ford (HOU) was injured on the play (Quadriceps). It doesn't look like he will return.
+
+Utah ball, Q1, 4-1-HOU22 (02:44) 0-7
+Jerald Church converts the 40 yard field goal.
+
+Utah ball, Q1, 1-10-UTAH35 (02:24) 3-7
+Jerald Church kicks 55 from Utah 35 to Houston 10. William Martin to Houston 33 for a 23 yard 
+return.
+
+Houston ball, Q1, 1-10-HOU33 (02:09) 7-3
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ-B7,9
+RB D. Rivera runs right tackle for 5 yards (DE E. Moore). 
+
+Houston ball, Q1, 2-5-HOU38 (01:36) 7-3
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB D. Harris throws an incomplete pass to WR M. Dalton (FS R. Bradley). WR M. Dalton ran an 
+incorrect route. FS R. Bradley broke up the pass.
+
+Houston ball, Q1, 3-5-HOU38 (01:16) 7-3
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Normal, Set: 4-2-5, Play: 425-norm-Man-B8,10
+RB D. Moore runs left tackle for 9 yards (OOB).
+
+Houston ball, Q1, 3-5-HOU38 (01:16) 7-3
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Normal, Set: 4-2-5, Play: 425-norm-Man-B8,10
+RB David Moore (HOU) was injured on the play (Shoulder). It doesn't look too serious and he 
+should return.
+
+Houston ball, Q1, 1-10-HOU47 (01:03) 7-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 4-2-5, Play: 425-norm-TMan-Spy
+QB D. Harris throws an incomplete pass to WR M. Dalton. DE C. Sullivan hurried the QB.
+
+Houston ball, Q1, 2-10-HOU47 (00:43) 7-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ
+QB D. Harris completes a 7 yard out to WR W. Martin (CB M. Brown, ILB J. Mccollum). 
+
+Houston ball, Q1, 3-3-UTAH46 (00:19) 7-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB D. Moore runs right end for 6 yards (OLB T. Yancey). 
+
+Illegal Motion against TE Todd Williams on Houston. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 8 at the Houston 49.
+
+Houston ball, Q1, 3-8-HOU49 (00:08) 7-3
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+D. Harris has his 26 yard pass intercepted by J. Robertson at the UTAH 25. He returns it 0 
+yards to the Utah 25.
+
+Utah ball, Q2, 1-10-UTAH25 (15:00) 3-7
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+False Start against Utah. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Utah 20.
+
+Utah ball, Q2, 1-15-UTAH20 (15:00) 3-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB P. Vega runs left guard for 10 yards (OLB M. Peterson, SS K. Cantu).  DE J. Roman missed 
+a tackle.
+
+Utah ball, Q2, 2-5-UTAH30 (14:27) 3-7
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB R. Knight runs outside for 13 yards (SS K. Cantu).  OLB M. Peterson hurried the QB.
+
+Utah ball, Q2, 1-10-UTAH43 (14:12) 3-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB R. Bowden runs right tackle for 1 yard (OLB M. Peterson).  OG N. Wallace missed a block 
+that hurt the play.
+
+Utah ball, Q2, 2-9-UTAH44 (13:39) 3-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB R. Bowden runs right guard for 3 yards (OLB M. Peterson). 
+
+Utah ball, Q2, 3-6-UTAH47 (13:06) 3-7
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B5,6,8
+QB R. Knight completes a 9 yard streak to WR C. Samuels (OLB W. Lozano). 
+
+Utah ball, Q2, 1-10-HOU44 (12:38) 3-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB P. Vega runs right guard for 2 yards (SS K. Cantu). 
+
+Utah ball, Q2, 2-8-HOU42 (12:05) 3-7
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB R. Knight completes a 8 yard hook to WR J. Edwards (FS F. Green).  He fumbles the ball 
+after a hit by F. Green. It's recovered by D. Ray of Houston. He returns it 0 yards to the Houston 34.
+
+Houston ball, Q2, 1-10-HOU34 (11:39) 7-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Normal, Set: 4-2-5, Play: 425-norm-Man
+QB D. Harris completes a 6 yard in to WR W. Martin (FS W. Brown). 
+
+Houston ball, Q2, 2-4-HOU40 (11:13) 7-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB D. Rivera runs right end for 1 yard (SS L. Warren). 
+
+Houston ball, Q2, 3-3-HOU41 (10:44) 7-3
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B11
+QB D. Harris completes a 8 yard cross to WR W. Martin (OOB).
+
+Houston ball, Q2, 1-10-HOU49 (10:31) 7-3
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Normal, Set: 4-2-5, Play: 425-norm-Man
+QB D. Harris throws an incomplete pass to TE T. Williams (ILB J. Mccollum). ILB J. Mccollum 
+broke up the pass.
+
+Houston ball, Q2, 2-10-HOU49 (10:12) 7-3
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Normal, Set: 4-2-5, Play: 425-norm-MZ-B9
+RB D. Rivera runs left end for 1 yard He fumbles the ball after a hit by J. Robertson. It's 
+recovered by T. Albright of Houston. OG H. Macias missed a block that hurt the play.
+
+Houston ball, Q2, 3-9-HOU50 (09:43) 7-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB D. Moore runs right guard for 7 yards (SS J. Robertson). 
+
+Houston ball, Q2, 4-2-UTAH43 (09:14) 7-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB D. Rivera runs right tackle for -1 yards (ILB J. Mccollum).
+
+Utah ball, Q2, 1-10-UTAH44 (08:45) 3-7
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: 3-3-5, Play: 335-norm-Man
+QB R. Knight completes a 7 yard in to WR C. Braswell (FS F. Green, SS K. Cantu). 
+
+Utah ball, Q2, 2-3-HOU49 (08:23) 3-7
+Offense: Inside Run, Set: Quads, Play: Q-QB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB R. Knight runs right guard for 2 yards (SS C. Crawford). 
+
+Utah ball, Q2, 2-3-HOU49 (08:23) 3-7
+Offense: Inside Run, Set: Quads, Play: Q-QB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+WR Charles Braswell (UTAH) was injured on the play (Lower Leg). It doesn't look too serious 
+and he should return.
+
+Utah ball, Q2, 3-1-HOU47 (08:09) 3-7
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB R. Knight completes a 9 yard out to WR C. Braswell (CB H. Villarreal). 
+
+Holding against C Michael White on Utah. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Third and 11 at the Utah 43.
+
+Utah ball, Q2, 3-11-UTAH43 (07:57) 3-7
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-posts
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+R. Knight has his 37 yard pass intercepted by D. Ray at the HOU 20. He returns it 16 yards 
+to the Houston 36. R. Knight made a bad pass. ILB D. Mccabe hurried the QB.
+
+Houston ball, Q2, 1-10-HOU36 (07:29) 7-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B5,6
+QB D. Harris completes a 15 yard hook to RB D. Rivera (CB M. Brown).  CB M. Brown missed a 
+tackle.
+
+Houston ball, Q2, 1-10-UTAH49 (07:06) 7-3
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Normal, Set: 4-2-5, Play: 425-norm-Man
+QB D. Harris completes a 9 yard dump off to WR C. Ayers (CB M. Brown, SS J. Robertson). 
+
+Houston ball, Q2, 2-1-UTAH40 (06:43) 7-3
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB D. Rivera runs left end for 1 yard (FS R. Bradley). 
+
+Houston ball, Q2, 1-10-UTAH39 (06:15) 7-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB D. Rivera runs right guard for 2 yards (ILB J. Mccollum). 
+
+Houston ball, Q2, 2-8-UTAH37 (06:00) 7-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB D. Moore runs right tackle for 4 yards (OOB).
+
+Houston ball, Q2, 3-4-UTAH33 (05:44) 7-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Normal, Set: 4-2-5, Play: 425-norm-Man-B6
+QB D. Harris throws an incomplete pass to WR E. Johnson (CB P. Perez). CB P. Perez broke up 
+the pass.
+
+Houston ball, Q2, 4-4-UTAH33 (05:27) 7-3
+Michael Beach converts the 51 yard field goal.
+
+Houston ball, Q2, 1-10-HOU35 (05:11) 10-3
+Michael Beach kicks 67 from Houston 35 to Utah -2. David Lemons to Utah 19 for a 21 yard return.
+
+Utah ball, Q2, 1-10-UTAH19 (04:56) 3-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+RB P. Vega runs left guard for 12 yards (OLB W. Lozano, FS C. Hargrove). 
+
+Utah ball, Q2, 1-10-UTAH31 (04:25) 3-10
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB R. Knight gets sacked for a 1 yard loss (DE J. Roman).  OG N. Wallace allowed the sack.
+
+Utah ball, Q2, 1-10-UTAH31 (04:25) 3-10
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+FS Franklin Green (HOU) was injured on the play (Ankle). It doesn't look like he will return.
+
+Utah ball, Q2, 2-11-UTAH30 (04:13) 3-10
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB R. Bowden runs right tackle for 1 yard (OLB M. Peterson). 
+
+Utah ball, Q2, 3-10-UTAH31 (03:47) 3-10
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB R. Knight completes a 12 yard cross to WR D. Denney (OLB W. Lozano, FS C. Hargrove).  OLB 
+W. Lozano missed a tackle.
+
+Holding against OT Clay Guzman on Utah. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Third and 20 at the Utah 21.
+
+Utah ball, Q2, 3-20-UTAH21 (03:36) 3-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+RB P. Vega runs right end for 3 yards (CB H. Villarreal, CB A. Cullen). 
+
+Utah ball, Q2, 4-17-UTAH24 (03:06) 3-10
+Daniel Navarro Punts 44 yards to the Houston 32 yard line, where Edward Johnson returns it 
+to Houston 49 for a 17 yard return.
+
+Unnecessary Roughness against RB Jon Clark on Utah. The Penalty is for 15 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Utah 36.
+
+Houston ball, Q2, 1-10-UTAH36 (02:53) 10-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Normal, Set: 4-2-5, Play: 425-norm-Man-B6
+QB D. Harris completes a 6 yard post to WR M. Dalton (CB P. Perez). 
+
+Houston ball, Q2, 2-4-UTAH30 (02:26) 10-3
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ-B7,9
+QB D. Harris completes a 10 yard screen to RB D. Rivera (SS J. Robertson). 
+
+Houston ball, Q2, 1-10-UTAH20 (02:02) 10-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B5,6
+RB D. Rivera runs left guard for -1 yards (SS J. Robertson).
+
+Houston ball, Q2, 2-11-UTAH21 (01:52) 10-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+Delay of Game against Houston. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 16 at the Utah 26.
+
+Houston ball, Q2, 2-16-UTAH26 (01:52) 10-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB D. Harris completes a 1 yard out to WR M. Dalton (FS W. Brown). 
+
+Holding against OG Maynard Brown on Houston. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 26 at the Utah 36.
+
+Houston ball, Q2, 2-26-UTAH36 (01:37) 10-3
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB D. Harris completes a 9 yard screen to RB D. Rivera (FS R. Bradley, ILB J. Mccollum). 
+
+Houston ball, Q2, 3-17-UTAH27 (01:16) 10-3
+Offense: Long Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+D. Harris has his 0 yard pass intercepted by R. Bradley at the UTAH 27. He returns it 10 yards 
+to the Utah 37.
+
+Holding against CB Pedro Perez on Utah. The Penalty is for 10 yards, and an automatic first 
+down.
+The Offense will accept the penalty. It is now First and 10 at the Utah 17.
+
+Houston ball, Q2, 1-10-UTAH17 (01:02) 10-3
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: 4-2-5, Play: 425-norm-Man-B6
+QB D. Harris gets sacked for a 3 yard loss (ILB J. Mccollum).  OT C. Hernandez allowed the 
+sack.
+
+Houston ball, Q2, 2-13-UTAH20 (00:55) 10-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+QB D. Harris completes a 11 yard in to WR M. Dalton (OOB). M. Dalton made a great catch. CB 
+P. Perez was out of position on the play.
+
+Houston ball, Q2, 3-2-UTAH9 (00:48) 10-3
+Offense: Short Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-MZ-B6,8,10
+QB G. Frazier runs right end for 6 yards (OOB).
+
+Houston ball, Q2, 1-3-UTAH3 (00:42) 10-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+QB D. Harris gets sacked for a 10 yard loss (DE C. Sullivan).  OT C. Hernandez allowed the 
+sack.
+
+Houston ball, Q2, 2-13-UTAH13 (00:36) 10-3
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB D. Harris completes a 5 yard screen to RB D. Rivera (ILB J. Mccollum). 
+
+Houston Timeout!
+
+Houston ball, Q2, 3-8-UTAH8 (00:29) 10-3
+Offense: Long Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+D. Harris has his 8 yard pass intercepted by M. Brown at the UTAH 0. He kneels for the touchback. 
+DE E. Moore hurried the QB.
+
+Houston ball, Q3, 1-10-HOU35 (15:00) 10-3
+Michael Beach kicks 73 from Houston 35 to end zone, Touchback.
+
+Utah ball, Q3, 1-10-UTAH20 (14:43) 3-10
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB P. Vega runs left end for 8 yards (FS C. Hargrove, ILB D. Mccabe).  OG N. Wallace had a 
+key block on the run.
+
+Utah ball, Q3, 2-2-UTAH28 (14:10) 3-10
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB P. Vega runs left end for 1 yard (OLB M. Peterson).  TE T. Bernard missed a block that 
+hurt the play.
+
+Utah ball, Q3, 3-1-UTAH29 (13:40) 3-10
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB P. Vega runs right tackle for 0 yards (SS K. Cantu). 
+
+Utah ball, Q3, 4-1-UTAH29 (13:13) 3-10
+Daniel Navarro Punts 44 yards to the Houston 27 yard line, where Edward Johnson returns it 
+to Houston 29 for a 2 yard return.
+
+Houston ball, Q3, 1-10-HOU29 (12:54) 10-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB D. Moore runs right tackle for 1 yard (FS W. Brown). 
+
+Houston ball, Q3, 2-9-HOU30 (12:26) 10-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ-B7,9
+QB D. Harris throws an incomplete pass to WR M. Dalton. WR M. Dalton dropped the pass.
+
+Houston ball, Q3, 3-9-HOU30 (12:09) 10-3
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-MZ-B6,8,10
+QB D. Harris throws an incomplete pass to WR M. Dalton. ILB J. Mccollum hurried the QB.
+
+Houston ball, Q3, 4-9-HOU30 (11:53) 10-3
+Daniel Daniels Punts 43 yards to the Utah 27 yard line, where Pedro Perez returns it to Utah 
+29 for a 2 yard return.
+
+Utah ball, Q3, 1-10-UTAH29 (11:33) 3-10
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB P. Vega runs left tackle for 2 yards (OLB M. Peterson). 
+
+Grabbing Face Mask against CB Anthony Cullen on Houston. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Second and 3 at the Utah 36.
+
+Utah ball, Q3, 2-3-UTAH36 (11:22) 3-10
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+RB P. Vega runs left tackle for -3 yards (FS C. Hargrove). OG N. Wallace missed a block that 
+hurt the play.
+
+Offsides against OLB Mario Peterson on Houston. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Utah 41.
+
+Utah ball, Q3, 1-10-UTAH41 (11:11) 3-10
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB R. Knight throws an incomplete pass to WR D. Denney (CB H. Villarreal). CB H. Villarreal 
+broke up the pass.
+
+Utah ball, Q3, 2-10-UTAH41 (10:55) 3-10
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB R. Bowden runs left end for 8 yards (SS K. Cantu, ILB D. Mccabe). 
+
+Grabbing Face Mask against DE Leo Staton on Houston. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Houston 46.
+
+Utah ball, Q3, 1-10-HOU46 (10:42) 3-10
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB R. Bowden runs left end for 0 yards (SS K. Cantu).  C M. White missed a block that hurt 
+the play.
+
+Utah ball, Q3, 2-10-HOU46 (10:12) 3-10
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB R. Knight completes a 7 yard hook to RB P. Vega (CB A. Cullen).  He fumbles the ball after 
+a hit by A. Cullen. It's recovered by W. Lozano of Houston. He returns it 3 yards to the Houston 42.
+
+Houston ball, Q3, 1-10-HOU42 (09:50) 10-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB D. Moore runs right guard for 6 yards (FS R. Bradley, OLB T. Yancey). 
+
+Houston ball, Q3, 2-4-HOU48 (09:18) 10-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ
+RB D. Rivera runs right end for 5 yards (OLB T. Yancey). 
+
+Houston ball, Q3, 1-10-UTAH47 (08:45) 10-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: 4-2-5, Play: 425-norm-Man
+RB D. Rivera runs left guard for 3 yards (OLB T. Yancey). 
+
+Houston ball, Q3, 2-7-UTAH44 (08:14) 10-3
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB D. Harris throws an incomplete pass to WR M. Dalton. WR M. Dalton dropped the pass.
+
+Houston ball, Q3, 3-7-UTAH44 (07:55) 10-3
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ
+QB D. Harris completes a 20 yard cross to WR W. Martin (CB P. Perez). 
+
+Houston ball, Q3, 1-10-UTAH24 (07:30) 10-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB D. Moore runs left guard for 5 yards (OLB T. Yancey, FS R. Bradley). 
+
+Houston ball, Q3, 2-5-UTAH19 (07:01) 10-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB D. Rivera runs right tackle for 3 yards (FS R. Bradley). 
+
+Offsides against DT David Martinez on Utah. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Utah 14.
+
+Houston ball, Q3, 1-10-UTAH14 (06:48) 10-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B6,8-L
+RB D. Rivera runs right guard for 1 yard (SS J. Robertson).  OT C. Hernandez missed a block 
+that hurt the play.
+
+Houston ball, Q3, 2-9-UTAH13 (06:17) 10-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Harris completes a 13 yard in to WR E. Johnson ****Touchdown!***** OG M. Brown earned 
+a pancake on the play.
+
+Houston ball, Q3, 1-0-UTAH0 (05:49) 16-3
+Michael Beach converts the PAT.
+
+Houston ball, Q3, 1-10-HOU35 (05:49) 17-3
+OLB Francis Dewey (UTAH) was injured on the play (Foot). It doesn't look like he will return.
+
+Houston ball, Q3, 1-10-HOU35 (05:49) 17-3
+Michael Beach kicks 67 from Houston 35 to Utah -2. David Lemons to Utah 13 for a 15 yard return.
+
+Utah ball, Q3, 1-10-UTAH13 (05:29) 3-17
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB R. Knight completes a 9 yard dump off to TE T. Bernard (OLB W. Lozano).  He fumbles the 
+ball after a hit by W. Lozano. It's recovered by H. Villarreal of Houston. He returns it 0 yards to the Utah 22.
+
+Houston ball, Q3, 1-10-UTAH22 (05:07) 17-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: 4-2-5, Play: 425-norm-Man-B6
+QB D. Harris throws an incomplete pass to WR M. Dalton. WR M. Dalton ran an incorrect route.
+
+Houston ball, Q3, 2-10-UTAH22 (04:52) 17-3
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B5,6
+RB D. Rivera runs left end for 2 yards (OLB T. Yancey). 
+
+Houston ball, Q3, 3-8-UTAH20 (04:25) 17-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ-B7,9
+QB D. Harris completes a 9 yard streak to TE T. Williams (OOB).
+
+Houston ball, Q3, 1-10-UTAH11 (04:13) 17-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B5,11
+RB D. Rivera runs left guard for -2 yards (SS J. Robertson).
+
+Houston ball, Q3, 2-12-UTAH13 (03:41) 17-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB D. Harris throws an incomplete pass to WR C. Ayers (CB P. Perez). D. Harris made a bad 
+pass. CB P. Perez broke up the pass.
+
+Houston ball, Q3, 2-12-UTAH13 (03:41) 17-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+CB Pedro Perez (UTAH) was injured on the play (Knee). It doesn't look too serious and he should 
+return.
+
+Houston ball, Q3, 3-12-UTAH13 (03:22) 17-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB D. Harris completes a 2 yard out to WR E. Johnson (SS L. Warren). 
+
+Houston ball, Q3, 4-10-UTAH11 (03:00) 17-3
+Michael Beach converts the 29 yard field goal.
+
+Houston ball, Q3, 1-10-HOU35 (02:43) 20-3
+Michael Beach kicks 67 from Houston 35 to Utah -2. David Lemons to Utah 15 for a 17 yard return.
+
+Utah ball, Q3, 1-10-UTAH15 (02:26) 3-20
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB R. Bowden runs left guard for 3 yards (CB H. Villarreal). 
+
+Utah ball, Q3, 2-7-UTAH18 (01:54) 3-20
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB R. Knight completes a 15 yard screen to RB R. Bowden (FS C. Hargrove).  SS K. Cantu missed 
+a tackle.
+
+Utah ball, Q3, 1-10-UTAH33 (01:33) 3-20
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+RB P. Vega runs right tackle for 3 yards (CB H. Villarreal, CB A. Cullen). 
+
+Utah ball, Q3, 2-7-UTAH36 (01:06) 3-20
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+QB R. Knight completes a 2 yard hook to WR J. Edwards (OLB M. Peterson). 
+
+Offensive Pass Interference against Utah. The Penalty is for 15 yards.
+The Defense will accept the penalty. It is now Second and 22 at the Utah 21.
+
+Utah ball, Q3, 2-22-UTAH21 (00:53) 3-20
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB R. Knight throws an incomplete pass to WR D. Denney.
+
+Utah ball, Q3, 3-22-UTAH21 (00:33) 3-20
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB R. Knight throws an incomplete pass to WR D. Denney (SS K. Cantu). SS K. Cantu broke up 
+the pass.
+
+Utah ball, Q3, 4-22-UTAH21 (00:13) 3-20
+Daniel Navarro Punts 50 yards to the Houston 29 yard line, where Edward Johnson returns it 
+to Houston 29 for a 0 yard return.
+
+Houston ball, Q4, 1-10-HOU29 (15:00) 20-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: 4-2-5, Play: 425-norm-TMan-Spy
+RB D. Moore runs right guard for 6 yards (CB P. Perez, CB M. Brown). 
+
+Houston ball, Q4, 2-4-HOU35 (14:29) 20-3
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Normal, Set: 4-2-5, Play: 425-norm-Man-B6
+RB D. Rivera runs right end for 23 yards (FS W. Brown).  CB P. Perez missed a tackle.
+
+Houston ball, Q4, 1-10-UTAH42 (14:02) 20-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-DZ
+RB D. Rivera runs right guard for 14 yards (OLB T. Yancey).  DT D. Martinez missed a tackle.
+
+Houston ball, Q4, 1-10-UTAH28 (13:29) 20-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-MZ
+QB D. Harris completes a 14 yard corner to WR M. Dalton (FS W. Brown, ILB J. Mccollum).  OG 
+H. Macias earned a pancake on the play. CB M. Brown missed a tackle.
+
+Houston ball, Q4, 1-10-UTAH28 (13:29) 20-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-MZ
+CB Pedro Perez (UTAH) was injured on the play (Hamstring). It doesn't look like he will return.
+
+Houston ball, Q4, 1-10-UTAH14 (13:13) 20-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B5,11
+QB D. Harris completes a 11 yard post to TE T. Williams (CB M. Brown, FS R. Bradley).  D. 
+Harris with the great pass. OG H. Macias earned a pancake on the play.
+
+Houston ball, Q4, 1-3-UTAH3 (12:51) 20-3
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+RB D. Moore runs left end for 1 yard (OLB T. Yancey). 
+
+Houston ball, Q4, 2-2-UTAH2 (12:20) 20-3
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+RB D. Rivera runs left tackle for 2 yards ****Touchdown!*****
+
+Houston ball, Q4, 1-0-UTAH0 (11:50) 26-3
+Michael Beach converts the PAT.
+
+Houston ball, Q4, 1-10-HOU35 (11:50) 27-3
+Michael Beach kicks 66 from Houston 35 to Utah -1. David Lemons to Utah 27 for a 28 yard return.
+
+Utah ball, Q4, 1-10-UTAH27 (11:31) 3-27
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB R. Knight completes a 15 yard out-and-up to WR D. Denney (SS C. Crawford, FS C. Hargrove). 
+ R. Knight with the great pass. OT M. Cooper earned a pancake on the play. CB A. Cullen missed a tackle.
+
+Utah ball, Q4, 1-10-UTAH42 (11:06) 3-27
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Pass, Set: 3-3-5, Play: 335-norm-SZ-B8
+QB R. Knight runs outside for 1 yard (OOB). DE L. Staton hurried the QB.
+
+Utah ball, Q4, 2-9-UTAH43 (10:50) 3-27
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB P. Vega runs right end for -1 yards (DE J. Roman).
+
+Utah ball, Q4, 3-10-UTAH42 (10:20) 3-27
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB P. Vega runs left tackle for 8 yards (SS K. Cantu). 
+
+Utah ball, Q4, 4-2-UTAH50 (09:51) 3-27
+Daniel Navarro Punts 34 yards to the Houston 16 yard line, where it goes out of bounds.
+
+Houston ball, Q4, 1-10-HOU16 (09:33) 27-3
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 4-2-5, Play: 425-norm-MZ-B9
+QB D. Harris completes a 4 yard hook to WR W. Martin (FS W. Brown). 
+
+Houston ball, Q4, 2-6-HOU20 (09:12) 27-3
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Normal, Set: 4-2-5, Play: 425-norm-DZ
+QB D. Harris scrambles out of the pocket and gets sacked for a 3 yard loss (DE C. Sullivan). 
+ OG M. Brown missed a block that hurt the play. OT C. Hernandez allowed the sack.
+
+Houston ball, Q4, 3-9-HOU17 (08:59) 27-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB D. Harris completes a 8 yard out to WR W. Martin (FS R. Bradley). 
+
+Holding against CB Mark Brown on Utah. The Penalty is for 10 yards, and an automatic first 
+down.
+The Offense will accept the penalty. It is now First and 10 at the Houston 27.
+
+Houston ball, Q4, 1-10-HOU27 (08:49) 27-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB D. Rivera runs left tackle for 8 yards (ILB J. Mccollum). 
+
+Houston ball, Q4, 2-2-HOU35 (08:16) 27-3
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B6,8-L
+QB G. Frazier throws an incomplete pass to WR W. Martin. DE E. Moore hurried the QB.
+
+Houston ball, Q4, 3-2-HOU35 (08:00) 27-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB D. Moore runs left guard for 4 yards (FS R. Bradley). 
+
+Houston ball, Q4, 1-10-HOU39 (07:30) 27-3
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B6,8-L
+QB D. Harris scrambles out of the pocket and gets sacked for a 2 yard loss (DE C. Sullivan). 
+ TE T. Williams missed a block that hurt the play. C W. Medley allowed the sack.
+
+Houston ball, Q4, 2-12-HOU37 (07:04) 27-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ
+QB D. Harris completes a 3 yard corner to WR W. Martin (OLB T. Yancey). 
+
+Houston ball, Q4, 3-9-HOU40 (06:38) 27-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ-B5,6,8,1
+QB D. Harris throws an incomplete pass to WR E. Johnson. D. Harris made a bad pass.
+
+Houston ball, Q4, 4-9-HOU40 (06:23) 27-3
+Daniel Daniels Punts 42 yards to the Utah 18 yard line, where David Lemons returns it to Utah 
+22 for a 4 yard return.
+
+Piling On after the play against TE Todd Williams on Houston. The Penalty is for 15 yards, 
+and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Utah 37.
+
+Utah ball, Q4, 1-10-UTAH37 (06:11) 3-27
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+QB R. Knight gets sacked for a 5 yard loss (DE L. Staton).  TE T. Bernard allowed the sack.
+
+Utah ball, Q4, 2-15-UTAH32 (05:55) 3-27
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB R. Knight completes a 1 yard hook to WR D. Denney (FS C. Hargrove). 
+
+Utah ball, Q4, 3-14-UTAH33 (05:32) 3-27
+Offense: Short Pass, Set: Trips, Play: TR-FL-streak-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB R. Knight completes a 10 yard streak to WR J. Edwards (OOB).
+
+Utah ball, Q4, 4-4-UTAH43 (05:17) 3-27
+Daniel Navarro Punts 40 yards to the Houston 17 yard line, where it goes out of bounds.
+
+Houston ball, Q4, 1-10-HOU17 (05:00) 27-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB D. Rivera runs left guard for 22 yards (FS R. Bradley, OLB T. Yancey).  OG M. Brown had 
+a key block on the run.
+
+Houston ball, Q4, 1-10-HOU39 (04:33) 27-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B5,6
+RB D. Rivera runs right guard for -1 yards (OLB T. Yancey). TE C. Daly missed a block that 
+hurt the play.
+
+Houston ball, Q4, 2-11-HOU38 (04:02) 27-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB D. Moore runs right guard for -4 yards (DT R. Alexander).
+
+Offsides against OLB Travis Yancey on Utah. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Second and 6 at the Houston 43.
+
+Houston ball, Q4, 2-6-HOU43 (03:50) 27-3
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Normal, Set: 4-2-5, Play: 425-norm-TMan-Spy
+QB G. Frazier runs outside for 4 yards (FS R. Bradley).  DT R. Alexander hurried the QB.
+
+Grabbing Face Mask against CB Dustin Moore on Utah. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Utah 48.
+
+Houston ball, Q4, 1-10-UTAH48 (03:36) 27-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB D. Rivera runs left tackle for 17 yards (CB M. Brown). 
+
+Houston ball, Q4, 1-10-UTAH31 (03:07) 27-3
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB D. Moore runs left tackle for 1 yard (FS W. Brown). 
+
+Houston ball, Q4, 2-9-UTAH30 (02:34) 27-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB D. Moore runs right guard for 2 yards (SS L. Warren). 
+
+Houston ball, Q4, 3-7-UTAH28 (02:06) 27-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-ZoneBlitz
+RB D. Moore runs right guard for 15 yards (CB D. Moore, ILB J. Mccollum).  CB D. Moore missed 
+a tackle.
+
+Houston ball, Q4, 1-10-UTAH13 (01:53) 27-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: 4-2-5, Play: 425-norm-TMan-Spy
+RB D. Rivera runs right guard for 1 yard (ILB J. Mccollum). 
+
+Houston ball, Q4, 2-9-UTAH12 (01:27) 27-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB D. Rivera runs right guard for 1 yard (ILB J. Mccollum). 
+
+Houston ball, Q4, 3-8-UTAH11 (01:01) 27-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB D. Moore runs right tackle for 3 yards (FS W. Brown). 
+
+Utah Timeout!
+
+Houston ball, Q4, 4-5-UTAH8 (00:53) 27-3
+Michael Beach converts the 26 yard field goal.
+
+Houston ball, Q4, 1-10-HOU35 (00:46) 30-3
+Michael Beach kicks 67 from Houston 35 to Utah -2. David Lemons to Utah 14 for a 16 yard return. 
+He fumbles the ball after a hit by T. Albright. It's recovered by P. Workman of Houston. He returns it 1 yards to the Utah 13.
+
+Utah Timeout!
+
+Houston ball, Q4, 1-10-UTAH13 (00:39) 30-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Normal, Set: 4-2-5, Play: 425-norm-Man-B8,10
+The QB takes a knee.
+
+Utah Timeout!
+
+Houston ball, Q4, 2-12-UTAH15 (00:32) 30-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+The QB takes a knee.
+
+Houston ball, Q4, 3-13-UTAH16 (00:23) 30-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ
+The QB takes a knee.
+

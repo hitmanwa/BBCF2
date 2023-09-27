@@ -1,0 +1,924 @@
+Syracuse ball, Q1, 1-10-SYR35 (15:00) 0-0
+Doug Baines kicks 66 from Syracuse 35 to Mississippi State -1. David Murphy to Mississippi 
+State 16 for a 17 yard return.
+
+Mississippi State ball, Q1, 1-10-MSST16 (14:44) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB F. Baldwin runs right tackle for 3 yards (ILB A. Freeman). 
+
+Mississippi State ball, Q1, 2-7-MSST19 (14:11) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+RB F. Baldwin runs left end for 0 yards (ILB A. Freeman).  OG J. Ruiz missed a block that 
+hurt the play.
+
+Mississippi State ball, Q1, 3-7-MSST19 (13:42) 0-0
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB L. Valencia throws an incomplete pass to WR W. Bates. WR W. Bates ran an incorrect route.
+
+Mississippi State ball, Q1, 4-7-MSST19 (13:23) 0-0
+Scott Pena Punts 42 yards to the Syracuse 39 yard line, where Gregg Nye returns it to Syracuse 
+45 for a 6 yard return.
+
+Syracuse ball, Q1, 1-10-SYR45 (13:03) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+FB K. Benton runs right tackle for 0 yards (ILB R. Harvey). 
+
+Syracuse ball, Q1, 2-10-SYR45 (12:33) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB R. Sutton throws an incomplete pass to WR R. Martinez.
+
+Syracuse ball, Q1, 3-10-SYR45 (12:13) 0-0
+Offense: Short Pass, Set: Trips, Play: TR-SE-screen
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B5,7
+QB R. Sutton completes a 7 yard screen to WR G. Nye (OOB).
+
+Syracuse ball, Q1, 4-3-MSST48 (12:03) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB R. Sutton completes a 6 yard in to WR B. Boyce (OLB G. Martinez, SS R. Reed). 
+
+Syracuse ball, Q1, 1-10-MSST42 (11:39) 0-0
+Offense: Long Pass, Set: SingleBack, Play: SB-WR3-slant-FL-str
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+QB R. Sutton gets sacked for a 8 yard loss (ILB R. Harvey).  He fumbles the ball after a hit 
+by R. Harvey. It's recovered by R. Harvey of Mississippi State. He returns it 4 yards to the Syracuse 46. OT S. Gorman allowed the sack.
+
+Mississippi State ball, Q1, 1-10-SYR46 (11:22) 0-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB L. Valencia throws an incomplete pass to WR M. Gonzales.
+
+Mississippi State ball, Q1, 2-10-SYR46 (11:05) 0-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+QB L. Valencia completes a 15 yard in to WR W. Bates (OOB). W. Bates made a great catch. CB 
+J. Mcgee missed a tackle.
+
+Mississippi State ball, Q1, 1-10-SYR31 (10:49) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+FB M. Finch runs left guard for 3 yards (SS L. Warren). 
+
+Mississippi State ball, Q1, 2-7-SYR28 (10:23) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB L. Valencia completes a 6 yard out to WR T. Barnes (OLB W. Akers). 
+
+Mississippi State ball, Q1, 3-1-SYR22 (10:00) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB F. Baldwin runs right guard for 10 yards (FS G. Molina, CB J. Mcgee). 
+
+Mississippi State ball, Q1, 1-10-SYR12 (09:27) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB F. Baldwin runs right tackle for 4 yards (SS P. Rouse). 
+
+Mississippi State ball, Q1, 2-6-SYR8 (09:00) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB F. Baldwin runs left tackle for 4 yards (OLB W. Akers, CB B. Carr). 
+
+Mississippi State ball, Q1, 2-6-SYR8 (09:00) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB Louis Valencia (MSST) was injured on the play (OK). It doesn't look like he will return.
+
+Mississippi State ball, Q1, 3-2-SYR4 (08:45) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+RB F. Baldwin runs right guard for 1 yard (OLB E. Kim). 
+
+Mississippi State ball, Q1, 4-1-SYR3 (08:18) 0-0
+Anthony Kirkland misses the 21 yard field goal. It will be Syracuse ball at the SYR 20
+
+Syracuse ball, Q1, 1-10-SYR20 (08:00) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+FB K. Benton runs right end for 1 yard (SS R. Reed).  OG W. Jones missed a block that hurt 
+the play.
+
+Syracuse ball, Q1, 2-9-SYR21 (07:31) 0-0
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-RE
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ
+RB D. Mooney runs right tackle for 2 yards (FS C. Parnell). 
+
+Syracuse ball, Q1, 3-7-SYR23 (07:02) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+QB R. Sutton completes a 7 yard streak to TE L. Davis (OOB).
+
+Syracuse ball, Q1, 1-10-SYR30 (06:51) 0-0
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-SZ-B11
+RB M. Roberson runs left guard for 8 yards (OLB G. Martinez, OLB J. Abreu). 
+
+Syracuse ball, Q1, 2-2-SYR38 (06:20) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+FB K. Benton runs right end for -1 yards (SS R. Reed).
+
+Syracuse ball, Q1, 3-3-SYR37 (05:52) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-L
+QB R. Sutton throws an incomplete pass to WR B. Boyce. R. Sutton made a bad pass.
+
+Syracuse ball, Q1, 4-3-SYR37 (05:33) 0-0
+James Hodges Punts 41 yards to the Mississippi State 22 yard line, where it goes out of bounds.
+
+Mississippi State ball, Q1, 1-10-MSST22 (05:15) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB T. Grant completes a 6 yard hook to WR M. Gonzales (OLB E. Kim, OLB W. Akers). 
+
+Mississippi State ball, Q1, 2-4-MSST28 (04:53) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB F. Baldwin runs right guard for 3 yards (CB J. Cottrell). 
+
+Mississippi State ball, Q1, 3-1-MSST31 (04:21) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB F. Baldwin runs left guard for 0 yards (ILB A. Freeman).  TE H. Thompson missed a block 
+that hurt the play.
+
+Mississippi State ball, Q1, 4-1-MSST31 (03:55) 0-0
+Scott Pena Punts 43 yards to the Syracuse 26 yard line, where Gregg Nye returns it to Syracuse 
+33 for a 7 yard return.
+
+Syracuse ball, Q1, 1-10-SYR33 (03:38) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: 4-3, Play: 43-norm-Man
+RB M. Roberson runs right guard for 6 yards (CB B. Ramos). 
+
+Syracuse ball, Q1, 2-4-SYR39 (03:06) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB R. Sutton completes a 3 yard out-and-up to WR G. Nye (FS C. Parnell). 
+
+Syracuse ball, Q1, 3-1-SYR42 (02:41) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB S. Merrick completes a 4 yard hook to WR B. Williamson (SS R. Reed). 
+
+Syracuse ball, Q1, 1-10-SYR46 (02:19) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB D. Mooney runs right guard for 5 yards (FS C. Parnell, OLB J. Abreu). 
+
+Syracuse ball, Q1, 2-5-MSST49 (01:51) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5-L
+QB R. Sutton throws an incomplete pass to WR B. Boyce.
+
+Syracuse ball, Q1, 3-5-MSST49 (01:33) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B11
+QB R. Sutton throws an incomplete pass to WR R. Martinez (FS C. Parnell). WR R. Martinez dropped 
+the pass. FS C. Parnell broke up the pass.
+
+Syracuse ball, Q1, 4-5-MSST49 (01:18) 0-0
+James Hodges Punts 36 yards to the Mississippi State 13 yard line, where it goes out of bounds.
+
+Mississippi State ball, Q1, 1-10-MSST13 (01:02) 0-0
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB F. Baldwin runs right guard for 11 yards (OLB W. Akers).  OT J. Wilkins had a key block 
+on the run.
+
+Mississippi State ball, Q1, 1-10-MSST24 (00:30) 0-0
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB F. Baldwin runs right guard for 13 yards (SS P. Rouse).  OT L. Braun had a key block on 
+the run. DT E. Lovett missed a tackle.
+
+Mississippi State ball, Q1, 1-10-MSST37 (00:03) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB T. Grant completes a 6 yard cross to WR W. Bates (OOB).
+
+Mississippi State ball, Q2, 2-4-MSST43 (15:00) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: Dime, Play: Dime-run-SZ
+RB F. Baldwin runs right guard for 0 yards (ILB A. Freeman). 
+
+Mississippi State ball, Q2, 3-4-MSST43 (14:31) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB T. Grant completes a 1 yard in to WR T. Barnes (SS L. Warren). 
+
+Mississippi State ball, Q2, 4-3-MSST44 (14:08) 0-0
+Scott Pena Punts 51 yards to the Syracuse 5 yard line, where it gets downed.
+
+Syracuse ball, Q2, 1-10-SYR5 (13:51) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB D. Mooney runs left tackle for 5 yards (DT L. Coker). 
+
+Syracuse ball, Q2, 2-5-SYR10 (13:18) 0-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB R. Sutton completes a 12 yard hook to WR R. Martinez (SS L. Cullen, ILB R. Harvey).  CB 
+B. Ramos missed a tackle.
+
+Holding against CB Benjamin Ramos on Mississippi State. The Penalty is for 10 yards, and an 
+automatic first down.
+The penalty will be declined.
+
+Syracuse ball, Q2, 1-10-SYR22 (13:05) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB R. Sutton completes a 47 yard out to WR B. Boyce (SS R. Campos, FS C. Parnell).  CB B. 
+Ramos allowed the big play.
+
+Syracuse ball, Q2, 1-10-MSST31 (12:44) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB M. Roberson runs right guard for 11 yards (SS L. Cullen).  DT L. Coker was out of position 
+on the play.
+
+Syracuse ball, Q2, 1-10-MSST20 (12:12) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB M. Roberson runs right tackle for 0 yards (DT L. Coker).  TE L. Davis missed a block that 
+hurt the play.
+
+Syracuse ball, Q2, 2-10-MSST20 (11:42) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+QB R. Sutton completes a 20 yard screen to RB D. Mooney ****Touchdown!*****
+
+Syracuse ball, Q2, 1-0-MSST0 (11:20) 6-0
+Doug Baines converts the PAT.
+
+Syracuse ball, Q2, 1-10-SYR35 (11:20) 7-0
+Doug Baines kicks 75 from Syracuse 35 to end zone, Touchback.
+
+Mississippi State ball, Q2, 1-10-MSST20 (11:03) 0-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB F. Baldwin runs right guard for 17 yards (ILB D. Lewis, FS G. Molina). 
+
+Mississippi State ball, Q2, 1-10-MSST37 (10:34) 0-7
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB F. Baldwin runs right tackle for 15 yards (OOB). OT J. Wilkins had a key block on the run.
+
+Mississippi State ball, Q2, 1-10-SYR48 (10:16) 0-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB F. Baldwin runs left guard for 11 yards (ILB D. Lewis).  F. Baldwin created the big run 
+with his own skills. ILB A. Freeman was out of position on the play.
+
+Mississippi State ball, Q2, 1-10-SYR37 (09:43) 0-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB F. Baldwin runs left tackle for 3 yards (FS G. Molina). 
+
+Mississippi State ball, Q2, 2-7-SYR34 (09:12) 0-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB F. Baldwin runs right guard for 22 yards (FS G. Molina). 
+
+Mississippi State ball, Q2, 1-10-SYR12 (08:43) 0-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+RB F. Baldwin runs left guard for 2 yards (DT E. Lovett). 
+
+Mississippi State ball, Q2, 2-8-SYR10 (08:10) 0-7
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+FB M. Finch runs right end for 0 yards (OLB W. Akers).  C K. Darling missed a block that hurt 
+the play.
+
+Mississippi State ball, Q2, 3-8-SYR10 (07:41) 0-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B11
+QB T. Grant completes a 3 yard hook to WR M. Gonzales (FS G. Molina, ILB D. Lewis). 
+
+Mississippi State ball, Q2, 4-5-SYR7 (07:18) 0-7
+Anthony Kirkland converts the 25 yard field goal.
+
+Mississippi State ball, Q2, 1-10-MSST35 (07:03) 3-7
+Anthony Kirkland kicks 67 from Mississippi State 35 to Syracuse -2. Brock Edwards to Syracuse 
+11 for a 13 yard return.
+
+Syracuse ball, Q2, 1-10-SYR11 (06:47) 7-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB D. Mooney runs left end for -3 yards (FS C. Parnell).
+
+Syracuse ball, Q2, 2-13-SYR8 (06:14) 7-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+RB D. Mooney runs right end for 1 yard (FS C. Parnell). 
+
+Syracuse ball, Q2, 3-12-SYR9 (05:44) 7-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB R. Sutton throws an incomplete pass to WR B. Boyce.
+
+Syracuse ball, Q2, 4-12-SYR9 (05:29) 7-3
+James Hodges Punts 34 yards to the Syracuse 43 yard line, where Christopher Parnell returns 
+it to Syracuse 39 for a 4 yard return.
+
+Mississippi State ball, Q2, 1-10-SYR39 (05:01) 3-7
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6
+RB J. Carroll runs right guard for 10 yards (CB B. Carr).  J. Carroll created the big run 
+with his own skills.
+
+Mississippi State ball, Q2, 1-10-SYR29 (04:40) 3-7
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB T. Grant throws an incomplete pass to WR W. Bates.
+
+Mississippi State ball, Q2, 2-10-SYR29 (04:25) 3-7
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB T. Grant completes a 8 yard hook to WR W. Bates (OLB W. Akers). 
+
+Mississippi State ball, Q2, 3-2-SYR21 (04:03) 3-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB F. Baldwin runs right tackle for 5 yards (ILB D. Lewis). 
+
+Mississippi State ball, Q2, 1-10-SYR16 (03:35) 3-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB J. Carroll runs right end for 5 yards (OOB).
+
+Mississippi State ball, Q2, 2-5-SYR11 (03:24) 3-7
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ-B7,8
+T. Grant has his 10 yard pass intercepted by J. Mcgee at the SYR 1. He returns it 6 yards 
+to the Syracuse 7.
+
+Syracuse ball, Q2, 1-10-SYR7 (02:55) 7-3
+Offense: Long Pass, Set: SingleBack, Play: SB-WR3-slant-FL-str
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB R. Sutton throws an incomplete pass to WR B. Boyce (CB J. Elliott). CB J. Elliott broke 
+up the pass.
+
+Syracuse ball, Q2, 2-10-SYR7 (02:40) 7-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-out-WR3-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B8
+QB R. Sutton throws an incomplete pass to TE L. Davis (CB J. Elliott). TE L. Davis ran an 
+incorrect route. CB J. Elliott broke up the pass.
+
+Syracuse ball, Q2, 3-10-SYR7 (02:22) 7-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B11
+QB R. Sutton throws an incomplete pass to WR R. Martinez.
+
+Syracuse ball, Q2, 4-10-SYR7 (02:07) 7-3
+James Hodges Punts 38 yards to the Syracuse 45 yard line,
+
+Mississippi State ball, Q2, 1-10-SYR45 (01:52) 3-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: Dime, Play: Dime-run-SZ
+RB J. Carroll runs right guard for 7 yards (SS L. Warren).  J. Carroll created the big run 
+with his own skills.
+
+Illegal Motion against Mississippi State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Syracuse 50.
+
+Mississippi State ball, Q2, 1-15-SYR50 (01:42) 3-7
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB T. Grant completes a 50 yard in to WR T. Barnes ****Touchdown!***** CB B. Carr allowed 
+the big play.
+
+Mississippi State ball, Q2, 1-0-SYR0 (01:20) 9-7
+Anthony Kirkland converts the PAT.
+
+Mississippi State ball, Q2, 1-10-MSST35 (01:20) 10-7
+Anthony Kirkland kicks 75 from Mississippi State 35 to end zone, Touchback.
+
+Syracuse ball, Q2, 1-10-SYR20 (01:13) 7-10
+Offense: Short Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: 4-3, Play: 43-run-Man-B5,7
+QB R. Sutton completes a 5 yard hook to WR B. Boyce (OLB G. Martinez, CB J. Elliott). 
+
+Mississippi State Timeout!
+
+Syracuse ball, Q2, 2-5-SYR25 (01:06) 7-10
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5-L
+QB R. Sutton throws an incomplete pass to WR R. Martinez (ILB R. Harvey). ILB R. Harvey broke 
+up the pass.
+
+Syracuse ball, Q2, 3-5-SYR25 (00:59) 7-10
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB R. Sutton completes a 75 yard post to WR B. Boyce ****Touchdown!***** OLB J. Abreu allowed 
+the big play.
+
+Syracuse ball, Q2, 1-0-MSST0 (00:33) 13-10
+Doug Baines converts the PAT.
+
+Syracuse ball, Q2, 1-10-SYR35 (00:33) 14-10
+Doug Baines kicks 54 from Syracuse 35 to Mississippi State 11. David Murphy to Mississippi 
+State 22 for a 11 yard return.
+
+Mississippi State ball, Q2, 1-10-MSST22 (00:26) 10-14
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB J. Carroll runs left guard for 1 yard (DE J. Roberts). 
+
+Mississippi State ball, Q2, 2-9-MSST23 (00:03) 10-14
+Offense: Inside Run, Set: Trips, Play: TR-SE-playact-streak
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+The QB takes a knee.
+
+Mississippi State ball, Q3, 1-10-MSST35 (15:00) 10-14
+Anthony Kirkland kicks 64 from Mississippi State 35 to Syracuse 1. Brock Edwards to Syracuse 
+16 for a 15 yard return.
+
+Syracuse ball, Q3, 1-10-SYR16 (14:44) 14-10
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-out-WR3-curl
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-R
+QB R. Sutton throws an incomplete pass to WR R. Martinez (CB B. Ramos). WR R. Martinez ran 
+an incorrect route. CB B. Ramos broke up the pass.
+
+Syracuse ball, Q3, 2-10-SYR16 (14:28) 14-10
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB R. Sutton completes a 54 yard dump off to TE L. Davis (SS R. Campos, CB J. Elliott).  ILB 
+R. Harvey allowed the big play.
+
+Syracuse ball, Q3, 1-10-MSST30 (14:06) 14-10
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB R. Sutton throws an incomplete pass to RB D. Mooney. R. Sutton made a bad pass.
+
+Syracuse ball, Q3, 2-10-MSST30 (13:46) 14-10
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB R. Sutton completes a 10 yard streak to RB M. Roberson (ILB R. Harvey). 
+
+Syracuse ball, Q3, 1-10-MSST20 (13:22) 14-10
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-TMan
+QB R. Sutton throws an incomplete pass to WR G. Nye (CB J. Elliott). CB J. Elliott broke up 
+the pass.
+
+Syracuse ball, Q3, 2-10-MSST20 (13:05) 14-10
+Offense: Short Pass, Set: Trips, Play: TR-FL-streak-WR3-in
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+QB R. Sutton completes a 1 yard streak to WR R. Martinez (ILB R. Harvey). 
+
+Syracuse ball, Q3, 3-9-MSST19 (12:44) 14-10
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB R. Sutton completes a 10 yard hook to WR R. Martinez (OOB).
+
+Syracuse ball, Q3, 1-9-MSST9 (12:34) 14-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB D. Mooney runs right guard for 9 yards ****Touchdown!*****
+
+Syracuse ball, Q3, 1-0-MSST0 (12:02) 20-10
+Doug Baines converts the PAT.
+
+Syracuse ball, Q3, 1-10-SYR35 (12:02) 21-10
+Doug Baines kicks 43 from Syracuse 35 to Mississippi State 22. Howard Thompson to Mississippi 
+State 47 for a 25 yard return.
+
+Grabbing Face Mask against SS Luke Warren on Syracuse. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Syracuse 48.
+
+Mississippi State ball, Q3, 1-10-SYR48 (11:50) 10-21
+Offense: Short Pass, Set: Trips, Play: TR-SE-screen
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+QB T. Grant completes a 21 yard screen to WR M. Gonzales (FS G. Molina, OLB E. Kim).  OLB 
+W. Akers was out of position on the play.
+
+Mississippi State ball, Q3, 1-10-SYR27 (11:28) 10-21
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-Man
+QB T. Grant throws an incomplete pass to RB F. Baldwin.
+
+Holding against OT Larry Braun on Mississippi State. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Syracuse 37.
+
+Mississippi State ball, Q3, 1-20-SYR37 (11:13) 10-21
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB T. Grant completes a 12 yard out to WR W. Bates (CB J. Cottrell, SS P. Rouse).  OG R. Bernard 
+earned a pancake on the play. CB B. Carr missed a tackle.
+
+Mississippi State ball, Q3, 2-8-SYR25 (10:52) 10-21
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB T. Grant throws an incomplete pass to WR M. Gonzales. WR M. Gonzales ran an incorrect route.
+
+Mississippi State ball, Q3, 3-8-SYR25 (10:34) 10-21
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB T. Grant throws an incomplete pass to WR M. Gonzales.
+
+Mississippi State ball, Q3, 4-8-SYR25 (10:19) 10-21
+Anthony Kirkland misses the 43 yard field goal. It will be Syracuse ball at the SYR 25
+
+Syracuse ball, Q3, 1-10-SYR25 (10:02) 21-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB D. Mooney runs left guard for 7 yards (SS R. Campos). 
+
+Syracuse ball, Q3, 2-3-SYR32 (09:35) 21-10
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB R. Sutton completes a 5 yard screen to RB D. Mooney (OOB).
+
+Syracuse ball, Q3, 1-10-SYR37 (09:22) 21-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB M. Roberson runs left guard for 0 yards (FS C. Parnell).  OG W. Jones missed a block that 
+hurt the play.
+
+Syracuse ball, Q3, 2-10-SYR37 (08:50) 21-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB D. Mooney runs left end for 9 yards (OOB). DE B. Conley missed a tackle.
+
+Syracuse ball, Q3, 3-1-SYR46 (08:35) 21-10
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B11
+QB S. Merrick completes a 19 yard out to WR G. Nye (OLB J. Abreu).  CB B. Ramos missed a tackle.
+
+Holding against OT Stephen Gorman on Syracuse. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Third and 11 at the Syracuse 36.
+
+Syracuse ball, Q3, 3-11-SYR36 (08:20) 21-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB M. Roberson runs right end for -1 yards (ILB R. Harvey).
+
+Syracuse ball, Q3, 4-12-SYR35 (07:47) 21-10
+James Hodges Punts 53 yards to the Mississippi State 12 yard line, where Christopher Parnell 
+returns it to Mississippi State 21 for a 9 yard return.
+
+Mississippi State ball, Q3, 1-10-MSST21 (07:31) 10-21
+Offense: Short Pass, Set: Trips, Play: TR-TE-screen
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB T. Grant completes a 12 yard screen to TE H. Thompson (CB B. Carr).  OG R. Bernard earned 
+a pancake on the play. OLB E. Kim was out of position on the play.
+
+Mississippi State ball, Q3, 1-10-MSST33 (07:08) 10-21
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB T. Grant completes a 51 yard streak to WR W. Bates (CB J. Mcgee).  He fumbles the ball 
+after a hit by J. Mcgee. It's recovered by M. Gonzales of Mississippi State. FS G. Molina allowed the big play.
+
+Mississippi State ball, Q3, 1-10-SYR16 (06:42) 10-21
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ-B5,6,7,8
+RB F. Baldwin runs right tackle for 7 yards (CB B. Carr). 
+
+Mississippi State ball, Q3, 2-3-SYR9 (06:09) 10-21
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB F. Baldwin runs right guard for 4 yards (ILB A. Freeman, CB B. Carr). 
+
+Mississippi State ball, Q3, 1-5-SYR5 (05:55) 10-21
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB F. Baldwin runs right tackle for 5 yards ****Touchdown!*****
+
+Mississippi State ball, Q3, 1-0-SYR0 (05:26) 16-21
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6
+QB T. Grant completes a 3 yard screen to RB F. Baldwin ****Two Points!*****
+
+Mississippi State ball, Q3, 1-10-MSST35 (05:26) 18-21
+Anthony Kirkland kicks 55 from Mississippi State 35 to Syracuse 10. Brock Edwards to Syracuse 
+35 for a 25 yard return.
+
+Syracuse ball, Q3, 1-10-SYR35 (05:09) 21-18
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+RB D. Mooney runs left end for 11 yards (OOB).
+
+Syracuse ball, Q3, 1-10-SYR46 (04:53) 21-18
+Offense: Short Pass, Set: Trips, Play: TR-TE-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB R. Sutton throws an incomplete pass to TE L. Davis. TE L. Davis dropped the pass.
+
+Holding against Syracuse. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Syracuse 36.
+
+Syracuse ball, Q3, 1-20-SYR36 (04:38) 21-18
+Offense: Long Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB R. Sutton throws an incomplete pass to WR B. Williamson.
+
+Holding against CB Benjamin Ramos on Mississippi State. The Penalty is for 10 yards, and an 
+automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Syracuse 46.
+
+Syracuse ball, Q3, 1-10-SYR46 (04:24) 21-18
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB D. Mooney runs left end for 4 yards (FS C. Parnell). 
+
+Syracuse ball, Q3, 2-6-SYR50 (03:55) 21-18
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB M. Roberson runs left guard for 13 yards (SS R. Reed). 
+
+Syracuse ball, Q3, 1-10-MSST37 (03:23) 21-18
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB R. Sutton completes a 2 yard hook to WR G. Nye (OLB J. Abreu). 
+
+Syracuse ball, Q3, 2-8-MSST35 (03:00) 21-18
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Run, Set: 4-3, Play: 43-run-M-B7-R
+RB D. Mooney runs right end for -3 yards (SS R. Reed).
+
+Syracuse ball, Q3, 3-11-MSST38 (02:28) 21-18
+Offense: Short Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB R. Sutton completes a 3 yard in to WR B. Boyce (CB J. Elliott, SS L. Cullen). 
+
+Syracuse ball, Q3, 4-8-MSST35 (02:05) 21-18
+James Hodges Punts 35 yards to the end zone, Touchback.
+
+Mississippi State ball, Q3, 1-10-MSST20 (01:46) 18-21
+Offense: Medium Pass, Set: Trips, Play: TR-FL-in-SE-post
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB T. Grant completes a 2 yard post to WR M. Gonzales (ILB A. Freeman). 
+
+Mississippi State ball, Q3, 2-8-MSST22 (01:21) 18-21
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB F. Baldwin runs right end for 0 yards (OLB W. Akers).  OT J. Wilkins missed a block that 
+hurt the play.
+
+Mississippi State ball, Q3, 3-8-MSST22 (00:55) 18-21
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB T. Grant completes a 19 yard dump off to WR T. Barnes (CB J. Cottrell, CB B. Carr).  T. 
+Grant with the great pass. OG J. Ruiz earned a pancake on the play.
+
+Mississippi State ball, Q3, 1-10-MSST41 (00:33) 18-21
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+RB J. Carroll runs right guard for 11 yards (SS P. Rouse). 
+
+Mississippi State ball, Q3, 1-10-MSST41 (00:33) 18-21
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+FS George Molina (SYR) was injured on the play (Ankle). It doesn't look like he will return.
+
+Mississippi State ball, Q3, 1-10-SYR48 (00:17) 18-21
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB T. Grant completes a 2 yard post to WR M. Gonzales (SS P. Rouse). 
+
+Holding against OG Ron Bernard on Mississippi State. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Mississippi State 42.
+
+Mississippi State ball, Q3, 1-20-MSST42 (00:06) 18-21
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6
+RB J. Carroll runs left end for 10 yards (ILB D. Lewis). 
+
+Mississippi State ball, Q4, 2-10-SYR48 (15:00) 18-21
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+RB F. Baldwin runs left guard for 4 yards (OLB W. Akers, CB J. Cottrell). 
+
+Mississippi State ball, Q4, 3-6-SYR44 (14:32) 18-21
+Offense: Short Pass, Set: Trips, Play: TR-FL-streak-WR3-in
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ-B5,6,7,8
+QB T. Grant completes a 14 yard streak to WR W. Bates (ILB D. Lewis).  He fumbles the ball 
+after a hit by D. Lewis. It's recovered by J. Wilkins of Mississippi State. W. Bates made a great catch.
+
+Mississippi State ball, Q4, 1-10-SYR30 (14:09) 18-21
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB F. Baldwin runs left tackle for 10 yards (ILB A. Freeman). 
+
+Mississippi State ball, Q4, 1-10-SYR20 (13:40) 18-21
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB J. Carroll runs left end for 0 yards (ILB A. Freeman).  OG J. Ruiz missed a block that 
+hurt the play.
+
+Mississippi State ball, Q4, 2-10-SYR20 (13:12) 18-21
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+RB F. Baldwin runs right tackle for 13 yards (OLB W. Akers, CB J. Cottrell). 
+
+Mississippi State ball, Q4, 1-7-SYR7 (12:44) 18-21
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+RB F. Baldwin runs right tackle for 5 yards (OLB W. Akers, OLB E. Kim). 
+
+Mississippi State ball, Q4, 2-2-SYR2 (12:17) 18-21
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+RB F. Baldwin runs right tackle for 2 yards ****Touchdown!*****
+
+Mississippi State ball, Q4, 1-0-SYR0 (11:51) 24-21
+Anthony Kirkland converts the PAT.
+
+Mississippi State ball, Q4, 1-10-MSST35 (11:51) 25-21
+Anthony Kirkland kicks 63 from Mississippi State 35 to Syracuse 2. Brian Williamson to Syracuse 
+27 for a 25 yard return.
+
+Syracuse ball, Q4, 1-10-SYR27 (11:33) 21-25
+Offense: Short Pass, Set: Trips, Play: TR-FL-in-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB R. Sutton completes a 4 yard hook to WR B. Boyce (OOB).
+
+Syracuse ball, Q4, 2-6-SYR31 (11:17) 21-25
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-R
+RB M. Roberson runs right end for 21 yards (OLB J. Abreu). 
+
+Syracuse ball, Q4, 1-10-MSST48 (10:46) 21-25
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B11
+QB R. Sutton gets sacked for a 14 yard loss (ILB R. Harvey).  OG M. Miller allowed the sack.
+
+Syracuse ball, Q4, 2-24-SYR38 (10:18) 21-25
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB R. Sutton throws an incomplete pass to WR R. Martinez. OLB J. Abreu hurried the QB.
+
+Syracuse ball, Q4, 3-24-SYR38 (09:59) 21-25
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB R. Sutton completes a 25 yard out-and-up to WR G. Nye (CB J. Elliott, CB B. Ramos). 
+
+Syracuse ball, Q4, 1-10-MSST37 (09:32) 21-25
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB D. Mooney runs right tackle for 5 yards (SS R. Reed). 
+
+Syracuse ball, Q4, 2-5-MSST32 (09:04) 21-25
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB D. Mooney runs left end for -1 yards (CB B. Ramos). OG W. Jones missed a block that hurt 
+the play.
+
+Syracuse ball, Q4, 3-6-MSST33 (08:36) 21-25
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B5
+RB M. Roberson runs left end for 3 yards (DT L. Coker, DE P. Brown). 
+
+Syracuse ball, Q4, 4-3-MSST30 (08:09) 21-25
+Doug Baines converts the 48 yard field goal.
+
+Syracuse ball, Q4, 1-10-SYR35 (07:49) 24-25
+Doug Baines kicks 55 from Syracuse 35 to Mississippi State 10. David Murphy to Mississippi 
+State 21 for a 11 yard return.
+
+Mississippi State ball, Q4, 1-10-MSST21 (07:34) 25-24
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB F. Baldwin runs left guard for -1 yards (ILB A. Freeman).
+
+Mississippi State ball, Q4, 2-11-MSST20 (07:08) 25-24
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: 4-4, Play: 44-run-Man-B5,8
+QB T. Grant completes a 10 yard in to WR T. Barnes (CB B. Carr). 
+
+Mississippi State ball, Q4, 3-1-MSST30 (06:47) 25-24
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB F. Baldwin runs left guard for 12 yards (OLB W. Akers, FS G. Bennett).  OT L. Braun had 
+a key block on the run. DT E. Lovett missed a tackle.
+
+Mississippi State ball, Q4, 1-10-MSST42 (06:20) 25-24
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB T. Grant completes a 3 yard hook to WR M. Gonzales (OLB W. Akers). 
+
+Mississippi State ball, Q4, 2-7-MSST45 (05:56) 25-24
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+FB M. Finch runs right tackle for 8 yards (CB J. Cottrell, SS L. Warren). 
+
+Offsides against DE Jasper Roberts on Syracuse. The Penalty is for 5 yards.
+The penalty will be declined.
+
+Mississippi State ball, Q4, 1-10-SYR47 (05:45) 25-24
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB J. Carroll runs left end for 1 yard (ILB D. Lewis).  OG J. Ruiz missed a block that hurt 
+the play.
+
+Mississippi State ball, Q4, 2-9-SYR46 (05:18) 25-24
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB J. Carroll runs right guard for 9 yards (CB B. Carr). 
+
+Mississippi State ball, Q4, 1-10-SYR37 (04:45) 25-24
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB F. Baldwin runs right tackle for 3 yards (ILB A. Freeman, DT E. Lovett). 
+
+Mississippi State ball, Q4, 2-7-SYR34 (04:19) 25-24
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB T. Grant completes a 9 yard hook to WR W. Bates (SS P. Rouse, OLB E. Kim). 
+
+Mississippi State ball, Q4, 1-10-SYR25 (03:56) 25-24
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB J. Carroll runs right guard for 7 yards (OLB E. Kim, FS G. Bennett).  ILB D. Lewis was 
+out of position on the play.
+
+Mississippi State ball, Q4, 2-3-SYR18 (03:26) 25-24
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ-B5,6,7,8
+RB F. Baldwin runs left tackle for 5 yards (FS G. Bennett). 
+
+Mississippi State ball, Q4, 1-10-SYR13 (02:57) 25-24
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB F. Baldwin runs right end for -2 yards (OLB W. Akers).
+
+Mississippi State ball, Q4, 2-12-SYR15 (02:24) 25-24
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB J. Carroll runs left guard for 5 yards (CB J. Mcgee). 
+
+Mississippi State ball, Q4, 3-7-SYR10 (01:58) 25-24
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB F. Baldwin runs left end for 0 yards (ILB D. Lewis). 
+
+Mississippi State ball, Q4, 3-7-SYR10 (01:58) 25-24
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+DE Kenneth Carney (SYR) was injured on the play (Forearm). It doesn't look like he will return.
+
+Mississippi State ball, Q4, 4-7-SYR10 (01:44) 25-24
+Anthony Kirkland converts the 28 yard field goal.
+
+Mississippi State ball, Q4, 1-10-MSST35 (01:28) 28-24
+Anthony Kirkland kicks 66 from Mississippi State 35 to Syracuse -1. Brock Edwards to Syracuse 
+13 for a 14 yard return.
+
+Syracuse ball, Q4, 1-10-SYR13 (01:21) 24-28
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB R. Sutton throws an incomplete pass to WR R. Martinez.
+
+Holding against OG William Jones on Syracuse. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 16 at the Syracuse 7.
+
+Syracuse ball, Q4, 1-16-SYR7 (01:06) 24-28
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB R. Sutton throws an incomplete pass to TE L. Davis.
+
+Syracuse ball, Q4, 2-16-SYR7 (00:58) 24-28
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B5
+QB R. Sutton throws an incomplete pass to WR G. Nye.
+
+Syracuse ball, Q4, 3-16-SYR7 (00:50) 24-28
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB R. Sutton completes a 5 yard in to WR B. Boyce (CB B. Ramos). 
+
+Syracuse Timeout!
+
+Syracuse ball, Q4, 4-11-SYR12 (00:43) 24-28
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-SZ-B11
+QB R. Sutton throws an incomplete pass to WR B. Williamson. DE P. Brown hurried the QB.
+
+Holding against OT Joshua White on Syracuse. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Syracuse Timeout!
+
+Mississippi State ball, Q4, 1-10-SYR12 (00:33) 28-24
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+The QB takes a knee.
+
+Syracuse Timeout!
+
+Mississippi State ball, Q4, 2-12-SYR14 (00:25) 28-24
+Offense: Inside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+The QB takes a knee.
+
+Mississippi State ball, Q4, 3-14-SYR16 (00:18) 28-24
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+The QB takes a knee.
+

@@ -1,0 +1,1004 @@
+Ball State ball, Q1, 1-10-BALL35 (15:00) 0-0
+Scotty Boyd kicks 67 from Ball State 35 to San Diego State -2. Albert Edwards to Ball State 
+4 for a 98 yard return.
+
+San Diego State ball, Q1, 1-4-BALL4 (14:40) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+RB R. Francis runs right tackle for 0 yards (DE M. Gustafson). 
+
+San Diego State ball, Q1, 2-4-BALL4 (14:14) 0-0
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+RB R. Francis runs left guard for 1 yard (ILB D. Jordan).  OT J. Vickers missed a block that 
+hurt the play.
+
+San Diego State ball, Q1, 3-3-BALL3 (13:41) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ-B7
+RB R. Wade runs right guard for 2 yards (CB D. Gordon). 
+
+San Diego State ball, Q1, 4-1-BALL1 (13:08) 0-0
+Clinton Robinson converts the 19 yard field goal.
+
+San Diego State ball, Q1, 1-10-SDSU35 (12:49) 3-0
+Clinton Robinson kicks 73 from San Diego State 35 to end zone, Touchback.
+
+Ball State ball, Q1, 1-10-BALL20 (12:30) 0-3
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-straight-LT
+Defense: Stop Run, Set: Nickel, Play: Nickel-norm-Man
+RB E. Gentry runs left tackle for 2 yards (SS S. Madden, FS B. Stevens). 
+
+Ball State ball, Q1, 2-8-BALL22 (12:01) 0-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB E. Gentry runs right guard for 49 yards (FS B. Stevens, ILB F. Anthony). 
+
+Ball State ball, Q1, 1-10-SDSU29 (11:33) 0-3
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB E. Gentry runs left end for 4 yards (CB B. Sanborn, OLB J. Grant). 
+
+Ball State ball, Q1, 2-6-SDSU25 (11:04) 0-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB S. Obrien runs right guard for -2 yards (DE B. Mcgrath).
+
+Ball State ball, Q1, 3-8-SDSU27 (10:38) 0-3
+Offense: Medium Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB C. Koenig completes a 9 yard post to WR T. Smith (FS B. Stevens). 
+
+Ball State ball, Q1, 1-10-SDSU18 (10:13) 0-3
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB E. Gentry runs right guard for -2 yards (SS S. Madden). TE M. Foster missed a block that 
+hurt the play.
+
+Ball State ball, Q1, 2-12-SDSU20 (09:42) 0-3
+Offense: Short Pass, Set: Strong, Play: ST-HB-playact-cross
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB C. Koenig throws an incomplete pass to FB A. Butler.
+
+Ball State ball, Q1, 3-12-SDSU20 (09:25) 0-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB E. Gentry runs right guard for -1 yards (OLB C. Schneider). OT L. Patterson missed a block 
+that hurt the play.
+
+Ball State ball, Q1, 4-13-SDSU21 (08:53) 0-3
+Scotty Boyd converts the 39 yard field goal.
+
+Ball State ball, Q1, 1-10-BALL35 (08:37) 3-3
+Scotty Boyd kicks 67 from Ball State 35 to San Diego State -2. Albert Edwards to San Diego 
+State 16 for a 18 yard return.
+
+San Diego State ball, Q1, 1-10-SDSU16 (08:20) 3-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+RB R. Wade runs right guard for 9 yards (OLB R. Alicea).  DT J. Miranda was out of position 
+on the play.
+
+San Diego State ball, Q1, 2-1-SDSU25 (07:49) 3-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+QB K. Wheeler runs outside for 3 yards (DT H. Chester). 
+
+San Diego State ball, Q1, 1-10-SDSU28 (07:34) 3-3
+Offense: Long Pass, Set: Trips, Play: TR-WR3-str-FL-curl
+Defense: Normal, Set: 4-6, Play: 46-norm-DZ
+QB K. Wheeler gets sacked for a 13 yard loss (OLB R. Alicea).  OT J. Vickers allowed the sack.
+
+San Diego State ball, Q1, 2-23-SDSU15 (07:16) 3-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB K. Wheeler throws an incomplete pass to WR B. Williams.
+
+San Diego State ball, Q1, 3-23-SDSU15 (06:57) 3-3
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-out-WR3-curl
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B7
+QB K. Wheeler completes a 27 yard out-and-up to WR A. Edwards (CB D. Gordon).  A. Edwards 
+made a great catch. OT J. Vickers earned a pancake on the play. CB S. Thompson allowed the big play.
+
+San Diego State ball, Q1, 1-10-SDSU42 (06:29) 3-3
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Normal, Set: 4-6, Play: 46-norm-SZ
+RB R. Wade runs right tackle for 3 yards (DE M. Gustafson). 
+
+San Diego State ball, Q1, 1-10-SDSU42 (06:29) 3-3
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Normal, Set: 4-6, Play: 46-norm-SZ
+DE Willard May (BALL) was injured on the play (OK). It doesn't look like he will return.
+
+San Diego State ball, Q1, 2-7-SDSU45 (06:13) 3-3
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+QB K. Wheeler completes a 13 yard dump off to TE J. Cox (CB D. Gordon, ILB D. Jordan).  OT 
+C. Stewart earned a pancake on the play.
+
+San Diego State ball, Q1, 1-10-BALL42 (05:52) 3-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ
+RB R. Wade runs right end for 7 yards (ILB D. Jordan). 
+
+San Diego State ball, Q1, 2-3-BALL35 (05:26) 3-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,11
+RB R. Francis runs left end for 1 yard (SS E. Martinez). 
+
+San Diego State ball, Q1, 3-2-BALL34 (05:00) 3-3
+Offense: Inside Run, Set: Trips, Play: TR-QB-sneak-RG
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+QB K. Wheeler runs right guard for 4 yards (SS E. Martinez). 
+
+San Diego State ball, Q1, 1-10-BALL30 (04:29) 3-3
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ-B7
+RB R. Francis runs left end for 9 yards (FS C. Cherry).  OT C. Stewart had a key block on 
+the run. DE W. Hubbard missed a tackle.
+
+San Diego State ball, Q1, 2-1-BALL21 (04:03) 3-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB R. Wade runs right guard for 1 yard (SS E. Martinez). 
+
+San Diego State ball, Q1, 1-10-BALL20 (03:34) 3-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ
+QB K. Wheeler throws an incomplete pass to FB E. Hayes.
+
+San Diego State ball, Q1, 2-10-BALL20 (03:17) 3-3
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6
+RB R. Francis runs left end for 7 yards (FS C. Cherry).  OG G. White had a key block on the 
+run. ILB D. Jordan missed a tackle.
+
+San Diego State ball, Q1, 3-3-BALL13 (02:50) 3-3
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB K. Wheeler completes a 13 yard dump off to WR C. Tyler ****Touchdown!*****
+
+San Diego State ball, Q1, 1-0-BALL0 (02:40) 9-3
+Clinton Robinson converts the PAT.
+
+San Diego State ball, Q1, 1-10-SDSU35 (02:40) 10-3
+Clinton Robinson kicks 55 from San Diego State 35 to Ball State 10. Steven Thompson to San 
+Diego State 49 for a 41 yard return.
+
+Ball State ball, Q1, 1-10-SDSU49 (02:20) 3-10
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB C. Koenig throws an incomplete pass to FB A. Butler.
+
+Ball State ball, Q1, 2-10-SDSU49 (02:03) 3-10
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB E. Gentry runs right end for 5 yards (ILB F. Anthony, OLB C. Schneider). 
+
+Ball State ball, Q1, 3-5-SDSU44 (01:35) 3-10
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB C. Koenig completes a 12 yard in to WR T. Smith (SS S. Madden, CB A. White).  T. Smith 
+made a great catch. C L. Andrews earned a pancake on the play.
+
+Ball State ball, Q1, 1-10-SDSU32 (01:01) 3-10
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+QB C. Koenig throws an incomplete pass to TE M. Foster. TE M. Foster ran an incorrect route.
+
+Holding against OLB Charles Schneider on San Diego State. The Penalty is for 10 yards, and 
+an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the San Diego State 22.
+
+Ball State ball, Q1, 1-10-SDSU22 (01:00) 3-10
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB E. Gentry runs left end for 6 yards (ILB F. Anthony). 
+
+Ball State ball, Q1, 1-10-SDSU22 (01:00) 3-10
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+DE Ross Ray (SDSU) was injured on the play (Lower Back). It doesn't look too serious and he 
+should return.
+
+Ball State ball, Q1, 2-4-SDSU16 (00:43) 3-10
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB S. Obrien runs left tackle for 0 yards (ILB F. Anthony).  C L. Andrews missed a block that 
+hurt the play.
+
+Ball State ball, Q1, 3-4-SDSU16 (00:10) 3-10
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB E. Gentry runs left guard for -2 yards (DE R. Ray).
+
+Ball State ball, Q2, 4-6-SDSU18 (15:00) 3-10
+Scotty Boyd converts the 36 yard field goal.
+
+Ball State ball, Q2, 1-10-BALL35 (14:42) 6-10
+Scotty Boyd kicks 75 from Ball State 35 to end zone, Touchback.
+
+San Diego State ball, Q2, 1-10-SDSU20 (14:26) 10-6
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6
+RB R. Wade runs left end for 4 yards (ILB D. Jordan, DE M. Gustafson). 
+
+San Diego State ball, Q2, 2-6-SDSU24 (14:00) 10-6
+Offense: Long Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB K. Wheeler completes a 20 yard streak to WR A. Edwards (OOB). OT C. Stewart earned a pancake 
+on the play.
+
+San Diego State ball, Q2, 1-10-SDSU44 (13:49) 10-6
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+QB K. Wheeler completes a 3 yard cross to WR B. Williams (OLB J. Gore, ILB D. Jordan). 
+
+San Diego State ball, Q2, 1-10-SDSU44 (13:49) 10-6
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+OG George White (SDSU) was injured on the play (Heel/Achilles). It doesn't look like he will 
+return.
+
+San Diego State ball, Q2, 2-7-SDSU47 (13:32) 10-6
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B7
+RB R. Francis runs left end for 1 yard (DE W. Hubbard). 
+
+San Diego State ball, Q2, 3-6-SDSU48 (13:01) 10-6
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+QB K. Wheeler completes a 52 yard hook to FB E. Hayes ****Touchdown!***** OG J. Ramirez earned 
+a pancake on the play. FS C. Cherry allowed the big play.
+
+Holding against OG Kenneth Goodwin on San Diego State. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Third and 16 at the San Diego State 38.
+
+San Diego State ball, Q2, 3-16-SDSU38 (12:49) 10-6
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-LE
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+RB R. Wade runs left end for 2 yards (ILB D. Jordan). 
+
+San Diego State ball, Q2, 4-14-SDSU40 (12:22) 10-6
+Lyman Paul Punts 44 yards to the Ball State 16 yard line, where Steven Thompson returns it 
+to Ball State 30 for a 14 yard return.
+
+Ball State ball, Q2, 1-10-BALL30 (12:07) 6-10
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB E. Gentry runs right guard for 36 yards (CB A. White).  FB A. Butler had a key block on 
+the run. CB B. Sanborn missed a tackle.
+
+Ball State ball, Q2, 1-10-SDSU34 (11:37) 6-10
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-power-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-norm-Man
+RB E. Gentry runs right end for -3 yards (ILB F. Anthony).
+
+Ball State ball, Q2, 2-13-SDSU37 (11:09) 6-10
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB C. Koenig throws an incomplete pass to WR J. Mercier. OLB J. Grant hurried the QB.
+
+Ball State ball, Q2, 3-13-SDSU37 (10:50) 6-10
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+QB C. Koenig completes a 4 yard hook to RB E. Gentry (OOB).
+
+Ball State ball, Q2, 4-9-SDSU33 (10:34) 6-10
+Scotty Boyd converts the 51 yard field goal.
+
+Ball State ball, Q2, 1-10-BALL35 (10:15) 9-10
+Scotty Boyd kicks 57 from Ball State 35 to San Diego State 8. Damian Vega to San Diego State 
+21 for a 13 yard return.
+
+San Diego State ball, Q2, 1-10-SDSU21 (09:57) 10-9
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: 4-6, Play: 46-norm-SZ-B6
+RB R. Francis runs left guard for 6 yards (CB D. Gordon). 
+
+San Diego State ball, Q2, 2-4-SDSU27 (09:31) 10-9
+Offense: Inside Run, Set: Shotgun, Play: SG-QB-draw-C
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+QB K. Wheeler scrambles out of the pocket and gets sacked for a 1 yard loss (DE W. Hubbard). 
+ C W. Beck allowed the sack.
+
+San Diego State ball, Q2, 3-5-SDSU26 (09:05) 10-9
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB K. Wheeler throws an incomplete pass to WR B. Williams. WR B. Williams ran an incorrect 
+route.
+
+San Diego State ball, Q2, 3-5-SDSU26 (09:05) 10-9
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+CB David Gordon (BALL) was injured on the play (Finger). It doesn't look too serious and he 
+should return.
+
+San Diego State ball, Q2, 4-5-SDSU26 (08:50) 10-9
+Lyman Paul Punts 51 yards to the Ball State 23 yard line, where Steven Thompson returns it 
+to Ball State 31 for a 8 yard return.
+
+Ball State ball, Q2, 1-10-BALL31 (08:34) 9-10
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-straight-LT
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+RB E. Gentry runs left end for 8 yards (SS S. Madden).  FB A. Butler had a key block on the 
+run. DT J. Schwartz was out of position on the play.
+
+Ball State ball, Q2, 2-2-BALL39 (08:01) 9-10
+Offense: Long Pass, Set: Double TE, Play: DTE-TE-posts
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-TMan
+QB J. Walsh throws an incomplete pass to TE M. Foster. TE M. Foster dropped the pass.
+
+Ball State ball, Q2, 3-2-BALL39 (07:46) 9-10
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+RB E. Gentry runs left tackle for 4 yards (ILB R. Spencer, SS S. Madden). 
+
+Ball State ball, Q2, 1-10-BALL43 (07:29) 9-10
+Offense: Inside Run, Set: I Form, Play: I-FB-counter-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+FB A. Butler runs right guard for 14 yards (CB B. Sanborn, FS J. Raines).  OT M. Lawson had 
+a key block on the run. DT J. Schwartz was out of position on the play.
+
+Ball State ball, Q2, 1-10-SDSU43 (06:59) 9-10
+Offense: Outside Run, Set: Strong, Play: ST-HB-counter-LT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB E. Gentry runs left end for -3 yards (OLB C. Schneider).
+
+Ball State ball, Q2, 2-13-SDSU46 (06:31) 9-10
+Offense: Medium Pass, Set: I Form Big, Play: IB-SE-post-TE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB C. Koenig throws an incomplete pass to WR T. Smith.
+
+Ball State ball, Q2, 3-13-SDSU46 (06:15) 9-10
+Offense: Medium Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB C. Koenig completes a 34 yard post to WR T. Smith (ILB F. Anthony).  He fumbles the ball 
+after a hit by F. Anthony. It's recovered by F. Anthony of San Diego State. He returns it 0 yards to the San Diego State 12. C L. Andrews earned a pancake on the play. CB A. White allowed the big play.
+
+San Diego State ball, Q2, 1-10-SDSU12 (05:50) 10-9
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+RB R. Wade runs right tackle for 16 yards (OLB J. Gore).  FS C. Cherry missed a tackle.
+
+Illegal Motion against TE Joseph Cox on San Diego State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the San Diego State 7.
+
+San Diego State ball, Q2, 1-15-SDSU7 (05:35) 10-9
+Offense: Inside Run, Set: Shotgun, Play: SG-QB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB K. Wheeler runs right tackle for 3 yards (DE W. Hubbard). 
+
+San Diego State ball, Q2, 2-12-SDSU10 (05:05) 10-9
+Offense: Inside Run, Set: Shotgun, Play: SG-QB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB K. Wheeler runs right guard for 6 yards (CB T. Potter). 
+
+San Diego State ball, Q2, 3-6-SDSU16 (04:32) 10-9
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+QB K. Wheeler completes a 32 yard hook to WR B. Williams (CB S. Thompson).  OLB J. Gore allowed 
+the big play.
+
+Holding against OT Joseph Vickers on San Diego State. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Third and 14 at the San Diego State 8.
+
+San Diego State ball, Q2, 3-14-SDSU8 (04:19) 10-9
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+QB K. Wheeler throws an incomplete pass to WR B. Williams.
+
+San Diego State ball, Q2, 4-14-SDSU8 (04:00) 10-9
+Lyman Paul Punts 36 yards to the San Diego State 44 yard line, where Steven Thompson returns 
+it to San Diego State 43 for a 1 yard return.
+
+Ball State ball, Q2, 1-10-SDSU43 (03:43) 9-10
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB E. Gentry runs left end for 10 yards (OOB). OT L. Patterson had a key block on the run.
+
+Ball State ball, Q2, 1-10-SDSU33 (03:26) 9-10
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB E. Gentry runs right end for -1 yards (ILB F. Anthony). TE M. Foster missed a block that 
+hurt the play.
+
+Ball State ball, Q2, 2-11-SDSU34 (02:57) 9-10
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-straight-LT
+Defense: Stop Run, Set: Dime, Play: Dime-pass-Man-B6,10
+RB E. Gentry runs left end for 0 yards (FS B. Stevens).  OG G. Berry missed a block that hurt 
+the play.
+
+Ball State ball, Q2, 3-11-SDSU34 (02:29) 9-10
+Offense: Short Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB C. Koenig completes a 12 yard in to WR J. Mercier (SS S. Madden).  He fumbles the ball 
+after a hit by S. Madden. It's recovered by B. Mcgrath of San Diego State. He returns it 3 yards to the San Diego State 25. SS S. Madden missed a tackle.
+
+San Diego State ball, Q2, 1-10-SDSU25 (02:07) 10-9
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB R. Francis runs right end for 14 yards (SS P. Cobb, CB T. Potter).  CB T. Potter missed 
+a tackle.
+
+San Diego State ball, Q2, 1-10-SDSU39 (01:50) 10-9
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+RB R. Wade runs left tackle for 2 yards (SS P. Cobb). 
+
+San Diego State ball, Q2, 2-8-SDSU41 (01:18) 10-9
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Wheeler completes a 27 yard streak to WR J. Young (ILB D. Jordan, CB T. Potter).  C 
+W. Beck earned a pancake on the play. FS C. Cherry allowed the big play.
+
+San Diego State Timeout!
+
+San Diego State ball, Q2, 1-10-BALL32 (01:01) 10-9
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB K. Wheeler throws an incomplete pass to WR A. Edwards (CB S. Thompson). CB S. Thompson 
+broke up the pass.
+
+San Diego State ball, Q2, 2-10-BALL32 (01:03) 10-9
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB K. Wheeler throws an incomplete pass to WR B. Williams (CB D. Gordon). CB D. Gordon broke 
+up the pass.
+
+San Diego State ball, Q2, 3-10-BALL32 (00:56) 10-9
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB K. Wheeler throws an incomplete pass to TE J. Cox. DE J. Harding hurried the QB.
+
+San Diego State ball, Q2, 4-10-BALL32 (00:50) 10-9
+Clinton Robinson misses the 50 yard field goal. It will be Ball State ball at the BALL 32
+
+Ball State ball, Q2, 1-10-BALL32 (00:43) 9-10
+Offense: Medium Pass, Set: Strong, Play: ST-TE-streak-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB C. Koenig throws an incomplete pass to WR R. Green (ILB F. Anthony). DT J. Schwartz hurried 
+the QB. ILB F. Anthony broke up the pass.
+
+Ball State ball, Q2, 2-10-BALL32 (00:36) 9-10
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-straight-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB E. Gentry runs right guard for 6 yards (OLB J. Grant, CB B. Sanborn). 
+
+Grabbing Face Mask against OLB Charles Schneider on San Diego State. The Penalty is for 15 
+yards, and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the San Diego State 47.
+
+Ball State ball, Q2, 1-10-SDSU47 (00:26) 9-10
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ-B6-Spy
+QB C. Koenig completes a 47 yard streak to WR R. Green ****Touchdown!***** R. Green made a 
+great catch.
+
+Ball State ball, Q2, 1-0-SDSU0 (00:12) 15-10
+Scotty Boyd converts the PAT.
+
+Ball State ball, Q2, 1-10-BALL35 (00:12) 16-10
+Scotty Boyd kicks 75 from Ball State 35 to end zone, Touchback.
+
+San Diego State ball, Q2, 1-10-SDSU20 (00:05) 10-16
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+The QB takes a knee.
+
+San Diego State ball, Q3, 1-10-SDSU35 (15:00) 10-16
+Clinton Robinson kicks 54 from San Diego State 35 to Ball State 11. Steven Thompson to Ball 
+State 20 for a 9 yard return.
+
+Ball State ball, Q3, 1-10-BALL20 (14:42) 16-10
+Offense: Outside Run, Set: Strong, Play: ST-HB-counter-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB E. Gentry runs left end for 4 yards (OLB J. Grant). 
+
+Ball State ball, Q3, 2-6-BALL24 (14:11) 16-10
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-straight-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB E. Gentry runs right tackle for 1 yard (SS S. Madden). 
+
+Ball State ball, Q3, 3-5-BALL25 (13:41) 16-10
+Offense: Medium Pass, Set: I Form, Play: I-TE-corner-FL-post
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+QB C. Koenig throws an incomplete pass to WR T. Smith.
+
+Ball State ball, Q3, 4-5-BALL25 (13:21) 16-10
+Dennis Colbert Punts 31 yards to the San Diego State 44 yard line, where Bruce Bryant returns 
+it to Ball State 45 for a 11 yard return.
+
+San Diego State ball, Q3, 1-10-BALL45 (13:02) 10-16
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB R. Wade runs right guard for 0 yards (DE M. Gustafson). 
+
+San Diego State ball, Q3, 2-10-BALL45 (12:29) 10-16
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB K. Wheeler throws an incomplete pass to RB R. Francis (CB D. Gordon). CB D. Gordon broke 
+up the pass.
+
+San Diego State ball, Q3, 3-10-BALL45 (12:11) 10-16
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB K. Wheeler completes a 27 yard streak to WR B. Williams (OOB).
+
+San Diego State ball, Q3, 1-10-BALL18 (11:55) 10-16
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+QB K. Wheeler completes a 18 yard hook to WR A. Edwards ****Touchdown!***** CB D. Gordon was 
+out of position on the play.
+
+San Diego State ball, Q3, 1-0-BALL0 (11:32) 16-16
+Clinton Robinson converts the PAT.
+
+San Diego State ball, Q3, 1-10-SDSU35 (11:32) 17-16
+Clinton Robinson kicks 67 from San Diego State 35 to Ball State -2. Steven Thompson to Ball 
+State 21 for a 23 yard return.
+
+Ball State ball, Q3, 1-10-BALL21 (11:15) 16-17
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB C. Koenig completes a 9 yard hook to WR T. Smith (CB A. White). 
+
+Ball State ball, Q3, 2-1-BALL30 (10:54) 16-17
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+QB J. Walsh completes a 5 yard hook to WR T. Smith (OLB J. Grant). 
+
+Ball State ball, Q3, 1-10-BALL35 (10:30) 16-17
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB S. Obrien runs left guard for 1 yard (ILB R. Spencer).  TE M. Foster missed a block that 
+hurt the play.
+
+Grabbing Face Mask against SS Steven Madden on San Diego State. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Second and 4 at the Ball State 41.
+
+Ball State ball, Q3, 2-4-BALL41 (10:20) 16-17
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB C. Koenig throws an incomplete pass to WR R. Green (ILB F. Anthony). ILB F. Anthony broke 
+up the pass.
+
+Holding against C Larry Andrews on Ball State. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 14 at the Ball State 31.
+
+Ball State ball, Q3, 2-14-BALL31 (10:08) 16-17
+Offense: Medium Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB C. Koenig throws an incomplete pass to WR R. Green.
+
+Ball State ball, Q3, 3-14-BALL31 (09:48) 16-17
+Offense: Short Pass, Set: Strong, Play: ST-FL-rollout-TE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-TMan
+QB C. Koenig gets sacked for a 5 yard loss (OLB C. Schneider).  OG G. Berry allowed the sack.
+
+Ball State ball, Q3, 4-19-BALL26 (09:28) 16-17
+Dennis Colbert Punts 42 yards to the San Diego State 32 yard line, where Joseph Young returns 
+it to San Diego State 34 for a 2 yard return.
+
+San Diego State ball, Q3, 1-10-SDSU34 (09:08) 17-16
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+RB R. Wade runs left tackle for 0 yards (FS C. Cherry). 
+
+San Diego State ball, Q3, 2-10-SDSU34 (08:35) 17-16
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB K. Wheeler completes a 20 yard hook to WR A. Edwards (ILB D. Jordan). 
+
+San Diego State ball, Q3, 1-10-BALL46 (08:08) 17-16
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB K. Wheeler completes a 7 yard out to WR B. Williams (CB S. Thompson, SS P. Cobb). 
+
+San Diego State ball, Q3, 2-3-BALL39 (07:47) 17-16
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB K. Wheeler throws an incomplete pass to WR B. Williams. DE M. Gustafson hurried the QB.
+
+San Diego State ball, Q3, 3-3-BALL39 (07:31) 17-16
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B10
+QB K. Wheeler throws an incomplete pass to WR B. Williams.
+
+San Diego State ball, Q3, 3-3-BALL39 (07:31) 17-16
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B10
+RB Renaldo Wade (SDSU) was injured on the play (Lower Leg). It doesn't look too serious and 
+he should return.
+
+San Diego State ball, Q3, 4-3-BALL39 (07:15) 17-16
+Lyman Paul Punts 21 yards to the Ball State 18 yard line, where it goes out of bounds.
+
+Ball State ball, Q3, 1-10-BALL18 (06:55) 16-17
+Offense: Medium Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+QB C. Koenig throws an incomplete pass to WR R. Green. DE B. Mcgrath hurried the QB.
+
+Ball State ball, Q3, 2-10-BALL18 (06:36) 16-17
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB C. Koenig throws an incomplete pass to WR R. Green. WR R. Green dropped the pass.
+
+Ball State ball, Q3, 3-10-BALL18 (06:16) 16-17
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+QB C. Koenig completes a 4 yard hook to WR J. Mercier (ILB R. Spencer).  He fumbles the ball 
+after a hit by R. Spencer. It's recovered by J. Grant of San Diego State. He returns it 6 yards to the Ball State 16.
+
+San Diego State ball, Q3, 1-10-BALL16 (05:53) 17-16
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB R. Wade runs right guard for 1 yard (FS C. Cherry).  TE J. Cox missed a block that hurt 
+the play.
+
+San Diego State ball, Q3, 2-9-BALL15 (05:23) 17-16
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB R. Wade runs left end for 1 yard (OOB).
+
+San Diego State ball, Q3, 3-8-BALL14 (05:08) 17-16
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+QB K. Wheeler completes a 11 yard hook to WR B. Williams (ILB D. Jordan, SS E. Martinez). 
+ OT C. Stewart earned a pancake on the play. FS C. Cherry missed a tackle.
+
+Pass Interference against FS Cecil Cherry on Ball State. The Penalty is for 11 yards, and 
+an automatic first down.
+The penalty will be declined.
+
+San Diego State ball, Q3, 1-3-BALL3 (04:56) 17-16
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+QB K. Wheeler completes a 3 yard cross to WR B. Williams ****Touchdown!*****
+
+San Diego State ball, Q3, 1-0-BALL0 (04:35) 23-16
+Clinton Robinson converts the PAT.
+
+San Diego State ball, Q3, 1-10-SDSU35 (04:35) 24-16
+Clinton Robinson kicks 55 from San Diego State 35 to Ball State 10. Steven Thompson to Ball 
+State 45 for a 35 yard return.
+
+Unnecessary Roughness against OLB Royce Lopez on San Diego State. The Penalty is for 15 yards, 
+and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the San Diego State 40.
+
+Ball State ball, Q3, 1-10-SDSU40 (04:22) 16-24
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ-B7,8
+RB E. Gentry runs right guard for 4 yards (CB A. White). 
+
+Ball State ball, Q3, 2-6-SDSU36 (03:55) 16-24
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB E. Gentry runs left guard for -2 yards (ILB R. Spencer).
+
+Ball State ball, Q3, 3-8-SDSU38 (03:24) 16-24
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB C. Koenig throws an incomplete pass to TE M. Foster. TE M. Foster dropped the pass. DT 
+J. Schwartz hurried the QB.
+
+Ball State ball, Q3, 4-8-SDSU38 (03:05) 16-24
+Dennis Colbert Punts 21 yards to the San Diego State 17 yard line, where it goes out of bounds.
+
+San Diego State ball, Q3, 1-10-SDSU17 (02:49) 24-16
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+RB R. Francis runs left end for 22 yards (SS E. Martinez).  ILB D. Jordan was out of position 
+on the play.
+
+San Diego State ball, Q3, 1-10-SDSU39 (02:20) 24-16
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB K. Wheeler throws an incomplete pass to WR B. Williams. DT J. Miranda hurried the QB.
+
+San Diego State ball, Q3, 2-10-SDSU39 (02:00) 24-16
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB R. Wade runs left end for 3 yards (OLB R. Alicea, DE M. Gustafson). 
+
+San Diego State ball, Q3, 3-7-SDSU42 (01:29) 24-16
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB R. Wade runs left end for 0 yards (OLB R. Alicea). 
+
+San Diego State ball, Q3, 4-7-SDSU42 (01:01) 24-16
+Lyman Paul Punts 50 yards to the Ball State 8 yard line, where it gets downed.
+
+Ball State ball, Q3, 1-10-BALL8 (00:44) 16-24
+Offense: Short Pass, Set: Strong, Play: ST-HB-playact-cross
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB C. Koenig completes a 4 yard in to RB S. Obrien (FS B. Stevens). 
+
+Ball State ball, Q3, 2-6-BALL12 (00:23) 16-24
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB S. Obrien runs right guard for 0 yards (OLB C. Schneider). 
+
+Ball State ball, Q4, 3-6-BALL12 (15:00) 16-24
+Offense: Medium Pass, Set: Strong, Play: ST-SE-corner-FL-out
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+QB C. Koenig throws an incomplete pass to WR T. Smith (CB B. Sanborn). CB B. Sanborn broke 
+up the pass.
+
+Ball State ball, Q4, 4-6-BALL12 (14:41) 16-24
+Dennis Colbert Punts 53 yards to the San Diego State 35 yard line, where Joseph Young returns 
+it to San Diego State 49 for a 14 yard return.
+
+San Diego State ball, Q4, 1-10-SDSU49 (14:26) 24-16
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: 4-6, Play: 46-run-Man-B6
+QB K. Wheeler completes a 1 yard hook to WR A. Edwards (OLB R. Alicea). 
+
+San Diego State ball, Q4, 2-9-SDSU50 (14:04) 24-16
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB K. Wheeler completes a 4 yard screen to RB R. Francis (CB T. Potter). 
+
+San Diego State ball, Q4, 3-5-BALL46 (13:41) 24-16
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-Man-B7,11
+K. Wheeler has his 7 yard pass intercepted by W. Hubbard at the BALL 39. He returns it 61 
+yards for the touchdown!
+
+Ball State ball, Q4, 1-10-BALL39 (13:09) 22-24
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-TMan
+QB C. Koenig gets sacked for a 2 yard loss (DE R. Ray).  C L. Andrews allowed the sack.
+
+Ball State ball, Q4, 1-10-BALL35 (13:09) 22-24
+Scotty Boyd kicks 55 from Ball State 35 to San Diego State 10. Albert Edwards to Ball State 
+45 for a 45 yard return.
+
+San Diego State ball, Q4, 1-10-BALL45 (12:50) 24-22
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB K. Wheeler completes a 2 yard screen to RB R. Francis (SS E. Martinez). 
+
+San Diego State ball, Q4, 2-8-BALL43 (12:27) 24-22
+Offense: Inside Run, Set: Trips, Play: TR-QB-sneak-RG
+Defense: Normal, Set: 4-6, Play: 46-norm-SZ-B6
+QB K. Wheeler runs right guard for 2 yards (OLB R. Alicea, FS C. Cherry). 
+
+San Diego State ball, Q4, 2-8-BALL43 (12:27) 24-22
+Offense: Inside Run, Set: Trips, Play: TR-QB-sneak-RG
+Defense: Normal, Set: 4-6, Play: 46-norm-SZ-B6
+DE Michael Gustafson (BALL) was injured on the play (Eye). It doesn't look like he will return.
+
+San Diego State ball, Q4, 3-6-BALL41 (12:11) 24-22
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB R. Wade runs right end for 3 yards (CB T. Potter). 
+
+San Diego State ball, Q4, 4-3-BALL38 (11:40) 24-22
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+QB K. Wheeler completes a 4 yard out to WR B. Williams (OLB J. Gore).  He fumbles the ball 
+after a hit by J. Gore. It's recovered by R. Francis of San Diego State.
+
+San Diego State ball, Q4, 1-10-BALL34 (11:18) 24-22
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+RB R. Wade runs right tackle for 4 yards (SS E. Martinez). 
+
+San Diego State ball, Q4, 2-6-BALL30 (10:50) 24-22
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB R. Francis runs right tackle for 2 yards (ILB D. Jordan). 
+
+San Diego State ball, Q4, 2-6-BALL30 (10:50) 24-22
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+CB David Gordon (BALL) was injured on the play (Eye). It doesn't look too serious and he should 
+return.
+
+San Diego State ball, Q4, 3-4-BALL28 (10:35) 24-22
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB K. Wheeler throws an incomplete pass to WR B. Williams.
+
+San Diego State ball, Q4, 4-4-BALL28 (10:18) 24-22
+Clinton Robinson misses the 46 yard field goal. It will be Ball State ball at the BALL 28
+
+Holding against RB Kim Chavez on San Diego State. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Ball State ball, Q4, 1-10-BALL28 (10:03) 22-24
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB C. Koenig throws an incomplete pass to WR T. Smith. WR T. Smith dropped the pass. DE R. 
+Ray hurried the QB.
+
+Ball State ball, Q4, 2-10-BALL28 (09:43) 22-24
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB C. Koenig gets sacked for a 5 yard loss (DE R. Ray).  OT L. Patterson allowed the sack.
+
+Ball State ball, Q4, 3-15-BALL23 (09:27) 22-24
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB C. Koenig completes a 6 yard screen to TE M. Foster (FS J. Raines). 
+
+Ball State ball, Q4, 4-9-BALL29 (09:03) 22-24
+Dennis Colbert Punts 42 yards to the San Diego State 29 yard line, where Joseph Young returns 
+it 71 yards for a touchdown!
+
+San Diego State ball, Q4, 1-5-BALL5 (08:45) 30-22
+Clinton Robinson converts the PAT.
+
+San Diego State ball, Q4, 1-10-SDSU35 (08:45) 31-22
+Clinton Robinson kicks 75 from San Diego State 35 to end zone, Touchback.
+
+Ball State ball, Q4, 1-10-BALL20 (08:30) 22-31
+Offense: Long Pass, Set: Strong, Play: ST-FL-playact-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB C. Koenig throws an incomplete pass to WR T. Smith. C. Koenig made a bad pass.
+
+Holding against CB Bryan Sanborn on San Diego State. The Penalty is for 10 yards, and an automatic 
+first down.
+Ball State ball, Q4, 1-10-BALL20 (08:30) 22-31
+Offense: Long Pass, Set: Strong, Play: ST-FL-playact-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+OG George Berry (BALL) was injured on the play (Thumb). It doesn't look too serious and he 
+should return.
+
+The Offense will accept the penalty. It is now First and 10 at the Ball State 30.
+
+Ball State ball, Q4, 1-10-BALL30 (08:20) 22-31
+Offense: Inside Run, Set: Strong, Play: ST-HB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB E. Gentry runs right guard for -2 yards (FS S. Hall). TE M. Foster missed a block that 
+hurt the play.
+
+Ball State ball, Q4, 2-12-BALL28 (07:50) 22-31
+Offense: Long Pass, Set: I Form Big, Play: IB-TE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB C. Koenig gets sacked for a 14 yard loss (DT J. Schwartz).  OG G. Berry allowed the sack.
+
+Ball State ball, Q4, 3-26-BALL14 (07:35) 22-31
+Offense: Short Pass, Set: Strong, Play: ST-HB-playact-cross
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB C. Koenig completes a 11 yard in to RB E. Gentry (FS J. Raines).  OG G. Berry earned a 
+pancake on the play.
+
+Holding against FS Brandon Stevens on San Diego State. The Penalty is for 10 yards, and an 
+automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Ball State 24.
+
+Ball State ball, Q4, 1-10-BALL24 (07:24) 22-31
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB C. Koenig throws an incomplete pass to WR J. Mercier (SS S. Madden). WR J. Mercier dropped 
+the pass. SS S. Madden broke up the pass.
+
+Holding against OT Matthew Lawson on Ball State. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Ball State 14.
+
+Ball State ball, Q4, 1-20-BALL14 (07:12) 22-31
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB C. Koenig completes a 8 yard hook to TE M. Foster (CB B. Sanborn). 
+
+Ball State ball, Q4, 2-12-BALL22 (06:49) 22-31
+Offense: Long Pass, Set: Double TE, Play: DTE-TE-posts
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB C. Koenig throws an incomplete pass to TE M. Foster.
+
+Ball State ball, Q4, 3-12-BALL22 (06:31) 22-31
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-RT
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+RB E. Gentry runs right tackle for 8 yards (SS S. Madden).  CB P. Harris was out of position 
+on the play.
+
+Ball State ball, Q4, 4-4-BALL30 (06:00) 22-31
+Dennis Colbert Punts 33 yards to the San Diego State 37 yard line, where Bruce Bryant returns 
+it to San Diego State 48 for a 11 yard return.
+
+San Diego State ball, Q4, 1-10-SDSU48 (05:42) 31-22
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB K. Wheeler completes a 6 yard streak to RB R. Francis (ILB D. Jordan). 
+
+San Diego State ball, Q4, 2-4-BALL46 (05:20) 31-22
+Offense: Long Pass, Set: Pro Set, Play: PS-TE-streak-SE-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB K. Wheeler throws an incomplete pass to WR B. Williams.
+
+San Diego State ball, Q4, 3-4-BALL46 (05:03) 31-22
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB K. Wheeler throws an incomplete pass to WR B. Williams.
+
+San Diego State ball, Q4, 4-4-BALL46 (04:43) 31-22
+Lyman Paul Punts 42 yards to the Ball State 4 yard line, where it goes out of bounds.
+
+Ball State ball, Q4, 1-10-BALL4 (04:23) 22-31
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB C. Koenig throws an incomplete pass to WR R. Green.
+
+Ball State ball, Q4, 2-10-BALL4 (04:06) 22-31
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-power-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-norm-TMan
+RB E. Gentry runs right tackle for -4 yards (ILB R. Spencer). TE R. Dixon missed a block that 
+hurt the play.
+
+Ball State ball, Q4, 2-10-BALL4 (03:33) 22-31
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-power-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-norm-TMan
+The ball carrier gets tackled in the endzone for a safety!
+
+Ball State ball, Q4, 1-10-BALL25 (03:33) 22-33
+Scotty Boyd kicks 59 from Ball State 25 to San Diego State 16. Albert Edwards to San Diego 
+State 35 for a 19 yard return.
+
+San Diego State ball, Q4, 1-10-SDSU35 (03:06) 33-22
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB R. Wade runs right end for 1 yard (DE J. Harding). 
+
+San Diego State ball, Q4, 2-9-SDSU36 (02:35) 33-22
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB R. Wade runs right guard for 6 yards (ILB D. Jordan). 
+
+San Diego State ball, Q4, 3-3-SDSU42 (02:09) 33-22
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB R. Wade runs right guard for 4 yards (DT H. Chester). 
+
+San Diego State ball, Q4, 1-10-SDSU46 (01:50) 33-22
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+RB R. Francis runs left end for -5 yards (OLB J. Gore).
+
+San Diego State ball, Q4, 2-15-SDSU41 (01:24) 33-22
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ
+RB R. Francis runs right guard for 20 yards (ILB D. Jordan, OLB J. Gore).  OG J. Ramirez had 
+a key block on the run. ILB D. Jordan was out of position on the play.
+
+San Diego State ball, Q4, 2-15-SDSU41 (01:24) 33-22
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ
+RB Richard Francis (SDSU) was injured on the play (Elbow). It doesn't look like he will return.
+
+San Diego State ball, Q4, 1-10-BALL39 (01:08) 33-22
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB R. Wade runs right guard for 1 yard (ILB D. Jordan).  OG K. Goodwin missed a block that 
+hurt the play.
+
+Ball State Timeout!
+
+San Diego State ball, Q4, 2-9-BALL38 (01:00) 33-22
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB K. Chavez runs right tackle for 2 yards (OOB).
+
+San Diego State ball, Q4, 3-7-BALL36 (00:53) 33-22
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB R. Wade runs left end for -1 yards (SS E. Martinez).
+
+Ball State Timeout!
+
+San Diego State ball, Q4, 4-8-BALL37 (00:46) 33-22
+Lyman Paul Punts 39 yards to the end zone, Touchback.
+
+Ball State ball, Q4, 1-10-BALL20 (00:39) 22-33
+Offense: Long Pass, Set: Double TE, Play: DTE-TE-posts
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-DZ-B8
+C. Koenig has his 40 yard pass intercepted by A. White at the SDSU 40. He returns it 6 yards 
+to the San Diego State 46. DE R. Ray hurried the QB.
+
+San Diego State ball, Q4, 1-10-SDSU46 (00:10) 33-22
+Offense: Inside Run, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+The QB takes a knee.
+

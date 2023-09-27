@@ -1,0 +1,967 @@
+Ohio State ball, Q1, 1-10-OHST35 (15:00) 0-0
+Mark Fritz kicks 64 from Ohio State 35 to Wisconsin 1. Dane Walters has a 99 yard return for 
+a ***Touchdown!***
+
+Wisconsin ball, Q1, 1-10-WIS1 (14:40) 6-0
+David Marshall has his PAT blocked by DT Nathaniel Conway!
+
+Wisconsin ball, Q1, 1-10-WIS35 (14:40) 6-0
+David Marshall kicks 67 from Wisconsin 35 to Ohio State -2. Larry Young to Ohio State 12 for 
+a 14 yard return.
+
+Ohio State ball, Q1, 1-10-OHST12 (14:23) 0-6
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+False Start against C Derek Harrison on Ohio State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Ohio State 7.
+
+Ohio State ball, Q1, 1-15-OHST7 (14:23) 0-6
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB K. Tran runs right tackle for -3 yards (DT J. Webster).
+
+Ohio State ball, Q1, 2-18-OHST4 (13:57) 0-6
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Coleman throws an incomplete pass to WR P. Harris. DT D. Farr hurried the QB.
+
+Ohio State ball, Q1, 3-18-OHST4 (13:40) 0-6
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB D. Coleman completes a 29 yard corner to WR J. Washington (OLB H. Hood).  OLB H. Hood allowed 
+the big play.
+
+Ohio State ball, Q1, 1-10-OHST33 (13:15) 0-6
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-straight-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+RB J. Witherspoon runs right tackle for 9 yards (OLB H. Hood).  J. Witherspoon created the 
+big run with his own skills.
+
+Ohio State ball, Q1, 2-1-OHST42 (12:42) 0-6
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB B. Vargas completes a 10 yard dump off to FB R. Porter (OOB).
+
+Ohio State ball, Q1, 1-10-WIS48 (12:28) 0-6
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+False Start against OT Joel Young on Ohio State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Ohio State 47.
+
+Ohio State ball, Q1, 1-15-OHST47 (12:28) 0-6
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB D. Coleman throws an incomplete pass to WR P. Harris.
+
+Ohio State ball, Q1, 2-15-OHST47 (12:09) 0-6
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB K. Tran runs left tackle for 4 yards (FS W. Underwood). 
+
+Ohio State ball, Q1, 3-11-WIS49 (11:37) 0-6
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB K. Tran runs right end for 9 yards (FS W. Underwood, ILB J. Lugo).  OG G. Hamm had a key 
+block on the run.
+
+Ohio State ball, Q1, 4-2-WIS40 (11:09) 0-6
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB B. Vargas completes a 9 yard hook to WR P. Harris (ILB T. Hernandez, CB W. Cox). 
+
+Ohio State ball, Q1, 1-10-WIS31 (10:45) 0-6
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-straight-RG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+RB J. Witherspoon runs right guard for 3 yards (ILB T. Hernandez, CB W. Cox). 
+
+Ohio State ball, Q1, 2-7-WIS28 (10:14) 0-6
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB J. Witherspoon runs right guard for 4 yards (FS C. Henry). 
+
+Ohio State ball, Q1, 3-3-WIS24 (09:44) 0-6
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 3-3-5, Play: 335-norm-MZ
+QB D. Coleman completes a 12 yard hook to WR J. Washington (FS W. Underwood, CB A. Cook). 
+
+Ohio State ball, Q1, 1-10-WIS12 (09:23) 0-6
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-straight-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ-B7,8
+RB K. Tran runs right guard for 3 yards (SS S. Small). 
+
+Ohio State ball, Q1, 2-7-WIS9 (08:50) 0-6
+Offense: Inside Run, Set: Strong, Play: ST-HB-draw-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB J. Witherspoon runs right guard for 1 yard (SS S. Small). 
+
+Ohio State ball, Q1, 3-6-WIS8 (08:19) 0-6
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B5,6,8
+RB K. Tran runs right guard for 1 yard (FS W. Underwood).  K. Tran missed a hole that could 
+have resulted in a bigger gain.
+
+Ohio State ball, Q1, 4-5-WIS7 (07:46) 0-6
+Mark Fritz converts the 25 yard field goal.
+
+Ohio State ball, Q1, 1-10-OHST35 (07:31) 3-6
+Mark Fritz kicks 54 from Ohio State 35 to Wisconsin 11. Dane Walters to Wisconsin 42 for a 
+31 yard return.
+
+Wisconsin ball, Q1, 1-10-WIS42 (07:16) 6-3
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB R. Sandoval runs left tackle for 11 yards (OOB). OG L. Davis had a key block on the run.
+
+Wisconsin ball, Q1, 1-10-OHST47 (07:04) 6-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-MZ-B5,7
+RB R. Sandoval runs left end for 0 yards (FS E. Gibbs).  OT P. Bush missed a block that hurt 
+the play.
+
+Wisconsin ball, Q1, 2-10-OHST47 (06:31) 6-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB D. Petty completes a 1 yard post to TE J. Negron (DT N. Conway).  He fumbles the ball after 
+a hit by N. Conway. It's recovered by E. Gibbs of Ohio State. He returns it 1 yards to the Ohio State 47.
+
+Wisconsin ball, Q1, 2-10-OHST47 (06:31) 6-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+WR Dane Walters (WIS) was injured on the play (Ear). It doesn't look too serious and he should 
+return.
+
+Ohio State ball, Q1, 1-10-OHST47 (06:14) 3-6
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+RB J. Witherspoon runs left tackle for -1 yards (OLB H. Hood).
+
+Ohio State ball, Q1, 2-11-OHST46 (05:41) 3-6
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB K. Tran runs left guard for 16 yards (OLB G. Witt).  OT J. Young had a key block on the run.
+
+Ohio State ball, Q1, 1-10-WIS38 (05:11) 3-6
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB J. Witherspoon runs left end for 8 yards (OLB G. Witt).  C D. Harrison had a key block 
+on the run.
+
+Ohio State ball, Q1, 2-2-WIS30 (04:40) 3-6
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+False Start against OG Carl Lloyd on Ohio State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 7 at the Wisconsin 35.
+
+Ohio State ball, Q1, 2-7-WIS35 (04:40) 3-6
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB J. Witherspoon runs left tackle for -1 yards (DE M. Kay). OT S. James missed a block that 
+hurt the play.
+
+Ohio State ball, Q1, 3-8-WIS36 (04:08) 3-6
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB D. Coleman completes a 10 yard hook to WR J. Smith (ILB J. Lugo). 
+
+Ohio State ball, Q1, 1-10-WIS26 (03:46) 3-6
+Offense: Outside Run, Set: Strong, Play: ST-HB-toss-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB K. Tran runs right tackle for -1 yards (SS S. Small). TE R. Smith missed a block that hurt 
+the play.
+
+Ohio State ball, Q1, 2-11-WIS27 (03:13) 3-6
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB K. Tran runs right guard for 4 yards (OLB H. Hood). 
+
+Ohio State ball, Q1, 3-7-WIS23 (02:45) 3-6
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+D. Coleman has his 13 yard pass intercepted by J. Lugo at the WIS 10. He returns it 4 yards 
+to the Wisconsin 14. D. Coleman made a bad pass. DE M. Kay hurried the QB.
+
+Wisconsin ball, Q1, 1-10-WIS14 (02:15) 6-3
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+FB P. Allen runs left guard for 16 yards (SS R. Newman). 
+
+Wisconsin ball, Q1, 1-10-WIS30 (01:48) 6-3
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+FB P. Allen runs left guard for 0 yards (FS E. Gibbs).  C A. Jones missed a block that hurt 
+the play.
+
+Wisconsin ball, Q1, 2-10-WIS30 (01:18) 6-3
+Offense: Medium Pass, Set: I Form, Play: I-TE-corner-FL-post
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB D. Petty throws an incomplete pass to WR D. Ramos (CB R. Palmer). DT L. Robinson hurried 
+the QB. CB R. Palmer broke up the pass.
+
+Wisconsin ball, Q1, 3-10-WIS30 (01:00) 6-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB D. Petty throws an incomplete pass to WR D. Ramos (CB R. Palmer). CB R. Palmer broke up 
+the pass.
+
+Wisconsin ball, Q1, 4-10-WIS30 (00:43) 6-3
+Arthur Miller Punts 44 yards to the Ohio State 26 yard line, where Joey Smith returns it to 
+Ohio State 32 for a 6 yard return.
+
+Ohio State ball, Q1, 1-10-OHST32 (00:25) 3-6
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+RB J. Witherspoon runs left guard for 11 yards (ILB J. Lugo).  OLB G. Witt missed a tackle.
+
+Ohio State ball, Q2, 1-10-OHST43 (15:00) 3-6
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB J. Witherspoon runs left guard for 2 yards (FS W. Underwood). 
+
+Ohio State ball, Q2, 2-8-OHST45 (14:27) 3-6
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+RB K. Tran runs left guard for 3 yards (ILB J. Lugo). 
+
+Ohio State ball, Q2, 3-5-OHST48 (14:00) 3-6
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-MZ-B7,9
+QB D. Coleman throws an incomplete pass to WR P. Harris. WR P. Harris dropped the pass.
+
+Ohio State ball, Q2, 3-5-OHST48 (14:00) 3-6
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-MZ-B7,9
+FS William Underwood (WIS) was injured on the play (Neck). It doesn't look like he will return.
+
+Ohio State ball, Q2, 4-5-OHST48 (13:41) 3-6
+James Eggleston Punts 52 yards to the end zone, Touchback.
+
+Wisconsin ball, Q2, 1-10-WIS20 (13:23) 6-3
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+FB P. Allen runs left guard for 3 yards (OLB S. Joyner, DT L. Robinson). 
+
+Wisconsin ball, Q2, 2-7-WIS23 (12:57) 6-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ-B6
+QB D. Petty throws an incomplete pass to WR N. Molina (FS E. Gibbs). DE L. Edwards hurried 
+the QB. FS E. Gibbs broke up the pass.
+
+Wisconsin ball, Q2, 3-7-WIS23 (12:42) 6-3
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+QB D. Petty completes a 42 yard streak to WR N. Molina (CB R. Palmer).  OG L. Davis earned 
+a pancake on the play. SS R. Newman allowed the big play.
+
+Wisconsin ball, Q2, 1-10-OHST35 (12:15) 6-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB J. Hinds runs right guard for 1 yard (FS E. Gibbs). 
+
+Wisconsin ball, Q2, 2-9-OHST34 (11:45) 6-3
+Offense: Short Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Petty completes a 7 yard out to TE K. Knight (OLB S. Joyner). 
+
+Wisconsin ball, Q2, 3-2-OHST27 (11:22) 6-3
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB D. Petty throws an incomplete pass to WR D. Ramos.
+
+Wisconsin ball, Q2, 4-2-OHST27 (11:07) 6-3
+David Marshall converts the 45 yard field goal.
+
+Wisconsin ball, Q2, 1-10-WIS35 (10:49) 9-3
+David Marshall kicks 75 from Wisconsin 35 to end zone, Touchback.
+
+Ohio State ball, Q2, 1-10-OHST20 (10:32) 3-9
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB K. Tran runs left end for 10 yards (FS C. Henry). 
+
+Ohio State ball, Q2, 1-10-OHST30 (10:05) 3-9
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+RB K. Tran runs right guard for 5 yards (ILB J. Lugo). 
+
+Ohio State ball, Q2, 2-5-OHST35 (09:37) 3-9
+Offense: Medium Pass, Set: Strong, Play: ST-SE-corner-FL-out
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+QB D. Coleman throws an incomplete pass to WR P. Harris (CB A. Cook). WR P. Harris dropped 
+the pass. CB A. Cook broke up the pass.
+
+Ohio State ball, Q2, 3-5-OHST35 (09:17) 3-9
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+QB D. Coleman throws an incomplete pass to FB M. Cook.
+
+Ohio State ball, Q2, 3-5-OHST35 (09:17) 3-9
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB Kyle Tran (OHST) was injured on the play (Jaw). It doesn't look like he will return.
+
+Ohio State ball, Q2, 4-5-OHST35 (08:58) 3-9
+James Eggleston Punts 42 yards to the Wisconsin 23 yard line, where it goes out of bounds.
+
+Wisconsin ball, Q2, 1-10-WIS23 (08:42) 9-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: 4-3, Play: 43-norm-DZ-B5,7
+RB J. Hinds runs right guard for 8 yards (FS E. Gibbs).  SS R. Newman missed a tackle.
+
+Wisconsin ball, Q2, 2-2-WIS31 (08:10) 9-3
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan
+WR D. Ramos runs right tackle for 4 yards (CB R. Palmer). 
+
+Wisconsin ball, Q2, 1-10-WIS35 (07:38) 9-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB R. Sandoval runs left end for 0 yards (OOB). OT P. Bush missed a block that hurt the play.
+
+Wisconsin ball, Q2, 2-10-WIS35 (07:24) 9-3
+Offense: Outside Run, Set: I Form, Play: I-HB-toss-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB R. Sandoval runs right tackle for 3 yards (ILB M. Hernandez). 
+
+Wisconsin ball, Q2, 3-7-WIS38 (06:57) 9-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+RB R. Sandoval runs right tackle for 2 yards (SS T. Castillo). 
+
+Offsides against DT Leslie Robinson on Ohio State. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Third and 2 at the Wisconsin 43.
+
+Wisconsin ball, Q2, 3-2-WIS43 (06:46) 9-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B5,7
+RB R. Sandoval runs right guard for 1 yard (FS E. Gibbs). 
+
+Wisconsin ball, Q2, 4-1-WIS44 (06:13) 9-3
+Arthur Miller Punts 45 yards to the Ohio State 11 yard line,
+
+Ohio State ball, Q2, 1-10-OHST11 (05:54) 3-9
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+RB J. Witherspoon runs right tackle for 7 yards (FS J. Polk).  OG G. Hamm had a key block 
+on the run. OLB G. Witt missed a tackle.
+
+Ohio State ball, Q2, 2-3-OHST18 (05:27) 3-9
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-straight-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB J. Witherspoon runs right guard for 6 yards (OLB G. Witt, ILB J. Lugo). 
+
+Ohio State ball, Q2, 1-10-OHST24 (05:00) 3-9
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB J. Witherspoon runs left end for 15 yards (FS J. Polk). 
+
+Ohio State ball, Q2, 1-10-OHST39 (04:29) 3-9
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB D. Coleman throws an incomplete pass to WR P. Harris.
+
+Ohio State ball, Q2, 2-10-OHST39 (04:01) 3-9
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB F. White runs right tackle for 2 yards (OOB).
+
+Ohio State ball, Q2, 3-8-OHST41 (03:59) 3-9
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+QB D. Coleman completes a 5 yard dump off to FB M. Cook (FS C. Henry, OLB H. Hood). 
+
+Ohio State ball, Q2, 4-3-OHST46 (03:36) 3-9
+James Eggleston Punts 51 yards to the Wisconsin 3 yard line, where it gets downed.
+
+Wisconsin ball, Q2, 1-10-WIS3 (03:16) 9-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB J. Hinds runs right guard for 2 yards (CB M. Martin). 
+
+Wisconsin ball, Q2, 2-8-WIS5 (02:46) 9-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B8
+RB J. Hinds runs right guard for 5 yards (CB M. Martin). 
+
+Wisconsin ball, Q2, 3-3-WIS10 (02:14) 9-3
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B8
+QB D. Petty completes a 8 yard screen to RB R. Sandoval (FS E. Gibbs). 
+
+Wisconsin ball, Q2, 1-10-WIS18 (01:51) 9-3
+Offense: Short Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB D. Petty completes a 2 yard out to WR D. Ramos (OLB G. Moss). 
+
+Wisconsin ball, Q2, 2-8-WIS20 (01:29) 9-3
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+QB D. Petty throws an incomplete pass to TE K. Knight. TE K. Knight dropped the pass.
+
+Wisconsin ball, Q2, 3-8-WIS20 (01:23) 9-3
+Offense: Medium Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Petty throws an incomplete pass to WR D. Walters (OLB S. Joyner). DE L. Edwards hurried 
+the QB. OLB S. Joyner broke up the pass.
+
+Wisconsin ball, Q2, 4-8-WIS20 (01:15) 9-3
+Arthur Miller Punts 50 yards to the Ohio State 30 yard line, where Joey Smith returns it to 
+Ohio State 34 for a 4 yard return.
+
+Ohio State ball, Q2, 1-10-OHST34 (01:08) 3-9
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB D. Coleman throws an incomplete pass to RB F. White.
+
+Ohio State ball, Q2, 2-10-OHST34 (01:00) 3-9
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB D. Coleman gets sacked for a 5 yard loss (DE K. Moore).  TE R. Smith allowed the sack.
+
+Ohio State ball, Q2, 3-15-OHST29 (00:52) 3-9
+Offense: Medium Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB D. Coleman throws an incomplete pass to WR J. Washington (CB A. Cook). DE M. Marshall hurried 
+the QB. CB A. Cook broke up the pass.
+
+Ohio State ball, Q2, 4-15-OHST29 (00:44) 3-9
+James Eggleston Punts 55 yards to the Wisconsin 16 yard line, where it goes out of bounds.
+
+Wisconsin ball, Q2, 1-10-WIS16 (00:37) 9-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+RB R. Sandoval runs left guard for 5 yards (SS R. Newman). 
+
+Ohio State Timeout!
+
+Wisconsin ball, Q2, 2-5-WIS21 (00:30) 9-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB R. Sandoval runs left tackle for 3 yards (OLB G. Moss). 
+
+Wisconsin ball, Q2, 2-5-WIS21 (00:30) 9-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+DE Jerome Freeman (OHST) was injured on the play (Toe). It doesn't look like he will return.
+
+Wisconsin ball, Q2, 3-2-WIS24 (00:14) 9-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+The QB takes a knee.
+
+Wisconsin ball, Q3, 1-10-WIS35 (15:00) 9-3
+David Marshall kicks 67 from Wisconsin 35 to Ohio State -2. Larry Young to Ohio State 11 for 
+a 13 yard return.
+
+Ohio State ball, Q3, 1-10-OHST11 (14:42) 3-9
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB D. Coleman throws an incomplete pass to WR J. Washington (SS G. Deal). SS G. Deal broke 
+up the pass.
+
+Ohio State ball, Q3, 2-10-OHST11 (14:26) 3-9
+Offense: Medium Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-MZ-B7,9
+QB D. Coleman completes a 29 yard post to WR P. Harris (OOB). FS C. Henry allowed the big play.
+
+Ohio State ball, Q3, 1-10-OHST40 (14:08) 3-9
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-norm-Man-B6
+RB J. Witherspoon runs left guard for 4 yards (ILB J. Lugo). 
+
+Ohio State ball, Q3, 2-6-OHST44 (13:42) 3-9
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB J. Witherspoon runs right guard for 3 yards (FS C. Henry). 
+
+Ohio State ball, Q3, 3-3-OHST47 (13:10) 3-9
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+False Start against Ohio State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 8 at the Ohio State 42.
+
+Ohio State ball, Q3, 3-8-OHST42 (13:10) 3-9
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+False Start against C Derek Harrison on Ohio State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 13 at the Ohio State 47.
+
+Ohio State ball, Q3, 3-13-OHST47 (13:10) 3-9
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB D. Coleman throws an incomplete pass to WR P. Harris.
+
+Ohio State ball, Q3, 4-13-OHST47 (12:50) 3-9
+James Eggleston Punts 44 yards to the Wisconsin 9 yard line, where it gets downed.
+
+Wisconsin ball, Q3, 1-10-WIS9 (12:34) 9-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB J. Hinds runs right guard for 1 yard (SS R. Newman).  OT L. Lamb missed a block that hurt 
+the play.
+
+Wisconsin ball, Q3, 2-9-WIS10 (12:08) 9-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB J. Hinds runs right guard for 9 yards (OLB S. Joyner, CB R. Palmer).  OG L. Davis had a 
+key block on the run.
+
+Wisconsin ball, Q3, 1-10-WIS19 (11:35) 9-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB R. Sandoval runs right tackle for 1 yard (OLB G. Moss). 
+
+Offsides against DE Robert Lewis on Ohio State. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 5 at the Wisconsin 24.
+
+Wisconsin ball, Q3, 1-5-WIS24 (11:20) 9-3
+Offense: Long Pass, Set: I Form, Play: I-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB D. Petty throws an incomplete pass to WR D. Walters (OLB S. Joyner). DE L. Edwards hurried 
+the QB. OLB S. Joyner broke up the pass.
+
+Wisconsin ball, Q3, 2-5-WIS24 (11:00) 9-3
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-SZ-B11
+RB R. Sandoval runs right guard for 11 yards (OLB S. Joyner, ILB M. Hernandez). 
+
+Wisconsin ball, Q3, 2-5-WIS24 (11:00) 9-3
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-SZ-B11
+OG John Ireland (WIS) was injured on the play (Teeth). It doesn't look too serious and he 
+should return.
+
+Wisconsin ball, Q3, 1-10-WIS35 (10:45) 9-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+RB R. Sandoval runs left guard for 4 yards (DT N. Conway, OLB G. Moss). 
+
+Wisconsin ball, Q3, 2-6-WIS39 (10:13) 9-3
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5-L
+RB J. Hinds runs left end for 4 yards (SS R. Newman). 
+
+Wisconsin ball, Q3, 3-2-WIS43 (09:45) 9-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB R. Sandoval runs right guard for 6 yards (SS T. Castillo). 
+
+Wisconsin ball, Q3, 1-10-WIS49 (09:13) 9-3
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB D. Petty gets sacked for a 6 yard loss (DT K. Blount).  OG L. Davis allowed the sack.
+
+Wisconsin ball, Q3, 2-16-WIS43 (08:58) 9-3
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB J. Hinds runs right tackle for -4 yards (SS R. Newman). C A. Jones missed a block that 
+hurt the play.
+
+Wisconsin ball, Q3, 3-20-WIS39 (08:29) 9-3
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB D. Petty throws an incomplete pass to WR N. Molina (SS T. Castillo). WR N. Molina dropped 
+the pass. SS T. Castillo broke up the pass.
+
+Wisconsin ball, Q3, 3-20-WIS39 (08:29) 9-3
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+SS Robert Newman (OHST) was injured on the play (Eye). It doesn't look too serious and he 
+should return.
+
+Wisconsin ball, Q3, 4-20-WIS39 (08:13) 9-3
+Arthur Miller Punts 40 yards to the Ohio State 21 yard line, where it goes out of bounds.
+
+Ohio State ball, Q3, 1-10-OHST21 (07:56) 3-9
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+RB J. Witherspoon runs right tackle for 2 yards (OLB G. Witt). 
+
+Ohio State ball, Q3, 2-8-OHST23 (07:28) 3-9
+Offense: Short Pass, Set: Strong, Play: ST-FL-rollout-TE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB D. Coleman completes a 9 yard dump off to RB J. Witherspoon (SS S. Small, OLB H. Hood). 
+
+Ohio State ball, Q3, 1-10-OHST32 (07:04) 3-9
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-straight-RG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+RB J. Witherspoon runs right tackle for -1 yards (DT D. Farr). OG C. Lloyd missed a block 
+that hurt the play.
+
+Ohio State ball, Q3, 2-11-OHST31 (06:35) 3-9
+Offense: Long Pass, Set: Strong, Play: ST-FL-playact-str
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+D. Coleman has his 32 yard pass intercepted by H. Hood at the WIS 37. He returns it 6 yards 
+to the Wisconsin 43. OLB H. Hood hurried the QB.
+
+Wisconsin ball, Q3, 1-10-WIS43 (06:05) 9-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB D. Petty completes a 7 yard out to WR D. Ramos (CB R. Palmer). 
+
+Holding against CB Roberto Palmer on Ohio State. The Penalty is for 10 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Ohio State 47.
+
+Wisconsin ball, Q3, 1-10-OHST47 (05:52) 9-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+RB J. Hinds runs left guard for 1 yard (ILB M. Hernandez). 
+
+Wisconsin ball, Q3, 2-9-OHST46 (05:24) 9-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB D. Petty completes a 26 yard hook to WR D. Walters (OOB). D. Walters made a great catch. 
+SS R. Newman allowed the big play.
+
+Wisconsin ball, Q3, 1-10-OHST20 (05:09) 9-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB J. Hinds runs right guard for 5 yards (OLB S. Joyner, CB R. Palmer). 
+
+Wisconsin ball, Q3, 2-5-OHST15 (04:41) 9-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B8
+RB R. Sandoval runs left end for 0 yards (DT L. Robinson).  OG J. Ireland missed a block that 
+hurt the play.
+
+Wisconsin ball, Q3, 3-5-OHST15 (04:09) 9-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB R. Sandoval runs right tackle for 11 yards (OLB S. Joyner).  R. Sandoval created the big 
+run with his own skills. SS R. Newman missed a tackle.
+
+Wisconsin ball, Q3, 1-4-OHST4 (03:38) 9-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+RB J. Hinds runs right guard for 1 yard He fumbles the ball after a hit by S. Joyner. It's 
+recovered by P. Bush of Wisconsin. OG J. Ireland missed a block that hurt the play.
+
+Wisconsin ball, Q3, 2-3-OHST3 (03:07) 9-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+RB J. Hinds runs right end for -1 yards (ILB M. Hernandez).
+
+Wisconsin ball, Q3, 3-4-OHST4 (02:41) 9-3
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Goal Line, Play: GL-run-SZ-R
+QB D. Petty completes a 4 yard cross to WR D. Walters ****Touchdown!*****
+
+Offensive Pass Interference against TE Kenneth Knight on Wisconsin. The Penalty is for 15 
+yards.
+The Defense will accept the penalty. It is now Third and Goal at the Ohio State 19.
+
+Wisconsin ball, Q3, 3-19-OHST19 (02:31) 9-3
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+D. Petty has his 15 yard pass intercepted by G. Moss at the OHST 4. He returns it 4 yards 
+to the Ohio State 8.
+
+Ohio State ball, Q3, 1-10-OHST8 (02:01) 3-9
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Pass, Set: 3-3-5, Play: 335-run-Man-B8,10
+QB D. Coleman completes a 4 yard in to TE R. Smith (OLB H. Hood). 
+
+Ohio State ball, Q3, 1-10-OHST8 (02:01) 3-9
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Pass, Set: 3-3-5, Play: 335-run-Man-B8,10
+TE Ronald Smith (OHST) was injured on the play (Elbow). It doesn't look too serious and he 
+should return.
+
+Ohio State ball, Q3, 2-6-OHST12 (01:45) 3-9
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB J. Witherspoon runs left guard for 1 yard (FS J. Polk).  OG C. Lloyd missed a block that 
+hurt the play.
+
+Ohio State ball, Q3, 3-5-OHST13 (01:13) 3-9
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+QB D. Coleman completes a 11 yard corner to WR P. Harris (SS S. Small).  OT J. Young earned 
+a pancake on the play. FS J. Polk missed a tackle.
+
+Ohio State ball, Q3, 1-10-OHST24 (00:45) 3-9
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB F. White runs left guard for 10 yards (SS S. Small, OLB H. Hood). 
+
+Ohio State ball, Q3, 1-10-OHST34 (00:16) 3-9
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB F. White runs right guard for 5 yards (SS G. Deal). 
+
+Ohio State ball, Q4, 2-5-OHST39 (15:00) 3-9
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+RB J. Witherspoon runs right end for 1 yard (ILB J. Lugo). 
+
+Ohio State ball, Q4, 3-4-OHST40 (14:34) 3-9
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB D. Coleman completes a 6 yard out to WR J. Washington (OOB).
+
+Ohio State ball, Q4, 1-10-OHST46 (14:16) 3-9
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB J. Witherspoon runs left guard for 2 yards (SS S. Small, CB W. Cox). 
+
+Ohio State ball, Q4, 2-8-OHST48 (13:43) 3-9
+Offense: Medium Pass, Set: Double TE, Play: DTE-TE-posts
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+QB D. Coleman completes a 23 yard hook to WR J. Washington (OOB).
+
+Ohio State ball, Q4, 1-10-WIS29 (13:29) 3-9
+Offense: Medium Pass, Set: Strong, Play: ST-SE-corner-FL-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB D. Coleman completes a 9 yard corner to WR J. Washington (OLB H. Hood). 
+
+Ohio State ball, Q4, 2-1-WIS20 (13:16) 3-9
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+FB R. Porter runs left guard for 0 yards (SS S. Small). 
+
+Ohio State ball, Q4, 3-1-WIS20 (12:46) 3-9
+Offense: Inside Run, Set: Strong, Play: ST-HB-draw-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB J. Witherspoon runs right guard for -4 yards (DE M. Marshall).
+
+Ohio State ball, Q4, 4-5-WIS24 (12:17) 3-9
+Mark Fritz misses the 42 yard field goal. It will be Wisconsin ball at the WIS 24
+
+Wisconsin ball, Q4, 1-10-WIS24 (12:00) 9-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB R. Sandoval runs right guard for 6 yards (SS T. Castillo, SS R. Newman). 
+
+Wisconsin ball, Q4, 2-4-WIS30 (11:31) 9-3
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB D. Petty throws an incomplete pass to TE K. Knight.
+
+Wisconsin ball, Q4, 3-4-WIS30 (11:15) 9-3
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-RG
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB R. Sandoval runs right guard for 3 yards (SS R. Newman, ILB M. Hernandez). 
+
+Wisconsin ball, Q4, 4-1-WIS33 (10:48) 9-3
+Arthur Miller Punts 59 yards to the Ohio State 8 yard line, where it gets downed.
+
+Ohio State ball, Q4, 1-10-OHST8 (10:30) 3-9
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB D. Coleman completes a 10 yard hook to WR J. Washington (ILB J. Lugo). 
+
+Ohio State ball, Q4, 1-10-OHST18 (10:08) 3-9
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B5,8
+RB F. White runs left guard for 13 yards (OLB H. Hood). 
+
+Ohio State ball, Q4, 1-10-OHST31 (09:40) 3-9
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-straight-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+RB J. Witherspoon runs right guard for 0 yards (DT D. Farr). 
+
+Ohio State ball, Q4, 2-10-OHST31 (09:12) 3-9
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB D. Coleman completes a 25 yard post to WR J. Smith (SS S. Small).  OT S. James earned a 
+pancake on the play. CB W. Cox missed a tackle.
+
+Ohio State ball, Q4, 1-10-WIS44 (08:46) 3-9
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-run-MZ-B8
+QB D. Coleman throws an incomplete pass to WR P. Harris. WR P. Harris dropped the pass.
+
+Ohio State ball, Q4, 2-10-WIS44 (08:28) 3-9
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+Delay of Game against Ohio State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 15 at the Wisconsin 49.
+
+Ohio State ball, Q4, 2-15-WIS49 (08:28) 3-9
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+QB D. Coleman completes a 27 yard in to TE R. Smith (OOB). OT J. Young earned a pancake on 
+the play. CB W. Cox allowed the big play.
+
+Ohio State ball, Q4, 1-10-WIS22 (08:13) 3-9
+Offense: Medium Pass, Set: Strong, Play: ST-SE-corner-FL-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB D. Coleman completes a 21 yard corner to WR P. Harris (OLB H. Hood).  P. Harris made a 
+great catch.
+
+Ohio State ball, Q4, 1-1-WIS1 (07:45) 3-9
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+FB R. Porter runs left guard for -2 yards (ILB J. Lugo). OG C. Lloyd missed a block that hurt 
+the play.
+
+Ohio State ball, Q4, 2-3-WIS3 (07:17) 3-9
+Offense: Inside Run, Set: I Form, Play: I-FB-power-RG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+FB R. Porter runs right tackle for -2 yards (DT D. Farr). OT S. James missed a block that 
+hurt the play.
+
+Ohio State ball, Q4, 3-5-WIS5 (06:48) 3-9
+Offense: Short Pass, Set: Strong, Play: ST-HB-playact-cross
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB D. Coleman throws an incomplete pass to WR J. Washington.
+
+Ohio State ball, Q4, 4-5-WIS5 (06:33) 3-9
+Mark Fritz converts the 23 yard field goal.
+
+Ohio State ball, Q4, 1-10-OHST35 (06:18) 6-9
+Mark Fritz kicks 57 from Ohio State 35 to Wisconsin 8. David Ramos to Wisconsin 27 for a 19 
+yard return.
+
+Wisconsin ball, Q4, 1-10-WIS27 (05:58) 9-6
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-SZ-B11
+RB R. Sandoval runs left tackle for 1 yard (OOB).
+
+Wisconsin ball, Q4, 2-9-WIS28 (05:43) 9-6
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB J. Hinds runs left guard for 10 yards (SS R. Newman, CB R. Palmer).  SS R. Newman missed 
+a tackle.
+
+Wisconsin ball, Q4, 1-10-WIS38 (05:17) 9-6
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B11
+RB R. Sandoval runs right guard for 4 yards (FS J. Clayton). 
+
+Wisconsin ball, Q4, 2-6-WIS42 (04:49) 9-6
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man
+QB D. Petty runs right end for 0 yards (FS E. Gibbs). 
+
+Wisconsin ball, Q4, 3-6-WIS42 (04:36) 9-6
+Offense: Long Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB D. Petty throws an incomplete pass to FB P. Allen.
+
+Wisconsin ball, Q4, 4-6-WIS42 (04:20) 9-6
+Arthur Miller Punts 54 yards to the Ohio State 4 yard line, where it gets downed.
+
+Ohio State ball, Q4, 1-10-OHST4 (04:02) 6-9
+Offense: Short Pass, Set: Strong, Play: ST-FL-rollout-TE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Coleman throws an incomplete pass to RB J. Witherspoon (SS S. Small). SS S. Small broke 
+up the pass.
+
+Ohio State ball, Q4, 2-10-OHST4 (03:45) 6-9
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB D. Coleman throws an incomplete pass to WR J. Smith (OLB H. Hood). OLB H. Hood broke up 
+the pass.
+
+Ohio State ball, Q4, 2-10-OHST4 (03:45) 6-9
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+TE Ronald Smith (OHST) was injured on the play (Chin). It doesn't look too serious and he 
+should return.
+
+Ohio State ball, Q4, 3-10-OHST4 (03:25) 6-9
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB D. Coleman throws an incomplete pass to WR P. Harris (CB W. Cox). WR P. Harris ran an incorrect 
+route. CB W. Cox broke up the pass.
+
+Ohio State ball, Q4, 4-10-OHST4 (03:08) 6-9
+James Eggleston Punts 52 yards to the Wisconsin 44 yard line, where Jonathan Polk returns 
+it to Wisconsin 48 for a 4 yard return.
+
+Illegal Use of Hands against SS Gregory Deal on Wisconsin. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 10 at the Wisconsin 38.
+
+Wisconsin ball, Q4, 1-10-WIS38 (02:54) 9-6
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+RB R. Sandoval runs left tackle for 3 yards (OLB G. Moss, ILB M. Hernandez). 
+
+Wisconsin ball, Q4, 2-7-WIS41 (02:26) 9-6
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB J. Hinds runs right tackle for 4 yards (CB M. Martin, ILB M. Hernandez). 
+
+Wisconsin ball, Q4, 2-7-WIS41 (02:26) 9-6
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+OT Louis Lamb (WIS) was injured on the play (Finger). It doesn't look too serious and he should 
+return.
+
+Wisconsin ball, Q4, 3-3-WIS45 (02:13) 9-6
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB R. Sandoval runs right tackle for 3 yards (SS R. Newman). 
+
+Wisconsin ball, Q4, 1-10-WIS48 (01:49) 9-6
+Offense: Outside Run, Set: I Form, Play: I-HB-toss-RE
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB J. Hinds runs right end for 1 yard (OLB S. Joyner). 
+
+Wisconsin ball, Q4, 2-9-WIS49 (01:34) 9-6
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB R. Sandoval runs right end for -1 yards (SS R. Newman).
+
+Wisconsin ball, Q4, 3-10-WIS48 (01:08) 9-6
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+RB R. Sandoval runs left end for 0 yards (OLB G. Moss). 
+
+Ohio State Timeout!
+
+Wisconsin ball, Q4, 4-10-WIS48 (01:01) 9-6
+Arthur Miller Punts 53 yards to the end zone, Touchback.
+
+Ohio State ball, Q4, 1-10-OHST20 (00:55) 6-9
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Coleman throws an incomplete pass to WR J. Smith. WR J. Smith dropped the pass. DT D. 
+Farr hurried the QB.
+
+Ohio State ball, Q4, 2-10-OHST20 (00:49) 6-9
+Offense: Short Pass, Set: Strong, Play: ST-TE-streak-SE-out
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+QB D. Coleman completes a 12 yard dump off to FB M. Cook (FS J. Polk, OLB H. Hood).  D. Coleman 
+with the great pass.
+
+Holding against OT Joel Young on Ohio State. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 20 at the Ohio State 10.
+
+Ohio State ball, Q4, 2-20-OHST10 (00:36) 6-9
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB D. Coleman throws an incomplete pass to TE R. Smith (CB W. Cox). CB W. Cox broke up the 
+pass.
+
+Ohio State ball, Q4, 3-20-OHST10 (00:30) 6-9
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB D. Coleman completes a 13 yard post to WR P. Harris (FS C. Henry).  FS C. Henry was out 
+of position on the play.
+
+Ohio State Timeout!
+
+Ohio State ball, Q4, 4-7-OHST23 (00:22) 6-9
+Offense: Short Pass, Set: I Form Big, Play: IB-SE-str-TE2-slant
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+QB D. Coleman completes a 10 yard dump off to TE R. Smith (FS C. Henry). 
+
+Ohio State ball, Q4, 1-10-OHST33 (00:09) 6-9
+Offense: Long Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB D. Coleman throws an incomplete pass to WR J. Smith (CB A. Cook). CB A. Cook broke up the 
+pass.
+
+Ohio State ball, Q4, 2-10-OHST33 (00:03) 6-9
+Offense: Medium Pass, Set: Strong, Play: ST-FB-streak-HB-flat
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB D. Coleman throws an incomplete pass to FB M. Cook. FB M. Cook dropped the pass.
+
+Ohio State ball, Q4, 2-10-OHST33 (00:03) 6-9
+Offense: Medium Pass, Set: Strong, Play: ST-FB-streak-HB-flat
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+DT Daniel Farr (WIS) was injured on the play (Face). It doesn't look too serious and he should 
+return.
+

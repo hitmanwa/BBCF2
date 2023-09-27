@@ -1,0 +1,943 @@
+Mississippi ball, Q1, 1-10-MISS35 (15:00) 0-0
+Clyde Lyons kicks 75 from Mississippi 35 to end zone, Touchback.
+
+Kentucky ball, Q1, 1-10-KEN20 (14:42) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+QB K. Nicholson completes a 5 yard hook to WR M. Calhoun (FS P. Grace). 
+
+Kentucky ball, Q1, 2-5-KEN25 (14:21) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+RB R. Phelps runs right guard for 1 yard (SS S. Smith). 
+
+Kentucky ball, Q1, 3-4-KEN26 (13:54) 0-0
+Offense: Medium Pass, Set: Trips, Play: TR-TE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB K. Nicholson throws an incomplete pass to TE R. Wright.
+
+Kentucky ball, Q1, 3-4-KEN26 (13:54) 0-0
+Offense: Medium Pass, Set: Trips, Play: TR-TE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+WR Grant Kinder (KEN) was injured on the play (Elbow). It doesn't look like he will return.
+
+Kentucky ball, Q1, 4-4-KEN26 (13:37) 0-0
+Spencer Johnson Punts 41 yards to the Mississippi 33 yard line, where Franklin Knight returns 
+it to Mississippi 37 for a 4 yard return.
+
+Mississippi ball, Q1, 1-10-MISS37 (13:17) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+FB R. Hanson runs left guard for 13 yards (OLB K. Marshall).  OG R. Watt had a key block on 
+the run. SS R. Bennett missed a tackle.
+
+Mississippi ball, Q1, 1-10-MISS50 (12:46) 0-0
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB R. Jones throws an incomplete pass to WR A. Nieto (CB R. Alexander). DE M. Pineda hurried 
+the QB. CB R. Alexander broke up the pass.
+
+Mississippi ball, Q1, 2-10-MISS50 (12:27) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB R. Jones completes a 1 yard hook to WR A. Nieto (DE C. Cox). 
+
+Mississippi ball, Q1, 3-9-KEN49 (12:05) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-MZ-B7,8
+QB R. Jones throws an incomplete pass to WR A. Nieto.
+
+Mississippi ball, Q1, 4-9-KEN49 (11:50) 0-0
+Francisco Watkins Punts 44 yards to the Kentucky 5 yard line, where it goes out of bounds.
+
+Kentucky ball, Q1, 1-10-KEN5 (11:34) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB C. Morales runs left tackle for 4 yards (FS A. Bates). 
+
+Kentucky ball, Q1, 2-6-KEN9 (11:02) 0-0
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB R. Phelps runs right end for 5 yards (OLB R. Helms). 
+
+Kentucky ball, Q1, 3-1-KEN14 (10:32) 0-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB R. Phelps runs left end for 4 yards (OLB S. Owen). 
+
+Kentucky ball, Q1, 1-10-KEN18 (10:05) 0-0
+Offense: Medium Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB K. Nicholson gets sacked for a 3 yard loss (DE F. Turner).  OG P. Smith allowed the sack.
+
+Kentucky ball, Q1, 1-10-KEN18 (10:05) 0-0
+Offense: Medium Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+SS Steve Smith (MISS) was injured on the play (OK). It doesn't look like he will return.
+
+Kentucky ball, Q1, 2-13-KEN15 (09:47) 0-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+Delay of Game against Kentucky. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 18 at the Kentucky 10.
+
+Kentucky ball, Q1, 2-18-KEN10 (09:47) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Nicholson completes a 8 yard in to WR J. Bowman (FS P. Grace). 
+
+Kentucky ball, Q1, 3-10-KEN18 (09:23) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB K. Nicholson throws an incomplete pass to WR J. Causey (FS P. Grace). FS P. Grace broke 
+up the pass.
+
+Holding against CB Gerald Smith on Mississippi. The Penalty is for 10 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Kentucky 28.
+
+Kentucky ball, Q1, 1-10-KEN28 (09:12) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB K. Nicholson completes a 25 yard post to WR J. Causey (OLB R. Helms). 
+
+Kentucky ball, Q1, 1-10-MISS47 (08:45) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+QB K. Nicholson throws an incomplete pass to TE R. Wright.
+
+Kentucky ball, Q1, 2-10-MISS47 (08:30) 0-0
+Offense: Short Pass, Set: Trips, Play: TR-FL-streak-WR3-in
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB K. Nicholson throws an incomplete pass to WR J. Bowman (SS J. Graves). SS J. Graves broke 
+up the pass.
+
+Kentucky ball, Q1, 3-10-MISS47 (08:10) 0-0
+Offense: Short Pass, Set: Trips, Play: TR-FL-in-SE-post
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB K. Nicholson completes a 5 yard hook to WR J. Bowman (FS A. Bates). 
+
+Kentucky ball, Q1, 4-5-MISS42 (07:49) 0-0
+Spencer Johnson Punts 39 yards to the Mississippi 3 yard line, where it goes out of bounds.
+
+Mississippi ball, Q1, 1-10-MISS3 (07:31) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB R. Jones scrambles out of the pocket and gets sacked for a 6 yard loss (OLB K. Marshall). 
+
+Mississippi ball, Q1, 1-10-MISS3 (07:31) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+OT Rene King (MISS) was injured on the play (Knee). It doesn't look too serious and he should 
+return.
+
+Mississippi ball, Q1, 1-10-MISS3 (07:14) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+The ball carrier gets tackled in the endzone for a safety!
+
+Mississippi ball, Q1, 1-10-MISS25 (07:14) 0-2
+Clyde Lyons kicks 75 from Mississippi 25 to Kentucky 0. Frank Foster to Kentucky 19 for a 
+19 yard return.
+
+Kentucky ball, Q1, 1-10-KEN19 (06:42) 2-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB K. Nicholson completes a 5 yard hook to WR M. Calhoun (DE F. Turner).  He fumbles the ball 
+after a hit by F. Turner. It's recovered by A. Bates of Mississippi. He returns it 7 yards to the Kentucky 17.
+
+Mississippi ball, Q1, 1-10-KEN17 (06:19) 0-2
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB T. Miller runs left tackle for 1 yard (FS D. Lombardo).  OT R. King missed a block that 
+hurt the play.
+
+Mississippi ball, Q1, 2-9-KEN16 (05:52) 0-2
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB T. Miller runs right guard for 4 yards (DT R. Moyer). 
+
+Mississippi ball, Q1, 3-5-KEN12 (05:24) 0-2
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB T. Miller runs left end for 11 yards (ILB J. Shepard). 
+
+Mississippi ball, Q1, 1-1-KEN1 (04:57) 0-2
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+RB T. Miller runs left end for 1 yard ****Touchdown!*****
+
+Mississippi ball, Q1, 1-0-KEN0 (04:29) 6-2
+Thomas Sharp converts the PAT.
+
+Mississippi ball, Q1, 1-10-MISS35 (04:29) 7-2
+Clyde Lyons kicks 75 from Mississippi 35 to end zone, Touchback.
+
+Kentucky ball, Q1, 1-10-KEN20 (04:13) 2-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB C. Morales runs left tackle for 19 yards (CB G. Smith).  CB G. Smith missed a tackle.
+
+Kentucky ball, Q1, 1-10-KEN39 (03:45) 2-7
+Offense: Long Pass, Set: Quads, Play: Q-WR3-corner-FL-post
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB K. Nicholson throws an incomplete pass to WR M. Miller (CB D. Castro). WR M. Miller ran 
+an incorrect route. CB D. Castro broke up the pass.
+
+Kentucky ball, Q1, 2-10-KEN39 (03:28) 2-7
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-HBfake-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+WR J. Causey runs right end for 1 yard (OLB R. Helms). 
+
+Kentucky ball, Q1, 3-9-KEN40 (02:58) 2-7
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB K. Nicholson throws an incomplete pass to WR J. Causey.
+
+Kentucky ball, Q1, 4-9-KEN40 (02:43) 2-7
+Spencer Johnson Punts 41 yards to the Mississippi 19 yard line, where it gets downed.
+
+Mississippi ball, Q1, 1-10-MISS19 (02:27) 7-2
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB R. Jones completes a 10 yard in to WR S. Byrd (FS E. Parsons). 
+
+Mississippi ball, Q1, 1-10-MISS29 (02:04) 7-2
+Offense: Long Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+QB R. Jones throws an incomplete pass to WR H. Glass. WR H. Glass dropped the pass.
+
+Mississippi ball, Q1, 2-10-MISS29 (01:48) 7-2
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB R. Jones throws an incomplete pass to WR A. Nieto.
+
+Mississippi ball, Q1, 3-10-MISS29 (01:32) 7-2
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB R. Jones throws an incomplete pass to WR A. Nieto (CB R. Alexander). CB R. Alexander broke 
+up the pass.
+
+Mississippi ball, Q1, 4-10-MISS29 (01:12) 7-2
+Francisco Watkins Punts 26 yards to the Kentucky 45 yard line, where William Reynolds returns 
+it to Kentucky 45 for a 0 yard return.
+
+Kentucky ball, Q1, 1-10-KEN45 (00:55) 2-7
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB R. Phelps runs left tackle for 21 yards (ILB K. Freeman). 
+
+Kentucky ball, Q1, 1-10-MISS34 (00:25) 2-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB R. Phelps runs right guard for 1 yard (SS J. Graves). 
+
+Kentucky ball, Q2, 2-9-MISS33 (15:00) 2-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+RB R. Phelps runs right guard for 3 yards (CB G. Smith). 
+
+Kentucky ball, Q2, 3-6-MISS30 (14:28) 2-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB R. Phelps runs left guard for 10 yards (FS A. Bates). 
+
+Kentucky ball, Q2, 1-10-MISS20 (14:02) 2-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB K. Nicholson throws an incomplete pass to WR M. Calhoun (OLB R. Helms). OLB R. Helms broke 
+up the pass.
+
+Kentucky ball, Q2, 2-10-MISS20 (13:46) 2-7
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB K. Nicholson completes a 20 yard in to WR J. Bowman ****Touchdown!*****
+
+Holding against OG Robert Hoffman on Kentucky. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 20 at the Mississippi 30.
+
+Kentucky ball, Q2, 2-20-MISS30 (13:34) 2-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB R. Phelps runs right tackle for 0 yards (SS J. Graves). 
+
+Kentucky ball, Q2, 3-20-MISS30 (13:03) 2-7
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB K. Nicholson completes a 21 yard in to WR J. Bowman (ILB K. Freeman).  FS A. Bates missed 
+a tackle.
+
+Kentucky ball, Q2, 1-9-MISS9 (12:41) 2-7
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+RB C. Morales runs left tackle for 2 yards (OLB S. Owen). 
+
+Kentucky ball, Q2, 2-7-MISS7 (12:12) 2-7
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+QB K. Nicholson completes a 0 yard hook to WR J. Causey (OLB S. Owen). 
+
+Kentucky ball, Q2, 3-7-MISS7 (11:48) 2-7
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Pass, Set: Goal Line, Play: GL-run-SZ-L
+QB K. Nicholson completes a 7 yard dump off to WR J. Bowman ****Touchdown!*****
+
+Kentucky ball, Q2, 1-0-MISS0 (11:27) 8-7
+Guy Simmons converts the PAT.
+
+Kentucky ball, Q2, 1-10-KEN35 (11:27) 9-7
+Guy Simmons kicks 67 from Kentucky 35 to Mississippi -2. Jacob Spicer to Mississippi 23 for 
+a 25 yard return.
+
+Mississippi ball, Q2, 1-10-MISS23 (11:11) 7-9
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+RB D. Key runs left guard for 3 yards (OLB R. Webb). 
+
+Mississippi ball, Q2, 2-7-MISS26 (10:45) 7-9
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB T. Miller runs left guard for 6 yards (OLB K. Marshall). 
+
+Mississippi ball, Q2, 3-1-MISS32 (10:14) 7-9
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB T. Miller runs right guard for 6 yards (CB J. Cruz, CB R. Alexander). 
+
+Mississippi ball, Q2, 1-10-MISS38 (09:48) 7-9
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB R. Jones throws an incomplete pass to RB T. Miller (CB J. Cruz). CB J. Cruz broke up the 
+pass.
+
+Mississippi ball, Q2, 2-10-MISS38 (09:33) 7-9
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ-B7,8
+RB T. Miller runs right guard for 1 yard (DE R. Richards). 
+
+Mississippi ball, Q2, 3-9-MISS39 (09:07) 7-9
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB R. Jones completes a 7 yard screen to RB T. Miller (FS D. Lombardo, SS R. Bennett). 
+
+Mississippi ball, Q2, 4-2-MISS46 (08:46) 7-9
+Francisco Watkins Punts 53 yards to the Kentucky 1 yard line, where it gets downed.
+
+Kentucky ball, Q2, 1-10-KEN1 (08:30) 9-7
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB K. Nicholson throws an incomplete pass to WR M. Calhoun. K. Nicholson made a bad pass.
+
+Kentucky ball, Q2, 2-10-KEN1 (08:13) 9-7
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Nicholson throws an incomplete pass to WR M. Miller (CB D. Castro). CB D. Castro broke 
+up the pass.
+
+Kentucky ball, Q2, 3-10-KEN1 (07:53) 9-7
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB K. Nicholson runs outside for 22 yards (OOB). DE O. Holbrook hurried the QB.
+
+Kentucky ball, Q2, 1-10-KEN23 (07:39) 9-7
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+False Start against OT James Martin on Kentucky. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Kentucky 18.
+
+Kentucky ball, Q2, 1-15-KEN18 (07:39) 9-7
+Offense: Short Pass, Set: Trips, Play: TR-FL-in-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Nicholson throws an incomplete pass to WR J. Causey (CB G. Smith). CB G. Smith broke 
+up the pass.
+
+Kentucky ball, Q2, 2-15-KEN18 (07:22) 9-7
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB K. Nicholson throws an incomplete pass to TE R. Taylor.
+
+Holding against FS Paul Grace on Mississippi. The Penalty is for 10 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Kentucky 28.
+
+Kentucky ball, Q2, 1-10-KEN28 (07:09) 9-7
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-TMan
+QB K. Nicholson completes a 2 yard cross to WR M. Calhoun (FS P. Grace). 
+
+Holding against OG Paul Smith on Kentucky. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Kentucky 18.
+
+Kentucky ball, Q2, 1-20-KEN18 (06:57) 9-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB R. Phelps runs right end for 6 yards (OOB).
+
+Kentucky ball, Q2, 2-14-KEN24 (06:45) 9-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B5,6,8
+RB C. Morales runs right guard for 2 yards (FS P. Grace, FS A. Bates). 
+
+Kentucky ball, Q2, 3-12-KEN26 (06:15) 9-7
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+QB K. Nicholson throws an incomplete pass to WR J. Causey (OLB R. Helms). WR J. Causey dropped 
+the pass. OLB R. Helms broke up the pass.
+
+Kentucky ball, Q2, 4-12-KEN26 (06:00) 9-7
+Spencer Johnson Punts 36 yards to the Mississippi 38 yard line, where Franklin Knight returns 
+it to Kentucky 26 for a 36 yard return.
+
+Mississippi ball, Q2, 1-10-KEN26 (05:45) 7-9
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB R. Jones gets sacked for a 6 yard loss (DE C. Cox).  OT R. King allowed the sack.
+
+Mississippi ball, Q2, 2-16-KEN32 (05:28) 7-9
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB T. Miller runs right end for 2 yards (ILB J. Shepard). 
+
+Mississippi ball, Q2, 3-14-KEN30 (04:57) 7-9
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB R. Jones completes a 26 yard in to WR A. Nieto (FS D. Lombardo).  OT D. Sowers earned a 
+pancake on the play.
+
+Mississippi ball, Q2, 1-4-KEN4 (04:32) 7-9
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+RB D. Key runs left tackle for 4 yards ****Touchdown!*****
+
+Mississippi ball, Q2, 1-0-KEN0 (04:04) 13-9
+Thomas Sharp converts the PAT.
+
+Mississippi ball, Q2, 1-10-MISS35 (04:04) 14-9
+Clyde Lyons kicks 66 from Mississippi 35 to Kentucky -1. Julian Bowman to Kentucky 17 for 
+a 18 yard return.
+
+Kentucky ball, Q2, 1-10-KEN17 (03:45) 9-14
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+RB R. Phelps runs left guard for 4 yards (OLB S. Owen, FS A. Bates). 
+
+Kentucky ball, Q2, 2-6-KEN21 (03:16) 9-14
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB K. Nicholson throws an incomplete pass to WR M. Calhoun. OLB R. Helms hurried the QB.
+
+Kentucky ball, Q2, 3-6-KEN21 (02:56) 9-14
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+RB R. Phelps runs left end for 6 yards (OOB).
+
+Kentucky ball, Q2, 1-10-KEN27 (02:45) 9-14
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB K. Nicholson throws an incomplete pass to WR J. Causey.
+
+Kentucky ball, Q2, 2-10-KEN27 (02:26) 9-14
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-Spy
+RB R. Phelps runs right guard for 1 yard (FS A. Bates). 
+
+Kentucky ball, Q2, 3-9-KEN28 (01:58) 9-14
+Offense: Short Pass, Set: Trips, Play: TR-FL-in-SE-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB K. Nicholson completes a 13 yard in to WR J. Causey (CB G. Smith, CB J. Spicer).  OT J. 
+Martin earned a pancake on the play. CB J. Spicer missed a tackle.
+
+Kentucky ball, Q2, 1-10-KEN41 (01:36) 9-14
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB K. Nicholson completes a 4 yard hook to WR J. Causey (SS J. Graves). 
+
+Kentucky ball, Q2, 2-6-KEN45 (01:08) 9-14
+Offense: Short Pass, Set: Trips, Play: TR-SE-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB K. Nicholson completes a 11 yard screen to WR M. Calhoun (FS P. Grace).  C T. Price earned 
+a pancake on the play.
+
+Kentucky Timeout!
+
+Kentucky ball, Q2, 1-10-MISS44 (01:02) 9-14
+Offense: Medium Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Stop Pass, Set: 3-3-5, Play: 335-norm-SZ-B8
+QB K. Nicholson completes a 6 yard streak to RB R. Phelps (CB J. Spicer). 
+
+Kentucky Timeout!
+
+Kentucky ball, Q2, 2-4-MISS38 (00:55) 9-14
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: 3-3-5, Play: 335-norm-Man-B4
+QB K. Nicholson completes a 2 yard screen to RB R. Phelps (FS A. Bates). 
+
+Pass Interference against SS Jerome Graves on Mississippi. The Penalty is for 2 yards, and 
+an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Mississippi 36.
+
+Kentucky ball, Q2, 1-10-MISS36 (00:41) 9-14
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-MZ-B4,5,6,8,
+QB K. Nicholson completes a 14 yard in to TE R. Wright (OLB J. Palmer, SS J. Graves).  OT 
+J. Martin earned a pancake on the play.
+
+Kentucky Timeout!
+
+Kentucky ball, Q2, 1-10-MISS22 (00:34) 9-14
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB K. Nicholson completes a 12 yard streak to WR M. Miller (OOB). CB G. Smith missed a tackle.
+
+Kentucky ball, Q2, 1-10-MISS10 (00:27) 9-14
+Offense: Short Pass, Set: Trips, Play: TR-FL-streak-WR3-in
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+QB K. Nicholson throws an incomplete pass to TE R. Wright (OLB S. Owen). DE F. Turner hurried 
+the QB. OLB S. Owen broke up the pass.
+
+Kentucky ball, Q2, 2-10-MISS10 (00:20) 9-14
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB K. Nicholson throws an incomplete pass to WR M. Miller. DE O. Holbrook hurried the QB.
+
+Kentucky ball, Q2, 3-10-MISS10 (00:12) 9-14
+Guy Simmons converts the 28 yard field goal.
+
+Kentucky ball, Q2, 1-10-KEN35 (00:05) 12-14
+Guy Simmons kicks 43 from Kentucky 35 to Mississippi 22. David Maynard to Mississippi 31 for 
+a 9 yard return.
+
+Kentucky ball, Q3, 1-10-KEN35 (15:00) 12-14
+Guy Simmons kicks 63 from Kentucky 35 to Mississippi 2. Ralph Martin to Mississippi 19 for 
+a 17 yard return.
+
+Mississippi ball, Q3, 1-10-MISS19 (14:43) 14-12
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB R. Jones completes a 26 yard dump off to WR S. Byrd (CB J. Cruz).  OG R. Watt earned a 
+pancake on the play. SS R. Bennett allowed the big play.
+
+Mississippi ball, Q3, 1-10-MISS45 (14:19) 14-12
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB D. Key runs right end for 8 yards (OLB K. Marshall).  FB R. Hanson had a key block on the 
+run. SS R. Bennett missed a tackle.
+
+Mississippi ball, Q3, 2-2-KEN47 (13:48) 14-12
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+False Start against Mississippi. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 7 at the Mississippi 48.
+
+Mississippi ball, Q3, 2-7-MISS48 (13:48) 14-12
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB R. Jones throws an incomplete pass to WR N. Bernard.
+
+Mississippi ball, Q3, 3-7-MISS48 (13:32) 14-12
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+RB T. Miller runs left tackle for -1 yards (OLB R. Webb).
+
+Mississippi ball, Q3, 4-8-MISS47 (13:03) 14-12
+Francisco Watkins Punts 54 yards to the end zone, Touchback.
+
+Kentucky ball, Q3, 1-10-KEN20 (12:43) 12-14
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-HBfake-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+WR J. Causey runs right end for 10 yards (FS P. Grace).  TE R. Wright had a key block on the 
+run.
+
+Kentucky ball, Q3, 1-10-KEN30 (12:14) 12-14
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB K. Nicholson throws an incomplete pass to WR M. Calhoun (OLB S. Owen). OLB S. Owen broke 
+up the pass.
+
+Kentucky ball, Q3, 2-10-KEN30 (11:58) 12-14
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+RB C. Morales runs right tackle for 7 yards (SS J. Graves, OLB R. Helms). 
+
+Kentucky ball, Q3, 3-3-KEN37 (11:29) 12-14
+Offense: Long Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB K. Nicholson completes a 6 yard post to WR M. Calhoun (FS P. Grace, SS J. Graves). 
+
+Kentucky ball, Q3, 1-10-KEN43 (11:00) 12-14
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+RB R. Phelps runs left tackle for 1 yard (FS A. Bates).  OT J. Martin missed a block that 
+hurt the play.
+
+Kentucky ball, Q3, 2-9-KEN44 (10:31) 12-14
+Offense: Long Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB K. Nicholson throws an incomplete pass to WR J. Bowman.
+
+Kentucky ball, Q3, 3-9-KEN44 (10:16) 12-14
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+RB R. Phelps runs left tackle for 2 yards (OLB S. Owen). 
+
+Kentucky ball, Q3, 4-7-KEN46 (09:48) 12-14
+Spencer Johnson Punts 39 yards to the Mississippi 15 yard line, where it goes out of bounds.
+
+Mississippi ball, Q3, 1-10-MISS15 (09:31) 14-12
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB D. Key runs left end for 2 yards (FS D. Lombardo). 
+
+Mississippi ball, Q3, 2-8-MISS17 (08:58) 14-12
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB D. Key runs right end for 27 yards (FS D. Lombardo, CB J. Cruz). 
+
+Mississippi ball, Q3, 1-10-MISS44 (08:26) 14-12
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB R. Jones throws an incomplete pass to WR S. Byrd (CB H. Henry). CB H. Henry broke up the 
+pass.
+
+Mississippi ball, Q3, 2-10-MISS44 (08:09) 14-12
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB T. Miller runs left end for 12 yards (OLB K. Marshall).  SS R. Bennett missed a tackle.
+
+Mississippi ball, Q3, 1-10-KEN44 (07:38) 14-12
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB T. Miller runs left tackle for 4 yards (ILB J. Shepard, OLB K. Marshall). 
+
+Mississippi ball, Q3, 2-6-KEN40 (07:05) 14-12
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB R. Jones completes a 3 yard cross to WR N. Bernard (FS E. Parsons, ILB J. Shepard). 
+
+Mississippi ball, Q3, 3-3-KEN37 (06:44) 14-12
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Run, Set: Dime, Play: Dime-run-SZ
+QB R. Jones throws an incomplete pass to WR S. Byrd.
+
+Mississippi ball, Q3, 4-3-KEN37 (06:25) 14-12
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+QB R. Jones completes a 17 yard cross to WR A. Nieto (OOB). A. Nieto made a great catch. SS 
+R. Bennett missed a tackle.
+
+Mississippi ball, Q3, 1-10-KEN20 (06:09) 14-12
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+RB D. Key runs left guard for 3 yards (CB R. Alexander, DE C. Cox). 
+
+Mississippi ball, Q3, 2-7-KEN17 (05:41) 14-12
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+FB R. Hanson runs left guard for 6 yards (CB H. Henry). 
+
+Mississippi ball, Q3, 3-1-KEN11 (05:13) 14-12
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB R. Jones completes a 11 yard hook to WR N. Bernard ****Touchdown!*****
+
+Mississippi ball, Q3, 1-0-KEN0 (04:50) 20-12
+Thomas Sharp converts the PAT.
+
+Mississippi ball, Q3, 1-10-MISS35 (04:50) 21-12
+Clyde Lyons kicks 55 from Mississippi 35 to Kentucky 10. Julian Bowman to Kentucky 23 for 
+a 13 yard return.
+
+Kentucky ball, Q3, 1-10-KEN23 (04:31) 12-21
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB K. Nicholson throws an incomplete pass to WR M. Miller (CB G. Smith). K. Nicholson made 
+a bad pass. DT C. Jones hurried the QB. CB G. Smith broke up the pass.
+
+Kentucky ball, Q3, 2-10-KEN23 (04:15) 12-21
+Offense: Long Pass, Set: Quads, Play: Q-WR3-corner-FL-post
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB K. Nicholson throws an incomplete pass to WR J. Causey.
+
+Kentucky ball, Q3, 3-10-KEN23 (03:59) 12-21
+Offense: Long Pass, Set: Trips, Play: TR-WR3-str-FL-curl
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB K. Nicholson throws an incomplete pass to WR J. Causey. WR J. Causey dropped the pass.
+
+Kentucky ball, Q3, 4-10-KEN23 (03:44) 12-21
+Spencer Johnson Punts 41 yards to the Mississippi 36 yard line, where it gets downed.
+
+Mississippi ball, Q3, 1-10-MISS36 (03:29) 21-12
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB R. Jones completes a 36 yard post to WR S. Byrd (CB R. Alexander, OLB R. Webb).  OG R. 
+Watt earned a pancake on the play. OLB R. Webb allowed the big play.
+
+Mississippi ball, Q3, 1-10-KEN28 (03:01) 21-12
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB R. Jones runs left end for 2 yards (CB R. Alexander). 
+
+Mississippi ball, Q3, 2-8-KEN26 (02:28) 21-12
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB R. Jones completes a 21 yard post to WR S. Byrd (FS D. Lombardo, FS E. Parsons).  OG R. 
+Watt earned a pancake on the play.
+
+Mississippi ball, Q3, 1-5-KEN5 (02:00) 21-12
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB R. Jones completes a 5 yard hook to WR N. Bernard ****Touchdown!*****
+
+Offensive Pass Interference against Mississippi. The Penalty is for 15 yards.
+The Defense will accept the penalty. It is now First and Goal at the Kentucky 20.
+
+Mississippi ball, Q3, 1-20-KEN20 (01:45) 21-12
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+RB D. Key runs right guard for 14 yards (ILB J. Shepard).  CB H. Henry was out of position 
+on the play.
+
+Mississippi ball, Q3, 2-6-KEN6 (01:17) 21-12
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB T. Miller runs right guard for 2 yards (OLB R. Webb, DT R. Moyer). 
+
+Mississippi ball, Q3, 3-4-KEN4 (00:47) 21-12
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+RB T. Miller runs right tackle for 3 yards (CB J. Cruz). 
+
+Mississippi ball, Q3, 4-1-KEN1 (00:19) 21-12
+Thomas Sharp converts the 19 yard field goal.
+
+Mississippi ball, Q4, 1-10-MISS35 (15:00) 24-12
+Clyde Lyons kicks 67 from Mississippi 35 to Kentucky -2. Julian Bowman to Kentucky 33 for 
+a 35 yard return.
+
+Kentucky ball, Q4, 1-10-KEN33 (14:45) 12-24
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB R. Phelps runs right guard for 2 yards (DE F. Turner). 
+
+Kentucky ball, Q4, 2-8-KEN35 (14:12) 12-24
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB K. Nicholson throws an incomplete pass to WR J. Causey.
+
+Kentucky ball, Q4, 3-8-KEN35 (13:57) 12-24
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+RB R. Phelps runs right tackle for 1 yard (DT C. Jones). 
+
+Kentucky ball, Q4, 4-7-KEN36 (13:31) 12-24
+Spencer Johnson Punts 43 yards to the Mississippi 21 yard line, where Franklin Knight returns 
+it to Mississippi 30 for a 9 yard return.
+
+Mississippi ball, Q4, 1-10-MISS30 (13:12) 24-12
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB T. Miller runs left guard for 2 yards (OLB K. Marshall). 
+
+Grabbing Face Mask against CB Robert Alexander on Kentucky. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Second and 3 at the Mississippi 37.
+
+Mississippi ball, Q4, 2-3-MISS37 (13:02) 24-12
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB D. Key runs left end for 16 yards (FS D. Lombardo).  OG R. Watt had a key block on the run.
+
+Mississippi ball, Q4, 1-10-KEN47 (12:35) 24-12
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB D. Key runs left guard for 2 yards (ILB J. Shepard). 
+
+Mississippi ball, Q4, 1-10-KEN47 (12:35) 24-12
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+DT Willie Medina (KEN) was injured on the play (Elbow). It doesn't look like he will return.
+
+Mississippi ball, Q4, 2-8-KEN45 (12:18) 24-12
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-slotrun-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+WR S. Byrd runs right end for 1 yard (ILB R. Rhodes).  OT R. King missed a block that hurt 
+the play.
+
+Mississippi ball, Q4, 3-7-KEN44 (11:52) 24-12
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+QB R. Jones gets sacked for a 4 yard loss (OLB K. Marshall).  TE J. Moore allowed the sack.
+
+Mississippi ball, Q4, 4-11-KEN48 (11:33) 24-12
+Francisco Watkins Punts 43 yards to the Kentucky 5 yard line, where it goes out of bounds.
+
+Kentucky ball, Q4, 1-10-KEN5 (11:16) 12-24
+Offense: Long Pass, Set: Trips, Play: TR-WR3-str-FL-curl
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB K. Nicholson throws an incomplete pass to WR J. Bowman.
+
+Kentucky ball, Q4, 2-10-KEN5 (10:57) 12-24
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB R. Phelps runs left end for 1 yard (OLB R. Helms).  TE R. Taylor missed a block that hurt 
+the play.
+
+Kentucky ball, Q4, 3-9-KEN6 (10:27) 12-24
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+RB R. Phelps runs right guard for 2 yards (OLB S. Owen). 
+
+Kentucky ball, Q4, 4-7-KEN8 (10:01) 12-24
+Spencer Johnson Punts 34 yards to the Kentucky 42 yard line, where Franklin Knight returns 
+it to Kentucky 25 for a 17 yard return.
+
+Mississippi ball, Q4, 1-10-KEN25 (09:41) 24-12
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB T. Miller runs left guard for 11 yards (ILB J. Shepard, FS E. Parsons).  T. Miller created 
+the big run with his own skills. SS R. Bennett missed a tackle.
+
+Mississippi ball, Q4, 1-10-KEN14 (09:11) 24-12
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB T. Miller runs left tackle for 1 yard (OLB K. Marshall). 
+
+Mississippi ball, Q4, 2-9-KEN13 (08:40) 24-12
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+RB D. Key runs left guard for 13 yards ****Touchdown!***** OG C. Lambert had a key block on 
+the run.
+
+Mississippi ball, Q4, 1-0-KEN0 (08:07) 30-12
+Thomas Sharp converts the PAT.
+
+Mississippi ball, Q4, 1-10-MISS35 (08:07) 31-12
+Clyde Lyons kicks 47 from Mississippi 35 to Kentucky 18. Lance Stone to Kentucky 29 for a 
+11 yard return.
+
+Kentucky ball, Q4, 1-10-KEN29 (07:48) 12-31
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB R. Phelps runs right tackle for 1 yard (SS J. Graves). 
+
+Offsides against DE Fred Turner on Mississippi. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 5 at the Kentucky 34.
+
+Kentucky ball, Q4, 1-5-KEN34 (07:37) 12-31
+Offense: Long Pass, Set: SingleBack, Play: SB-WR3-slant-FL-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Nicholson throws an incomplete pass to WR J. Bowman (CB D. Castro). CB D. Castro broke 
+up the pass.
+
+Kentucky ball, Q4, 2-5-KEN34 (07:18) 12-31
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB K. Nicholson completes a 14 yard in to WR M. Calhoun (FS P. Grace, CB D. Castro).  OLB 
+R. Helms was out of position on the play.
+
+Kentucky ball, Q4, 1-10-KEN48 (06:53) 12-31
+Offense: Long Pass, Set: Quads, Play: Q-WR3-corner-FL-post
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB K. Nicholson throws an incomplete pass to WR M. Miller.
+
+Passer beyond Line of Scrimmage against QB Kevin Nicholson on Kentucky. The Penalty is for 
+5 yards, and a loss of down.
+The Defense will accept the penalty. It is now Second and 15 at the Kentucky 43.
+
+Kentucky ball, Q4, 2-15-KEN43 (06:38) 12-31
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+QB K. Nicholson throws an incomplete pass to RB R. Phelps.
+
+Kentucky ball, Q4, 3-15-KEN43 (06:21) 12-31
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-HBfake-RE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+WR J. Causey runs right end for 2 yards (FS P. Grace). 
+
+Kentucky ball, Q4, 4-13-KEN45 (05:54) 12-31
+Spencer Johnson Punts 43 yards to the Mississippi 12 yard line, where Franklin Knight returns 
+it to Mississippi 23 for a 11 yard return.
+
+Mississippi ball, Q4, 1-10-MISS23 (05:35) 31-12
+Offense: Inside Run, Set: Trips, Play: TR-QB-sneak-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB R. Jones runs right tackle for 1 yard (FS E. Parsons).  OT D. Sowers missed a block that 
+hurt the play.
+
+Mississippi ball, Q4, 2-9-MISS24 (05:09) 31-12
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+RB T. Miller runs right tackle for 26 yards (ILB R. Rhodes, CB H. Henry). 
+
+Mississippi ball, Q4, 1-10-MISS50 (04:41) 31-12
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB D. Key runs left end for 16 yards (ILB J. Shepard). 
+
+Mississippi ball, Q4, 1-10-KEN34 (04:11) 31-12
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB D. Key runs left tackle for 1 yard (DT R. Moyer). 
+
+Mississippi ball, Q4, 2-9-KEN33 (03:41) 31-12
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB R. Jones throws an incomplete pass to WR H. Glass.
+
+Mississippi ball, Q4, 3-9-KEN33 (03:23) 31-12
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ-B6-Spy
+QB R. Jones throws an incomplete pass to WR N. Bernard (ILB J. Shepard). ILB J. Shepard broke 
+up the pass.
+
+Mississippi ball, Q4, 4-9-KEN33 (03:06) 31-12
+Thomas Sharp converts the 51 yard field goal.
+
+Mississippi ball, Q4, 1-10-MISS35 (02:48) 34-12
+Clyde Lyons kicks 63 from Mississippi 35 to Kentucky 2. Frank Foster to Kentucky 16 for a 
+14 yard return.
+
+Kentucky ball, Q4, 1-10-KEN16 (02:28) 12-34
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB K. Nicholson throws an incomplete pass to WR J. Causey.
+
+Kentucky ball, Q4, 2-10-KEN16 (02:10) 12-34
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+QB K. Nicholson completes a 2 yard hook to FB R. Helton (DT P. Jones).  He fumbles the ball 
+after a hit by P. Jones. It's recovered by F. Turner of Mississippi. He returns it 2 yards to the Kentucky 16.
+
+Mississippi ball, Q4, 1-10-KEN16 (01:51) 34-12
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: Dime, Play: Dime-run-SZ
+RB T. Miller runs left end for 5 yards (FS D. Lombardo). 
+
+Mississippi ball, Q4, 2-5-KEN11 (01:23) 34-12
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB D. Key runs right guard for 2 yards (ILB J. Shepard). 
+
+Mississippi ball, Q4, 3-3-KEN9 (00:50) 34-12
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+RB T. Miller runs right guard for 0 yards (OLB K. Marshall). 
+
+Kentucky Timeout!
+
+Mississippi ball, Q4, 4-3-KEN9 (00:42) 34-12
+Thomas Sharp converts the 27 yard field goal.
+
+Mississippi ball, Q4, 1-10-MISS35 (00:34) 37-12
+Clyde Lyons kicks 75 from Mississippi 35 to end zone, Touchback.
+
+Kentucky ball, Q4, 1-10-KEN20 (00:28) 12-37
+Offense: Medium Pass, Set: Trips, Play: TR-TE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB K. Nicholson completes a 7 yard post to WR J. Causey (OOB).
+
+Kentucky ball, Q4, 2-3-KEN27 (00:22) 12-37
+Offense: Medium Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+K. Nicholson has his 14 yard pass intercepted by P. Grace at the KEN 41. He returns it 16 
+yards to the Kentucky 25. DE O. Holbrook hurried the QB.
+

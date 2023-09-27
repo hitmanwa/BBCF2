@@ -1,0 +1,976 @@
+Iowa ball, Q1, 1-10-IOWA35 (15:00) 0-0
+George Albright kicks 75 from Iowa 35 to end zone, Touchback.
+
+Oregon ball, Q1, 1-10-ORE20 (14:42) 0-0
+Offense: Medium Pass, Set: Trips, Play: TR-TE-playact-corner
+Defense: Normal, Set: 4-6, Play: 46-norm-TMan-Spy
+QB J. Peters throws an incomplete pass to WR M. Davis (CB J. Sims). OLB M. Garrett hurried 
+the QB. CB J. Sims broke up the pass.
+
+Holding against OG James Johnson on Oregon. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Oregon 10.
+
+Oregon ball, Q1, 1-20-ORE10 (14:30) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+RB P. Keller runs right guard for 12 yards (OLB H. Donaldson). 
+
+Oregon ball, Q1, 2-8-ORE22 (13:57) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+J. Peters has his 6 yard pass intercepted by C. Stinnett at the ORE 28. He returns it 10 yards 
+to the Oregon 18.
+
+Iowa ball, Q1, 1-10-ORE18 (13:30) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB J. Curry completes a 3 yard in to WR G. Davis (FS D. Kline). 
+
+Iowa ball, Q1, 2-7-ORE15 (13:08) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+RB L. Larsen runs left tackle for -3 yards (FS D. Kline).
+
+Iowa ball, Q1, 3-10-ORE18 (12:42) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB J. Curry completes a 5 yard out to WR C. Howell (ILB S. Leonard, OLB J. Manley). 
+
+Iowa ball, Q1, 4-5-ORE13 (12:18) 0-0
+George Albright has his 31 yard field goal blocked by Thomas Moore! The ball is recovered 
+by Thomas Moore (ORE) at the ORE 6. He returns it to Oregon 10 for 4 yards.
+
+Oregon ball, Q1, 1-10-ORE20 (11:58) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-QB-draw-RG
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ
+QB J. Peters runs right guard for 3 yards (FS C. Stinnett, OLB M. Garrett). 
+
+Oregon ball, Q1, 2-7-ORE23 (11:28) 0-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+RB P. Keller runs left end for 9 yards (OOB). OT R. Young had a key block on the run.
+
+Oregon ball, Q1, 1-10-ORE32 (11:10) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-in-WR4-up
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Peters completes a 15 yard in to WR R. Lamb (SS S. Banks). 
+
+Oregon ball, Q1, 1-10-ORE47 (10:57) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+RB P. Keller runs right end for 3 yards (FS C. Stinnett). 
+
+Oregon ball, Q1, 2-7-ORE50 (10:28) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+RB P. Keller runs left tackle for 3 yards (OOB).
+
+Oregon ball, Q1, 3-4-IOWA47 (10:17) 0-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-out-WR3-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB J. Peters throws an incomplete pass to WR R. Lamb. DE J. Johnson hurried the QB.
+
+Oregon ball, Q1, 4-4-IOWA47 (10:02) 0-0
+Oscar Benton Punts 44 yards to the Iowa 3 yard line, where it goes out of bounds.
+
+Iowa ball, Q1, 1-10-IOWA3 (09:42) 0-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB F. Fields runs left end for 1 yard (OLB J. Manley).  OT T. Reyna missed a block that hurt 
+the play.
+
+Iowa ball, Q1, 2-9-IOWA4 (09:09) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+RB L. Larsen runs left tackle for 41 yards (OOB).
+
+Iowa ball, Q1, 1-10-IOWA45 (08:54) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+RB L. Larsen runs right guard for 3 yards (DE E. Kinney, ILB S. Leonard). 
+
+Iowa ball, Q1, 2-7-IOWA48 (08:22) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB J. Curry completes a 9 yard screen to RB L. Larsen (CB S. Clark, FS B. Garrett). 
+
+Iowa ball, Q1, 1-10-ORE43 (08:06) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+J. Curry has his 29 yard pass intercepted by S. Clark at the ORE 14. He returns it -2 yards 
+to the Oregon 12. J. Curry made a bad pass.
+
+Iowa ball, Q1, 1-10-ORE43 (08:06) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+FS Brian Garrett (ORE) was injured on the play (Thumb). It doesn't look like he will return.
+
+Oregon ball, Q1, 1-10-ORE12 (07:35) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB P. Keller runs right tackle for 1 yard (OOB).
+
+Oregon ball, Q1, 1-10-ORE12 (07:35) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+SS Steve Banks (IOWA) was injured on the play (Foot). It doesn't look too serious and he should 
+return.
+
+Oregon ball, Q1, 2-9-ORE13 (07:24) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB P. Keller runs right guard for 87 yards ****Touchdown!***** FB N. Vargas had a key block 
+on the run. SS C. Morrison was out of position on the play.
+
+Oregon ball, Q1, 1-0-IOWA0 (06:58) 6-0
+Albert Ransom converts the PAT.
+
+Oregon ball, Q1, 1-10-ORE35 (06:58) 7-0
+Albert Ransom kicks 67 from Oregon 35 to Iowa -2. Julian Harrison to Iowa 7 for a 9 yard return.
+
+Iowa ball, Q1, 1-10-IOWA7 (06:42) 0-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B5,7
+RB L. Larsen runs left tackle for 0 yards (DE E. Kinney).  FB R. Stewart missed a block that 
+hurt the play.
+
+Iowa ball, Q1, 2-10-IOWA7 (06:14) 0-7
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-str-FL-curl
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB J. Curry throws an incomplete pass to TE J. Beckman.
+
+Iowa ball, Q1, 3-10-IOWA7 (05:57) 0-7
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB J. Curry throws an incomplete pass to TE J. Beckman.
+
+Iowa ball, Q1, 4-10-IOWA7 (05:37) 0-7
+Ronald Corey Punts 43 yards to the Oregon 50 yard line, where Saul Goode returns it to Iowa 
+36 for a 14 yard return.
+
+Oregon ball, Q1, 1-10-IOWA36 (05:19) 7-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Normal, Set: 4-6, Play: 46-norm-TMan-Spy
+QB J. Peters completes a 5 yard in to WR M. Davis (OLB M. Garrett). 
+
+Oregon ball, Q1, 2-5-IOWA31 (04:52) 7-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB P. Keller runs left tackle for 11 yards (SS C. Morrison, OLB H. Donaldson). 
+
+Oregon ball, Q1, 1-10-IOWA20 (04:19) 7-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB V. Douglas runs right guard for 6 yards (FS P. Hayes). 
+
+Oregon ball, Q1, 2-4-IOWA14 (03:49) 7-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB J. Peters throws an incomplete pass to WR R. Lamb (CB R. Johnson). CB R. Johnson broke 
+up the pass.
+
+Oregon ball, Q1, 3-4-IOWA14 (03:29) 7-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man
+QB J. Peters completes a 2 yard streak to RB P. Keller (SS C. Morrison, OLB M. Garrett). 
+
+Oregon ball, Q1, 4-2-IOWA12 (03:08) 7-0
+Albert Ransom converts the 30 yard field goal.
+
+Oregon ball, Q1, 1-10-ORE35 (02:53) 10-0
+Albert Ransom kicks 55 from Oregon 35 to Iowa 10. Julian Harrison to Iowa 29 for a 19 yard 
+return.
+
+Iowa ball, Q1, 1-10-IOWA29 (02:35) 0-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB L. Larsen runs left guard for 5 yards (ILB S. Leonard). 
+
+Iowa ball, Q1, 2-5-IOWA34 (02:06) 0-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB L. Larsen runs left end for 5 yards (ILB S. Leonard). 
+
+Iowa ball, Q1, 1-10-IOWA39 (01:38) 0-10
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB L. Larsen runs left guard for -3 yards (ILB S. Leonard). C F. Howell missed a block that 
+hurt the play.
+
+Iowa ball, Q1, 2-13-IOWA36 (01:12) 0-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB L. Larsen runs left end for 17 yards (CB S. Clark).  OT M. Gomez had a key block on the run.
+
+Iowa ball, Q1, 1-10-ORE47 (00:46) 0-10
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB J. Curry completes a 9 yard screen to RB L. Larsen (FS D. Kline). 
+
+Iowa ball, Q1, 1-10-ORE47 (00:46) 0-10
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+CB Steven Clark (ORE) was injured on the play (Wrist). It doesn't look like he will return.
+
+Iowa ball, Q1, 2-1-ORE38 (00:33) 0-10
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+FB R. Stewart runs left end for -2 yards (FS D. Kline).
+
+Iowa ball, Q1, 3-3-ORE40 (00:03) 0-10
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB J. Curry throws an incomplete pass to WR G. Davis (FS B. Garrett). J. Curry made a bad 
+pass. FS B. Garrett broke up the pass.
+
+Iowa ball, Q2, 4-3-ORE40 (15:00) 0-10
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+False Start against OT Michael Gomez on Iowa. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Fourth and 8 at the Oregon 45.
+
+Iowa ball, Q2, 4-8-ORE45 (15:00) 0-10
+Ronald Corey Punts 37 yards to the Oregon 8 yard line, where it gets downed.
+
+Oregon ball, Q2, 1-10-ORE8 (14:44) 10-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+RB P. Keller runs right guard for 5 yards He fumbles the ball after a hit by C. Morrison. 
+It's recovered by M. Garrett of Iowa. He returns it 3 yards to the Oregon 10.
+
+Oregon ball, Q2, 1-10-ORE8 (14:44) 10-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+ILB Jeremy Soto (IOWA) was injured on the play (Hamstring). It doesn't look too serious and 
+he should return.
+
+Iowa ball, Q2, 1-10-ORE10 (14:30) 0-10
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB L. Larsen runs right end for 1 yard (ILB S. Leonard). 
+
+Iowa ball, Q2, 2-9-ORE9 (14:01) 0-10
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-HBfake-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+WR G. Davis runs right end for -2 yards (ILB S. Leonard).
+
+Iowa ball, Q2, 2-9-ORE9 (14:01) 0-10
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-HBfake-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+OT Thomas Reyna (IOWA) was injured on the play (Hand). It doesn't look like he will return.
+
+Iowa ball, Q2, 3-11-ORE11 (13:47) 0-10
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+QB J. Curry throws an incomplete pass to RB L. Larsen (CB K. Wilkerson). DT S. Gaston hurried 
+the QB. CB K. Wilkerson broke up the pass.
+
+Holding against CB Marco Murray on Oregon. The Penalty is for 10 yards, and an automatic first 
+down.
+The Offense will accept the penalty. It is now First and Goal at the Oregon 5.
+
+Iowa ball, Q2, 1-5-ORE5 (13:36) 0-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB L. Larsen runs left guard for -3 yards (CB K. Wilkerson). C F. Howell missed a block that 
+hurt the play.
+
+Iowa ball, Q2, 2-8-ORE8 (13:05) 0-10
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+FB R. Stewart runs left guard for 5 yards (ILB E. Wilson, SS J. Mccauley). 
+
+Iowa ball, Q2, 3-3-ORE3 (12:35) 0-10
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan
+QB J. Curry completes a 2 yard hook to WR C. Howell (OLB E. Massey). 
+
+Iowa ball, Q2, 3-3-ORE3 (12:35) 0-10
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan
+OLB Eugene Massey (ORE) was injured on the play (Eye). It doesn't look too serious and he 
+should return.
+
+Iowa ball, Q2, 4-1-ORE1 (12:21) 0-10
+George Albright converts the 19 yard field goal.
+
+Iowa ball, Q2, 1-10-IOWA35 (12:01) 3-10
+George Albright kicks 66 from Iowa 35 to Oregon -1. Frank Parker to Oregon 24 for a 25 yard 
+return.
+
+Oregon ball, Q2, 1-10-ORE24 (11:42) 10-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB P. Keller runs left end for 0 yards (SS S. Banks).  C C. Morales missed a block that hurt 
+the play.
+
+Oregon ball, Q2, 2-10-ORE24 (11:14) 10-3
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+FB N. Vargas runs left tackle for 14 yards (SS S. Banks). 
+
+Oregon ball, Q2, 2-10-ORE24 (11:14) 10-3
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+FS Carlos Stinnett (IOWA) was injured on the play (Spleen). It doesn't look like he will return.
+
+Oregon ball, Q2, 1-10-ORE38 (10:59) 10-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,7
+RB P. Keller runs right guard for 0 yards (ILB J. Soto). 
+
+Offsides against DE Clyde Smith on Iowa. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 5 at the Oregon 43.
+
+Oregon ball, Q2, 1-5-ORE43 (10:45) 10-3
+Offense: Outside Run, Set: Quads, Play: Q-HB-counter-RT
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B10
+RB P. Keller runs right end for 10 yards (SS C. Morrison).  OT R. Young had a key block on 
+the run. CB J. Sims missed a tackle.
+
+Oregon ball, Q2, 1-10-IOWA47 (10:16) 10-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ-B7
+RB P. Keller runs left guard for 2 yards (SS C. Morrison, FS P. Hayes). 
+
+Oregon ball, Q2, 2-8-IOWA45 (09:44) 10-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB J. Peters completes a 1 yard hook to RB P. Keller (ILB J. Soto). 
+
+Oregon ball, Q2, 2-8-IOWA45 (09:44) 10-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+DT Aron Pierce (IOWA) was injured on the play (Lower Leg). It doesn't look too serious and 
+he should return.
+
+Oregon ball, Q2, 3-7-IOWA44 (09:31) 10-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B10
+QB J. Peters throws an incomplete pass to WR S. Goode (CB J. Sims). CB J. Sims broke up the 
+pass.
+
+Oregon ball, Q2, 4-7-IOWA44 (09:16) 10-3
+Oscar Benton Punts 39 yards to the Iowa 5 yard line, where it goes out of bounds.
+
+Iowa ball, Q2, 1-10-IOWA5 (08:59) 3-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB L. Larsen runs right tackle for 48 yards (OOB).
+
+Iowa ball, Q2, 1-10-ORE47 (08:45) 3-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB F. Fields runs right guard for 1 yard (OLB J. Manley).  OT J. Hughes missed a block that 
+hurt the play.
+
+Iowa ball, Q2, 2-9-ORE46 (08:19) 3-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB L. Larsen runs left guard for -2 yards (DT S. Gaston).
+
+Iowa ball, Q2, 3-11-ORE48 (07:46) 3-10
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+QB J. Curry gets sacked for a 14 yard loss (DE R. Martinez).  OT J. Hughes allowed the sack.
+
+Iowa ball, Q2, 4-25-IOWA38 (07:31) 3-10
+Ronald Corey Punts 41 yards to the Oregon 21 yard line, where it gets downed.
+
+Oregon ball, Q2, 1-10-ORE21 (07:12) 10-3
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB J. Peters completes a 9 yard hook to WR S. Goode (SS C. Morrison, ILB J. Soto). 
+
+Oregon ball, Q2, 2-1-ORE30 (06:49) 10-3
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6
+RB P. Keller runs right guard for 7 yards (OLB M. Garrett, ILB J. Soto).  SS C. Morrison missed 
+a tackle.
+
+Oregon ball, Q2, 1-10-ORE37 (06:21) 10-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+RB P. Keller runs right guard for 7 yards (OLB M. Garrett).  P. Keller created the big run 
+with his own skills.
+
+Oregon ball, Q2, 2-3-ORE44 (05:55) 10-3
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+RB P. Keller runs right end for 8 yards (ILB J. Soto, FS P. Hayes).  CB J. Sims missed a tackle.
+
+Oregon ball, Q2, 1-10-IOWA48 (05:26) 10-3
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB P. Keller runs right guard for 0 yards (ILB J. Soto). 
+
+Oregon ball, Q2, 2-10-IOWA48 (04:54) 10-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB J. Peters completes a 14 yard post to WR R. Lamb (CB R. Johnson, FS P. Hayes).  OT R. Young 
+earned a pancake on the play. FS P. Hayes missed a tackle.
+
+Oregon ball, Q2, 1-10-IOWA34 (04:31) 10-3
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: 4-6, Play: 46-run-Man-B6,7
+QB J. Peters completes a 3 yard out to WR S. Goode (OOB).
+
+Oregon ball, Q2, 2-7-IOWA31 (04:20) 10-3
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB V. Douglas runs left end for 11 yards (OLB H. Donaldson, CB J. Sims).  CB R. Johnson missed 
+a tackle.
+
+Oregon ball, Q2, 1-10-IOWA20 (03:52) 10-3
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+QB J. Peters gets sacked for a 4 yard loss (OLB H. Donaldson).  C C. Morales allowed the sack.
+
+Holding against OG David Marsh on Oregon. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Oregon ball, Q2, 2-14-IOWA24 (03:42) 10-3
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B10
+QB J. Peters completes a 24 yard cross to WR M. Davis ****Touchdown!***** FS P. Hayes missed 
+a tackle.
+
+Oregon ball, Q2, 1-0-IOWA0 (03:16) 16-3
+Albert Ransom converts the PAT.
+
+Oregon ball, Q2, 1-10-ORE35 (03:16) 17-3
+Albert Ransom kicks 67 from Oregon 35 to Iowa -2. Julian Harrison to Iowa 15 for a 17 yard 
+return.
+
+Iowa ball, Q2, 1-10-IOWA15 (02:58) 3-17
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB J. Curry completes a 5 yard out to WR C. Howell (OLB J. Manley). 
+
+Iowa ball, Q2, 2-5-IOWA20 (02:37) 3-17
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB L. Larsen runs right guard for 2 yards (OLB E. Massey, ILB S. Leonard). 
+
+Iowa ball, Q2, 3-3-IOWA22 (02:09) 3-17
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5-L
+QB J. Curry throws an incomplete pass to WR G. Davis (FS D. Kline). WR G. Davis dropped the 
+pass. FS D. Kline broke up the pass.
+
+Iowa ball, Q2, 4-3-IOWA22 (01:53) 3-17
+Ronald Corey Punts 29 yards to the Oregon 49 yard line, where Mark Reyes returns it to Iowa 
+36 for a 15 yard return. He fumbles the ball after a hit by B. Frank. It's recovered by J. Hughes of Iowa. He returns it 2 yards to the Iowa 38.
+
+Iowa ball, Q2, 1-10-IOWA38 (01:38) 3-17
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB J. Curry throws an incomplete pass to WR G. Davis.
+
+Iowa ball, Q2, 2-10-IOWA38 (01:20) 3-17
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB J. Curry completes a 6 yard hook to WR R. Harris (CB M. Murray, SS J. Mccauley). 
+
+Iowa ball, Q2, 3-4-IOWA44 (00:59) 3-17
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB J. Curry throws an incomplete pass to WR G. Davis (FS D. Kline). FS D. Kline broke up the 
+pass.
+
+Holding against TE James Beckman on Iowa. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Iowa ball, Q2, 4-4-IOWA44 (00:45) 3-17
+Ronald Corey Punts 37 yards to the Oregon 19 yard line, where it goes out of bounds.
+
+Oregon ball, Q2, 1-10-ORE19 (00:38) 17-3
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB P. Keller runs left tackle for 1 yard (DE C. Smith). 
+
+Iowa Timeout!
+
+Oregon ball, Q2, 2-9-ORE20 (00:30) 17-3
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB V. Douglas runs right tackle for 1 yard (DT A. Pierce). 
+
+Oregon ball, Q2, 3-8-ORE21 (00:01) 17-3
+Offense: Inside Run, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+The QB takes a knee.
+
+Oregon ball, Q3, 1-10-ORE35 (15:00) 17-3
+Albert Ransom kicks 66 from Oregon 35 to Iowa -1. Julian Harrison to Iowa 34 for a 35 yard 
+return.
+
+Illegal Use of Hands against OLB Bill Frank on Iowa. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 10 at the Iowa 24.
+
+Iowa ball, Q3, 1-10-IOWA24 (14:50) 3-17
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-3, Play: 43-run-Man-B5,7
+QB J. Curry completes a 41 yard hook to WR C. Howell (FS B. Garrett).  OG B. Heck earned a 
+pancake on the play. ILB S. Leonard allowed the big play.
+
+Iowa ball, Q3, 1-10-ORE35 (14:22) 3-17
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB L. Larsen runs right guard for 2 yards (FS D. Kline). 
+
+Iowa ball, Q3, 2-8-ORE33 (13:53) 3-17
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB J. Curry completes a 8 yard hook to WR G. Davis (OOB).
+
+Iowa ball, Q3, 1-10-ORE25 (13:39) 3-17
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB L. Larsen runs right tackle for -1 yards (DE E. Kinney).
+
+Iowa ball, Q3, 2-11-ORE26 (13:09) 3-17
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB F. Fields runs right tackle for 1 yard (FS D. Kline). 
+
+Iowa ball, Q3, 3-10-ORE25 (12:42) 3-17
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-3, Play: 43-norm-SZ-B11
+QB J. Curry completes a 17 yard hook to WR C. Howell (SS J. Mccauley).  C F. Howell earned 
+a pancake on the play. CB F. Parker was out of position on the play.
+
+Iowa ball, Q3, 1-8-ORE8 (12:16) 3-17
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB F. Fields runs left guard for 0 yards (FS B. Garrett).  C F. Howell missed a block that 
+hurt the play.
+
+Iowa ball, Q3, 2-8-ORE8 (11:45) 3-17
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB L. Larsen runs right guard for -2 yards (FS D. Kline). L. Larsen missed a hole that could 
+have resulted in a bigger gain.
+
+Iowa ball, Q3, 3-10-ORE10 (11:13) 3-17
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+QB J. Curry throws an incomplete pass to WR C. Howell.
+
+Iowa ball, Q3, 4-10-ORE10 (10:54) 3-17
+George Albright converts the 28 yard field goal.
+
+Iowa ball, Q3, 1-10-IOWA35 (10:36) 6-17
+George Albright kicks 67 from Iowa 35 to Oregon -2. Frank Parker to Oregon 21 for a 23 yard 
+return.
+
+Oregon ball, Q3, 1-10-ORE21 (10:18) 17-6
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+RB P. Keller runs left end for 1 yard (SS C. Morrison).  TE C. Mathis missed a block that 
+hurt the play.
+
+Oregon ball, Q3, 2-9-ORE22 (09:48) 17-6
+Offense: Long Pass, Set: Quads, Play: Q-WR3-corner-FL-post
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+QB J. Peters completes a 3 yard post to WR R. Lamb (CB J. Sims). 
+
+Passer beyond Line of Scrimmage against QB Jeffrey Peters on Oregon. The Penalty is for 5 
+yards, and a loss of down.
+The Defense will accept the penalty. It is now Third and 14 at the Oregon 17.
+
+Oregon ball, Q3, 3-14-ORE17 (09:34) 17-6
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+False Start against OG David Marsh on Oregon. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 19 at the Oregon 12.
+
+Oregon ball, Q3, 3-19-ORE12 (09:34) 17-6
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB J. Peters completes a 88 yard in to WR M. Davis ****Touchdown!***** ILB J. Soto allowed 
+the big play.
+
+Oregon ball, Q3, 1-0-IOWA0 (09:04) 23-6
+Albert Ransom converts the PAT.
+
+Albert Ransom kicks the ball out of bounds! Penalty against Oregon, the ball will be spotted 
+at the 40 yardline.
+Iowa ball, Q3, 1-10-IOWA40 (08:51) 6-24
+Offense: Inside Run, Set: Quads, Play: Q-QB-draw-RG
+Defense: Normal, Set: 4-3, Play: 43-norm-DZ-B5,7
+QB J. Curry runs right guard for 9 yards (OLB J. Manley, OLB E. Massey).  DT M. Hernandez 
+missed a tackle.
+
+Iowa ball, Q3, 2-1-IOWA49 (08:19) 6-24
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB F. Fields runs left guard for 3 yards (DE R. Martinez). 
+
+Iowa ball, Q3, 1-10-ORE48 (07:46) 6-24
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ-B7,8
+RB L. Larsen runs right guard for 0 yards (DT S. Gaston). 
+
+Iowa ball, Q3, 2-10-ORE48 (07:19) 6-24
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+QB J. Curry throws an incomplete pass to WR G. Davis (CB K. Wilkerson). DE R. Martinez hurried 
+the QB. CB K. Wilkerson broke up the pass.
+
+Iowa ball, Q3, 3-10-ORE48 (07:03) 6-24
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-MZ-B5,7
+QB J. Curry gets sacked for a 3 yard loss (ILB S. Leonard).  OT J. Hughes allowed the sack.
+
+Iowa ball, Q3, 4-13-IOWA49 (06:45) 6-24
+Ronald Corey Punts 31 yards to the Oregon 20 yard line, where Saul Goode returns it to Oregon 
+22 for a 2 yard return.
+
+Oregon ball, Q3, 1-10-ORE22 (06:27) 24-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB P. Keller runs left tackle for 5 yards (FS P. Hayes). 
+
+Oregon ball, Q3, 2-5-ORE27 (05:54) 24-6
+Offense: Medium Pass, Set: Trips, Play: TR-TE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB J. Peters throws an incomplete pass to WR R. Lamb (CB R. Johnson). CB R. Johnson broke 
+up the pass.
+
+Oregon ball, Q3, 3-5-ORE27 (05:37) 24-6
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB P. Keller runs right guard for 3 yards (OLB H. Donaldson). 
+
+Oregon ball, Q3, 4-2-ORE30 (05:01) 24-6
+Oscar Benton Punts 36 yards to the Iowa 34 yard line, where Casey Smith returns it to Iowa 
+43 for a 9 yard return.
+
+Iowa ball, Q3, 1-10-IOWA43 (04:52) 6-24
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB J. Curry gets sacked for a 3 yard loss (DE R. Martinez).  OT J. Hughes allowed the sack.
+
+Iowa ball, Q3, 1-10-IOWA43 (04:52) 6-24
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB Joseph Curry (IOWA) was injured on the play (Foot). It doesn't look too serious and he 
+should return.
+
+Iowa ball, Q3, 2-13-IOWA40 (04:35) 6-24
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB J. Curry throws an incomplete pass to WR C. Howell. J. Curry made a bad pass.
+
+Iowa ball, Q3, 3-13-IOWA40 (04:18) 6-24
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-posts
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B5
+QB J. Curry throws an incomplete pass to WR G. Davis (CB K. Wilkerson). CB K. Wilkerson broke 
+up the pass.
+
+Iowa ball, Q3, 4-13-IOWA40 (04:01) 6-24
+Ronald Corey Punts 24 yards to the Oregon 36 yard line, where it gets downed.
+
+Oregon ball, Q3, 1-10-ORE36 (03:41) 24-6
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB P. Keller runs right guard for 8 yards (SS C. Morrison).  OT W. Renner had a key block 
+on the run.
+
+Oregon ball, Q3, 2-2-ORE44 (03:08) 24-6
+Offense: Short Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B7
+QB J. Peters completes a 2 yard dump off to RB P. Keller (ILB J. Soto). 
+
+Oregon ball, Q3, 1-10-ORE46 (02:47) 24-6
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB V. Douglas runs right guard for 20 yards (FS P. Hayes). 
+
+Oregon ball, Q3, 1-10-IOWA34 (02:20) 24-6
+Offense: Medium Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB J. Peters completes a 10 yard streak to WR S. Goode (OLB H. Donaldson). 
+
+Oregon ball, Q3, 1-10-IOWA24 (01:56) 24-6
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ
+RB P. Keller runs right tackle for 2 yards (OLB M. Garrett). 
+
+Oregon ball, Q3, 2-8-IOWA22 (01:28) 24-6
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-TMan
+QB J. Peters completes a 22 yard hook to WR S. Goode ****Touchdown!***** OT W. Renner earned 
+a pancake on the play. CB J. Sims was out of position on the play.
+
+Oregon ball, Q3, 1-0-IOWA0 (01:05) 30-6
+Albert Ransom converts the PAT.
+
+Oregon ball, Q3, 1-10-ORE35 (01:05) 31-6
+Albert Ransom kicks 67 from Oregon 35 to Iowa -2. Julian Harrison to Iowa 33 for a 35 yard 
+return.
+
+Illegal Use of Hands against OT Julio Hughes on Iowa. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 10 at the Iowa 23.
+
+Iowa ball, Q3, 1-10-IOWA23 (00:53) 6-31
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB J. Curry throws an incomplete pass to WR G. Davis. J. Curry made a bad pass.
+
+Iowa ball, Q3, 2-10-IOWA23 (00:35) 6-31
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Curry throws an incomplete pass to RB L. Larsen.
+
+Iowa ball, Q3, 3-10-IOWA23 (00:15) 6-31
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB J. Curry throws an incomplete pass to WR R. Harris.
+
+Iowa ball, Q4, 4-10-IOWA23 (15:00) 6-31
+Ronald Corey Punts 31 yards to the Oregon 46 yard line, where Mark Reyes returns it to Oregon 
+50 for a 4 yard return.
+
+Oregon ball, Q4, 1-10-ORE50 (14:44) 31-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB P. Keller runs left guard for 0 yards (OLB H. Donaldson).  OG J. Johnson missed a block 
+that hurt the play.
+
+Oregon ball, Q4, 2-10-ORE50 (14:14) 31-6
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB J. Peters completes a 3 yard screen to RB P. Keller (OOB).
+
+Holding against SS Steve Banks on Iowa. The Penalty is for 10 yards, and an automatic first 
+down.
+The Offense will accept the penalty. It is now First and 10 at the Iowa 40.
+
+Oregon ball, Q4, 1-10-IOWA40 (14:03) 31-6
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB P. Keller runs left end for 0 yards He fumbles the ball after a hit by C. Smith. It's recovered 
+by J. Fox of Iowa. He returns it 0 yards to the Iowa 40. TE C. Mathis missed a block that hurt the play.
+
+Iowa ball, Q4, 1-10-IOWA40 (13:36) 6-31
+Offense: Short Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-L
+QB J. Curry throws an incomplete pass to WR G. Davis.
+
+Iowa ball, Q4, 2-10-IOWA40 (13:17) 6-31
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+J. Curry has his 9 yard pass intercepted by K. Wilkerson at the IOWA 49. He returns it 0 yards 
+to the Iowa 49. DE E. Kinney hurried the QB.
+
+Passer beyond Line of Scrimmage against QB Joseph Curry on Iowa. The Penalty is for 5 yards, 
+and a loss of down.
+The penalty will be declined.
+
+Oregon ball, Q4, 1-10-IOWA49 (13:02) 31-6
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB P. Keller runs left tackle for 0 yards (OOB). OG D. Marsh missed a block that hurt the play.
+
+Oregon ball, Q4, 2-10-IOWA49 (12:47) 31-6
+Offense: Short Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+QB J. Peters completes a 9 yard out to WR S. Goode (OOB).
+
+Oregon ball, Q4, 3-1-IOWA40 (12:31) 31-6
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+RB P. Keller runs right end for -4 yards (DE C. Smith).
+
+Oregon ball, Q4, 4-5-IOWA44 (11:58) 31-6
+Oscar Benton Punts 41 yards to the Iowa 3 yard line, where it goes out of bounds.
+
+Iowa ball, Q4, 1-10-IOWA3 (11:40) 6-31
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+QB J. Curry throws an incomplete pass to WR R. Harris.
+
+Iowa ball, Q4, 2-10-IOWA3 (11:23) 6-31
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB L. Larsen runs right tackle for 3 yards (FS B. Garrett). 
+
+Iowa ball, Q4, 3-7-IOWA6 (10:52) 6-31
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB J. Curry gets sacked for a 1 yard loss (DT S. Gaston).  OT J. Hughes allowed the sack.
+
+Iowa ball, Q4, 4-8-IOWA5 (10:35) 6-31
+Ronald Corey Punts 43 yards to the Iowa 48 yard line, where Saul Goode returns it to Iowa 
+44 for a 4 yard return.
+
+Oregon ball, Q4, 1-10-IOWA44 (10:15) 31-6
+Offense: Long Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Peters throws an incomplete pass to WR M. Davis.
+
+Oregon ball, Q4, 2-10-IOWA44 (09:55) 31-6
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,7
+QB J. Peters throws an incomplete pass to WR S. Goode. WR S. Goode dropped the pass.
+
+Oregon ball, Q4, 3-10-IOWA44 (09:38) 31-6
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-ZoneBlitz
+QB J. Peters completes a 21 yard cross to WR S. Goode (OLB H. Donaldson).  S. Goode made a 
+great catch. OT R. Young earned a pancake on the play.
+
+Oregon ball, Q4, 1-10-IOWA23 (09:17) 31-6
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+FB N. Vargas runs left guard for 8 yards (SS C. Morrison).  CB R. Johnson missed a tackle.
+
+Oregon ball, Q4, 2-2-IOWA15 (08:44) 31-6
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ
+RB P. Keller runs left end for 9 yards (ILB J. Soto). 
+
+Oregon ball, Q4, 1-6-IOWA6 (08:15) 31-6
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+QB J. Peters completes a 2 yard in to WR R. Lamb (OLB H. Donaldson, OLB M. Garrett). 
+
+Oregon ball, Q4, 2-4-IOWA4 (07:51) 31-6
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+RB P. Keller runs left guard for 3 yards (CB J. Sims, OLB A. Allen). 
+
+Illegal Motion against Oregon. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and Goal at the Iowa 9.
+
+Oregon ball, Q4, 2-9-IOWA9 (07:41) 31-6
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+QB J. Peters completes a 4 yard out to WR S. Goode (SS C. Morrison, OLB A. Allen). 
+
+Oregon ball, Q4, 3-5-IOWA5 (07:20) 31-6
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-Man-B7,11
+QB J. Peters completes a 3 yard cross to WR S. Goode (CB R. Johnson). 
+
+Oregon ball, Q4, 4-2-IOWA2 (06:57) 31-6
+Albert Ransom converts the 20 yard field goal.
+
+Oregon ball, Q4, 1-10-ORE35 (06:42) 34-6
+Albert Ransom kicks 67 from Oregon 35 to Iowa -2. Julian Harrison to Iowa 21 for a 23 yard 
+return.
+
+Iowa ball, Q4, 1-10-IOWA21 (06:26) 6-34
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB J. Curry gets sacked for a 3 yard loss (ILB S. Leonard).  C F. Howell allowed the sack.
+
+Iowa ball, Q4, 2-13-IOWA18 (06:09) 6-34
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B5,7
+RB L. Larsen runs right guard for 0 yards (ILB S. Leonard).  C F. Howell missed a block that 
+hurt the play.
+
+Iowa ball, Q4, 3-13-IOWA18 (05:37) 6-34
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+RB L. Larsen runs right tackle for 0 yards (ILB S. Leonard). 
+
+Iowa ball, Q4, 4-13-IOWA18 (05:05) 6-34
+Ronald Corey Punts 41 yards to the Oregon 41 yard line, where Mark Reyes returns it to Oregon 
+43 for a 2 yard return.
+
+Oregon ball, Q4, 1-10-ORE43 (04:50) 34-6
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+RB P. Keller runs right end for 0 yards (ILB J. Soto). 
+
+Oregon ball, Q4, 2-10-ORE43 (04:24) 34-6
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+RB P. Keller runs right tackle for 10 yards (OLB M. Garrett). 
+
+Oregon ball, Q4, 1-10-IOWA47 (03:54) 34-6
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB P. Keller runs right end for 5 yards (FS P. Hayes). 
+
+Oregon ball, Q4, 2-5-IOWA42 (03:23) 34-6
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-HBfake-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+WR M. Davis runs right end for 3 yards (OOB).
+
+Oregon ball, Q4, 3-2-IOWA39 (03:12) 34-6
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB P. Keller runs right end for 1 yard (FS P. Hayes).  OG D. Marsh missed a block that hurt 
+the play.
+
+Oregon ball, Q4, 4-1-IOWA38 (02:57) 34-6
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB P. Keller runs right guard for 2 yards (CB R. Johnson). 
+
+Oregon ball, Q4, 1-10-IOWA36 (02:25) 34-6
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+RB V. Douglas runs left tackle for 2 yards (OLB M. Garrett, OLB H. Donaldson). 
+
+Oregon ball, Q4, 2-8-IOWA34 (01:59) 34-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB P. Keller runs left guard for 7 yards (FS P. Hayes). 
+
+Oregon ball, Q4, 3-1-IOWA27 (01:31) 34-6
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB P. Keller runs left end for -1 yards (CB J. Sims). C C. Morales missed a block that hurt 
+the play.
+
+Oregon ball, Q4, 4-2-IOWA28 (01:05) 34-6
+Albert Ransom misses the 46 yard field goal. It will be Iowa ball at the IOWA 28
+
+Iowa ball, Q4, 1-10-IOWA28 (00:58) 6-34
+Offense: Long Pass, Set: Trips, Play: TR-WR3-str-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB J. Curry completes a 1 yard streak to WR G. Davis (FS B. Garrett). 
+
+Iowa Timeout!
+
+Iowa ball, Q4, 2-9-IOWA29 (00:50) 6-34
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB J. Curry throws an incomplete pass to WR G. Davis. WR G. Davis dropped the pass.
+
+Iowa ball, Q4, 3-9-IOWA29 (00:42) 6-34
+Offense: Medium Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB J. Curry throws an incomplete pass to WR C. Howell (CB M. Murray). CB M. Murray broke up 
+the pass.
+
+Iowa ball, Q4, 4-9-IOWA29 (00:35) 6-34
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB J. Curry completes a 6 yard streak to WR J. Snyder (SS J. Mccauley). 
+
+Iowa Timeout!
+
+Oregon ball, Q4, 1-10-IOWA35 (00:21) 34-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ
+The QB takes a knee.
+
+Iowa Timeout!
+
+Oregon ball, Q4, 2-12-IOWA37 (00:12) 34-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+The QB takes a knee.
+
+Oregon ball, Q4, 3-14-IOWA39 (00:03) 34-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+The QB takes a knee.
+

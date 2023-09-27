@@ -1,0 +1,997 @@
+Boston ball, Q1, 1-10-BC35 (15:00) 0-0
+Josh Gillette kicks 66 from Boston 35 to Pittsburgh -1. Anthony Neal to Boston 3 for a 98 
+yard return.
+
+Pittsburgh ball, Q1, 1-3-BC3 (14:42) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+RB M. Hooper runs right end for -1 yards (OLB R. Mendez).
+
+Pittsburgh ball, Q1, 2-4-BC4 (14:11) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+RB R. Luckett runs left guard for 1 yard (OLB J. Hundley). 
+
+Tripping against OG Michael Gorman on Pittsburgh. The Penalty is for 15 yards.
+The Defense will accept the penalty. It is now Second and Goal at the Boston 19.
+
+Pittsburgh ball, Q1, 2-19-BC19 (14:01) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+RB R. Luckett runs right guard for 2 yards (ILB R. Lugo). 
+
+Offsides against FS Randal Lujan on Boston. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Second and Goal at the Boston 14.
+
+Pittsburgh ball, Q1, 2-14-BC14 (13:46) 0-0
+Offense: Short Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB T. Osborne throws an incomplete pass to TE J. Atkinson.
+
+Pittsburgh ball, Q1, 3-14-BC14 (13:26) 0-0
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB T. Osborne throws an incomplete pass to WR A. Neal (CB P. Adams). DE C. Reid hurried the 
+QB. CB P. Adams broke up the pass.
+
+Pittsburgh ball, Q1, 4-14-BC14 (13:11) 0-0
+Derek Jenkins converts the 32 yard field goal.
+
+Pittsburgh ball, Q1, 1-10-PITT35 (12:51) 3-0
+Derek Jenkins kicks 75 from Pittsburgh 35 to end zone, Touchback.
+
+Boston ball, Q1, 1-10-BC20 (12:32) 0-3
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB J. Farris runs right guard for 8 yards (FS K. West).  SS D. Sutton missed a tackle.
+
+Boston ball, Q1, 2-2-BC28 (12:01) 0-3
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+RB J. Farris runs left guard for 7 yards (ILB J. Christensen, OLB C. Mcdermott).  DT E. Herrera 
+was out of position on the play.
+
+Boston ball, Q1, 1-10-BC35 (11:28) 0-3
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-straight-RG
+Defense: Stop Run, Set: Dime, Play: Dime-pass-MZ
+RB J. Farris runs right tackle for 2 yards (OLB C. Mcdermott, ILB J. Christensen). 
+
+Boston ball, Q1, 2-8-BC37 (10:55) 0-3
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB J. Farris runs left guard for 14 yards (FS E. Moffitt).  C J. Evans had a key block on 
+the run.
+
+Boston ball, Q1, 1-10-PITT49 (10:24) 0-3
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-tripoption-LE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+FB H. Beard runs left end for 8 yards (OLB R. Guevara, FS K. West).  FS K. West missed a tackle.
+
+Boston ball, Q1, 2-2-PITT41 (09:58) 0-3
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-tripoption-LE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6
+QB K. Madsen runs left tackle for 0 yards (OLB R. Guevara). 
+
+Boston ball, Q1, 3-2-PITT41 (09:30) 0-3
+Offense: Inside Run, Set: Flexbone, Play: FL-WB-trap-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB C. Cooper runs left guard for 1 yard (OLB R. Guevara). 
+
+Boston ball, Q1, 4-1-PITT40 (09:04) 0-3
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 4-4, Play: 44-run-Man-B6,7
+QB K. Madsen completes a 4 yard hook to WR D. Lawson (SS D. Sutton, FS K. West). 
+
+Boston ball, Q1, 1-10-PITT36 (08:41) 0-3
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB J. Farris runs left guard for 7 yards (FS E. Moffitt).  DT B. Simms was out of position 
+on the play.
+
+Boston ball, Q1, 2-3-PITT29 (08:09) 0-3
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB J. Farris runs left tackle for 2 yards (FS K. West, CB J. Stinson). 
+
+Boston ball, Q1, 2-3-PITT29 (08:09) 0-3
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+CB James Stinson (PITT) was injured on the play (Toe). It doesn't look like he will return.
+
+Boston ball, Q1, 3-1-PITT27 (07:56) 0-3
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB J. Farris runs left guard for 0 yards (FS K. West). 
+
+Boston ball, Q1, 4-1-PITT27 (07:25) 0-3
+David Lee has his 45 yard field goal blocked by Peter Curry! The ball is recovered by Peter 
+Curry (PITT) at the PITT 21
+
+Pittsburgh ball, Q1, 1-10-PITT21 (07:09) 3-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB R. Luckett runs left end for 9 yards (OOB). CB M. Hubbard missed a tackle.
+
+Pittsburgh ball, Q1, 2-1-PITT30 (06:54) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+FB T. Elder runs left guard for 1 yard (ILB J. Vidal). 
+
+Pittsburgh ball, Q1, 1-10-PITT31 (06:27) 3-0
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-TMan
+False Start against OG Michael Gorman on Pittsburgh. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Pittsburgh 26.
+
+Pittsburgh ball, Q1, 1-15-PITT26 (06:27) 3-0
+Offense: Long Pass, Set: I Form, Play: I-SE-streaks
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB T. Osborne gets sacked for a 10 yard loss (DT R. Jackson).  OG L. Castle allowed the sack.
+
+Pittsburgh ball, Q1, 2-25-PITT16 (06:11) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB M. Hooper runs left guard for 11 yards (OLB R. Mendez, OLB J. Hundley).  M. Hooper created 
+the big run with his own skills.
+
+Pittsburgh ball, Q1, 3-14-PITT27 (05:41) 3-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB T. Osborne completes a 5 yard hook to RB R. Luckett (FS C. Johnson). 
+
+Pittsburgh ball, Q1, 4-9-PITT32 (05:18) 3-0
+Henry Goodwin Punts 43 yards to the Boston 25 yard line, where Derrick Lawson returns it to 
+Boston 25 for a 0 yard return.
+
+Boston ball, Q1, 1-10-BC25 (05:01) 0-3
+Offense: Outside Run, Set: Wing T, Play: T-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB J. Farris runs left end for 2 yards (OOB).
+
+Boston ball, Q1, 2-8-BC27 (04:50) 0-3
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-tripoption-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB K. Madsen scrambles out of the pocket and gets sacked for a 4 yard loss (DT E. Herrera). 
+ RB M. West allowed the sack.
+
+Boston ball, Q1, 3-12-BC23 (04:23) 0-3
+Offense: Outside Run, Set: Wing T, Play: T-HB-toss-LE
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB J. Farris runs left end for 2 yards (CB T. Paul). 
+
+Boston ball, Q1, 4-10-BC25 (03:54) 0-3
+Josh Gillette Punts 42 yards to the Pittsburgh 33 yard line, where Walter Lipscomb returns 
+it to Pittsburgh 33 for a 0 yard return.
+
+Boston ball, Q1, 4-10-BC25 (03:54) 0-3
+P Henry Goodwin (PITT) was injured on the play (Clavicle). It doesn't look like he will return.
+
+Pittsburgh ball, Q1, 1-10-PITT33 (03:39) 3-0
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB M. Hooper runs left end for 46 yards (CB M. Hubbard).  CB M. Hubbard missed a tackle.
+
+Pittsburgh ball, Q1, 1-10-BC21 (03:10) 3-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB T. Osborne throws an incomplete pass to WR A. Neal. WR A. Neal ran an incorrect route.
+
+Pittsburgh ball, Q1, 1-10-BC21 (03:10) 3-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+OG Leonard Castle (PITT) was injured on the play (Clavicle). It doesn't look like he will 
+return.
+
+Pittsburgh ball, Q1, 2-10-BC21 (02:54) 3-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB T. Osborne throws an incomplete pass to WR L. Crosby. WR L. Crosby dropped the pass.
+
+Pittsburgh ball, Q1, 3-10-BC21 (02:34) 3-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+QB T. Osborne throws an incomplete pass to WR L. Crosby. T. Osborne made a bad pass. OLB J. 
+Hundley hurried the QB.
+
+Pittsburgh ball, Q1, 4-10-BC21 (02:16) 3-0
+Derek Jenkins misses the 39 yard field goal. It will be Boston ball at the BC 21
+
+Boston ball, Q1, 1-10-BC21 (02:00) 0-3
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-option-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB C. Cooper runs right end for 1 yard (CB S. Mcfarland).  FB H. Beard missed a block that 
+hurt the play.
+
+Boston ball, Q1, 2-9-BC22 (01:34) 0-3
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+RB C. Cooper runs right guard for 1 yard (ILB E. Wilson).  TE D. Stephens missed a block that 
+hurt the play.
+
+Boston ball, Q1, 3-8-BC23 (01:07) 0-3
+Offense: Outside Run, Set: Wing T, Play: T-HB-option-RE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB K. Madsen runs right end for 2 yards He fumbles the ball after a hit by C. Mcdermott. It's 
+recovered by E. Herrera of Pittsburgh. He returns it 0 yards to the Boston 25.
+
+Pittsburgh ball, Q1, 1-10-BC25 (00:37) 3-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+RB R. Luckett runs right guard for 4 yards (OLB J. Hundley). 
+
+Pittsburgh ball, Q1, 2-6-BC21 (00:07) 3-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB M. Hooper runs right end for 6 yards (FS R. Lujan). 
+
+Pittsburgh ball, Q2, 1-10-BC15 (15:00) 3-0
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB T. Osborne completes a 9 yard screen to RB M. Hooper (OLB J. Hundley). 
+
+Pittsburgh ball, Q2, 2-1-BC6 (14:36) 3-0
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+QB T. Osborne scrambles out of the pocket and gets sacked for a 4 yard loss (OLB R. Mendez). 
+ OT P. Greer allowed the sack.
+
+Pittsburgh ball, Q2, 3-5-BC10 (14:04) 3-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB T. Osborne completes a 9 yard out-and-up to TE J. Atkinson (SS B. Green). 
+
+Pittsburgh ball, Q2, 1-1-BC1 (13:41) 3-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+FB T. Elder runs left guard for -1 yards (SS B. Green). OG M. Gorman missed a block that hurt 
+the play.
+
+Pittsburgh ball, Q2, 2-2-BC2 (13:08) 3-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+FB T. Elder runs left guard for 1 yard (ILB R. Lugo). 
+
+Pittsburgh ball, Q2, 3-1-BC1 (12:37) 3-0
+Offense: Inside Run, Set: I Form, Play: I-FB-counter-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+FB T. Saldana runs right guard for 1 yard ****Touchdown!***** OT P. Greer missed a block that 
+hurt the play.
+
+Pittsburgh ball, Q2, 1-0-BC0 (12:06) 9-0
+Derek Jenkins converts the PAT.
+
+Pittsburgh ball, Q2, 1-10-PITT35 (12:06) 10-0
+FS Charles Gamez (PITT) was injured on the play (OK). It doesn't look like he will return.
+
+Pittsburgh ball, Q2, 1-10-PITT35 (12:06) 10-0
+Derek Jenkins kicks 55 from Pittsburgh 35 to Boston 10. Randal Lujan to Boston 25 for a 15 
+yard return.
+
+Boston ball, Q2, 1-10-BC25 (11:47) 0-10
+Offense: Medium Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB K. Madsen throws an incomplete pass to WR D. Lawson (CB S. Mcfarland). CB S. Mcfarland 
+broke up the pass.
+
+Boston ball, Q2, 2-10-BC25 (11:29) 0-10
+Offense: Outside Run, Set: Wing T, Play: T-HB-toss-LE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB J. Farris runs left end for -3 yards (ILB E. Wilson).
+
+Boston ball, Q2, 3-13-BC22 (11:03) 0-10
+Offense: Medium Pass, Set: Wishbone, Play: WB-HB-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB K. Madsen gets sacked for a 2 yard loss (DE D. Miller).  OG E. Ricks allowed the sack.
+
+Boston ball, Q2, 4-15-BC20 (10:44) 0-10
+Josh Gillette Punts 53 yards to the Pittsburgh 27 yard line, where Walter Lipscomb returns 
+it to Pittsburgh 27 for a 0 yard return.
+
+Pittsburgh ball, Q2, 1-10-PITT27 (10:28) 10-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB T. Osborne throws an incomplete pass to WR C. Willis.
+
+Pittsburgh ball, Q2, 2-10-PITT27 (10:12) 10-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB T. Osborne throws an incomplete pass to WR C. Willis.
+
+Pittsburgh ball, Q2, 3-10-PITT27 (09:54) 10-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB T. Osborne throws an incomplete pass to WR A. Neal.
+
+Pittsburgh ball, Q2, 4-10-PITT27 (09:34) 10-0
+Larry Odonnell Punts 56 yards to the Boston 17 yard line, where Derrick Lawson returns it 
+to Boston 25 for a 8 yard return.
+
+Boston ball, Q2, 1-10-BC25 (09:16) 0-10
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB C. Cooper runs left tackle for 1 yard (OLB R. Guevara). 
+
+Boston ball, Q2, 2-9-BC26 (08:43) 0-10
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB J. Farris runs right guard for 1 yard (FS K. West). 
+
+Boston ball, Q2, 3-8-BC27 (08:12) 0-10
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB J. Farris runs left guard for 9 yards (SS D. Sutton). 
+
+Boston ball, Q2, 1-10-BC36 (07:46) 0-10
+Offense: Long Pass, Set: Flexbone, Play: FL-SE-streaks
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB K. Madsen throws an incomplete pass to WR D. Engel. DT B. Simms hurried the QB.
+
+Boston ball, Q2, 2-10-BC36 (07:29) 0-10
+Offense: Outside Run, Set: Wing T, Play: T-HB-option-RE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB J. Farris runs right end for 2 yards (OLB C. Mcdermott). 
+
+Boston ball, Q2, 3-8-BC38 (06:56) 0-10
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-power-LE
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB J. Farris runs left end for -1 yards (OLB C. Mcdermott). C J. Evans missed a block that 
+hurt the play.
+
+Boston ball, Q2, 3-8-BC38 (06:56) 0-10
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-power-LE
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+OLB Robert Guevara (PITT) was injured on the play (Ear). It doesn't look too serious and he 
+should return.
+
+Boston ball, Q2, 4-9-BC37 (06:40) 0-10
+Josh Gillette Punts 47 yards to the Pittsburgh 16 yard line, where it goes out of bounds.
+
+Pittsburgh ball, Q2, 1-10-PITT16 (06:23) 10-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB M. Hooper runs left guard for 5 yards (OLB J. Hundley). 
+
+Pittsburgh ball, Q2, 2-5-PITT21 (05:56) 10-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB T. Osborne completes a 2 yard hook to WR A. Neal (ILB R. Lugo). 
+
+Pittsburgh ball, Q2, 3-3-PITT23 (05:30) 10-0
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB T. Osborne runs outside for 0 yards (ILB J. Vidal).  ILB J. Vidal hurried the QB.
+
+Grabbing Face Mask against SS Barry Green on Boston. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Pittsburgh 28.
+
+Pittsburgh ball, Q2, 1-10-PITT28 (05:16) 10-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-B7,11-R
+QB T. Osborne completes a 12 yard out to WR C. Willis (CB P. Adams, SS B. Green).  OG V. Gomez 
+earned a pancake on the play. FS R. Lujan missed a tackle.
+
+Pittsburgh ball, Q2, 1-10-PITT40 (04:55) 10-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB M. Hooper runs right guard for 8 yards (SS B. Green). 
+
+Pittsburgh ball, Q2, 2-2-PITT48 (04:25) 10-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+FB T. Elder runs left end for 0 yards (FS R. Lujan).  OT C. Heath missed a block that hurt 
+the play.
+
+Pittsburgh ball, Q2, 3-2-PITT48 (03:52) 10-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB T. Osborne completes a 3 yard hook to WR A. Neal (OOB).
+
+Pittsburgh ball, Q2, 3-2-PITT48 (03:52) 10-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB Robert Luckett (PITT) was injured on the play (OK). It doesn't look like he will return.
+
+Pittsburgh ball, Q2, 1-10-BC49 (03:41) 10-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB S. Griffin runs right end for 10 yards (FS C. Johnson, OLB J. Hundley).  DT K. Hammond 
+was out of position on the play.
+
+Pittsburgh ball, Q2, 1-10-BC39 (03:14) 10-0
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB T. Osborne throws an incomplete pass to WR L. Crosby. WR L. Crosby dropped the pass. ILB 
+J. Vidal hurried the QB.
+
+Roughing the Passer against DE Christopher Reid on Boston. The Penalty is for 15 yards, and 
+an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Boston 24.
+
+Pittsburgh ball, Q2, 1-10-BC24 (03:04) 10-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB T. Osborne throws an incomplete pass to WR L. Crosby (CB M. Hubbard). CB M. Hubbard broke 
+up the pass.
+
+Pittsburgh ball, Q2, 2-10-BC24 (02:46) 10-0
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-B7,11-R
+QB T. Osborne gets sacked for a 2 yard loss (OLB J. Hundley).  C G. Reyes allowed the sack.
+
+Pittsburgh ball, Q2, 3-12-BC26 (02:29) 10-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-B7,11-R
+QB T. Osborne completes a 7 yard hook to WR C. Willis (OOB).
+
+Pittsburgh ball, Q2, 4-5-BC19 (02:17) 10-0
+Derek Jenkins converts the 37 yard field goal.
+
+Pittsburgh ball, Q2, 1-10-PITT35 (02:00) 13-0
+Derek Jenkins kicks 67 from Pittsburgh 35 to Boston -2. Randal Lujan to Boston 15 for a 17 
+yard return.
+
+Boston ball, Q2, 1-10-BC15 (01:43) 0-13
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB J. Farris runs right guard for 6 yards (ILB E. Wilson). 
+
+Boston ball, Q2, 2-4-BC21 (01:14) 0-13
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Pass, Set: 4-4, Play: 44-norm-Man-B6
+QB K. Madsen throws an incomplete pass to WR D. Lawson (FS K. West). FS K. West broke up the 
+pass.
+
+Boston ball, Q2, 3-4-BC21 (01:08) 0-13
+Offense: Short Pass, Set: I Form Big, Play: IB-SE-str-TE2-slant
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB K. Madsen completes a 9 yard dump off to RB J. Farris (FS K. West). 
+
+Boston ball, Q2, 1-10-BC30 (00:54) 0-13
+Offense: Medium Pass, Set: Wishbone, Play: WB-HB-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB K. Madsen throws an incomplete pass to RB M. West (SS D. Sutton). SS D. Sutton broke up 
+the pass.
+
+Boston ball, Q2, 2-10-BC30 (00:48) 0-13
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Madsen throws an incomplete pass to WR D. Engel (CB S. Mcfarland). CB S. Mcfarland broke 
+up the pass.
+
+Boston ball, Q2, 3-10-BC30 (00:41) 0-13
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB K. Madsen throws an incomplete pass to WR D. Lawson. K. Madsen made a bad pass. DE D. Miller 
+hurried the QB.
+
+Boston ball, Q2, 4-10-BC30 (00:34) 0-13
+Josh Gillette Punts 41 yards to the Pittsburgh 29 yard line, where Walter Lipscomb returns 
+it to Pittsburgh 29 for a 0 yard return.
+
+Pittsburgh ball, Q2, 1-10-PITT29 (00:28) 13-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB S. Griffin runs right guard for 0 yards (DE F. Morgan). 
+
+Boston Timeout!
+
+Pittsburgh ball, Q2, 2-10-PITT29 (00:21) 13-0
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB M. Hooper runs right end for 9 yards (OLB R. Mendez, ILB R. Lugo). 
+
+Boston Timeout!
+
+Pittsburgh ball, Q2, 3-1-PITT38 (00:14) 13-0
+Offense: Inside Run, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+The QB takes a knee.
+
+Pittsburgh ball, Q3, 1-10-PITT35 (15:00) 13-0
+Derek Jenkins kicks 66 from Pittsburgh 35 to Boston -1. Randal Lujan to Boston 16 for a 17 
+yard return.
+
+Boston ball, Q3, 1-10-BC16 (14:44) 0-13
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+RB J. Farris runs left guard for 12 yards (FS K. West, ILB E. Wilson).  C J. Evans had a key 
+block on the run. DT B. Simms missed a tackle.
+
+Boston ball, Q3, 1-10-BC28 (14:15) 0-13
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-RT
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+RB J. Farris runs right guard for 3 yards (ILB J. Christensen). 
+
+Boston ball, Q3, 2-7-BC31 (13:46) 0-13
+Offense: Outside Run, Set: Flexbone, Play: FL-RB-power-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB J. Farris runs left end for 2 yards (DT E. Herrera). 
+
+Boston ball, Q3, 3-5-BC33 (13:20) 0-13
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: 4-4, Play: 44-norm-MZ-B7
+QB K. Madsen completes a 2 yard streak to RB C. Cooper (FS K. West, CB T. Paul). 
+
+Boston ball, Q3, 4-3-BC35 (12:58) 0-13
+Josh Gillette Punts 42 yards to the Pittsburgh 23 yard line, where Walter Lipscomb returns 
+it 77 yards for a touchdown!
+
+Pittsburgh ball, Q3, 1-5-BC5 (12:43) 19-0
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB T. Osborne completes a 3 yard screen to RB M. Hooper ****Two Points!*****
+
+Pittsburgh ball, Q3, 1-10-PITT35 (12:43) 21-0
+Derek Jenkins kicks 66 from Pittsburgh 35 to Boston -1. Randal Lujan to Boston 32 for a 33 
+yard return.
+
+Boston ball, Q3, 1-10-BC32 (12:25) 0-21
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+RB J. Farris runs left guard for 0 yards (DT E. Herrera). 
+
+Boston ball, Q3, 2-10-BC32 (11:59) 0-21
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB K. Madsen runs right tackle for 0 yards (OLB R. Guevara). 
+
+Boston ball, Q3, 3-10-BC32 (11:29) 0-21
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ-B5,6,7,8
+QB K. Madsen completes a 14 yard streak to RB C. Cooper (OOB). OT O. Jones earned a pancake 
+on the play. OLB C. Mcdermott was out of position on the play.
+
+Boston ball, Q3, 1-10-BC46 (11:15) 0-21
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB J. Farris runs left guard for 0 yards (OLB C. Mcdermott). 
+
+Boston ball, Q3, 1-10-BC46 (11:15) 0-21
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+OLB Corey Mcdermott (PITT) was injured on the play (Groin). It doesn't look like he will return.
+
+Boston ball, Q3, 2-10-BC46 (10:58) 0-21
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB J. Farris runs left guard for 7 yards (FS K. West, ILB E. Wilson). 
+
+Boston ball, Q3, 3-3-PITT47 (10:28) 0-21
+Offense: Short Pass, Set: I Form Big, Play: IB-FB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB K. Madsen gets sacked for a 1 yard loss (DE C. Butts).  OT O. Jones allowed the sack.
+
+Boston ball, Q3, 4-4-PITT48 (10:08) 0-21
+Josh Gillette Punts 24 yards to the Pittsburgh 24 yard line, where Walter Lipscomb returns 
+it to Pittsburgh 41 for a 17 yard return.
+
+Pittsburgh ball, Q3, 1-10-PITT41 (09:50) 21-0
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-SZ-B5,6
+QB T. Osborne throws an incomplete pass to WR L. Crosby (CB P. Adams). WR L. Crosby ran an 
+incorrect route. OLB R. Mendez hurried the QB. CB P. Adams broke up the pass.
+
+Pittsburgh ball, Q3, 1-10-PITT41 (09:50) 21-0
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-SZ-B5,6
+DT Kyle Hammond (BC) was injured on the play (Head). It doesn't look too serious and he should 
+return.
+
+Pittsburgh ball, Q3, 2-10-PITT41 (09:35) 21-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB M. Hooper runs right tackle for 10 yards (CB M. Hubbard, CB P. Adams).  DE F. Morgan missed 
+a tackle.
+
+Grabbing Face Mask against OLB Richard Mendez on Boston. The Penalty is for 15 yards, and 
+an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Boston 34.
+
+Pittsburgh ball, Q3, 1-10-BC34 (09:20) 21-0
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ-B6-Spy
+RB M. Hooper runs left guard for 4 yards (ILB R. Lugo, FS R. Lujan). 
+
+Pittsburgh ball, Q3, 2-6-BC30 (08:52) 21-0
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB M. Hooper runs right guard for 3 yards (OLB R. Mendez, CB P. Adams). 
+
+Pittsburgh ball, Q3, 3-3-BC27 (08:20) 21-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB T. Osborne completes a 10 yard cross to WR L. Crosby (FS C. Johnson, OLB R. Mendez). 
+
+Pittsburgh ball, Q3, 3-3-BC27 (08:20) 21-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+TE Joe Atkinson (PITT) was injured on the play (Foot). It doesn't look like he will return.
+
+Pittsburgh ball, Q3, 1-10-BC17 (08:07) 21-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB S. Griffin runs right guard for 3 yards (CB M. Hubbard, CB P. Adams). 
+
+Pittsburgh ball, Q3, 2-7-BC14 (07:36) 21-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB T. Osborne throws an incomplete pass to TE M. Johnson (FS C. Johnson). FS C. Johnson broke 
+up the pass.
+
+Pittsburgh ball, Q3, 3-7-BC14 (07:18) 21-0
+Offense: Medium Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB T. Osborne completes a 14 yard post to WR L. Crosby ****Touchdown!***** T. Osborne with 
+the great pass. OG M. Gorman earned a pancake on the play.
+
+Pittsburgh ball, Q3, 1-0-BC0 (06:52) 27-0
+Derek Jenkins has his PAT blocked by WR Clinton Lee!
+
+Pittsburgh ball, Q3, 1-10-PITT35 (06:52) 27-0
+Derek Jenkins kicks 73 from Pittsburgh 35 to end zone, Touchback.
+
+Boston ball, Q3, 1-10-BC20 (06:33) 0-27
+Offense: Inside Run, Set: Wing T, Play: T-HB-power-RG
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB C. Cooper runs right guard for -1 yards (DE C. Butts). FB H. Beard missed a block that 
+hurt the play.
+
+Boston ball, Q3, 2-11-BC19 (06:02) 0-27
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB J. Farris runs left end for -3 yards (CB S. Mcfarland). J. Farris missed a hole that could 
+have resulted in a bigger gain.
+
+Boston ball, Q3, 3-14-BC16 (05:32) 0-27
+Offense: Long Pass, Set: Flexbone, Play: FL-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Madsen runs outside for 2 yards (FS K. West).  OLB J. Johnson hurried the QB.
+
+Boston ball, Q3, 4-12-BC18 (05:14) 0-27
+Josh Gillette Punts 52 yards to the Pittsburgh 30 yard line, where Walter Lipscomb returns 
+it to Pittsburgh 31 for a 1 yard return.
+
+Pittsburgh ball, Q3, 1-10-PITT31 (04:59) 27-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB S. Griffin runs right tackle for -2 yards (OLB R. Mendez). TE M. Johnson missed a block 
+that hurt the play.
+
+Pittsburgh ball, Q3, 2-12-PITT29 (04:32) 27-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB T. Osborne throws an incomplete pass to WR C. Willis.
+
+Pittsburgh ball, Q3, 3-12-PITT29 (04:12) 27-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB T. Osborne throws an incomplete pass to WR L. Crosby (SS B. Green). SS B. Green broke up 
+the pass.
+
+Pittsburgh ball, Q3, 4-12-PITT29 (03:56) 27-0
+Larry Odonnell Punts 41 yards to the Boston 30 yard line, where Derrick Lawson returns it 
+to Boston 38 for a 8 yard return.
+
+Boston ball, Q3, 1-10-BC38 (03:37) 0-27
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB J. Farris runs right end for 1 yard (FS K. West). 
+
+Boston ball, Q3, 2-9-BC39 (03:10) 0-27
+Offense: Short Pass, Set: Wing T, Play: T-SE-playact-cor
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB K. Madsen completes a 6 yard post to RB M. West (OOB).
+
+Boston ball, Q3, 3-3-BC45 (02:54) 0-27
+Offense: Medium Pass, Set: Flexbone, Play: FL-SE-optpass-corner
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB K. Madsen throws an incomplete pass to WR D. Engel. DE M. Thomas hurried the QB.
+
+Boston ball, Q3, 3-3-BC45 (02:54) 0-27
+Offense: Medium Pass, Set: Flexbone, Play: FL-SE-optpass-corner
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+WR Derrick Lawson (BC) was injured on the play (Neck). It doesn't look like he will return.
+
+Boston ball, Q3, 4-3-BC45 (02:37) 0-27
+Josh Gillette Punts 36 yards to the Pittsburgh 19 yard line, where Walter Lipscomb returns 
+it to Pittsburgh 25 for a 6 yard return.
+
+Pittsburgh ball, Q3, 1-10-PITT25 (02:22) 27-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB S. Griffin runs left guard for 2 yards (CB P. Adams). 
+
+Pittsburgh ball, Q3, 2-8-PITT27 (01:53) 27-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB T. Osborne completes a 14 yard hook to WR C. Willis (OOB). OG M. Gorman earned a pancake 
+on the play.
+
+Pittsburgh ball, Q3, 1-10-PITT41 (01:41) 27-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB S. Griffin runs right end for 0 yards (FS R. Lujan).  TE M. Johnson missed a block that 
+hurt the play.
+
+Pittsburgh ball, Q3, 2-10-PITT41 (01:01) 27-0
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB S. Griffin runs right end for 4 yards (FS R. Lujan). 
+
+Pittsburgh ball, Q3, 3-6-PITT45 (00:38) 27-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB M. Hooper runs left guard for 7 yards (SS B. Green).  OT C. Heath had a key block on the 
+run.
+
+Pittsburgh ball, Q3, 1-10-BC48 (00:05) 27-0
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB M. Hooper runs right tackle for 12 yards (OLB J. Hundley). 
+
+Pittsburgh ball, Q4, 1-10-BC36 (15:00) 27-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+RB M. Hooper runs left end for -1 yards (ILB J. Vidal). TE M. Johnson missed a block that 
+hurt the play.
+
+Pittsburgh ball, Q4, 1-10-BC36 (15:00) 27-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+DT Ruben Jackson (BC) was injured on the play (Pelvis/Hip). It doesn't look like he will return.
+
+Pittsburgh ball, Q4, 2-11-BC37 (14:44) 27-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB S. Griffin runs left end for 5 yards He fumbles the ball after a hit by B. Green. It's 
+recovered by P. Greer of Pittsburgh.
+
+Pittsburgh ball, Q4, 3-6-BC32 (14:12) 27-0
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-HBfake-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+WR L. Crosby runs right end for 12 yards (OLB J. Hundley). 
+
+Pittsburgh ball, Q4, 1-10-BC20 (13:41) 27-0
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB S. Griffin runs left end for 20 yards ****Touchdown!***** OG M. Gorman had a key block 
+on the run.
+
+Pittsburgh ball, Q4, 1-0-BC0 (13:10) 33-0
+Derek Jenkins converts the PAT.
+
+Pittsburgh ball, Q4, 1-10-PITT35 (13:10) 34-0
+Derek Jenkins kicks 66 from Pittsburgh 35 to Boston -1. Randal Lujan to Boston 13 for a 14 
+yard return.
+
+Boston ball, Q4, 1-10-BC13 (12:51) 0-34
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB K. Madsen throws an incomplete pass to WR D. Howell (CB T. Paul). CB T. Paul broke up the 
+pass.
+
+Boston ball, Q4, 2-10-BC13 (12:34) 0-34
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB K. Madsen throws an incomplete pass to WR D. Engel (CB T. Paul). DT E. Herrera hurried 
+the QB. CB T. Paul broke up the pass.
+
+Boston ball, Q4, 3-10-BC13 (12:19) 0-34
+Offense: Long Pass, Set: Flexbone, Play: FL-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB K. Madsen throws an incomplete pass to WR D. Engel (OLB J. Johnson). OLB J. Johnson broke 
+up the pass.
+
+Boston ball, Q4, 4-10-BC13 (12:02) 0-34
+Josh Gillette Punts 38 yards to the Pittsburgh 49 yard line,
+
+Pittsburgh ball, Q4, 1-10-PITT49 (11:47) 34-0
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB S. Griffin runs right tackle for 6 yards (CB M. Hubbard). 
+
+Pittsburgh ball, Q4, 2-4-BC45 (11:18) 34-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+RB S. Griffin runs left end for 6 yards (ILB R. Lugo, OLB J. Hundley). 
+
+Grabbing Face Mask against ILB James Vidal on Boston. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Boston 34.
+
+Pittsburgh ball, Q4, 1-10-BC34 (11:07) 34-0
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB S. Griffin runs right end for 5 yards (CB M. Hubbard). 
+
+Pittsburgh ball, Q4, 2-5-BC29 (10:36) 34-0
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+FB T. Saldana runs left guard for 3 yards (CB M. Hubbard). 
+
+Pittsburgh ball, Q4, 3-2-BC26 (10:08) 34-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+T. Osborne has his 10 yard pass intercepted by R. Lujan at the BC 16. He returns it 17 yards 
+to the Boston 33.
+
+Pittsburgh ball, Q4, 3-2-BC26 (10:08) 34-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+WR Clayton Willis (PITT) was injured on the play (Forearm). It doesn't look too serious and 
+he should return.
+
+Boston ball, Q4, 1-10-BC33 (09:42) 0-34
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+FB H. Beard runs right end for 10 yards (OLB R. Guevara).  OG E. Ricks had a key block on 
+the run.
+
+Boston ball, Q4, 1-10-BC43 (09:10) 0-34
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB J. Farris runs right end for 1 yard (OLB R. Guevara). 
+
+Boston ball, Q4, 2-9-BC44 (08:42) 0-34
+Offense: Medium Pass, Set: Flexbone, Play: FL-FL-playact-out
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB K. Madsen throws an incomplete pass to WR D. Howell. WR D. Howell dropped the pass. DE 
+C. Butts hurried the QB.
+
+Boston ball, Q4, 3-9-BC44 (08:23) 0-34
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB K. Madsen gets sacked for a 2 yard loss (OLB R. Guevara).  OG E. Ricks allowed the sack.
+
+Boston ball, Q4, 4-11-BC42 (08:06) 0-34
+Josh Gillette Punts 31 yards to the Pittsburgh 27 yard line, where Walter Lipscomb returns 
+it to Pittsburgh 30 for a 3 yard return.
+
+Pittsburgh ball, Q4, 1-10-PITT30 (07:51) 34-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB T. Osborne completes a 17 yard hook to WR L. Crosby (CB P. Adams, OLB J. Hundley). 
+
+Pittsburgh ball, Q4, 1-10-PITT47 (07:23) 34-0
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+WR A. Neal runs right end for 0 yards (OLB J. Hundley). 
+
+Pittsburgh ball, Q4, 2-10-PITT47 (06:53) 34-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB T. Osborne throws an incomplete pass to WR L. Crosby.
+
+Pittsburgh ball, Q4, 3-10-PITT47 (06:37) 34-0
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,7,11
+QB D. Stanford completes a 41 yard screen to RB M. Hooper (OOB). CB P. Adams allowed the big 
+play.
+
+Pittsburgh ball, Q4, 1-10-BC12 (06:19) 34-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB S. Griffin runs right tackle for 1 yard He fumbles the ball after a hit by R. Mendez. It's 
+recovered by C. Heath of Pittsburgh. TE K. Brinkley missed a block that hurt the play.
+
+Pittsburgh ball, Q4, 2-9-BC11 (05:47) 34-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB S. Griffin runs right tackle for 2 yards (OLB R. Mendez, CB P. Adams). 
+
+Pittsburgh ball, Q4, 3-7-BC9 (05:19) 34-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB D. Stanford completes a 9 yard in to RB M. Hooper ****Touchdown!*****
+
+Pittsburgh ball, Q4, 3-7-BC9 (05:19) 34-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+SS Barry Green (BC) was injured on the play (Finger). It doesn't look too serious and he should 
+return.
+
+Pittsburgh ball, Q4, 1-0-BC0 (05:05) 40-0
+Derek Jenkins converts the PAT.
+
+Pittsburgh ball, Q4, 1-10-PITT35 (05:05) 41-0
+Derek Jenkins kicks 67 from Pittsburgh 35 to Boston -2. Randal Lujan to Boston 33 for a 35 
+yard return.
+
+Unnecessary Roughness against WR Peter Curry on Pittsburgh. The Penalty is for 15 yards, and 
+an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Boston 48.
+
+Boston ball, Q4, 1-10-BC48 (04:52) 0-41
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB J. Farris runs right guard for 8 yards (SS G. Atkinson, OLB J. Johnson).  OG D. Rodriquez 
+had a key block on the run.
+
+Boston ball, Q4, 2-2-PITT44 (04:21) 0-41
+Offense: Long Pass, Set: Wishbone, Play: WB-SE-streaks
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+QB K. Madsen runs outside for 1 yard (FS E. Moffitt).  DE D. Miller hurried the QB.
+
+Boston ball, Q4, 3-1-PITT43 (04:06) 0-41
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+QB K. Madsen completes a 4 yard dump off to RB J. Farris (OLB J. Johnson, ILB L. Fernandez). 
+
+Boston ball, Q4, 1-10-PITT39 (03:44) 0-41
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB K. Madsen completes a 21 yard streak to WR D. Engel (OLB T. Alvarado).  K. Madsen with 
+the great pass.
+
+Boston ball, Q4, 1-10-PITT18 (03:20) 0-41
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB W. Garcia throws an incomplete pass to RB C. Cooper (CB S. Mcfarland). CB S. Mcfarland 
+broke up the pass.
+
+Boston ball, Q4, 2-10-PITT18 (03:04) 0-41
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB K. Madsen completes a 4 yard dump off to RB J. Farris (ILB J. Christensen, OLB T. Alvarado). 
+
+Boston ball, Q4, 3-6-PITT14 (02:41) 0-41
+Offense: Short Pass, Set: Wing T, Play: T-TE-out-SE-slant
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+QB W. Garcia completes a 14 yard streak to RB J. Farris ****Touchdown!*****
+
+Boston ball, Q4, 1-0-PITT0 (02:20) 6-41
+David Lee converts the PAT.
+
+Boston ball, Q4, 1-10-BC35 (02:20) 7-41
+Josh Gillette Lines up for the onside kick! The opponent has their hands team out there. The 
+kick goes 18 yards and bounces around...[B] The Return Team Holds on to it. John Johnson ends up with it on the Pittsburgh 47.
+
+Pittsburgh ball, Q4, 1-10-PITT47 (02:03) 41-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB S. Griffin runs right tackle for 9 yards (OLB R. Mendez).  FB T. Elder had a key block 
+on the run.
+
+Pittsburgh ball, Q4, 2-1-BC44 (01:49) 41-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+FB T. Saldana runs left tackle for 0 yards (DE F. Morgan). 
+
+Pittsburgh ball, Q4, 3-1-BC44 (01:16) 41-7
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+RB M. Hooper runs left tackle for 4 yards (OLB R. Mendez). 
+
+Boston Timeout!
+
+Pittsburgh ball, Q4, 1-10-BC40 (01:07) 41-7
+Offense: Outside Run, Set: I Form, Play: I-HB-toss-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,5,6,7,
+RB M. Hooper runs right tackle for 7 yards (OLB D. Willard).  CB M. Hubbard missed a tackle.
+
+Boston Timeout!
+
+Pittsburgh ball, Q4, 2-3-BC33 (00:59) 41-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+RB S. Griffin runs right guard for 2 yards (OLB D. Willard). 
+
+Boston Timeout!
+
+Pittsburgh ball, Q4, 3-1-BC31 (00:50) 41-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB M. Hooper runs left tackle for -2 yards (FS C. Johnson). OT P. Greer missed a block that 
+hurt the play.
+
+Pittsburgh ball, Q4, 4-3-BC33 (00:29) 41-7
+Derek Jenkins converts the 51 yard field goal.
+
+Pittsburgh ball, Q4, 1-10-PITT35 (00:22) 44-7
+Derek Jenkins kicks 75 from Pittsburgh 35 to end zone, Touchback.
+
+Boston ball, Q4, 1-10-BC20 (00:14) 7-44
+Offense: Long Pass, Set: I Form, Play: I-SE-streaks
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+K. Madsen has his 39 yard pass intercepted by R. Guevara at the PITT 41. He returns it 0 yards 
+to the Pittsburgh 41. DE C. Butts hurried the QB.
+

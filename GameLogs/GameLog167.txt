@@ -1,0 +1,952 @@
+Boise State ball, Q1, 1-10-BOI35 (15:00) 0-0
+Richard Jacobson kicks 73 from Boise State 35 to end zone, Touchback.
+
+Texas A&M ball, Q1, 1-10-TXAM20 (14:42) 0-0
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5-L
+FB W. Young runs right end for 3 yards (SS I. Nelson). 
+
+Texas A&M ball, Q1, 2-7-TXAM23 (14:12) 0-0
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-pass-Man-B10
+RB K. Metz runs left end for 1 yard (OLB R. Evans).  C R. Cochran missed a block that hurt 
+the play.
+
+Texas A&M ball, Q1, 3-6-TXAM24 (13:41) 0-0
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB J. Moore runs left guard for 5 yards (CB W. Handley). 
+
+Texas A&M ball, Q1, 4-1-TXAM29 (13:11) 0-0
+Randall Powell Punts 41 yards to the Boise State 30 yard line, where Edward Hurst returns 
+it to Boise State 48 for a 18 yard return.
+
+Boise State ball, Q1, 1-10-BOI48 (12:56) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+QB S. Gray throws an incomplete pass to WR M. Powell.
+
+Boise State ball, Q1, 2-10-BOI48 (12:38) 0-0
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB S. Gray gets sacked for a 12 yard loss (DT W. Faulk).  C L. Warner allowed the sack.
+
+Boise State ball, Q1, 3-22-BOI36 (12:23) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB S. Gray throws an incomplete pass to WR M. Powell.
+
+Boise State ball, Q1, 3-22-BOI36 (12:23) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB Salvador Gray (BOI) was injured on the play (OK). It doesn't look like he will return.
+
+Boise State ball, Q1, 4-22-BOI36 (12:07) 0-0
+Jerry Hiatt Punts 26 yards to the Texas A&M 38 yard line, where Theodore Mccray returns it 
+to Boise State 44 for a 18 yard return.
+
+Texas A&M ball, Q1, 1-10-BOI44 (11:51) 0-0
+Offense: Medium Pass, Set: Strong, Play: ST-TE-streak-SE-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ-B6
+QB E. Lloyd throws an incomplete pass to TE F. Davis. TE F. Davis dropped the pass. OLB M. 
+Thompson hurried the QB.
+
+Texas A&M ball, Q1, 2-10-BOI44 (11:33) 0-0
+Offense: Inside Run, Set: Strong, Play: ST-HB-straight-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB K. Metz runs left guard for -3 yards (FS D. Lucero).
+
+Texas A&M ball, Q1, 3-13-BOI47 (11:04) 0-0
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB E. Lloyd throws an incomplete pass to WR T. Mccray (CB E. Hurst). CB E. Hurst broke up 
+the pass.
+
+Texas A&M ball, Q1, 4-13-BOI47 (10:46) 0-0
+Randall Powell Punts 33 yards to the Boise State 14 yard line, where it goes out of bounds.
+
+Boise State ball, Q1, 1-10-BOI14 (10:30) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B11
+QB J. Grant throws an incomplete pass to TE B. Ramos.
+
+Boise State ball, Q1, 2-10-BOI14 (10:10) 0-0
+Offense: Inside Run, Set: I Form, Play: I-FB-counter-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+FB C. Mullen runs right tackle for 1 yard (SS B. Irvin). 
+
+Boise State ball, Q1, 3-9-BOI15 (09:42) 0-0
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB J. Grant throws an incomplete pass to WR J. Carmona.
+
+Boise State ball, Q1, 4-9-BOI15 (09:24) 0-0
+Jerry Hiatt Punts 26 yards to the Boise State 41 yard line, where Theodore Mccray returns 
+it to Boise State 40 for a 1 yard return.
+
+Texas A&M ball, Q1, 1-10-BOI40 (09:07) 0-0
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-toss-LE
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+RB K. Metz runs left tackle for 9 yards (OLB M. Thompson). 
+
+Texas A&M ball, Q1, 2-1-BOI31 (08:39) 0-0
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB E. Mccarty runs left end for 10 yards (SS I. Nelson).  ILB R. Christopher missed a tackle.
+
+Texas A&M ball, Q1, 1-10-BOI21 (08:07) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+False Start against OT John Blanchard on Texas A&M. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Boise State 26.
+
+Texas A&M ball, Q1, 1-15-BOI26 (08:07) 0-0
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-SZ-B11
+QB E. Lloyd throws an incomplete pass to WR T. Mccray. E. Lloyd made a bad pass.
+
+Texas A&M ball, Q1, 2-15-BOI26 (07:49) 0-0
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB E. Lloyd completes a 12 yard screen to TE F. Davis (OOB).
+
+Texas A&M ball, Q1, 3-3-BOI14 (07:39) 0-0
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Normal, Set: 4-3, Play: 43-norm-DZ-B5,7
+QB E. Lloyd completes a 6 yard dump off to FB W. Young (OLB R. Evans). 
+
+Texas A&M ball, Q1, 1-8-BOI8 (07:18) 0-0
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+QB E. Lloyd completes a 1 yard hook to WR D. Wood (FS D. Lucero). 
+
+Texas A&M ball, Q1, 2-7-BOI7 (06:55) 0-0
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-power-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+RB K. Metz runs right tackle for 3 yards (DT M. Mcdaniel). 
+
+Texas A&M ball, Q1, 3-4-BOI4 (06:28) 0-0
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-power-RE
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan
+RB J. Moore runs right end for -2 yards (OLB M. Thompson). C R. Cochran missed a block that 
+hurt the play.
+
+Texas A&M ball, Q1, 3-4-BOI4 (06:28) 0-0
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-power-RE
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan
+OT Charles Hatch (TXAM) was injured on the play (Forearm). It doesn't look too serious and 
+he should return.
+
+Texas A&M ball, Q1, 4-6-BOI6 (06:12) 0-0
+Dennis Gomez converts the 24 yard field goal.
+
+Texas A&M ball, Q1, 1-10-TXAM35 (05:56) 3-0
+Dennis Gomez kicks 55 from Texas A&M 35 to Boise State 10. Roger Milligan to Boise State 41 
+for a 31 yard return.
+
+Boise State ball, Q1, 1-10-BOI41 (05:36) 0-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+QB J. Grant completes a 12 yard out to WR J. Carmona (OOB). J. Carmona made a great catch.
+
+Boise State ball, Q1, 1-10-BOI41 (05:36) 0-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+WR Michael Powell (BOI) was injured on the play (OK). It doesn't look like he will return.
+
+Boise State ball, Q1, 1-10-TXAM47 (05:21) 0-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ
+RB O. Thompson runs left tackle for -1 yards (ILB S. Payne). OT F. Patrick missed a block 
+that hurt the play.
+
+Boise State ball, Q1, 2-11-TXAM48 (04:50) 0-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB J. Grant throws an incomplete pass to TE B. Ramos.
+
+Boise State ball, Q1, 3-11-TXAM48 (04:31) 0-3
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB J. Grant throws an incomplete pass to WR J. Carmona. DT W. Faulk hurried the QB.
+
+Boise State ball, Q1, 4-11-TXAM48 (04:14) 0-3
+Jerry Hiatt Punts 21 yards to the Texas A&M 27 yard line, where it goes out of bounds.
+
+Texas A&M ball, Q1, 1-10-TXAM27 (03:57) 3-0
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB K. Metz runs right guard for 7 yards (ILB R. Christopher). 
+
+Texas A&M ball, Q1, 2-3-TXAM34 (03:24) 3-0
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB K. Metz runs right guard for -2 yards (SS I. Nelson).
+
+Texas A&M ball, Q1, 3-5-TXAM32 (02:51) 3-0
+Offense: Short Pass, Set: Strong, Play: ST-SE-slant-FL-str
+Defense: Stop Pass, Set: 4-3, Play: 43-run-Man-B5-L
+QB E. Lloyd completes a 7 yard dump off to RB J. Moore (OOB).
+
+Texas A&M ball, Q1, 1-10-TXAM39 (02:38) 3-0
+Offense: Outside Run, Set: I Form, Play: I-HB-toss-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB K. Metz runs right end for 13 yards (ILB R. Christopher). 
+
+Texas A&M ball, Q1, 1-10-BOI48 (02:07) 3-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B5
+QB E. Lloyd completes a 10 yard out to WR T. Mccray (ILB R. Christopher). 
+
+Ineligible Receiver Downfield against OT Charles Hatch on Texas A&M. The Penalty is for 5 
+yards.
+The Defense will accept the penalty. It is now First and 15 at the Texas A&M 47.
+
+Texas A&M ball, Q1, 1-15-TXAM47 (01:57) 3-0
+Offense: Outside Run, Set: I Form, Play: I-HB-toss-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB K. Metz runs right end for -1 yards (FS D. Lucero).
+
+Texas A&M ball, Q1, 2-16-TXAM46 (01:29) 3-0
+Offense: Long Pass, Set: Double TE, Play: DTE-TE-posts
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB E. Lloyd completes a 54 yard post to TE F. Davis ****Touchdown!***** F. Davis made a great 
+catch. OT C. Hatch earned a pancake on the play. CB W. Handley allowed the big play.
+
+Texas A&M ball, Q1, 1-0-BOI0 (01:00) 9-0
+Dennis Gomez converts the PAT.
+
+Texas A&M ball, Q1, 1-10-TXAM35 (01:00) 10-0
+Dennis Gomez kicks 55 from Texas A&M 35 to Boise State 10. Roger Milligan to Boise State 35 
+for a 25 yard return.
+
+Boise State ball, Q1, 1-10-BOI35 (00:45) 0-10
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB O. Thompson runs left end for -5 yards (DE M. Snyder).
+
+Boise State ball, Q1, 2-15-BOI30 (00:17) 0-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB O. Thompson runs left guard for -2 yards (OLB R. Boucher).
+
+Boise State ball, Q2, 3-17-BOI28 (15:00) 0-10
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B7
+QB J. Grant completes a 23 yard hook to WR J. Carmona (OLB J. Rodgers).  OG J. Williams earned 
+a pancake on the play. CB F. Singer missed a tackle.
+
+Boise State ball, Q2, 1-10-TXAM49 (14:36) 0-10
+Offense: Inside Run, Set: I Form, Play: I-FB-counter-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+FB C. Mullen runs right guard for 3 yards (CB F. Singer, SS B. Irvin). 
+
+Boise State ball, Q2, 2-7-TXAM46 (14:05) 0-10
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+QB J. Grant throws an incomplete pass to WR J. Carmona (CB D. Alston). CB D. Alston broke 
+up the pass.
+
+Boise State ball, Q2, 3-7-TXAM46 (13:48) 0-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB O. Thompson runs right tackle for 11 yards (OLB R. Boucher, SS B. Irvin).  OG J. Williams 
+had a key block on the run. SS T. Bailey missed a tackle.
+
+Boise State ball, Q2, 1-10-TXAM35 (13:20) 0-10
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+RB O. Thompson runs right guard for 5 yards (OLB J. Rodgers). 
+
+Boise State ball, Q2, 1-10-TXAM35 (13:20) 0-10
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+OLB Ralph Boucher (TXAM) was injured on the play (Elbow). It doesn't look like he will return.
+
+Boise State ball, Q2, 2-5-TXAM30 (13:04) 0-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: 4-6, Play: 46-norm-TMan-Spy
+RB O. Thompson runs right guard for 8 yards (OLB J. Rodgers). 
+
+Boise State ball, Q2, 1-10-TXAM22 (12:31) 0-10
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6
+QB J. Grant completes a 8 yard hook to FB C. Mullen (OLB G. Bruce, ILB S. Payne). 
+
+Boise State ball, Q2, 2-2-TXAM14 (12:09) 0-10
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,7
+FB R. Fry runs right guard for -1 yards (DT W. Faulk). TE B. Ramos missed a block that hurt 
+the play.
+
+Boise State ball, Q2, 3-3-TXAM15 (11:36) 0-10
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB O. Thompson runs right guard for 4 yards (SS B. Irvin). 
+
+Boise State ball, Q2, 1-10-TXAM11 (11:04) 0-10
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+False Start against OG Robert Davis on Boise State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Texas A&M 16.
+
+Boise State ball, Q2, 1-15-TXAM16 (11:04) 0-10
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+J. Grant has his 6 yard pass intercepted by F. Singer at the TXAM 10. He returns it 0 yards 
+to the Texas A&M 10. DT W. Faulk hurried the QB.
+
+Texas A&M ball, Q2, 1-10-TXAM10 (10:36) 10-0
+Offense: Long Pass, Set: I Form, Play: I-SE-streaks
+Defense: Stop Run, Set: 4-3, Play: 43-run-M-B7-R
+QB E. Lloyd throws an incomplete pass to WR D. Wood. WR D. Wood dropped the pass.
+
+Texas A&M ball, Q2, 2-10-TXAM10 (10:20) 10-0
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB E. Lloyd completes a 41 yard streak to WR T. Mccray (CB E. Hurst, SS I. Nelson).  CB E. 
+Hurst allowed the big play.
+
+Texas A&M ball, Q2, 1-10-BOI49 (09:55) 10-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB E. Lloyd throws an incomplete pass to WR N. Rogers.
+
+Texas A&M ball, Q2, 2-10-BOI49 (09:40) 10-0
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-RT
+Defense: Stop Run, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB K. Metz runs right tackle for 2 yards (OLB R. Evans). 
+
+Texas A&M ball, Q2, 3-8-BOI47 (09:10) 10-0
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5-L
+QB E. Lloyd completes a 4 yard corner to WR D. Wood (OLB M. Thompson, ILB R. Christopher). 
+
+Texas A&M ball, Q2, 4-4-BOI43 (08:44) 10-0
+Randall Powell Punts 30 yards to the Boise State 13 yard line, where it goes out of bounds.
+
+Boise State ball, Q2, 1-10-BOI13 (08:25) 0-10
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,7
+QB J. Grant throws an incomplete pass to WR R. Milligan (CB D. Alston). WR R. Milligan ran 
+an incorrect route. CB D. Alston broke up the pass.
+
+Boise State ball, Q2, 2-10-BOI13 (08:05) 0-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ-B5,6,7,11
+RB O. Thompson runs right tackle for -1 yards (SS B. Irvin). C L. Warner missed a block that 
+hurt the play.
+
+Boise State ball, Q2, 3-11-BOI12 (07:38) 0-10
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB J. Grant throws an incomplete pass to WR J. Carmona (OLB J. Rodgers). OLB J. Rodgers broke 
+up the pass.
+
+Boise State ball, Q2, 4-11-BOI12 (07:23) 0-10
+Jerry Hiatt Punts 51 yards to the Texas A&M 37 yard line, where Fred Singer returns it to 
+Texas A&M 45 for a 8 yard return.
+
+Texas A&M ball, Q2, 1-10-TXAM45 (07:07) 10-0
+Offense: Outside Run, Set: I Form, Play: I-HB-toss-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB K. Metz runs right end for 1 yard (ILB R. Christopher). 
+
+Texas A&M ball, Q2, 2-9-TXAM46 (06:34) 10-0
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB E. Lloyd throws an incomplete pass to TE F. Davis.
+
+Texas A&M ball, Q2, 3-9-TXAM46 (06:15) 10-0
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB E. Lloyd completes a 7 yard hook to WR D. Wood (OOB).
+
+Texas A&M ball, Q2, 4-2-BOI47 (06:02) 10-0
+Offense: Short Pass, Set: Strong, Play: ST-HB-playact-cross
+Defense: Normal, Set: 4-3, Play: 43-norm-DZ-B5,7
+QB M. Wright completes a 2 yard hook to WR N. Rogers (ILB R. Christopher). 
+
+Texas A&M ball, Q2, 1-10-BOI45 (05:38) 10-0
+Offense: Medium Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB E. Lloyd throws an incomplete pass to WR T. Mccray (FS D. Lucero). FS D. Lucero broke up 
+the pass.
+
+Texas A&M ball, Q2, 2-10-BOI45 (05:23) 10-0
+Offense: Medium Pass, Set: Strong, Play: ST-SE-corner-FL-out
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B5,7
+E. Lloyd has his 45 yard pass intercepted by D. Lucero at the BOI 0. He kneels for the touchback.
+
+Boise State ball, Q2, 1-10-BOI20 (04:53) 0-10
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: 4-6, Play: 46-norm-DZ
+QB J. Grant completes a 6 yard hook to TE B. Ramos (OLB G. Bruce). 
+
+Boise State ball, Q2, 2-4-BOI26 (04:32) 0-10
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+J. Grant has his 8 yard pass intercepted by J. Rodgers at the BOI 34. He returns it 10 yards 
+to the Boise State 24.
+
+Texas A&M ball, Q2, 1-10-BOI24 (04:02) 10-0
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB E. Mccarty runs right guard for 3 yards (OLB M. Thompson). 
+
+Texas A&M ball, Q2, 2-7-BOI21 (03:33) 10-0
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB K. Metz runs right guard for 3 yards (SS I. Nelson). 
+
+Texas A&M ball, Q2, 3-4-BOI18 (03:00) 10-0
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-L
+E. Lloyd has his 16 yard pass intercepted by M. Thompson at the BOI 2. He returns it 19 yards 
+to the Boise State 21. E. Lloyd made a bad pass.
+
+Boise State ball, Q2, 1-10-BOI21 (02:34) 0-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,11
+RB O. Thompson runs right guard for 2 yards (DT J. Ely). 
+
+Boise State ball, Q2, 2-8-BOI23 (02:06) 0-10
+Offense: Medium Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+QB J. Grant completes a 15 yard corner to WR R. Milligan (CB F. Singer, CB D. Alston).  OG 
+J. Williams earned a pancake on the play. SS B. Irvin missed a tackle.
+
+Boise State ball, Q2, 1-10-BOI38 (01:52) 0-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB B. Roman runs left guard for 7 yards (SS T. Bailey). 
+
+Boise State ball, Q2, 2-3-BOI45 (01:25) 0-10
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: 4-6, Play: 46-norm-MZ-B7
+QB J. Grant completes a 50 yard in to TE B. Ramos (OLB G. Bruce).  B. Ramos made a great catch. 
+FS A. Williams allowed the big play.
+
+Boise State ball, Q2, 1-5-TXAM5 (00:58) 0-10
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Stop Pass, Set: 4-6, Play: 46-run-Man-B6
+QB J. Grant completes a 3 yard screen to TE B. Ramos (ILB S. Payne). 
+
+Holding against SS Byron Irvin on Texas A&M. The Penalty is for 2 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and Goal at the Texas A&M 3.
+
+Boise State ball, Q2, 1-3-TXAM3 (00:48) 0-10
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+QB J. Grant completes a 3 yard out to WR J. Carmona ****Touchdown!*****
+
+Boise State ball, Q2, 1-0-TXAM0 (00:36) 6-10
+Nicholas Stanley converts the PAT.
+
+Boise State ball, Q2, 1-10-BOI35 (00:36) 7-10
+Richard Jacobson kicks 73 from Boise State 35 to end zone, Touchback.
+
+Texas A&M ball, Q2, 1-10-TXAM20 (00:28) 10-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB K. Metz runs left guard for 4 yards (FS D. Lucero). 
+
+Texas A&M ball, Q2, 1-10-TXAM20 (00:28) 10-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+CB William Handley (BOI) was injured on the play (Thumb). It doesn't look too serious and 
+he should return.
+
+Texas A&M ball, Q2, 2-6-TXAM24 (00:12) 10-7
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+The QB takes a knee.
+
+Texas A&M ball, Q3, 1-10-TXAM35 (15:00) 10-7
+Dennis Gomez kicks 66 from Texas A&M 35 to Boise State -1. Roger Milligan to Boise State 34 
+for a 35 yard return.
+
+Grabbing Face Mask against TE Edward Lawrence on Texas A&M. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Boise State 39.
+
+Boise State ball, Q3, 1-10-BOI39 (14:49) 7-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB O. Thompson runs right tackle for 5 yards (CB F. Singer). 
+
+Boise State ball, Q3, 2-5-BOI44 (14:20) 7-10
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,11
+QB J. Grant completes a 10 yard post to WR L. Mathis (ILB S. Payne). 
+
+Boise State ball, Q3, 1-10-TXAM46 (13:54) 7-10
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-RG
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+RB O. Thompson runs right guard for 5 yards (CB F. Singer, OLB J. Rodgers). 
+
+Boise State ball, Q3, 2-5-TXAM41 (13:27) 7-10
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+QB J. Grant throws an incomplete pass to WR L. Mathis. J. Grant made a bad pass. DT W. Faulk 
+hurried the QB.
+
+Boise State ball, Q3, 3-5-TXAM41 (13:12) 7-10
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 4-6, Play: 46-norm-DZ
+J. Grant has his 38 yard pass intercepted by J. Rodgers at the TXAM 3. He returns it 0 yards 
+to the Texas A&M 3. J. Grant made a bad pass.
+
+Texas A&M ball, Q3, 1-10-TXAM3 (12:41) 10-7
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: 4-3, Play: 43-norm-Man
+QB E. Lloyd throws an incomplete pass to WR D. Wood. WR D. Wood dropped the pass.
+
+Texas A&M ball, Q3, 2-10-TXAM3 (12:21) 10-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB K. Metz runs right guard for 2 yards (SS I. Nelson). 
+
+Texas A&M ball, Q3, 3-8-TXAM5 (11:55) 10-7
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB E. Lloyd throws an incomplete pass to WR D. Wood.
+
+Texas A&M ball, Q3, 4-8-TXAM5 (11:38) 10-7
+Randall Powell Punts 34 yards to the Texas A&M 39 yard line, where Edward Hurst returns it 
+to Texas A&M 21 for a 18 yard return.
+
+Unnecessary Roughness against SS Darren Rinehart on Texas A&M. The Penalty is for 15 yards, 
+and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Texas A&M 11.
+
+Boise State ball, Q3, 1-10-TXAM11 (11:27) 7-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB B. Roman runs right guard for -1 yards (DT W. Faulk).
+
+Illegal Motion against TE Brian Ramos on Boise State. The Penalty is for 5 yards.
+The penalty will be declined.
+
+Boise State ball, Q3, 2-11-TXAM12 (11:14) 7-10
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B10
+QB J. Grant completes a 4 yard hook to RB O. Thompson (OOB).
+
+Boise State ball, Q3, 3-7-TXAM8 (10:57) 7-10
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-6, Play: 46-norm-MZ
+QB J. Grant throws an incomplete pass to WR L. Mathis.
+
+Boise State ball, Q3, 4-7-TXAM8 (10:41) 7-10
+Nicholas Stanley misses the 26 yard field goal. It will be Texas A&M ball at the TXAM 20
+
+Texas A&M ball, Q3, 1-10-TXAM20 (10:23) 10-7
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Run, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB K. Metz runs left guard for 1 yard (FS D. Lucero).  K. Metz missed a hole that could have 
+resulted in a bigger gain.
+
+Texas A&M ball, Q3, 2-9-TXAM21 (09:52) 10-7
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB K. Metz runs right end for 16 yards (ILB R. Christopher).  TE M. Carpenter had a key block 
+on the run.
+
+Texas A&M ball, Q3, 1-10-TXAM37 (09:25) 10-7
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+RB E. Mccarty runs left guard for 1 yard (DE J. Morgan).  OT J. Blanchard missed a block that 
+hurt the play.
+
+Texas A&M ball, Q3, 2-9-TXAM38 (08:52) 10-7
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-straight-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB K. Metz runs right tackle for 4 yards (OLB R. Evans). 
+
+Texas A&M ball, Q3, 3-5-TXAM42 (08:21) 10-7
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB E. Lloyd throws an incomplete pass to RB J. Moore (CB W. Handley). RB J. Moore dropped 
+the pass. CB W. Handley broke up the pass.
+
+Texas A&M ball, Q3, 4-5-TXAM42 (08:01) 10-7
+Randall Powell Punts 36 yards to the Boise State 22 yard line, where Edward Hurst returns 
+it to Texas A&M 43 for a 35 yard return.
+
+Boise State ball, Q3, 1-10-TXAM43 (07:44) 7-10
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-ZoneBlitz
+QB J. Grant completes a 11 yard dump off to TE B. Ramos (SS T. Bailey).  SS B. Irvin was out 
+of position on the play.
+
+Ineligible Receiver Downfield against OT Barry Bradford on Boise State. The Penalty is for 
+5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Texas A&M 48.
+
+Boise State ball, Q3, 1-15-TXAM48 (07:30) 7-10
+Offense: Short Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB J. Grant completes a 8 yard dump off to FB C. Mullen (ILB S. Payne). 
+
+Boise State ball, Q3, 2-7-TXAM40 (07:07) 7-10
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB B. Roman runs left guard for 5 yards (SS B. Irvin). 
+
+Boise State ball, Q3, 3-2-TXAM35 (06:41) 7-10
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Normal, Set: 4-6, Play: 46-norm-Man-B5,6
+QB J. Grant throws an incomplete pass to WR J. Carmona.
+
+Boise State ball, Q3, 4-2-TXAM35 (06:25) 7-10
+Offense: Medium Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,11
+QB J. Grant completes a 4 yard post to TE B. Ramos (OLB J. Rodgers). 
+
+Boise State ball, Q3, 4-2-TXAM35 (06:25) 7-10
+Offense: Medium Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,11
+DE Matthew Snyder (TXAM) was injured on the play (OK). It doesn't look like he will return.
+
+Boise State ball, Q3, 1-10-TXAM31 (06:08) 7-10
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 4-6, Play: 46-norm-TMan-Spy
+RB B. Roman runs left end for 21 yards (CB F. Singer, FS A. Williams).  TE B. Ramos had a 
+key block on the run. SS B. Irvin missed a tackle.
+
+Boise State ball, Q3, 1-10-TXAM10 (05:37) 7-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB O. Thompson runs right guard for 1 yard (ILB S. Payne). 
+
+Boise State ball, Q3, 2-9-TXAM9 (05:05) 7-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB O. Thompson runs left guard for 2 yards (CB F. Singer). 
+
+Boise State ball, Q3, 3-7-TXAM7 (04:39) 7-10
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-ZoneBlitz
+QB J. Grant throws an incomplete pass to FB C. Mullen (OLB J. Rodgers). OLB J. Rodgers broke 
+up the pass.
+
+Boise State ball, Q3, 4-8-TXAM8 (04:20) 7-10
+Nicholas Stanley converts the 26 yard field goal.
+
+Boise State ball, Q3, 1-10-BOI35 (04:01) 10-10
+Richard Jacobson kicks 67 from Boise State 35 to Texas A&M -2. David Wood to Texas A&M 23 
+for a 25 yard return.
+
+Texas A&M ball, Q3, 1-10-TXAM23 (03:45) 10-10
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB E. Lloyd completes a 9 yard hook to WR D. Wood (ILB R. Christopher, OLB M. Thompson). 
+
+Texas A&M ball, Q3, 2-1-TXAM32 (03:23) 10-10
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB E. Mccarty runs right guard for 4 yards (ILB R. Christopher, FS D. Lucero). 
+
+Texas A&M ball, Q3, 1-10-TXAM36 (02:54) 10-10
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB E. Lloyd throws an incomplete pass to WR D. Wood. OLB R. Evans hurried the QB.
+
+Texas A&M ball, Q3, 2-10-TXAM36 (02:39) 10-10
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB K. Metz runs right guard for 2 yards (OLB R. Evans, FS D. Lucero). 
+
+Texas A&M ball, Q3, 3-8-TXAM38 (02:12) 10-10
+Offense: Medium Pass, Set: I Form, Play: I-TE-corner-FL-post
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB E. Lloyd completes a 23 yard post to WR T. Mccray (CB E. Hurst).  TE F. Davis earned a 
+pancake on the play. CB E. Hurst missed a tackle.
+
+Texas A&M ball, Q3, 1-10-BOI39 (01:44) 10-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB K. Metz runs right end for 1 yard (OLB M. Thompson).  C R. Cochran missed a block that 
+hurt the play.
+
+Texas A&M ball, Q3, 2-9-BOI38 (01:13) 10-10
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB E. Lloyd throws an incomplete pass to WR N. Rogers. WR N. Rogers ran an incorrect route. 
+OLB R. Evans hurried the QB.
+
+Texas A&M ball, Q3, 2-9-BOI38 (01:13) 10-10
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+CB Edward Hurst (BOI) was injured on the play (Elbow). It doesn't look too serious and he 
+should return.
+
+Texas A&M ball, Q3, 3-9-BOI38 (00:56) 10-10
+Offense: Short Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB E. Lloyd throws an incomplete pass to TE F. Davis. TE F. Davis ran an incorrect route.
+
+Texas A&M ball, Q3, 4-9-BOI38 (00:38) 10-10
+Randall Powell Punts 20 yards to the Boise State 18 yard line, where it goes out of bounds.
+
+Texas A&M ball, Q3, 4-9-BOI38 (00:38) 10-10
+WR Nicholas Rogers (TXAM) was injured on the play (Elbow). It doesn't look like he will return.
+
+Boise State ball, Q3, 1-10-BOI18 (00:18) 10-10
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+RB O. Thompson runs right guard for 2 yards (FS A. Williams). 
+
+Boise State ball, Q4, 2-8-BOI20 (15:00) 10-10
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+FB C. Mullen runs left guard for 15 yards (OLB J. Rodgers, SS T. Bailey).  OT F. Patrick had 
+a key block on the run.
+
+Boise State ball, Q4, 1-10-BOI35 (14:34) 10-10
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB J. Grant throws an incomplete pass to WR L. Mathis. DE R. Lambert hurried the QB.
+
+Holding against FS Michael Perez on Texas A&M. The Penalty is for 10 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Boise State 45.
+
+Boise State ball, Q4, 1-10-BOI45 (14:19) 10-10
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6
+QB J. Grant completes a 53 yard streak to WR L. Mathis (OOB). OG J. Williams earned a pancake 
+on the play.
+
+Boise State ball, Q4, 1-2-TXAM2 (14:08) 10-10
+Offense: Inside Run, Set: I Form, Play: I-FB-power-RG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+FB C. Mullen runs right guard for 1 yard (DT W. Faulk). 
+
+Boise State ball, Q4, 2-1-TXAM1 (13:38) 10-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+FB R. Fry runs left tackle for 1 yard ****Touchdown!***** OT B. Bradford missed a block that 
+hurt the play.
+
+Boise State ball, Q4, 1-0-TXAM0 (13:12) 16-10
+Nicholas Stanley converts the PAT.
+
+Boise State ball, Q4, 1-10-BOI35 (13:12) 17-10
+Richard Jacobson kicks 55 from Boise State 35 to Texas A&M 10. David Wood to Texas A&M 27 
+for a 17 yard return.
+
+Texas A&M ball, Q4, 1-10-TXAM27 (12:57) 10-17
+Offense: Medium Pass, Set: Strong, Play: ST-TE-streak-SE-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-SZ-B11
+QB E. Lloyd completes a 44 yard out to WR T. Mccray (FS D. Lucero).  T. Mccray made a great 
+catch. OG A. Lange earned a pancake on the play. OLB R. Evans allowed the big play.
+
+Texas A&M ball, Q4, 1-10-BOI29 (12:31) 10-17
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB K. Metz runs left guard for 0 yards (FS D. Lucero). 
+
+Texas A&M ball, Q4, 2-10-BOI29 (12:00) 10-17
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+WR C. Pena runs right end for 6 yards (OOB).
+
+Texas A&M ball, Q4, 3-4-BOI23 (11:48) 10-17
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB E. Lloyd throws an incomplete pass to WR D. Wood. DE R. Jones hurried the QB.
+
+Texas A&M ball, Q4, 4-4-BOI23 (11:31) 10-17
+Dennis Gomez misses the 41 yard field goal. It will be Boise State ball at the BOI 23
+
+Boise State ball, Q4, 1-10-BOI23 (11:14) 17-10
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+RB O. Thompson runs right end for 64 yards (OLB J. Rodgers, OLB G. Bruce). 
+
+Boise State ball, Q4, 1-10-TXAM13 (10:44) 17-10
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,7
+RB O. Thompson runs left end for 1 yard (ILB S. Payne).  TE B. Ramos missed a block that hurt 
+the play.
+
+Boise State ball, Q4, 2-9-TXAM12 (10:18) 17-10
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+FB C. Mullen runs left guard for 9 yards (ILB S. Payne).  OG R. Davis had a key block on the 
+run.
+
+Boise State ball, Q4, 1-3-TXAM3 (09:46) 17-10
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+QB J. Grant gets sacked for a 1 yard loss (OLB G. Bruce).  C L. Warner allowed the sack.
+
+Boise State ball, Q4, 2-4-TXAM4 (09:28) 17-10
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+QB J. Grant completes a 1 yard out to WR J. Carmona (ILB S. Payne). 
+
+Boise State ball, Q4, 3-3-TXAM3 (09:06) 17-10
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+QB J. Grant throws an incomplete pass to TE B. Ramos.
+
+Boise State ball, Q4, 4-3-TXAM3 (08:48) 17-10
+Nicholas Stanley converts the 21 yard field goal.
+
+Boise State ball, Q4, 1-10-BOI35 (08:30) 20-10
+Richard Jacobson kicks 57 from Boise State 35 to Texas A&M 8. Fred Singer to Texas A&M 33 
+for a 25 yard return.
+
+Texas A&M ball, Q4, 1-10-TXAM33 (08:10) 10-20
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB E. Lloyd completes a 15 yard streak to WR T. Mccray (OLB R. Evans, CB E. Hurst).  CB W. 
+Handley missed a tackle.
+
+Texas A&M ball, Q4, 1-10-TXAM48 (07:43) 10-20
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB K. Metz runs left guard for 1 yard (FS D. Lucero). 
+
+Texas A&M ball, Q4, 2-9-TXAM49 (07:01) 10-20
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB K. Metz runs right tackle for 3 yards (SS I. Nelson). 
+
+Texas A&M ball, Q4, 3-6-BOI48 (06:54) 10-20
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B5,7
+QB E. Lloyd throws an incomplete pass to TE F. Davis.
+
+Texas A&M ball, Q4, 4-6-BOI48 (06:36) 10-20
+Randall Powell Punts 24 yards to the Boise State 24 yard line, where it gets downed.
+
+Boise State ball, Q4, 1-10-BOI24 (06:17) 20-10
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B7
+RB O. Thompson runs left end for -3 yards (ILB S. Payne).
+
+Boise State ball, Q4, 2-13-BOI21 (05:46) 20-10
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB J. Grant completes a 9 yard out to WR J. Carmona (SS T. Bailey). 
+
+Boise State ball, Q4, 3-4-BOI30 (05:23) 20-10
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB J. Grant completes a 7 yard screen to RB O. Thompson (OLB J. Rodgers). 
+
+Boise State ball, Q4, 1-10-BOI37 (05:02) 20-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ-B7
+RB O. Thompson runs right guard for -1 yards (CB F. Singer).
+
+Boise State ball, Q4, 2-11-BOI36 (04:32) 20-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+RB O. Thompson runs right guard for -4 yards (SS B. Irvin). C L. Warner missed a block that 
+hurt the play.
+
+Boise State ball, Q4, 3-15-BOI32 (04:06) 20-10
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB J. Grant runs outside for 3 yards (SS T. Bailey).  DT W. Faulk hurried the QB.
+
+Boise State ball, Q4, 4-12-BOI35 (03:46) 20-10
+Jerry Hiatt Punts 38 yards to the Texas A&M 27 yard line, where Fred Singer returns it to 
+Texas A&M 42 for a 15 yard return.
+
+Texas A&M ball, Q4, 1-10-TXAM42 (03:30) 10-20
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB E. Lloyd throws an incomplete pass to WR T. Mccray. DT M. Serna hurried the QB.
+
+Texas A&M ball, Q4, 2-10-TXAM42 (03:11) 10-20
+Offense: Short Pass, Set: Strong, Play: ST-HB-playact-cross
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB E. Lloyd completes a 13 yard in to RB K. Metz (CB E. Hurst).  OT J. Blanchard earned a 
+pancake on the play. OLB R. Evans missed a tackle.
+
+Texas A&M ball, Q4, 1-10-BOI45 (02:48) 10-20
+Offense: Medium Pass, Set: Strong, Play: ST-FB-streak-HB-flat
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB E. Lloyd completes a 45 yard out to WR D. Wood ****Touchdown!***** E. Lloyd with the great 
+pass. ILB R. Christopher allowed the big play.
+
+Texas A&M ball, Q4, 1-10-BOI45 (02:48) 10-20
+Offense: Medium Pass, Set: Strong, Play: ST-FB-streak-HB-flat
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+ILB Rex Christopher (BOI) was injured on the play (Foot). It doesn't look like he will return.
+
+Texas A&M ball, Q4, 1-0-BOI0 (02:35) 16-20
+Dennis Gomez converts the PAT.
+
+Texas A&M ball, Q4, 1-10-TXAM35 (02:35) 17-20
+Dennis Gomez kicks 43 from Texas A&M 35 to Boise State 22. Russell Jones to Boise State 38 
+for a 16 yard return.
+
+Boise State ball, Q4, 1-10-BOI38 (02:15) 20-17
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Normal, Set: 4-6, Play: 46-norm-DZ
+RB O. Thompson runs left guard for 1 yard (OLB J. Rodgers). 
+
+Boise State ball, Q4, 2-9-BOI39 (01:51) 20-17
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,11
+RB O. Thompson runs right end for 2 yards (OOB).
+
+Boise State ball, Q4, 3-7-BOI41 (01:36) 20-17
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB O. Thompson runs right end for 5 yards (CB F. Singer, SS B. Irvin). 
+
+Boise State ball, Q4, 4-2-BOI46 (01:03) 20-17
+Jerry Hiatt Punts 47 yards to the Texas A&M 7 yard line, where it goes out of bounds.
+
+Texas A&M ball, Q4, 1-10-TXAM7 (00:57) 17-20
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B8
+QB E. Lloyd completes a 8 yard in to TE F. Davis (OOB).
+
+Texas A&M ball, Q4, 2-2-TXAM15 (00:49) 17-20
+Offense: Short Pass, Set: I Form Big, Play: IB-SE-post-TE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB M. Wright completes a 7 yard out to TE F. Davis (OOB).
+
+Texas A&M ball, Q4, 1-10-TXAM22 (00:43) 17-20
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB E. Lloyd throws an incomplete pass to TE F. Davis.
+
+Texas A&M ball, Q4, 2-10-TXAM22 (00:36) 17-20
+Offense: Medium Pass, Set: Strong, Play: ST-SE-corner-FL-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB E. Lloyd throws an incomplete pass to WR T. Mccray.
+
+Texas A&M ball, Q4, 3-10-TXAM22 (00:30) 17-20
+Offense: Medium Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB E. Lloyd gets sacked for a 8 yard loss (DE J. Morgan).  OG A. Lange allowed the sack.
+
+Texas A&M ball, Q4, 4-18-TXAM14 (00:22) 17-20
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB E. Lloyd completes a 8 yard corner to WR D. Wood (OOB).
+
+Texas A&M Timeout!
+
+Boise State ball, Q4, 1-10-TXAM22 (00:15) 20-17
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: 4-6, Play: 46-norm-Man-B5,6
+The QB takes a knee.
+
+Texas A&M Timeout!
+
+Boise State ball, Q4, 2-11-TXAM23 (00:06) 20-17
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+The QB takes a knee.
+

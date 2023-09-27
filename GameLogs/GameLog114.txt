@@ -1,0 +1,934 @@
+Eastern Michigan ball, Q1, 1-10-EMU35 (15:00) 0-0
+Dean Adkins kicks 55 from Eastern Michigan 35 to Texas State 10. Tristan Stafford to Texas 
+State 28 for a 18 yard return.
+
+Texas State ball, Q1, 1-10-TXST28 (14:44) 0-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB B. Gutierrez throws an incomplete pass to WR D. Castellanos.
+
+Texas State ball, Q1, 2-10-TXST28 (14:24) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB S. Bowman runs right guard for 6 yards (SS M. Reese). 
+
+Texas State ball, Q1, 3-4-TXST34 (13:58) 0-0
+Offense: Long Pass, Set: Quads, Play: Q-WR3-in-WR4-up
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB B. Gutierrez gets sacked for a 10 yard loss (DT B. Crum).  OG C. Williams allowed the sack.
+
+Texas State ball, Q1, 4-14-TXST24 (13:40) 0-0
+Donald Bliss Punts 43 yards to the Eastern Michigan 33 yard line, where Bernard Chang returns 
+it to Texas State 41 for a 26 yard return.
+
+Eastern Michigan ball, Q1, 1-10-TXST41 (13:24) 0-0
+Offense: Long Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+C. Weston has his 41 yard pass intercepted by T. Stafford at the TXST 0. He kneels for the 
+touchback.
+
+Texas State ball, Q1, 1-10-TXST20 (12:56) 0-0
+Offense: Long Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB B. Gutierrez throws an incomplete pass to WR F. Gavin. WR F. Gavin dropped the pass.
+
+Texas State ball, Q1, 2-10-TXST20 (12:37) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB B. Gutierrez completes a 0 yard hook to WR D. Castellanos (FS R. Lopez). 
+
+Texas State ball, Q1, 3-10-TXST20 (12:15) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB B. Gutierrez completes a 19 yard in to WR D. Castellanos (OLB W. Portillo).  OT M. Nichols 
+earned a pancake on the play.
+
+Texas State ball, Q1, 1-10-TXST39 (11:49) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB B. Gutierrez throws an incomplete pass to WR T. Johnson.
+
+Texas State ball, Q1, 2-10-TXST39 (11:29) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB S. Bowman runs right tackle for 3 yards (CB E. Woods, CB C. Preston). 
+
+Texas State ball, Q1, 3-7-TXST42 (10:57) 0-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB B. Gutierrez gets sacked for a 6 yard loss (OLB W. Portillo).  C S. Shoemaker allowed the 
+sack.
+
+Texas State ball, Q1, 4-13-TXST36 (10:42) 0-0
+Donald Bliss Punts 41 yards to the Eastern Michigan 23 yard line, where Bernard Chang returns 
+it to Eastern Michigan 27 for a 4 yard return.
+
+Eastern Michigan ball, Q1, 1-10-EMU27 (10:27) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B5
+RB D. Perez runs right tackle for 5 yards (ILB M. Robinson). 
+
+Eastern Michigan ball, Q1, 2-5-EMU32 (09:54) 0-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB D. Perez runs left end for 8 yards (FS E. Hickey).  OT B. May had a key block on the run. 
+CB R. Ingram was out of position on the play.
+
+Eastern Michigan ball, Q1, 1-10-EMU40 (09:26) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B5
+RB W. Green runs right tackle for 5 yards (OLB L. Smith). 
+
+Eastern Michigan ball, Q1, 2-5-EMU45 (08:55) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB W. Green runs right end for 9 yards (ILB C. Davila, CB R. Ingram).  C M. Williams had a 
+key block on the run. DE M. Conner was out of position on the play.
+
+Eastern Michigan ball, Q1, 1-10-TXST46 (08:24) 0-0
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB C. Weston completes a 1 yard dump off to WR G. Thompson (OOB).
+
+Eastern Michigan ball, Q1, 2-9-TXST45 (08:06) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB W. Green runs right tackle for 4 yards (OLB R. Ladd). 
+
+Eastern Michigan ball, Q1, 3-5-TXST41 (07:36) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+QB C. Weston throws an incomplete pass to WR C. Dickson.
+
+Eastern Michigan ball, Q1, 4-5-TXST41 (07:18) 0-0
+Jesse Sims Punts 40 yards to the Texas State 1 yard line, where it goes out of bounds.
+
+Texas State ball, Q1, 1-10-TXST1 (07:00) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+QB B. Gutierrez throws an incomplete pass to WR W. Thompson. DE C. Campos hurried the QB.
+
+Texas State ball, Q1, 2-10-TXST1 (06:43) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB S. Bowman runs left tackle for -3 yards (CB M. Page).
+
+Texas State ball, Q1, 2-10-TXST1 (06:17) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+The ball carrier gets tackled in the endzone for a safety!
+
+Texas State ball, Q1, 1-10-TXST25 (06:17) 0-2
+Edward Giles kicks 51 from Texas State 25 to Eastern Michigan 24. Mark Dickson to Texas State 
+39 for a 37 yard return.
+
+Eastern Michigan ball, Q1, 1-10-TXST39 (05:46) 2-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+RB W. Green runs right guard for 8 yards (SS J. Gardner, CB T. Stafford). 
+
+Eastern Michigan ball, Q1, 2-2-TXST31 (05:19) 2-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB W. Green runs right end for -1 yards (ILB M. Robinson).
+
+Eastern Michigan ball, Q1, 3-3-TXST32 (04:50) 2-0
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+QB C. Weston completes a 4 yard screen to RB W. Green (FS E. Hickey). 
+
+Eastern Michigan ball, Q1, 1-10-TXST28 (04:27) 2-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB D. Perez runs right guard for -1 yards (SS J. Gardner).
+
+Eastern Michigan ball, Q1, 2-11-TXST29 (03:56) 2-0
+Offense: Short Pass, Set: Trips, Play: TR-TE-screen
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB C. Weston completes a 7 yard screen to TE R. Lee (ILB C. Davila).  He fumbles the ball 
+after a hit by C. Davila. It's recovered by R. Lee of Eastern Michigan.
+
+Eastern Michigan ball, Q1, 3-4-TXST22 (03:32) 2-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB C. Weston completes a 6 yard post to WR C. Hanson (ILB M. Robinson). 
+
+Eastern Michigan ball, Q1, 1-10-TXST16 (03:04) 2-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+RB D. Perez runs left tackle for 5 yards (ILB C. Davila). 
+
+Eastern Michigan ball, Q1, 2-5-TXST11 (02:34) 2-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB W. Green runs left guard for 3 yards (OLB R. Ladd). 
+
+Eastern Michigan ball, Q1, 3-2-TXST8 (02:04) 2-0
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB C. Weston throws an incomplete pass to WR G. Thompson. DE J. Stewart hurried the QB.
+
+Eastern Michigan ball, Q1, 4-2-TXST8 (01:47) 2-0
+Thomas Daigle converts the 26 yard field goal.
+
+Eastern Michigan ball, Q1, 1-10-EMU35 (01:28) 5-0
+Dean Adkins kicks 73 from Eastern Michigan 35 to end zone, Touchback.
+
+Texas State ball, Q1, 1-10-TXST20 (01:12) 0-5
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB B. Ramirez runs left tackle for 9 yards (ILB J. Bell). 
+
+Texas State ball, Q1, 2-1-TXST29 (00:42) 0-5
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+QB B. Gutierrez runs outside for 8 yards (SS M. Reese). 
+
+Texas State ball, Q1, 1-10-TXST37 (00:25) 0-5
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB B. Gutierrez throws an incomplete pass to WR W. Thompson.
+
+Texas State ball, Q1, 2-10-TXST37 (00:09) 0-5
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB S. Bowman runs right end for 14 yards (FS R. Lopez).  OT M. Nichols had a key block on 
+the run.
+
+Texas State ball, Q2, 1-10-EMU49 (15:00) 0-5
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB B. Gutierrez runs outside for 10 yards (OOB). DE C. Campos hurried the QB.
+
+Texas State ball, Q2, 1-10-EMU39 (14:48) 0-5
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB B. Gutierrez completes a 39 yard cross to WR T. Johnson ****Touchdown!***** OLB W. Portillo 
+allowed the big play.
+
+Texas State ball, Q2, 1-0-EMU0 (14:25) 6-5
+Marc Hardin converts the PAT.
+
+Texas State ball, Q2, 1-10-TXST35 (14:25) 7-5
+Edward Giles kicks 75 from Texas State 35 to end zone, Touchback.
+
+Eastern Michigan ball, Q2, 1-10-EMU20 (14:10) 5-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB W. Green runs right guard for 3 yards (CB J. Link, ILB C. Davila). 
+
+Eastern Michigan ball, Q2, 2-7-EMU23 (13:38) 5-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB D. Perez runs right end for 25 yards (CB R. Ingram).  FS E. Hickey missed a tackle.
+
+Eastern Michigan ball, Q2, 1-10-EMU48 (13:09) 5-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB D. Perez runs right guard for 1 yard (ILB C. Davila). 
+
+Eastern Michigan ball, Q2, 2-9-EMU49 (12:40) 5-7
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ
+RB D. Perez runs left end for -3 yards (SS J. Gardner).
+
+Eastern Michigan ball, Q2, 3-12-EMU46 (12:11) 5-7
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB C. Weston completes a 13 yard in to WR G. Thompson (OLB R. Ladd, ILB M. Robinson).  CB 
+J. Link was out of position on the play.
+
+Eastern Michigan ball, Q2, 1-10-TXST41 (11:44) 5-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB D. Perez runs right guard for 3 yards (CB J. Link). 
+
+Eastern Michigan ball, Q2, 2-7-TXST38 (11:11) 5-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB C. Weston throws an incomplete pass to WR C. Hanson.
+
+Eastern Michigan ball, Q2, 3-7-TXST38 (10:55) 5-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB W. Green runs left tackle for 3 yards (SS J. Gardner, CB R. Ingram). 
+
+Eastern Michigan ball, Q2, 4-4-TXST35 (10:22) 5-7
+Jesse Sims Punts 19 yards to the Texas State 16 yard line, where it goes out of bounds.
+
+Eastern Michigan ball, Q2, 4-4-TXST35 (10:22) 5-7
+FS Richard Miller (EMU) was injured on the play (Elbow). It doesn't look like he will return.
+
+Texas State ball, Q2, 1-10-TXST16 (10:05) 7-5
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+RB S. Bowman runs right guard for 1 yard (SS M. Reese). 
+
+Texas State ball, Q2, 2-9-TXST17 (09:36) 7-5
+Offense: Short Pass, Set: Trips, Play: TR-SE-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB B. Gutierrez completes a 9 yard screen to WR T. Johnson (CB M. Page, OLB H. Ambrose). 
+
+Texas State ball, Q2, 1-10-TXST26 (09:14) 7-5
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+QB B. Gutierrez throws an incomplete pass to WR T. Johnson.
+
+Holding against OT Joseph Paulsen on Texas State. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Texas State 16.
+
+Texas State ball, Q2, 1-20-TXST16 (09:02) 7-5
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB B. Ramirez runs left guard for 6 yards (CB M. Page). 
+
+Texas State ball, Q2, 2-14-TXST22 (08:36) 7-5
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB B. Ramirez runs right tackle for 5 yards (FS R. Nixon). 
+
+Texas State ball, Q2, 3-9-TXST27 (08:06) 7-5
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB B. Gutierrez completes a 10 yard cross to WR W. Thompson (OOB).
+
+Texas State ball, Q2, 1-10-TXST37 (07:49) 7-5
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB B. Ramirez runs left tackle for 6 yards (CB M. Page). 
+
+Texas State ball, Q2, 2-4-TXST43 (07:16) 7-5
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB B. Gutierrez completes a 3 yard dump off to WR D. Castellanos (FS R. Nixon). 
+
+Texas State ball, Q2, 3-1-TXST46 (06:55) 7-5
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB B. Gutierrez runs outside for 4 yards (FS R. Nixon). 
+
+Illegal Motion against TE Allen Daniels on Texas State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 6 at the Texas State 41.
+
+Texas State ball, Q2, 3-6-TXST41 (06:42) 7-5
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB B. Gutierrez throws an incomplete pass to WR D. Castellanos. WR D. Castellanos dropped 
+the pass. DE R. Mcknight hurried the QB.
+
+Texas State ball, Q2, 3-6-TXST41 (06:42) 7-5
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+SS Martin Reese (EMU) was injured on the play (OK). It doesn't look like he will return.
+
+Texas State ball, Q2, 4-6-TXST41 (06:23) 7-5
+Donald Bliss Punts 50 yards to the Eastern Michigan 9 yard line, where it gets downed.
+
+Eastern Michigan ball, Q2, 1-10-EMU9 (06:03) 5-7
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+QB C. Weston throws an incomplete pass to WR G. Thompson (CB J. Link). C. Weston made a bad 
+pass. CB J. Link broke up the pass.
+
+Eastern Michigan ball, Q2, 2-10-EMU9 (05:44) 5-7
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+FB V. Allred runs right end for 1 yard (ILB C. Davila). 
+
+Eastern Michigan ball, Q2, 3-9-EMU10 (05:17) 5-7
+Offense: Short Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB C. Weston throws an incomplete pass to WR G. Thompson.
+
+Eastern Michigan ball, Q2, 4-9-EMU10 (05:01) 5-7
+Jesse Sims Punts 57 yards to the Texas State 33 yard line, where Abraham Brown returns it 
+to Texas State 35 for a 2 yard return.
+
+Texas State ball, Q2, 1-10-TXST35 (04:45) 7-5
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+B. Gutierrez has his 25 yard pass intercepted by C. Preston at the EMU 40. He returns it -1 
+yards to the Eastern Michigan 39. B. Gutierrez made a bad pass.
+
+Eastern Michigan ball, Q2, 1-10-EMU39 (04:15) 5-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB D. Perez runs right guard for 3 yards (FS E. Hickey, OLB L. Smith). 
+
+Grabbing Face Mask against SS James Gardner on Texas State. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Second and 2 at the Eastern Michigan 47.
+
+Eastern Michigan ball, Q2, 2-2-EMU47 (04:04) 5-7
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB C. Weston throws an incomplete pass to WR C. Hanson.
+
+Eastern Michigan ball, Q2, 3-2-EMU47 (03:48) 5-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB W. Green runs left guard for -3 yards (ILB M. Robinson).
+
+Illegal Motion against Eastern Michigan. The Penalty is for 5 yards.
+The penalty will be declined.
+
+Eastern Michigan ball, Q2, 4-5-EMU44 (03:37) 5-7
+Jesse Sims Punts 34 yards to the Texas State 22 yard line, where it goes out of bounds.
+
+Eastern Michigan ball, Q2, 4-5-EMU44 (03:37) 5-7
+WR James Landry (TXST) was injured on the play (Knee). It doesn't look like he will return.
+
+Texas State ball, Q2, 1-10-TXST22 (03:21) 7-5
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 3-3-5, Play: 335-norm-MZ
+QB B. Gutierrez throws an incomplete pass to RB S. Bowman. DT G. Joiner hurried the QB.
+
+Texas State ball, Q2, 2-10-TXST22 (03:03) 7-5
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+RB S. Bowman runs right guard for 7 yards (OLB W. Portillo). 
+
+Texas State ball, Q2, 3-3-TXST29 (02:33) 7-5
+Offense: Medium Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB B. Gutierrez completes a 10 yard streak to WR T. Johnson (SS A. Collins). 
+
+Texas State ball, Q2, 1-10-TXST39 (02:09) 7-5
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB B. Ramirez runs left end for 12 yards (FS R. Nixon).  OT M. Nichols had a key block on 
+the run.
+
+Texas State ball, Q2, 1-10-EMU49 (01:51) 7-5
+Offense: Medium Pass, Set: Trips, Play: TR-TE-playact-corner
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+QB B. Gutierrez throws an incomplete pass to WR D. Castellanos. B. Gutierrez made a bad pass.
+
+Texas State ball, Q2, 2-10-EMU49 (01:32) 7-5
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B11
+QB B. Gutierrez completes a 20 yard in to WR D. Castellanos (SS A. Collins).  OG C. Williams 
+earned a pancake on the play. CB E. Woods missed a tackle.
+
+Texas State ball, Q2, 1-10-EMU29 (01:06) 7-5
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+QB B. Gutierrez throws an incomplete pass to WR W. Thompson. WR W. Thompson dropped the pass.
+
+Texas State ball, Q2, 2-10-EMU29 (00:59) 7-5
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+QB B. Gutierrez completes a 1 yard streak to RB B. Ramirez (OLB W. Portillo). 
+
+Texas State Timeout!
+
+Texas State ball, Q2, 3-9-EMU28 (00:52) 7-5
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB B. Gutierrez completes a 11 yard hook to TE A. Daniels (SS A. Collins, OLB W. Portillo). 
+
+Texas State Timeout!
+
+Texas State ball, Q2, 1-10-EMU17 (00:46) 7-5
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+QB B. Gutierrez completes a 10 yard in to WR T. Johnson (FS R. Lopez). 
+
+Texas State Timeout!
+
+Texas State ball, Q2, 1-7-EMU7 (00:38) 7-5
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Goal Line, Play: GL-run-SZ-L
+B. Gutierrez has his 7 yard pass intercepted by M. Page at the EMU 0. He kneels for the touchback.
+
+Eastern Michigan ball, Q2, 1-10-EMU20 (00:08) 5-7
+Offense: Inside Run, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+The QB takes a knee.
+
+Texas State ball, Q3, 1-10-TXST35 (15:00) 7-5
+Edward Giles kicks 75 from Texas State 35 to end zone, Touchback.
+
+Eastern Michigan ball, Q3, 1-10-EMU20 (14:44) 5-7
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B5
+RB D. Perez runs left guard for 5 yards (ILB M. Robinson). 
+
+Eastern Michigan ball, Q3, 2-5-EMU25 (14:15) 5-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB D. Perez runs right guard for 4 yards (OLB L. Smith, FS E. Hickey). 
+
+Eastern Michigan ball, Q3, 3-1-EMU29 (13:49) 5-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB W. Green runs left guard for 5 yards (ILB C. Davila, CB T. Stafford). 
+
+Eastern Michigan ball, Q3, 1-10-EMU34 (13:20) 5-7
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB C. Weston throws an incomplete pass to WR B. Chang.
+
+Eastern Michigan ball, Q3, 2-10-EMU34 (13:02) 5-7
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB W. Green runs left tackle for -1 yards (ILB M. Robinson). OG M. Fox missed a block that 
+hurt the play.
+
+Eastern Michigan ball, Q3, 3-11-EMU33 (12:30) 5-7
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB C. Weston completes a 22 yard hook to WR C. Hanson (SS J. Gardner).  FS E. Hickey missed 
+a tackle.
+
+Eastern Michigan ball, Q3, 1-10-TXST45 (12:06) 5-7
+Offense: Short Pass, Set: Trips, Play: TR-FL-in-SE-post
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB C. Weston throws an incomplete pass to WR C. Hanson (CB T. Stafford). CB T. Stafford broke 
+up the pass.
+
+Eastern Michigan ball, Q3, 2-10-TXST45 (11:50) 5-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB W. Green runs left end for 9 yards (CB R. Ingram). 
+
+Eastern Michigan ball, Q3, 3-1-TXST36 (11:18) 5-7
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B5,7
+QB C. Weston completes a 6 yard cross to WR B. Chang (CB T. Stafford). 
+
+Offensive Pass Interference against TE Roberto Lee on Eastern Michigan. The Penalty is for 
+15 yards.
+The Defense will accept the penalty. It is now Third and 16 at the Eastern Michigan 49.
+
+Eastern Michigan ball, Q3, 3-16-EMU49 (11:06) 5-7
+Offense: Long Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB C. Weston completes a 22 yard post to WR B. Chang (SS J. Gardner). 
+
+Eastern Michigan ball, Q3, 1-10-TXST29 (10:37) 5-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+RB D. Perez runs right end for 6 yards (ILB G. Larson). 
+
+Eastern Michigan ball, Q3, 2-4-TXST23 (10:05) 5-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB D. Perez runs right tackle for 12 yards (SS J. Gardner). 
+
+Eastern Michigan ball, Q3, 1-10-TXST11 (09:34) 5-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+RB W. Green runs right guard for 1 yard (OLB R. Ladd).  TE R. Lee missed a block that hurt 
+the play.
+
+Eastern Michigan ball, Q3, 2-9-TXST10 (09:03) 5-7
+Offense: Medium Pass, Set: Trips, Play: TR-TE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB C. Weston completes a 10 yard streak to WR G. Thompson ****Touchdown!*****
+
+Eastern Michigan ball, Q3, 1-0-TXST0 (08:36) 11-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB C. Weston throws an incomplete pass to WR C. Dickson.
+
+Eastern Michigan ball, Q3, 1-10-EMU35 (08:36) 11-7
+Dean Adkins kicks 67 from Eastern Michigan 35 to Texas State -2. Tristan Stafford to Texas 
+State 9 for a 11 yard return.
+
+Texas State ball, Q3, 1-10-TXST9 (08:18) 7-11
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB B. Ramirez runs right tackle for 3 yards (CB C. Preston, FS R. Lopez). 
+
+Texas State ball, Q3, 2-7-TXST12 (07:47) 7-11
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB B. Ramirez runs left guard for 7 yards (CB C. Preston, ILB J. Bell).  OT M. Nichols had 
+a key block on the run. FS R. Nixon was out of position on the play.
+
+Texas State ball, Q3, 1-10-TXST19 (07:15) 7-11
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+RB B. Ramirez runs right tackle for 2 yards (CB M. Page). 
+
+Texas State ball, Q3, 2-8-TXST21 (06:47) 7-11
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB B. Ramirez runs left guard for 0 yards (FS R. Nixon). 
+
+Grabbing Face Mask against OLB Wendell Portillo on Eastern Michigan. The Penalty is for 15 
+yards, and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Texas State 36.
+
+Texas State ball, Q3, 1-10-TXST36 (06:33) 7-11
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB S. Bowman runs left guard for 13 yards (FS R. Nixon). 
+
+Texas State ball, Q3, 1-10-TXST49 (06:03) 7-11
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB S. Bowman runs left guard for 0 yards (FS R. Nixon). 
+
+Texas State ball, Q3, 2-10-TXST49 (05:35) 7-11
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB B. Gutierrez throws an incomplete pass to WR W. Thompson.
+
+Texas State ball, Q3, 3-10-TXST49 (05:16) 7-11
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB S. Bowman runs left guard for 4 yards (SS A. Collins). 
+
+Texas State ball, Q3, 4-6-EMU47 (04:43) 7-11
+Donald Bliss Punts 44 yards to the Eastern Michigan 3 yard line, where it goes out of bounds.
+
+Eastern Michigan ball, Q3, 1-10-EMU3 (04:24) 11-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB W. Green runs left guard for -1 yards (ILB C. Davila).
+
+Eastern Michigan ball, Q3, 2-11-EMU2 (03:56) 11-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+RB D. Perez runs right guard for 2 yards (DE H. Carr, ILB M. Robinson). 
+
+Eastern Michigan ball, Q3, 3-9-EMU4 (03:28) 11-7
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB C. Weston completes a 9 yard cross to WR B. Chang (ILB C. Davila). 
+
+Eastern Michigan ball, Q3, 1-10-EMU13 (03:05) 11-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB D. Perez runs right tackle for 2 yards (ILB M. Robinson). 
+
+Eastern Michigan ball, Q3, 2-8-EMU15 (02:36) 11-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+RB D. Perez runs left guard for 8 yards (FS E. Hickey).  OT E. Herring had a key block on 
+the run.
+
+Eastern Michigan ball, Q3, 1-10-EMU23 (02:06) 11-7
+Offense: Inside Run, Set: Trips, Play: TR-QB-sneak-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB C. Weston runs right tackle for 3 yards (OLB R. Ladd). 
+
+Eastern Michigan ball, Q3, 2-7-EMU26 (01:34) 11-7
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB C. Weston completes a 7 yard dump off to WR G. Thompson (CB R. Ingram, CB P. Wright). 
+
+Eastern Michigan ball, Q3, 1-10-EMU33 (01:13) 11-7
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB W. Green runs left tackle for 9 yards (CB J. Link).  FS E. Hickey missed a tackle.
+
+Eastern Michigan ball, Q3, 2-1-EMU42 (00:47) 11-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB W. Green runs left guard for -2 yards (FS E. Hickey).
+
+Eastern Michigan ball, Q3, 3-3-EMU40 (00:14) 11-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB W. Green runs left guard for 9 yards (OLB L. Smith).  OG K. Hernandez had a key block on 
+the run.
+
+Eastern Michigan ball, Q4, 1-10-EMU49 (15:00) 11-7
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB C. Weston scrambles out of the pocket and gets sacked for a 3 yard loss (ILB C. Davila). 
+ C M. Williams missed a block that hurt the play. OT B. May allowed the sack.
+
+Eastern Michigan ball, Q4, 2-13-EMU46 (14:32) 11-7
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB C. Weston throws an incomplete pass to WR G. Thompson (CB R. Ingram). CB R. Ingram broke 
+up the pass.
+
+Eastern Michigan ball, Q4, 3-13-EMU46 (14:14) 11-7
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB C. Weston throws an incomplete pass to WR C. Hanson.
+
+Holding against OT Billy May on Eastern Michigan. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Eastern Michigan ball, Q4, 4-13-EMU46 (13:59) 11-7
+Jesse Sims Punts 33 yards to the Texas State 21 yard line, where it goes out of bounds.
+
+Texas State ball, Q4, 1-10-TXST21 (13:40) 7-11
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB B. Gutierrez completes a 9 yard dump off to TE A. Daniels (ILB J. Bell). 
+
+Texas State ball, Q4, 2-1-TXST30 (13:16) 7-11
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+FB L. Buckner runs right end for 1 yard (OLB W. Portillo).  OT M. Nichols missed a block that 
+hurt the play.
+
+Texas State ball, Q4, 2-1-TXST30 (13:16) 7-11
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+WR Timothy Johnson (TXST) was injured on the play (Head). It doesn't look like he will return.
+
+Texas State ball, Q4, 1-10-TXST31 (12:59) 7-11
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB B. Gutierrez throws an incomplete pass to WR F. Gavin.
+
+Texas State ball, Q4, 2-10-TXST31 (12:41) 7-11
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man
+QB B. Gutierrez completes a 32 yard corner to WR D. Castellanos (CB M. Page).  FS R. Lopez 
+allowed the big play.
+
+Texas State ball, Q4, 1-10-EMU37 (12:13) 7-11
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB B. Gutierrez throws an incomplete pass to WR D. Castellanos (CB C. Preston). WR D. Castellanos 
+dropped the pass. CB C. Preston broke up the pass.
+
+Texas State ball, Q4, 2-10-EMU37 (11:54) 7-11
+Offense: Long Pass, Set: Trips, Play: TR-TE-in-SE-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB B. Gutierrez throws an incomplete pass to WR D. Castellanos. B. Gutierrez made a bad pass. 
+DT G. Joiner hurried the QB.
+
+Texas State ball, Q4, 3-10-EMU37 (11:38) 7-11
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB B. Gutierrez throws an incomplete pass to WR W. Thompson (CB C. Preston). CB C. Preston 
+broke up the pass.
+
+Texas State ball, Q4, 4-10-EMU37 (11:19) 7-11
+Donald Bliss Punts 37 yards to the end zone, Touchback.
+
+Eastern Michigan ball, Q4, 1-10-EMU20 (10:59) 11-7
+Offense: Long Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB C. Weston gets sacked for a 10 yard loss (DE H. Carr).  C M. Williams allowed the sack.
+
+Eastern Michigan ball, Q4, 2-20-EMU10 (10:44) 11-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB C. Weston completes a 4 yard hook to WR C. Hanson (FS E. Hickey). 
+
+Eastern Michigan ball, Q4, 3-16-EMU14 (10:29) 11-7
+Offense: Medium Pass, Set: Trips, Play: TR-SE-rollout-post
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB C. Weston completes a 12 yard out to WR G. Thompson (CB R. Ingram, SS J. Gardner).  C. 
+Weston with the great pass. TE R. Lee earned a pancake on the play.
+
+Eastern Michigan ball, Q4, 4-4-EMU26 (10:05) 11-7
+Jesse Sims Punts 41 yards to the Texas State 33 yard line, where Abraham Brown returns it 
+to Texas State 44 for a 11 yard return.
+
+Texas State ball, Q4, 1-10-TXST44 (09:46) 7-11
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB S. Bowman runs right guard for 2 yards (CB M. Page). 
+
+Texas State ball, Q4, 2-8-TXST46 (09:14) 7-11
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB B. Gutierrez completes a 9 yard cross to WR D. Castellanos (CB E. Woods). 
+
+Texas State ball, Q4, 2-8-TXST46 (09:14) 7-11
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+DT Gerald Joiner (EMU) was injured on the play (Elbow). It doesn't look too serious and he 
+should return.
+
+Texas State ball, Q4, 1-10-EMU45 (08:57) 7-11
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB S. Bowman runs right guard for 11 yards (OLB H. Ambrose). 
+
+Texas State ball, Q4, 1-10-EMU34 (08:24) 7-11
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB B. Ramirez runs left end for 1 yard (SS A. Collins). 
+
+Texas State ball, Q4, 2-9-EMU33 (07:56) 7-11
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB B. Gutierrez runs outside for 8 yards (FS R. Lopez). 
+
+Texas State ball, Q4, 2-9-EMU33 (07:56) 7-11
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+DE Joseph Rider (EMU) was injured on the play (Knee). It doesn't look like he will return.
+
+Texas State ball, Q4, 3-1-EMU25 (07:42) 7-11
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB B. Gutierrez throws an incomplete pass to WR D. Castellanos (CB M. Page). CB M. Page broke 
+up the pass.
+
+Texas State ball, Q4, 4-1-EMU25 (07:25) 7-11
+Marc Hardin misses the 43 yard field goal. It will be Eastern Michigan ball at the EMU 25
+
+Eastern Michigan ball, Q4, 1-10-EMU25 (07:05) 11-7
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB C. Weston throws an incomplete pass to WR G. Thompson. ILB M. Robinson hurried the QB.
+
+Holding against CB Jose Link on Texas State. The Penalty is for 10 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Eastern Michigan 35.
+
+Eastern Michigan ball, Q4, 1-10-EMU35 (06:51) 11-7
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB C. Weston throws an incomplete pass to WR C. Hanson. WR C. Hanson dropped the pass.
+
+Eastern Michigan ball, Q4, 2-10-EMU35 (06:36) 11-7
+Offense: Long Pass, Set: SingleBack, Play: SB-WR3-slant-FL-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB C. Weston throws an incomplete pass to WR G. Thompson.
+
+Eastern Michigan ball, Q4, 3-10-EMU35 (06:20) 11-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB W. Green runs right tackle for 6 yards (CB T. Stafford). 
+
+Eastern Michigan ball, Q4, 4-4-EMU41 (05:53) 11-7
+Jesse Sims Punts 36 yards to the Texas State 23 yard line, where it goes out of bounds.
+
+Texas State ball, Q4, 1-10-TXST23 (05:37) 7-11
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB B. Gutierrez throws an incomplete pass to WR L. Fields (SS A. Collins). WR L. Fields ran 
+an incorrect route. SS A. Collins broke up the pass.
+
+Texas State ball, Q4, 2-10-TXST23 (05:18) 7-11
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB B. Gutierrez completes a 4 yard dump off to WR L. Fields (FS R. Lopez). 
+
+Texas State ball, Q4, 2-10-TXST23 (05:18) 7-11
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+DT Gerald Joiner (EMU) was injured on the play (Thumb). It doesn't look like he will return.
+
+Texas State ball, Q4, 3-6-TXST27 (05:01) 7-11
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB S. Bowman runs right tackle for 13 yards (OLB H. Ambrose). 
+
+Texas State ball, Q4, 1-10-TXST40 (04:33) 7-11
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-MZ-B4,5,6,8,
+QB B. Gutierrez completes a 9 yard hook to RB B. Ramirez (OOB).
+
+Texas State ball, Q4, 2-1-TXST49 (04:15) 7-11
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+FB L. Buckner runs left end for 1 yard (DE C. Campos). 
+
+Texas State ball, Q4, 1-10-TXST50 (03:48) 7-11
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB B. Gutierrez throws an incomplete pass to WR W. Thompson.
+
+Texas State ball, Q4, 2-10-TXST50 (03:28) 7-11
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB S. Bowman runs left guard for 1 yard (CB C. Preston). 
+
+Texas State ball, Q4, 3-9-EMU49 (02:55) 7-11
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B5,6,8
+QB B. Gutierrez completes a 15 yard hook to WR F. Gavin (OOB).
+
+Texas State ball, Q4, 1-10-EMU34 (02:39) 7-11
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+QB B. Gutierrez throws an incomplete pass to WR W. Thompson.
+
+Texas State ball, Q4, 2-10-EMU34 (02:22) 7-11
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB B. Gutierrez throws an incomplete pass to WR F. Gavin. DT B. Crum hurried the QB.
+
+Texas State ball, Q4, 3-10-EMU34 (02:03) 7-11
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB B. Gutierrez completes a 11 yard dump off to RB S. Bowman (OOB). OT M. Nichols earned a 
+pancake on the play.
+
+Texas State ball, Q4, 1-10-EMU23 (01:51) 7-11
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB B. Gutierrez completes a 8 yard out to WR D. Castellanos (FS R. Lopez). 
+
+Texas State ball, Q4, 2-2-EMU15 (01:30) 7-11
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+QB B. Gutierrez throws an incomplete pass to WR F. Gavin (ILB J. Bell). ILB J. Bell broke 
+up the pass.
+
+Texas State ball, Q4, 3-2-EMU15 (01:15) 7-11
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-run-Man-B5,6,8
+QB B. Gutierrez completes a 7 yard in to WR F. Gavin (OLB W. Portillo). 
+
+Offensive Pass Interference against Texas State. The Penalty is for 15 yards.
+The Defense will accept the penalty. It is now Third and 17 at the Eastern Michigan 30.
+
+Texas State ball, Q4, 3-17-EMU30 (01:04) 7-11
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB B. Gutierrez completes a 6 yard screen to RB S. Bowman (OOB).
+
+Texas State ball, Q4, 4-11-EMU24 (00:58) 7-11
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-str-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB B. Gutierrez throws an incomplete pass to TE A. Daniels (FS R. Lopez). B. Gutierrez made 
+a bad pass. FS R. Lopez broke up the pass.
+
+Eastern Michigan ball, Q4, 1-10-EMU24 (00:51) 11-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB W. Green runs left tackle for 2 yards (SS J. Gardner, CB J. Link). 
+
+Texas State Timeout!
+
+Eastern Michigan ball, Q4, 2-8-EMU26 (00:43) 11-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB W. Green runs left guard for 5 yards (CB J. Link). 
+
+Texas State Timeout!
+
+Eastern Michigan ball, Q4, 3-3-EMU31 (00:34) 11-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB W. Green runs right guard for 2 yards (OLB L. Smith). 
+
+Texas State Timeout!
+
+Eastern Michigan ball, Q4, 4-1-EMU33 (00:27) 11-7
+Jesse Sims Punts 38 yards to the Texas State 29 yard line, where Abraham Brown returns it 
+to Texas State 32 for a 3 yard return. He fumbles the ball after a hit by K. Rodriguez. It's recovered by S. Huff of Texas State.
+
+Texas State ball, Q4, 1-10-TXST32 (00:20) 7-11
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB B. Gutierrez throws an incomplete pass to WR W. Thompson. WR W. Thompson ran an incorrect 
+route.
+
+Texas State ball, Q4, 2-10-TXST32 (00:13) 7-11
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+QB B. Gutierrez throws an incomplete pass to WR D. Castellanos.
+
+Texas State ball, Q4, 3-10-TXST32 (00:05) 7-11
+Offense: Medium Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB B. Gutierrez completes a 11 yard out to WR W. Thompson (FS R. Lopez, CB M. Page).  C S. 
+Shoemaker earned a pancake on the play.
+

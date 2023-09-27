@@ -1,0 +1,1063 @@
+Cincinnati ball, Q1, 1-10-CIN35 (15:00) 0-0
+Francisco Wright kicks 73 from Cincinnati 35 to end zone, Touchback.
+
+Connecticut ball, Q1, 1-10-CONN20 (14:44) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB C. Baird runs left guard for 3 yards (OLB C. Penn, CB B. Jacobs). 
+
+Connecticut ball, Q1, 2-7-CONN23 (14:15) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: 4-3, Play: 43-run-SZ-B5
+RB C. Baird runs right end for 15 yards (FS M. Harmon). 
+
+Connecticut ball, Q1, 1-10-CONN38 (13:46) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB J. Casillas completes a 5 yard dump off to WR R. Aguirre (OOB).
+
+Connecticut ball, Q1, 2-5-CONN43 (13:33) 0-0
+Offense: Short Pass, Set: Trips, Play: TR-TE-screen
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB J. Casillas completes a 7 yard screen to TE E. Lambert (OLB C. Penn). 
+
+Connecticut ball, Q1, 1-10-CONN50 (13:12) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+J. Casillas has his 15 yard pass intercepted by B. Jacobs at the CIN 35. He returns it 0 yards 
+to the Cincinnati 35.
+
+Cincinnati ball, Q1, 1-10-CIN35 (12:42) 0-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man
+QB N. Dennis completes a 27 yard in to WR A. Leavitt (OOB). C J. Park earned a pancake on 
+the play. FS E. Jones allowed the big play.
+
+Cincinnati ball, Q1, 1-10-CONN38 (12:30) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB R. Prather runs left end for -1 yards (ILB K. Miller).
+
+Cincinnati ball, Q1, 2-11-CONN39 (12:02) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+Delay of Game against Cincinnati. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 16 at the Connecticut 44.
+
+Cincinnati ball, Q1, 2-16-CONN44 (12:02) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+False Start against OT Cecil Miller on Cincinnati. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 21 at the Connecticut 49.
+
+Cincinnati ball, Q1, 2-21-CONN49 (12:02) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB N. Dennis completes a 6 yard post to WR W. Carson (OOB).
+
+Cincinnati ball, Q1, 3-15-CONN43 (11:48) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB N. Dennis completes a 33 yard post to WR G. Lee (FS C. Wheeler).  SS J. Davis allowed the 
+big play.
+
+Cincinnati ball, Q1, 1-10-CONN10 (11:20) 0-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB R. Prather runs left tackle for 1 yard (ILB K. Plummer). 
+
+Cincinnati ball, Q1, 2-9-CONN9 (10:53) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB R. Prather runs right end for -4 yards (ILB K. Plummer). OG A. Jackson missed a block that 
+hurt the play.
+
+Cincinnati ball, Q1, 3-13-CONN13 (10:24) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB N. Dennis completes a 13 yard dump off to WR G. Lee ****Touchdown!***** CB W. Jackson missed 
+a tackle.
+
+Cincinnati ball, Q1, 1-0-CONN0 (10:03) 6-0
+Brian Mcintyre converts the PAT.
+
+Cincinnati ball, Q1, 1-10-CIN35 (10:03) 7-0
+Francisco Wright kicks 55 from Cincinnati 35 to Connecticut 10. Gary Dean to Connecticut 27 
+for a 17 yard return.
+
+Connecticut ball, Q1, 1-10-CONN27 (09:48) 0-7
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+QB J. Casillas gets sacked for a 8 yard loss (DT A. Davis).  OG A. Dickerson allowed the sack.
+
+Connecticut ball, Q1, 2-18-CONN19 (09:33) 0-7
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB J. Casillas completes a 10 yard screen to RB C. Baird (OOB).
+
+Connecticut ball, Q1, 3-8-CONN29 (09:17) 0-7
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Casillas completes a 12 yard in to WR R. Aguirre (FS M. Harmon).  OG A. Dickerson earned 
+a pancake on the play. FS K. Snyder was out of position on the play.
+
+Connecticut ball, Q1, 1-10-CONN41 (08:56) 0-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+RB C. Baird runs right guard for 0 yards (DT T. Mccray). 
+
+Connecticut ball, Q1, 2-10-CONN41 (08:26) 0-7
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB J. Casillas throws an incomplete pass to WR C. Tuttle. WR C. Tuttle ran an incorrect route. 
+DE R. Ring hurried the QB.
+
+Connecticut ball, Q1, 3-10-CONN41 (08:11) 0-7
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+RB C. Baird runs left end for 1 yard (FS M. Harmon).  OT A. Smith missed a block that hurt 
+the play.
+
+Connecticut ball, Q1, 4-9-CONN42 (07:44) 0-7
+William Kendrick Punts 43 yards to the Cincinnati 15 yard line, where Sid Boone returns it 
+to Cincinnati 21 for a 6 yard return.
+
+Cincinnati ball, Q1, 1-10-CIN21 (07:27) 7-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB N. Dennis completes a 13 yard out to WR A. Leavitt (OOB). SS J. Davis was out of position 
+on the play.
+
+Cincinnati ball, Q1, 1-10-CIN34 (07:01) 7-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB R. Prather runs right guard for 6 yards (ILB K. Miller). 
+
+Cincinnati ball, Q1, 2-4-CIN40 (06:42) 7-0
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB N. Dennis completes a 60 yard out to WR W. Carson ****Touchdown!***** OG C. Stephens earned 
+a pancake on the play. ILB K. Plummer allowed the big play.
+
+Cincinnati ball, Q1, 1-0-CONN0 (06:12) 13-0
+Brian Mcintyre converts the PAT.
+
+Cincinnati ball, Q1, 1-10-CIN35 (06:12) 14-0
+Francisco Wright kicks 67 from Cincinnati 35 to Connecticut -2. Gary Dean to Connecticut 9 
+for a 11 yard return.
+
+Connecticut ball, Q1, 1-10-CONN9 (05:54) 0-14
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB C. Baird runs left guard for 2 yards (OLB C. Penn). 
+
+Connecticut ball, Q1, 2-8-CONN11 (05:23) 0-14
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB J. Casillas throws an incomplete pass to WR C. Tuttle (CB B. Jacobs). WR C. Tuttle dropped 
+the pass. CB B. Jacobs broke up the pass.
+
+Connecticut ball, Q1, 3-8-CONN11 (05:07) 0-14
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-L
+QB J. Casillas throws an incomplete pass to WR D. Lackey (ILB C. Jackson). WR D. Lackey ran 
+an incorrect route. ILB C. Jackson broke up the pass.
+
+Connecticut ball, Q1, 4-8-CONN11 (04:47) 0-14
+William Kendrick Punts 59 yards to the Cincinnati 30 yard line, where it gets downed.
+
+Cincinnati ball, Q1, 1-10-CIN30 (04:28) 14-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+QB N. Dennis throws an incomplete pass to TE S. Morris. TE S. Morris dropped the pass.
+
+Cincinnati ball, Q1, 2-10-CIN30 (04:13) 14-0
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ-B7,8
+QB N. Dennis throws an incomplete pass to RB R. Prather (ILB K. Miller). ILB K. Miller broke 
+up the pass.
+
+Cincinnati ball, Q1, 3-10-CIN30 (03:53) 14-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB N. Dennis completes a 29 yard post to WR W. Freeman (OOB). ILB K. Plummer allowed the big 
+play.
+
+Cincinnati ball, Q1, 1-10-CONN41 (03:43) 14-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB R. Prather runs right guard for 10 yards (FS C. Wheeler, ILB K. Plummer).  OT C. Miller 
+had a key block on the run.
+
+Cincinnati ball, Q1, 1-10-CONN31 (03:26) 14-0
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB R. Roberts runs left end for -1 yards (SS J. Davis). C J. Park missed a block that hurt 
+the play.
+
+Cincinnati ball, Q1, 2-11-CONN32 (02:55) 14-0
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB N. Dennis throws an incomplete pass to WR W. Freeman (ILB K. Miller). ILB K. Miller broke 
+up the pass.
+
+Cincinnati ball, Q1, 2-11-CONN32 (02:55) 14-0
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+FS Charles Wheeler (CONN) was injured on the play (Finger). It doesn't look too serious and 
+he should return.
+
+Cincinnati ball, Q1, 3-11-CONN32 (02:37) 14-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ-B5,6,7,8
+QB N. Dennis throws an incomplete pass to RB R. Prather.
+
+Cincinnati ball, Q1, 4-11-CONN32 (02:22) 14-0
+Brian Mcintyre converts the 50 yard field goal.
+
+Cincinnati ball, Q1, 1-10-CIN35 (02:04) 17-0
+Francisco Wright kicks 54 from Cincinnati 35 to Connecticut 11. Gary Dean to Connecticut 25 
+for a 14 yard return.
+
+Connecticut ball, Q1, 1-10-CONN25 (01:49) 0-17
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B10,11
+QB J. Casillas completes a 12 yard post to TE E. Lambert (OOB). OG R. Young earned a pancake 
+on the play.
+
+Connecticut ball, Q1, 1-10-CONN37 (01:31) 0-17
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Casillas throws an incomplete pass to WR C. Tuttle (CB T. German). CB T. German broke 
+up the pass.
+
+Connecticut ball, Q1, 2-10-CONN37 (01:13) 0-17
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5-L
+QB J. Casillas throws an incomplete pass to WR M. Manuel.
+
+Connecticut ball, Q1, 3-10-CONN37 (00:54) 0-17
+Offense: Long Pass, Set: Quads, Play: Q-WR3-corner-FL-post
+Defense: Normal, Set: 4-3, Play: 43-norm-Man
+QB J. Casillas throws an incomplete pass to WR D. Lackey (CB B. Jacobs). CB B. Jacobs broke 
+up the pass.
+
+Connecticut ball, Q1, 4-10-CONN37 (00:36) 0-17
+William Kendrick Punts 36 yards to the Cincinnati 27 yard line, where Sid Boone returns it 
+to Cincinnati 32 for a 5 yard return.
+
+Cincinnati ball, Q1, 1-10-CIN32 (00:16) 17-0
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+QB N. Dennis completes a 19 yard out to TE S. Morris (OOB). FS C. Wheeler missed a tackle.
+
+Cincinnati ball, Q1, 1-10-CONN49 (00:03) 17-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB R. Prather runs left end for 5 yards (ILB K. Plummer). 
+
+Illegal Motion against Cincinnati. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Cincinnati 46.
+
+Cincinnati ball, Q2, 1-15-CIN46 (15:00) 17-0
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB N. Dennis completes a 12 yard dump off to TE S. Morris (CB W. Jackson).  C J. Park earned 
+a pancake on the play.
+
+Cincinnati ball, Q2, 2-3-CONN42 (14:36) 17-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB R. Roberts runs left end for 3 yards (ILB K. Miller, ILB K. Plummer). 
+
+Cincinnati ball, Q2, 1-10-CONN39 (14:07) 17-0
+Offense: Short Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB N. Dennis gets sacked for a 3 yard loss (ILB K. Plummer).  OT C. Miller allowed the sack.
+
+Cincinnati ball, Q2, 2-13-CONN42 (13:50) 17-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB N. Dennis completes a 18 yard screen to RB R. Prather (SS J. Davis).  OT C. Miller earned 
+a pancake on the play.
+
+Cincinnati ball, Q2, 1-10-CONN24 (13:28) 17-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB R. Prather runs left guard for 3 yards (OLB D. Hyatt). 
+
+Cincinnati ball, Q2, 1-10-CONN24 (13:28) 17-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+ILB Kyle Miller (CONN) was injured on the play (Knee). It doesn't look like he will return.
+
+Cincinnati ball, Q2, 2-7-CONN21 (13:12) 17-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+QB N. Dennis throws an incomplete pass to WR G. Lee.
+
+Cincinnati ball, Q2, 3-7-CONN21 (12:52) 17-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB R. Prather runs right guard for 8 yards (OLB D. Hyatt, CB G. Dean). 
+
+Cincinnati ball, Q2, 1-10-CONN13 (12:25) 17-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: 4-4, Play: 44-norm-Man-Spy
+QB N. Dennis throws an incomplete pass to WR A. Leavitt. WR A. Leavitt dropped the pass. DT 
+C. Barber hurried the QB.
+
+Cincinnati ball, Q2, 2-10-CONN13 (12:10) 17-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+QB N. Dennis throws an incomplete pass to WR A. Leavitt.
+
+Cincinnati ball, Q2, 3-10-CONN13 (11:54) 17-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB N. Dennis completes a 13 yard out to WR W. Carson ****Touchdown!*****
+
+Cincinnati ball, Q2, 3-10-CONN13 (11:54) 17-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+DE Daniel Mitchell (CONN) was injured on the play (Elbow). It doesn't look too serious and 
+he should return.
+
+Cincinnati ball, Q2, 1-0-CONN0 (11:38) 23-0
+Brian Mcintyre converts the PAT.
+
+Cincinnati ball, Q2, 1-10-CIN35 (11:38) 24-0
+Francisco Wright kicks 63 from Cincinnati 35 to Connecticut 2. Chad Baird to Connecticut 15 
+for a 13 yard return.
+
+Connecticut ball, Q2, 1-10-CONN15 (11:21) 0-24
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB J. Casillas throws an incomplete pass to WR C. Tuttle. DE J. Lopez hurried the QB.
+
+Connecticut ball, Q2, 1-10-CONN15 (11:21) 0-24
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+DE Robert Ring (CIN) was injured on the play (Toe). It doesn't look like he will return.
+
+Connecticut ball, Q2, 2-10-CONN15 (11:05) 0-24
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+False Start against Connecticut. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 15 at the Connecticut 10.
+
+Connecticut ball, Q2, 2-15-CONN10 (11:05) 0-24
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB J. Casillas completes a 12 yard dump off to TE E. Lambert (OOB). OT R. Wilson earned a 
+pancake on the play.
+
+Connecticut ball, Q2, 3-3-CONN22 (10:54) 0-24
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+RB C. Baird runs right guard for 2 yards (OLB C. Penn). 
+
+Connecticut ball, Q2, 4-1-CONN24 (10:22) 0-24
+William Kendrick Punts 43 yards to the Cincinnati 33 yard line, where Sid Boone returns it 
+to Cincinnati 33 for a 0 yard return.
+
+Cincinnati ball, Q2, 1-10-CIN33 (10:03) 24-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB N. Dennis throws an incomplete pass to WR G. Lee.
+
+Cincinnati ball, Q2, 2-10-CIN33 (09:47) 24-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB R. Prather runs left end for 1 yard (OOB).
+
+Cincinnati ball, Q2, 3-9-CIN34 (09:36) 24-0
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB N. Dennis completes a 57 yard out to WR A. Leavitt (FS C. Wheeler, CB W. Jackson).  OT 
+W. Dubose earned a pancake on the play. SS J. Davis allowed the big play.
+
+Cincinnati ball, Q2, 1-9-CONN9 (09:11) 24-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB N. Dennis completes a 9 yard in to WR G. Lee ****Touchdown!*****
+
+Pass Interference against FS Charles Wheeler on Connecticut. The Penalty is for 9 yards, and 
+an automatic first down.
+The penalty will be declined.
+
+Cincinnati ball, Q2, 1-0-CONN0 (09:00) 30-0
+Brian Mcintyre converts the PAT.
+
+Cincinnati ball, Q2, 1-10-CIN35 (09:00) 31-0
+Francisco Wright kicks 66 from Cincinnati 35 to Connecticut -1. Gary Dean to Cincinnati 3 
+for a 98 yard return.
+
+Connecticut ball, Q2, 1-3-CIN3 (08:41) 0-31
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+RB J. Hernandez runs left tackle for 1 yard (OLB B. Wood).  OG R. Young missed a block that 
+hurt the play.
+
+Connecticut ball, Q2, 2-2-CIN2 (08:10) 0-31
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+RB C. Baird runs left guard for -1 yards (ILB C. Jackson). C J. Pitts missed a block that 
+hurt the play.
+
+Offsides against DT Travis Mccray on Cincinnati. The Penalty is for 1 yards.
+The Offense will accept the penalty. It is now Second and Goal at the Cincinnati 1.
+
+Connecticut ball, Q2, 2-1-CIN1 (07:56) 0-31
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+False Start against C James Pitts on Connecticut. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and Goal at the Cincinnati 6.
+
+Connecticut ball, Q2, 2-6-CIN6 (07:56) 0-31
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+QB J. Casillas completes a 5 yard hook to WR M. Manuel (CB B. Jacobs, CB T. German). 
+
+Connecticut ball, Q2, 3-1-CIN1 (07:34) 0-31
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+RB C. Baird runs left end for 1 yard ****Touchdown!*****
+
+Connecticut ball, Q2, 1-0-CIN0 (07:06) 6-31
+Duane Hopkins converts the PAT.
+
+Connecticut ball, Q2, 1-10-CONN35 (07:06) 7-31
+Wilbur Malone kicks 67 from Connecticut 35 to Cincinnati -2. Charles Collins to Cincinnati 
+19 for a 21 yard return.
+
+Cincinnati ball, Q2, 1-10-CIN19 (06:47) 31-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB R. Prather runs right end for 1 yard (ILB K. Plummer).  FB W. Crawford missed a block that 
+hurt the play.
+
+Cincinnati ball, Q2, 2-9-CIN20 (06:18) 31-7
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-slotrun-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+WR W. Carson runs right end for 1 yard (ILB K. Plummer). 
+
+Cincinnati ball, Q2, 3-8-CIN21 (06:03) 31-7
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB N. Dennis completes a 12 yard dump off to WR G. Lee (OLB H. Stokes, FS C. Wheeler).  G. 
+Lee made a great catch.
+
+Cincinnati ball, Q2, 1-10-CIN33 (05:42) 31-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+RB R. Prather runs left guard for 19 yards (CB W. Jackson, CB G. Dean).  FS C. Wheeler missed 
+a tackle.
+
+Cincinnati ball, Q2, 1-10-CONN48 (05:15) 31-7
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB N. Dennis completes a 7 yard dump off to WR W. Freeman (CB W. Jackson). 
+
+Cincinnati ball, Q2, 2-3-CONN41 (04:54) 31-7
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB N. Dennis completes a 22 yard streak to WR W. Freeman (CB G. Dean, CB W. Jackson). 
+
+Cincinnati ball, Q2, 1-10-CONN19 (04:31) 31-7
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB N. Dennis throws an incomplete pass to TE S. Morris.
+
+Cincinnati ball, Q2, 2-10-CONN19 (04:11) 31-7
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+False Start against OT Cecil Miller on Cincinnati. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 15 at the Connecticut 24.
+
+Cincinnati ball, Q2, 2-15-CONN24 (04:11) 31-7
+Offense: Medium Pass, Set: Trips, Play: TR-TE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB N. Dennis completes a 22 yard streak to WR W. Freeman (CB T. Norton). 
+
+Cincinnati ball, Q2, 1-2-CONN2 (03:45) 31-7
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+False Start against OG Alfonso Jackson on Cincinnati. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and Goal at the Connecticut 7.
+
+Cincinnati ball, Q2, 1-7-CONN7 (03:45) 31-7
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+RB R. Prather runs left end for -1 yards (OLB B. Hannah). OG A. Jackson missed a block that 
+hurt the play.
+
+Cincinnati ball, Q2, 2-8-CONN8 (03:17) 31-7
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB R. Prather runs left end for 1 yard (ILB K. Plummer).  OT C. Miller missed a block that 
+hurt the play.
+
+Cincinnati ball, Q2, 3-7-CONN7 (02:47) 31-7
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB N. Dennis completes a -1 yard dump off to RB R. Prather (ILB J. Briggs). 
+
+Cincinnati ball, Q2, 4-8-CONN8 (02:25) 31-7
+Brian Mcintyre converts the 26 yard field goal.
+
+Cincinnati ball, Q2, 1-10-CIN35 (02:09) 34-7
+Francisco Wright kicks 67 from Cincinnati 35 to Connecticut -2. Gary Dean to Connecticut 15 
+for a 17 yard return.
+
+Connecticut ball, Q2, 1-10-CONN15 (01:50) 7-34
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+RB J. Hernandez runs left guard for 1 yard (FS M. Harmon). 
+
+Connecticut ball, Q2, 2-9-CONN16 (01:23) 7-34
+Offense: Short Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Casillas throws an incomplete pass to WR R. Aguirre (CB B. Jacobs). CB B. Jacobs broke 
+up the pass.
+
+Connecticut ball, Q2, 3-9-CONN16 (01:15) 7-34
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB J. Casillas completes a 28 yard streak to WR M. Manuel (FS K. Snyder, FS M. Harmon).  OT 
+R. Wilson earned a pancake on the play. CB T. German allowed the big play.
+
+Connecticut ball, Q2, 1-10-CONN44 (00:46) 7-34
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB J. Casillas throws an incomplete pass to WR C. Tuttle.
+
+Connecticut ball, Q2, 2-10-CONN44 (00:39) 7-34
+Offense: Medium Pass, Set: Trips, Play: TR-TE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Casillas throws an incomplete pass to WR C. Tuttle (CB B. Jacobs). CB B. Jacobs broke 
+up the pass.
+
+Connecticut ball, Q2, 3-10-CONN44 (00:31) 7-34
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ-B7,8
+QB J. Casillas completes a 32 yard in to WR M. Manuel (FS K. Snyder).  SS A. Porter allowed 
+the big play.
+
+Connecticut Timeout!
+
+Connecticut ball, Q2, 1-10-CIN24 (00:25) 7-34
+Offense: Medium Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+J. Casillas has his 24 yard pass intercepted by C. Penn at the CIN 0. He kneels for the touchback.
+
+Connecticut ball, Q3, 1-10-CONN35 (15:00) 7-34
+Wilbur Malone kicks 55 from Connecticut 35 to Cincinnati 10. Charles Collins to Cincinnati 
+29 for a 19 yard return.
+
+Cincinnati ball, Q3, 1-10-CIN29 (14:45) 34-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB R. Prather runs right guard for 4 yards (CB G. Dean). 
+
+Cincinnati ball, Q3, 2-6-CIN33 (14:12) 34-7
+Offense: Short Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB N. Dennis completes a 14 yard out to TE S. Morris (OLB H. Stokes).  CB W. Jackson missed 
+a tackle.
+
+Cincinnati ball, Q3, 1-10-CIN47 (13:51) 34-7
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB N. Dennis throws an incomplete pass to WR A. Leavitt (CB W. Jackson). WR A. Leavitt dropped 
+the pass. DT D. Wagner hurried the QB. CB W. Jackson broke up the pass.
+
+Cincinnati ball, Q3, 2-10-CIN47 (13:34) 34-7
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB N. Dennis completes a 20 yard post to WR W. Carson (OOB). CB T. Norton missed a tackle.
+
+Cincinnati ball, Q3, 1-10-CONN33 (13:19) 34-7
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB N. Dennis runs outside for 0 yards (FS E. Jones). 
+
+Cincinnati ball, Q3, 2-10-CONN33 (12:58) 34-7
+Offense: Short Pass, Set: Trips, Play: TR-FL-in-SE-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB N. Dennis throws an incomplete pass to WR G. Lee (CB T. Norton). DE D. Mitchell hurried 
+the QB. CB T. Norton broke up the pass.
+
+Cincinnati ball, Q3, 3-10-CONN33 (12:43) 34-7
+Offense: Medium Pass, Set: Trips, Play: TR-TE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB N. Dennis completes a 23 yard streak to WR G. Lee (OOB). ILB K. Plummer was out of position 
+on the play.
+
+Cincinnati ball, Q3, 1-10-CONN10 (12:29) 34-7
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-RE
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB R. Prather runs right end for 5 yards (FS C. Wheeler). 
+
+Cincinnati ball, Q3, 2-5-CONN5 (11:57) 34-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+RB R. Prather runs left end for -4 yards (ILB K. Plummer).
+
+Cincinnati ball, Q3, 3-9-CONN9 (11:29) 34-7
+Offense: Short Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB N. Dennis completes a 7 yard in to WR G. Lee (CB T. Norton). 
+
+Cincinnati ball, Q3, 4-2-CONN2 (11:06) 34-7
+Brian Mcintyre converts the 20 yard field goal.
+
+Cincinnati ball, Q3, 1-10-CIN35 (10:49) 37-7
+Francisco Wright kicks 67 from Cincinnati 35 to Connecticut -2. Gary Dean to Connecticut 28 
+for a 30 yard return.
+
+Connecticut ball, Q3, 1-10-CONN28 (10:32) 7-37
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+J. Casillas has his 12 yard pass intercepted by C. Penn at the CONN 40. He returns it 0 yards 
+to the Connecticut 40.
+
+Cincinnati ball, Q3, 1-10-CONN40 (10:02) 37-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB N. Dennis completes a 6 yard streak to TE S. Morris (FS C. Wheeler). 
+
+Holding against C John Park on Cincinnati. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Connecticut 50.
+
+Cincinnati ball, Q3, 1-20-CONN50 (09:52) 37-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB R. Prather runs right tackle for 6 yards (CB T. Norton). 
+
+Cincinnati ball, Q3, 2-14-CONN44 (09:21) 37-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+RB R. Prather runs left tackle for 1 yard (FS C. Wheeler).  C J. Park missed a block that 
+hurt the play.
+
+Cincinnati ball, Q3, 3-13-CONN43 (08:50) 37-7
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB N. Dennis throws an incomplete pass to WR W. Carson. WR W. Carson dropped the pass.
+
+Cincinnati ball, Q3, 4-13-CONN43 (08:30) 37-7
+Nathaniel Little Punts 38 yards to the Connecticut 5 yard line, where it goes out of bounds.
+
+Connecticut ball, Q3, 1-10-CONN5 (08:14) 7-37
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B8
+RB J. Hernandez runs left guard for -1 yards (DT T. Mccray). OG A. Dickerson missed a block 
+that hurt the play.
+
+Connecticut ball, Q3, 2-11-CONN4 (07:46) 7-37
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB J. Casillas throws an incomplete pass to TE E. Lambert.
+
+Connecticut ball, Q3, 3-11-CONN4 (07:27) 7-37
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB J. Casillas completes a 15 yard in to TE E. Lambert (OLB C. Penn). 
+
+Holding against OT Alan Smith on Connecticut. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Third and 13 at the Connecticut 2.
+
+Connecticut ball, Q3, 3-13-CONN2 (07:17) 7-37
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B11
+QB J. Casillas completes a 17 yard dump off to WR R. Aguirre (SS A. Porter).  He fumbles the 
+ball after a hit by A. Porter. It's recovered by M. Harmon of Cincinnati. He returns it 0 yards to the Connecticut 19.
+
+Cincinnati ball, Q3, 1-10-CONN19 (06:54) 37-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB R. Prather runs left tackle for 4 yards (CB T. Norton). 
+
+Cincinnati ball, Q3, 1-10-CONN19 (06:54) 37-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+OT Willie Dubose (CIN) was injured on the play (Hamstring). It doesn't look like he will return.
+
+Cincinnati ball, Q3, 2-6-CONN15 (06:40) 37-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB R. Prather runs right end for 0 yards (ILB K. Plummer). 
+
+Cincinnati ball, Q3, 3-6-CONN15 (06:09) 37-7
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+QB N. Dennis throws an incomplete pass to WR W. Freeman. WR W. Freeman dropped the pass.
+
+Cincinnati ball, Q3, 4-6-CONN15 (05:50) 37-7
+Brian Mcintyre converts the 33 yard field goal.
+
+Cincinnati ball, Q3, 1-10-CIN35 (05:31) 40-7
+Francisco Wright kicks 55 from Cincinnati 35 to Connecticut 10. Gary Dean to Connecticut 43 
+for a 33 yard return.
+
+Connecticut ball, Q3, 1-10-CONN43 (05:15) 7-40
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB J. Casillas completes a 12 yard in to WR C. Tuttle (ILB C. Jackson, OLB C. Penn). 
+
+Connecticut ball, Q3, 1-10-CIN45 (04:52) 7-40
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB J. Casillas throws an incomplete pass to WR C. Tuttle (CB T. German). WR C. Tuttle dropped 
+the pass. CB T. German broke up the pass.
+
+Connecticut ball, Q3, 2-10-CIN45 (04:35) 7-40
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB J. Hernandez runs right guard for 1 yard (OLB B. Wood). 
+
+Connecticut ball, Q3, 3-9-CIN44 (04:08) 7-40
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+RB C. Baird runs left end for 1 yard (OLB C. Penn).  OT R. Wilson missed a block that hurt 
+the play.
+
+Connecticut ball, Q3, 4-8-CIN43 (03:36) 7-40
+William Kendrick Punts 43 yards to the end zone, Touchback.
+
+Cincinnati ball, Q3, 1-10-CIN20 (03:18) 40-7
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+QB N. Dennis completes a 10 yard hook to WR A. Leavitt (OOB).
+
+Cincinnati ball, Q3, 1-10-CIN30 (03:08) 40-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+RB R. Prather runs left guard for 7 yards (OLB H. Stokes). 
+
+Cincinnati ball, Q3, 2-3-CIN37 (02:39) 40-7
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-str-FL-curl
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB N. Dennis throws an incomplete pass to TE S. Morris.
+
+Cincinnati ball, Q3, 3-3-CIN37 (02:20) 40-7
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB N. Dennis completes a 28 yard out to WR W. Carson (ILB K. Plummer).  He fumbles the ball 
+after a hit by K. Plummer. It's recovered by A. Jackson of Cincinnati. C J. Park earned a pancake on the play.
+
+Cincinnati ball, Q3, 1-10-CONN35 (01:55) 40-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB R. Prather runs left guard for 11 yards (OLB D. Hyatt). 
+
+Cincinnati ball, Q3, 1-10-CONN24 (01:28) 40-7
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB N. Dennis completes a 21 yard hook to WR A. Leavitt (CB W. Jackson).  FS E. Jones missed 
+a tackle.
+
+Cincinnati ball, Q3, 1-10-CONN24 (01:28) 40-7
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+CB Terry Norton (CONN) was injured on the play (Ankle). It doesn't look too serious and he 
+should return.
+
+Cincinnati ball, Q3, 1-3-CONN3 (01:12) 40-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+RB R. Prather runs right tackle for -3 yards (ILB K. Plummer). C J. Park missed a block that 
+hurt the play.
+
+Cincinnati ball, Q3, 2-6-CONN6 (00:39) 40-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+RB R. Prather runs right tackle for 0 yards (DT D. Wagner). 
+
+Cincinnati ball, Q3, 3-6-CONN6 (00:11) 40-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+RB R. Prather runs left guard for -1 yards (OLB H. Stokes). OT C. Miller missed a block that 
+hurt the play.
+
+Cincinnati ball, Q4, 4-7-CONN7 (15:00) 40-7
+Brian Mcintyre converts the 25 yard field goal.
+
+Cincinnati ball, Q4, 1-10-CIN35 (14:42) 43-7
+Francisco Wright kicks 67 from Cincinnati 35 to Connecticut -2. Gary Dean to Connecticut 15 
+for a 17 yard return.
+
+Connecticut ball, Q4, 1-10-CONN15 (14:24) 7-43
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Casillas throws an incomplete pass to WR C. Tuttle.
+
+Connecticut ball, Q4, 2-10-CONN15 (14:04) 7-43
+Offense: Long Pass, Set: SingleBack, Play: SB-WR3-slant-FL-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB J. Casillas throws an incomplete pass to WR C. Tuttle. WR C. Tuttle dropped the pass.
+
+Holding against C James Pitts on Connecticut. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 18 at the Connecticut 7.
+
+Connecticut ball, Q4, 2-18-CONN7 (13:49) 7-43
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB C. Baird runs left end for 3 yards (FS M. Harmon). 
+
+Connecticut ball, Q4, 3-15-CONN10 (13:17) 7-43
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B8
+QB J. Casillas completes a 8 yard hook to WR C. Tuttle (OOB).
+
+Connecticut ball, Q4, 4-7-CONN18 (12:59) 7-43
+William Kendrick Punts 27 yards to the Connecticut 45 yard line, where Sid Boone returns it 
+to Connecticut 36 for a 9 yard return.
+
+Cincinnati ball, Q4, 1-10-CONN36 (12:41) 43-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Run, Set: Dime, Play: Dime-run-SZ
+RB R. Prather runs right guard for 1 yard (DT C. Barber). 
+
+Cincinnati ball, Q4, 2-9-CONN35 (12:08) 43-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB R. Prather runs left guard for 7 yards (FS C. Wheeler).  C J. Park had a key block on the 
+run. CB G. Dean was out of position on the play.
+
+Cincinnati ball, Q4, 3-2-CONN28 (11:42) 43-7
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB N. Dennis completes a 12 yard hook to WR A. Leavitt (FS C. Wheeler, CB G. Dean).  N. Dennis 
+with the great pass.
+
+Cincinnati ball, Q4, 1-10-CONN16 (11:18) 43-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB R. Prather runs left tackle for 1 yard (CB W. Jackson). 
+
+Cincinnati ball, Q4, 2-9-CONN15 (10:45) 43-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB R. Prather runs right guard for 7 yards (OLB H. Stokes).  OLB H. Stokes missed a tackle.
+
+Cincinnati ball, Q4, 2-9-CONN15 (10:45) 43-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+DE Daniel Mitchell (CONN) was injured on the play (Elbow). It doesn't look like he will return.
+
+Cincinnati ball, Q4, 3-2-CONN8 (10:28) 43-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB N. Dennis throws an incomplete pass to WR G. Lee.
+
+Cincinnati ball, Q4, 4-2-CONN8 (10:12) 43-7
+Brian Mcintyre converts the 26 yard field goal.
+
+Cincinnati ball, Q4, 1-10-CIN35 (09:54) 46-7
+Francisco Wright kicks 55 from Cincinnati 35 to Connecticut 10. Gary Dean to Connecticut 41 
+for a 31 yard return.
+
+Connecticut ball, Q4, 1-10-CONN41 (09:36) 7-46
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB C. Baird runs right tackle for 5 yards (FS M. Harmon). 
+
+Connecticut ball, Q4, 2-5-CONN46 (09:07) 7-46
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5-L
+QB J. Casillas gets sacked for a 11 yard loss (ILB C. Jackson).  C J. Pitts allowed the sack.
+
+Connecticut ball, Q4, 3-16-CONN35 (08:50) 7-46
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB C. Baird runs left end for 9 yards (FS K. Snyder).  CB B. Jacobs was out of position on 
+the play.
+
+Connecticut ball, Q4, 4-7-CONN44 (08:18) 7-46
+William Kendrick Punts 27 yards to the Cincinnati 29 yard line, where Sid Boone returns it 
+to Cincinnati 32 for a 3 yard return.
+
+Cincinnati ball, Q4, 1-10-CIN32 (07:58) 46-7
+Offense: Medium Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB N. Dennis completes a 28 yard post to WR A. Leavitt (OOB). OT C. Miller earned a pancake 
+on the play.
+
+Cincinnati ball, Q4, 1-10-CONN40 (07:48) 46-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB R. Prather runs right tackle for 0 yards (DT C. Barber).  OG A. Jackson missed a block 
+that hurt the play.
+
+Cincinnati ball, Q4, 1-10-CONN40 (07:48) 46-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+OT Cecil Miller (CIN) was injured on the play (Shoulder). It doesn't look like he will return.
+
+Cincinnati ball, Q4, 2-10-CONN40 (07:32) 46-7
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB N. Dennis completes a 19 yard in to WR G. Lee (CB G. Dean, OLB D. Hyatt).  N. Dennis with 
+the great pass.
+
+Cincinnati ball, Q4, 1-10-CONN21 (07:07) 46-7
+Offense: Short Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+N. Dennis has his 10 yard pass intercepted by D. Hyatt at the CONN 11. He returns it 10 yards 
+to the Connecticut 21.
+
+Connecticut ball, Q4, 1-10-CONN21 (06:50) 7-46
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB J. Casillas gets sacked for a 5 yard loss (DT T. Mccray).  OT A. Smith allowed the sack.
+
+Connecticut ball, Q4, 1-10-CONN21 (06:50) 7-46
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB James Casillas (CONN) was injured on the play (Knee). It doesn't look too serious and he 
+should return.
+
+Connecticut ball, Q4, 2-15-CONN16 (06:31) 7-46
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+RB J. Hernandez runs right end for 9 yards (OLB B. Wood).  SS A. Porter missed a tackle.
+
+Connecticut ball, Q4, 3-6-CONN25 (06:04) 7-46
+Offense: Short Pass, Set: Trips, Play: TR-FL-in-SE-post
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B5
+QB S. Powell throws an incomplete pass to WR C. Tuttle (OLB J. Queen). OLB J. Queen broke 
+up the pass.
+
+Connecticut ball, Q4, 4-6-CONN25 (05:44) 7-46
+William Kendrick Punts 29 yards to the Cincinnati 46 yard line, where Sid Boone returns it 
+to Cincinnati 48 for a 2 yard return.
+
+Cincinnati ball, Q4, 1-10-CIN48 (05:24) 46-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB R. Roberts runs left guard for 0 yards (DE R. Snow). 
+
+Illegal Motion against Cincinnati. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Cincinnati 43.
+
+Cincinnati ball, Q4, 1-15-CIN43 (05:13) 46-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB R. Roberts runs left end for 4 yards (OLB D. Hyatt). 
+
+Cincinnati ball, Q4, 2-11-CIN47 (04:43) 46-7
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB M. Baker throws an incomplete pass to WR G. Lee.
+
+Cincinnati ball, Q4, 3-11-CIN47 (04:27) 46-7
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-out-WR3-curl
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB N. Dennis gets sacked for a 6 yard loss (OLB D. Hyatt).  OT T. Pena allowed the sack.
+
+Holding against OT Thomas Pena on Cincinnati. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Cincinnati ball, Q4, 4-17-CIN41 (04:13) 46-7
+Nathaniel Little Punts 54 yards to the Connecticut 5 yard line, where it gets downed.
+
+Connecticut ball, Q4, 1-10-CONN5 (03:57) 7-46
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB S. Powell throws an incomplete pass to WR C. Tuttle. DE J. Turner hurried the QB.
+
+Connecticut ball, Q4, 2-10-CONN5 (03:41) 7-46
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB J. Hernandez runs left guard for -2 yards (OLB C. Penn).
+
+Connecticut ball, Q4, 3-12-CONN3 (03:09) 7-46
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB S. Powell throws an incomplete pass to RB C. Baird (OLB C. Penn). OLB C. Penn broke up 
+the pass.
+
+Connecticut ball, Q4, 4-12-CONN3 (02:53) 7-46
+William Kendrick Punts 51 yards to the Cincinnati 46 yard line, where Sid Boone returns it 
+to Connecticut 47 for a 7 yard return.
+
+Cincinnati ball, Q4, 1-10-CONN47 (02:36) 46-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+RB R. Prather runs right guard for 1 yard (DT A. Smith).  OT B. Moore missed a block that 
+hurt the play.
+
+Illegal Crackback Block against TE Samuel Morris on Cincinnati. The Penalty is for 15 yards.
+The Defense will accept the penalty. It is now First and 25 at the Cincinnati 38.
+
+Cincinnati ball, Q4, 1-25-CIN38 (02:23) 46-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+RB R. Roberts runs right guard for 5 yards (OLB B. Hannah). 
+
+Cincinnati ball, Q4, 2-20-CIN43 (01:52) 46-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+RB R. Prather runs left tackle for 8 yards (OLB D. Hyatt).  C J. Park had a key block on the 
+run. FS E. Jones missed a tackle.
+
+Cincinnati ball, Q4, 3-12-CONN49 (01:20) 46-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB R. Prather runs right guard for 10 yards (FS E. Jones).  CB T. Norton missed a tackle.
+
+Illegal Motion against Cincinnati. The Penalty is for 5 yards.
+The penalty will be declined.
+
+Cincinnati ball, Q4, 4-2-CONN39 (01:08) 46-7
+Nathaniel Little Punts 35 yards to the Connecticut 4 yard line, where it goes out of bounds.
+
+Connecticut ball, Q4, 1-10-CONN4 (01:02) 7-46
+Offense: Short Pass, Set: Trips, Play: TR-TE-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB S. Powell completes a 6 yard screen to TE C. Stanton (OLB C. Penn). 
+
+Connecticut Timeout!
+
+Connecticut ball, Q4, 2-4-CONN10 (00:54) 7-46
+Offense: Long Pass, Set: Quads, Play: Q-WR3-in-WR4-up
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB S. Powell gets sacked for a 8 yard loss (OLB C. Penn).  OG R. Young allowed the sack.
+
+Connecticut ball, Q4, 3-12-CONN2 (00:47) 7-46
+Offense: Long Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB S. Powell completes a 57 yard streak to WR D. Lackey (ILB C. Jackson).  OG R. Young earned 
+a pancake on the play. FS K. Snyder allowed the big play.
+
+Connecticut Timeout!
+
+Connecticut ball, Q4, 1-10-CIN41 (00:40) 7-46
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB S. Powell completes a 6 yard hook to WR C. Tuttle (CB R. Etheridge). 
+
+Connecticut Timeout!
+
+Connecticut ball, Q4, 2-4-CIN35 (00:32) 7-46
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB S. Powell throws an incomplete pass to WR D. Lackey. DE J. Turner hurried the QB.
+
+Connecticut ball, Q4, 3-4-CIN35 (00:24) 7-46
+Offense: Medium Pass, Set: Trips, Play: TR-TE-playact-corner
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B5
+QB S. Powell throws an incomplete pass to WR D. Lackey.
+
+Connecticut ball, Q4, 4-4-CIN35 (00:16) 7-46
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB S. Powell throws an incomplete pass to WR R. Aguirre.
+
+Cincinnati ball, Q4, 1-10-CIN35 (00:09) 46-7
+Offense: Inside Run, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+The QB takes a knee.
+

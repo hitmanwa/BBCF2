@@ -1,0 +1,969 @@
+Purdue ball, Q1, 1-10-PUR35 (15:00) 0-0
+David Butler kicks 55 from Purdue 35 to Rutgers 10. Jonathan Nichols to Rutgers 35 for a 25 
+yard return.
+
+Rutgers ball, Q1, 1-10-RUT35 (14:41) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB C. Knight runs right guard for 2 yards (CB M. Smith). 
+
+Rutgers ball, Q1, 2-8-RUT37 (14:12) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB R. Hancock completes a 2 yard hook to WR J. Nichols (ILB G. Miller). 
+
+Rutgers ball, Q1, 3-6-RUT39 (13:51) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6
+QB R. Hancock completes a 59 yard hook to WR J. Hicks (CB M. Smith).  He fumbles the ball 
+after a hit by M. Smith. It's recovered by D. Hall of Purdue. He returns it 0 yards to the Purdue 2. OG J. Brown earned a pancake on the play. OLB D. Hall allowed the big play.
+
+Purdue ball, Q1, 1-10-PUR2 (13:24) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ
+RB C. Fowler runs left end for -2 yards (SS A. Jensen).
+
+Purdue ball, Q1, 1-10-PUR2 (12:51) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ
+The ball carrier gets tackled in the endzone for a safety!
+
+Purdue ball, Q1, 1-10-PUR25 (12:51) 0-2
+David Butler kicks 59 from Purdue 25 to Rutgers 16. Jonathan Nichols to Rutgers 40 for a 24 
+yard return. He fumbles the ball after a hit by J. Black. It's recovered by F. Davis of Purdue. He returns it 0 yards to the Rutgers 40.
+
+Purdue ball, Q1, 1-10-RUT40 (12:23) 0-2
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB J. Porter runs right guard for -2 yards (DT T. Alfaro).
+
+Purdue ball, Q1, 2-12-RUT42 (11:50) 0-2
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+QB S. Means completes a 3 yard in to WR J. Martinez (OLB J. Watson, FS M. Trent). 
+
+Purdue ball, Q1, 3-9-RUT39 (11:29) 0-2
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB S. Means completes a 14 yard screen to RB C. Fowler (CB S. Oconnor, CB W. Gomes).  S. Means 
+with the great pass. OG G. Peterson earned a pancake on the play.
+
+Purdue ball, Q1, 1-10-RUT25 (11:07) 0-2
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB S. Means throws an incomplete pass to WR C. Thomas (CB S. Oconnor). WR C. Thomas dropped 
+the pass. CB S. Oconnor broke up the pass.
+
+Purdue ball, Q1, 2-10-RUT25 (10:47) 0-2
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB J. Porter runs right tackle for 7 yards (OOB). C E. Forsythe had a key block on the run. 
+CB W. Gomes missed a tackle.
+
+Purdue ball, Q1, 3-3-RUT18 (10:31) 0-2
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB S. Means completes a 5 yard cross to WR C. Langford (SS T. Graham). 
+
+Purdue ball, Q1, 1-10-RUT13 (10:03) 0-2
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-LE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB C. Fowler runs left end for 2 yards (OLB R. Beard). 
+
+Illegal Motion against Purdue. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Rutgers 18.
+
+Purdue ball, Q1, 1-15-RUT18 (09:51) 0-2
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB J. Porter runs left end for -2 yards (SS T. Graham).
+
+Purdue ball, Q1, 2-17-RUT20 (09:35) 0-2
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB S. Means completes a 4 yard hook to WR C. Thomas (SS A. Jensen, FS M. Trent). 
+
+Purdue ball, Q1, 3-13-RUT16 (09:14) 0-2
+Offense: Outside Run, Set: Trips, Play: TR-WR-endaround-RE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+WR C. Thomas runs right end for -4 yards (ILB O. Horn).
+
+Purdue ball, Q1, 4-17-RUT20 (08:48) 0-2
+Andrew Ashley converts the 38 yard field goal.
+
+Purdue ball, Q1, 1-10-PUR35 (08:31) 3-2
+David Butler kicks 75 from Purdue 35 to end zone, Touchback.
+
+Rutgers ball, Q1, 1-10-RUT20 (08:16) 2-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+RB C. Knight runs right end for 4 yards (FS R. White). 
+
+Rutgers ball, Q1, 2-6-RUT24 (07:49) 2-3
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-HBfake-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+WR J. Hicks runs right tackle for 1 yard (OLB J. Osborne). 
+
+Rutgers ball, Q1, 3-5-RUT25 (07:17) 2-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+RB C. Knight runs right guard for 3 yards (FS S. Williams, SS M. Daniels). 
+
+Rutgers ball, Q1, 4-2-RUT28 (06:49) 2-3
+Russell Messina Punts 42 yards to the Purdue 30 yard line, where Anthony Johnson returns it 
+to Purdue 30 for a 0 yard return.
+
+Purdue ball, Q1, 1-10-PUR30 (06:34) 3-2
+Offense: Long Pass, Set: Quads, Play: Q-WR3-corner-FL-post
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB S. Means completes a 52 yard streak to WR C. Obrien (OLB J. Watson).  FS M. Trent allowed 
+the big play.
+
+Purdue ball, Q1, 1-10-RUT18 (06:08) 3-2
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB S. Means completes a 2 yard in to WR J. Martinez (SS A. Jensen). 
+
+Purdue ball, Q1, 2-8-RUT16 (05:47) 3-2
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B11
+QB S. Means completes a 15 yard cross to WR C. Langford (CB W. Gomes, CB J. Flores). 
+
+Purdue ball, Q1, 1-1-RUT1 (05:24) 3-2
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+RB C. Fowler runs right guard for 1 yard ****Touchdown!***** TE S. Hernandez missed a block 
+that hurt the play.
+
+Purdue ball, Q1, 1-0-RUT0 (04:57) 9-2
+Andrew Ashley converts the PAT.
+
+Purdue ball, Q1, 1-10-PUR35 (04:57) 10-2
+David Butler kicks 67 from Purdue 35 to Rutgers -2. Jonathan Nichols to Rutgers 26 for a 28 
+yard return.
+
+Rutgers ball, Q1, 1-10-RUT26 (04:39) 2-10
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB C. Knight runs right guard for 1 yard (OLB J. Osborne).  OT R. Hayes missed a block that 
+hurt the play.
+
+Rutgers ball, Q1, 2-9-RUT27 (04:07) 2-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+False Start against Rutgers. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 14 at the Rutgers 22.
+
+Rutgers ball, Q1, 2-14-RUT22 (04:07) 2-10
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+RB C. Knight runs right guard for 4 yards (CB J. Simon). 
+
+Rutgers ball, Q1, 3-10-RUT26 (03:38) 2-10
+Offense: Long Pass, Set: SingleBack, Play: SB-WR3-slant-FL-str
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+QB R. Hancock throws an incomplete pass to WR A. Hampton. WR A. Hampton ran an incorrect route.
+
+Rutgers ball, Q1, 4-10-RUT26 (03:19) 2-10
+Russell Messina Punts 41 yards to the Purdue 33 yard line, where Anthony Johnson returns it 
+to Purdue 37 for a 4 yard return.
+
+Grabbing Face Mask against TE Philip Cochran on Rutgers. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Purdue 42.
+
+Purdue ball, Q1, 1-10-PUR42 (03:09) 10-2
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+RB J. Porter runs left end for 9 yards (ILB T. Stewart). 
+
+Grabbing Face Mask against ILB Otto Horn on Rutgers. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Rutgers 44.
+
+Purdue ball, Q1, 1-10-RUT44 (02:57) 10-2
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB S. Means throws an incomplete pass to WR C. Thomas.
+
+Purdue ball, Q1, 1-10-RUT44 (02:57) 10-2
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB Simon Means (PUR) was injured on the play (OK). It doesn't look like he will return.
+
+Purdue ball, Q1, 2-10-RUT44 (02:42) 10-2
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ-B5,6,7,8
+QB R. Coleman runs left end for 2 yards (OLB R. Beard, ILB T. Stewart). 
+
+Purdue ball, Q1, 3-8-RUT42 (02:13) 10-2
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB C. Fowler runs right guard for 7 yards (FS M. Trent). 
+
+Purdue ball, Q1, 4-1-RUT35 (01:45) 10-2
+Timothy Norris Punts 16 yards to the Rutgers 19 yard line, where it goes out of bounds.
+
+Rutgers ball, Q1, 1-10-RUT19 (01:29) 2-10
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB C. Knight runs right guard for 0 yards (OLB J. Osborne). 
+
+Rutgers ball, Q1, 1-10-RUT19 (01:29) 2-10
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+OG Nathan Perkins (RUT) was injured on the play (Foot). It doesn't look too serious and he 
+should return.
+
+Rutgers ball, Q1, 2-10-RUT19 (01:15) 2-10
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB R. Hancock throws an incomplete pass to WR A. Hampton. WR A. Hampton dropped the pass. 
+DE R. Cooley hurried the QB.
+
+Rutgers ball, Q1, 3-10-RUT19 (01:00) 2-10
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+False Start against C Jerome Alvarez on Rutgers. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 15 at the Rutgers 14.
+
+Rutgers ball, Q1, 3-15-RUT14 (01:00) 2-10
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB C. Knight runs left end for -4 yards (SS M. Daniels). OG N. Perkins missed a block that 
+hurt the play.
+
+Rutgers ball, Q1, 4-19-RUT10 (00:27) 2-10
+Russell Messina Punts 43 yards to the Purdue 47 yard line, where Anthony Johnson returns it 
+to Purdue 47 for a 0 yard return.
+
+Purdue ball, Q1, 1-10-PUR47 (00:11) 10-2
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB J. Porter runs right tackle for 1 yard (CB W. Gomes).  OG C. Meade missed a block that 
+hurt the play.
+
+Purdue ball, Q2, 2-9-PUR48 (15:00) 10-2
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB J. Porter runs left tackle for 0 yards (ILB T. Stewart). 
+
+Purdue ball, Q2, 3-9-PUR48 (14:28) 10-2
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB R. Coleman throws an incomplete pass to WR C. Langford.
+
+Purdue ball, Q2, 4-9-PUR48 (14:12) 10-2
+Timothy Norris Punts 44 yards to the Rutgers 8 yard line, where it gets downed.
+
+Rutgers ball, Q2, 1-10-RUT8 (13:55) 2-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB C. Knight runs right end for -4 yards (OLB D. Hall).
+
+Rutgers ball, Q2, 2-14-RUT4 (13:24) 2-10
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB R. Hancock completes a 11 yard post to WR J. Hicks (CB M. Smith).  OLB D. Hall was out 
+of position on the play.
+
+Rutgers ball, Q2, 3-3-RUT15 (13:08) 2-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB C. Knight runs left guard for 10 yards (FS S. Williams, FS R. White).  OLB D. Hall was 
+out of position on the play.
+
+Rutgers ball, Q2, 1-10-RUT25 (12:36) 2-10
+Offense: Long Pass, Set: Trips, Play: TR-TE-in-SE-post
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+QB R. Hancock completes a 66 yard post to WR J. Nichols (OOB). CB J. Simon allowed the big 
+play.
+
+Rutgers ball, Q2, 1-9-PUR9 (12:26) 2-10
+Offense: Inside Run, Set: Quads, Play: Q-QB-draw-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB R. Hancock scrambles out of the pocket and gets sacked for a 2 yard loss (DT F. Booth). 
+ OT R. Hayes allowed the sack.
+
+Rutgers ball, Q2, 2-11-PUR11 (11:53) 2-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB C. Knight runs right end for -2 yards (OLB D. Hall).
+
+Rutgers ball, Q2, 3-13-PUR13 (11:24) 2-10
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB R. Hancock completes a 1 yard screen to RB C. Knight (DE R. Cooley). 
+
+Rutgers ball, Q2, 4-12-PUR12 (11:02) 2-10
+Joe Adams misses the 30 yard field goal. It will be Purdue ball at the PUR 20
+
+12 players on the field against Rutgers. The Penalty is for 5 yards.
+The penalty will be declined.
+
+Purdue ball, Q2, 1-10-PUR20 (10:52) 10-2
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB R. Coleman throws an incomplete pass to WR C. Thomas.
+
+Purdue ball, Q2, 2-10-PUR20 (10:34) 10-2
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+RB C. Fowler runs left end for 1 yard (ILB O. Horn).  OG C. Meade missed a block that hurt 
+the play.
+
+Purdue ball, Q2, 3-9-PUR21 (10:05) 10-2
+Offense: Short Pass, Set: Trips, Play: TR-FL-in-SE-post
+Defense: Stop Pass, Set: 4-4, Play: 44-norm-Man-Spy
+QB R. Coleman throws an incomplete pass to WR C. Langford.
+
+Purdue ball, Q2, 4-9-PUR21 (09:49) 10-2
+Timothy Norris Punts 31 yards to the Rutgers 48 yard line, where Shannon Oconnor returns it 
+to Purdue 49 for a 3 yard return.
+
+Rutgers ball, Q2, 1-10-PUR49 (09:31) 2-10
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB R. Hancock throws an incomplete pass to WR A. Hampton.
+
+Rutgers ball, Q2, 2-10-PUR49 (09:14) 2-10
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB C. Knight runs left end for 11 yards (FS S. Williams).  CB J. Simon missed a tackle.
+
+Rutgers ball, Q2, 1-10-PUR38 (08:47) 2-10
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-MZ-B7,8
+QB R. Hancock throws an incomplete pass to WR A. Hampton. R. Hancock made a bad pass.
+
+Rutgers ball, Q2, 2-10-PUR38 (08:30) 2-10
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB C. Knight runs right end for 1 yard (OOB).
+
+Rutgers ball, Q2, 3-9-PUR37 (08:19) 2-10
+Offense: Medium Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+QB R. Hancock throws an incomplete pass to WR J. Nichols.
+
+Rutgers ball, Q2, 4-9-PUR37 (08:04) 2-10
+Russell Messina Punts 23 yards to the Purdue 14 yard line, where it goes out of bounds.
+
+Purdue ball, Q2, 1-10-PUR14 (07:44) 10-2
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB R. Coleman completes a 12 yard dump off to WR C. Obrien (OOB). R. Coleman with the great 
+pass.
+
+Purdue ball, Q2, 1-10-PUR26 (07:34) 10-2
+Offense: Medium Pass, Set: Trips, Play: TR-FL-in-SE-post
+Defense: Stop Pass, Set: 4-4, Play: 44-run-Man-B5,8
+QB R. Coleman throws an incomplete pass to WR C. Thomas.
+
+Purdue ball, Q2, 2-10-PUR26 (07:18) 10-2
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB J. Porter runs right guard for -1 yards (DE T. Neff). J. Porter missed a hole that could 
+have resulted in a bigger gain.
+
+Purdue ball, Q2, 3-11-PUR25 (06:48) 10-2
+Offense: Long Pass, Set: Quads, Play: Q-WR3-in-WR4-up
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB R. Coleman throws an incomplete pass to WR C. Langford (CB S. Oconnor). CB S. Oconnor broke 
+up the pass.
+
+Holding against CB William Gomes on Rutgers. The Penalty is for 10 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Purdue 35.
+
+Purdue ball, Q2, 1-10-PUR35 (06:38) 10-2
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB R. Coleman throws an incomplete pass to WR J. Martinez (CB S. Oconnor). CB S. Oconnor broke 
+up the pass.
+
+Holding against OG George Peterson on Purdue. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Purdue 25.
+
+Purdue ball, Q2, 1-20-PUR25 (06:27) 10-2
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB C. Fowler runs left tackle for -3 yards (OLB R. Beard). OG C. Meade missed a block that 
+hurt the play.
+
+Purdue ball, Q2, 2-23-PUR22 (06:01) 10-2
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB J. Porter runs right guard for 4 yards (ILB O. Horn). 
+
+Purdue ball, Q2, 3-19-PUR26 (05:30) 10-2
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6
+QB R. Coleman completes a 2 yard hook to WR C. Langford (ILB O. Horn). 
+
+Pass Interference against CB William Gomes on Rutgers. The Penalty is for 2 yards, and an 
+automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Purdue 28.
+
+Purdue ball, Q2, 1-10-PUR28 (05:16) 10-2
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+QB R. Coleman completes a 11 yard in to WR C. Langford (SS T. Graham).  CB S. Oconnor missed 
+a tackle.
+
+Purdue ball, Q2, 1-10-PUR39 (04:49) 10-2
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB C. Fowler runs left guard for 16 yards (CB W. Gomes).  SS T. Graham was out of position 
+on the play.
+
+Purdue ball, Q2, 1-10-RUT45 (04:22) 10-2
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+QB R. Coleman completes a 20 yard in to WR J. Martinez (CB W. Gomes, ILB O. Horn).  OT D. 
+Arredondo earned a pancake on the play.
+
+Purdue ball, Q2, 1-10-RUT25 (03:54) 10-2
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB C. Fowler runs right guard for 1 yard (SS T. Graham). 
+
+Purdue ball, Q2, 2-9-RUT24 (03:26) 10-2
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB J. Porter runs right guard for 3 yards (CB S. Oconnor). 
+
+Purdue ball, Q2, 3-6-RUT21 (02:55) 10-2
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB R. Coleman completes a 18 yard hook to WR C. Langford (OLB J. Watson, ILB O. Horn).  OG 
+G. Peterson earned a pancake on the play. CB J. Flores missed a tackle.
+
+Purdue ball, Q2, 1-3-RUT3 (02:29) 10-2
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-HBfake-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+WR C. Thomas runs right end for 2 yards (OLB J. Watson). 
+
+Purdue ball, Q2, 2-1-RUT1 (02:02) 10-2
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+RB C. Fowler runs left guard for -2 yards (ILB T. Stewart).
+
+Purdue ball, Q2, 3-3-RUT3 (01:53) 10-2
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Goal Line, Play: GL-run-BlitzAll
+QB R. Coleman completes a 3 yard cross to WR J. Martinez ****Touchdown!*****
+
+Purdue ball, Q2, 1-0-RUT0 (01:31) 16-2
+Andrew Ashley converts the PAT.
+
+Purdue ball, Q2, 1-10-PUR35 (01:31) 17-2
+David Butler kicks 55 from Purdue 35 to Rutgers 10. Jonathan Nichols to Rutgers 37 for a 27 
+yard return.
+
+Rutgers ball, Q2, 1-10-RUT37 (01:16) 2-17
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB R. Hancock completes a 40 yard hook to RB C. Knight (OOB). C. Knight made a great catch. 
+OG N. Perkins earned a pancake on the play.
+
+Rutgers ball, Q2, 1-10-PUR23 (01:09) 2-17
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B11
+QB R. Hancock completes a 7 yard out to WR J. Nichols (OOB).
+
+Rutgers ball, Q2, 2-3-PUR16 (01:03) 2-17
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB R. Hancock throws an incomplete pass to WR J. Nichols (FS A. Johnson). FS A. Johnson broke 
+up the pass.
+
+Rutgers ball, Q2, 3-3-PUR16 (00:57) 2-17
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB R. Hancock throws an incomplete pass to WR A. Hampton.
+
+Rutgers ball, Q2, 4-3-PUR16 (00:51) 2-17
+Joe Adams converts the 34 yard field goal.
+
+Rutgers ball, Q2, 1-10-RUT35 (00:44) 5-17
+Anthony Roberts kicks 73 from Rutgers 35 to end zone, Touchback.
+
+Purdue ball, Q2, 1-10-PUR20 (00:37) 17-5
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB C. Fowler runs right guard for 3 yards (CB W. Gomes, OLB R. Beard). 
+
+Rutgers Timeout!
+
+Purdue ball, Q2, 2-7-PUR23 (00:28) 17-5
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+RB J. Porter runs right end for 10 yards (OOB). OT I. Smith had a key block on the run. CB 
+W. Gomes missed a tackle.
+
+Purdue ball, Q2, 1-10-PUR33 (00:21) 17-5
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+RB J. Porter runs right guard for 3 yards (OLB R. Beard, ILB O. Horn). 
+
+Rutgers Timeout!
+
+Purdue ball, Q2, 2-7-PUR36 (00:14) 17-5
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+The QB takes a knee.
+
+Rutgers ball, Q3, 1-10-RUT35 (15:00) 5-17
+Anthony Roberts kicks 54 from Rutgers 35 to Purdue 11. Jason Porter to Rutgers 44 for a 45 
+yard return.
+
+Purdue ball, Q3, 1-10-RUT44 (14:40) 17-5
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+RB C. Fowler runs left end for -4 yards (SS T. Graham). C E. Forsythe missed a block that 
+hurt the play.
+
+Purdue ball, Q3, 2-14-RUT48 (14:11) 17-5
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB R. Coleman throws an incomplete pass to WR C. Thomas. WR C. Thomas dropped the pass.
+
+Roughing the Passer against DE Joe Quinn on Rutgers. The Penalty is for 15 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Rutgers 33.
+
+Purdue ball, Q3, 1-10-RUT33 (14:01) 17-5
+Offense: Short Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB R. Coleman throws an incomplete pass to WR C. Thomas.
+
+Purdue ball, Q3, 2-10-RUT33 (13:42) 17-5
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB R. Coleman completes a 22 yard hook to WR C. Langford (FS M. Trent).  He fumbles the ball 
+after a hit by M. Trent. It's recovered by C. Obrien of Purdue.
+
+Purdue ball, Q3, 1-10-RUT11 (13:19) 17-5
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB J. Porter runs right end for 2 yards (OOB).
+
+Purdue ball, Q3, 2-8-RUT9 (13:01) 17-5
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB C. Fowler runs left guard for 4 yards (SS A. Jensen, CB J. Flores). 
+
+Purdue ball, Q3, 3-4-RUT5 (12:35) 17-5
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+RB C. Fowler runs right tackle for -4 yards (ILB T. Stewart).
+
+Purdue ball, Q3, 4-8-RUT9 (12:03) 17-5
+Andrew Ashley converts the 27 yard field goal.
+
+Purdue ball, Q3, 1-10-PUR35 (11:45) 20-5
+David Butler kicks 55 from Purdue 35 to Rutgers 10. Jonathan Nichols to Rutgers 41 for a 31 
+yard return.
+
+Rutgers ball, Q3, 1-10-RUT41 (11:25) 5-20
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB C. Knight runs right end for 9 yards (OLB J. Osborne, CB J. Simon).  OG N. Perkins had 
+a key block on the run.
+
+Rutgers ball, Q3, 2-1-RUT50 (10:54) 5-20
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+QB B. Cross throws an incomplete pass to WR J. Nichols.
+
+Rutgers ball, Q3, 3-1-RUT50 (10:36) 5-20
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+False Start against OT Robert Hayes on Rutgers. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 6 at the Rutgers 45.
+
+Rutgers ball, Q3, 3-6-RUT45 (10:36) 5-20
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB R. Hancock completes a 11 yard post to WR J. Hicks (OLB J. Osborne, FS R. White). 
+
+Rutgers ball, Q3, 1-10-PUR44 (10:08) 5-20
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB R. Hancock throws an incomplete pass to WR J. Hicks.
+
+Rutgers ball, Q3, 2-10-PUR44 (09:50) 5-20
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB M. May runs left end for 5 yards He fumbles the ball after a hit by R. Cooley. It's recovered 
+by P. Cochran of Rutgers.
+
+Rutgers ball, Q3, 3-5-PUR39 (09:19) 5-20
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB R. Hancock completes a 26 yard in to WR J. Hicks (FS S. Williams, OLB D. Hall).  SS M. 
+Daniels allowed the big play.
+
+Rutgers ball, Q3, 1-10-PUR13 (08:54) 5-20
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB C. Knight runs left guard for 5 yards (OLB J. Osborne). 
+
+Rutgers ball, Q3, 2-5-PUR8 (08:27) 5-20
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB C. Knight runs left end for 8 yards ****Touchdown!*****
+
+Rutgers ball, Q3, 1-0-PUR0 (08:01) 11-20
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-TMan
+QB R. Hancock completes a 3 yard out to WR J. Nichols ****Two Points!*****
+
+Rutgers ball, Q3, 1-10-RUT35 (08:01) 13-20
+Anthony Roberts kicks 54 from Rutgers 35 to Purdue 11. Jason Porter to Rutgers 1 for a 88 
+yard return.
+
+Purdue ball, Q3, 1-1-RUT1 (07:43) 20-13
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+RB C. Fowler runs right end for 1 yard ****Touchdown!*****
+
+Purdue ball, Q3, 1-0-RUT0 (07:01) 26-13
+Andrew Ashley converts the PAT.
+
+Purdue ball, Q3, 1-10-PUR35 (07:01) 27-13
+David Butler kicks 55 from Purdue 35 to Rutgers 10. Jonathan Nichols to Rutgers 38 for a 28 
+yard return.
+
+Rutgers ball, Q3, 1-10-RUT38 (06:50) 13-27
+Offense: Medium Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB R. Hancock throws an incomplete pass to WR C. James. DE P. Shultz hurried the QB.
+
+Rutgers ball, Q3, 2-10-RUT38 (06:34) 13-27
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB R. Hancock completes a 3 yard out to WR A. Hampton (OOB).
+
+Rutgers ball, Q3, 3-7-RUT41 (06:16) 13-27
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB R. Hancock completes a 22 yard streak to WR C. James (OOB). C. James made a great catch. 
+OG J. Brown earned a pancake on the play. CB J. Simon missed a tackle.
+
+Rutgers ball, Q3, 1-10-PUR37 (06:01) 13-27
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB R. Hancock throws an incomplete pass to WR J. Nichols (CB J. Simon). CB J. Simon broke 
+up the pass.
+
+Rutgers ball, Q3, 2-10-PUR37 (05:45) 13-27
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+QB R. Hancock runs left tackle for 2 yards (ILB G. Miller, DE R. Cooley). 
+
+Rutgers ball, Q3, 3-8-PUR35 (05:17) 13-27
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB R. Hancock throws an incomplete pass to WR J. Nichols.
+
+Rutgers ball, Q3, 4-8-PUR35 (04:57) 13-27
+Russell Messina Punts 32 yards to the Purdue 3 yard line, where it goes out of bounds.
+
+Purdue ball, Q3, 1-10-PUR3 (04:40) 27-13
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB J. Porter runs left end for 4 yards (ILB O. Horn). 
+
+Purdue ball, Q3, 2-6-PUR7 (04:11) 27-13
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB J. Porter runs right guard for 4 yards (ILB O. Horn). 
+
+Purdue ball, Q3, 3-2-PUR11 (03:39) 27-13
+Offense: Short Pass, Set: Trips, Play: TR-TE-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB T. Mcgraw completes a 19 yard screen to TE S. Hernandez (SS T. Graham).  He fumbles the 
+ball after a hit by T. Graham. It's recovered by T. Alfaro of Rutgers. He returns it 0 yards to the Purdue 30. OT I. Smith earned a pancake on the play.
+
+Rutgers ball, Q3, 1-10-PUR30 (03:17) 13-27
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+QB R. Hancock completes a 9 yard screen to RB C. Knight (OOB).
+
+Rutgers ball, Q3, 2-1-PUR21 (03:03) 13-27
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB B. Cross throws an incomplete pass to WR A. Hampton (CB M. Smith). CB M. Smith broke up 
+the pass.
+
+Rutgers ball, Q3, 3-1-PUR21 (02:44) 13-27
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: 4-4, Play: 44-run-Man-B5,8
+QB B. Cross runs outside for 5 yards (CB J. Simon, SS M. Daniels).  DT T. Green hurried the QB.
+
+Rutgers ball, Q3, 1-10-PUR16 (02:23) 13-27
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+RB M. May runs right guard for 4 yards (ILB M. Ray, ILB G. Miller). 
+
+Rutgers ball, Q3, 2-6-PUR12 (01:53) 13-27
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+RB C. Knight runs right guard for 4 yards (CB M. Smith). 
+
+Rutgers ball, Q3, 3-2-PUR8 (01:24) 13-27
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB C. Knight runs right end for 0 yards (SS M. Daniels).  FB D. Cervantes missed a block that 
+hurt the play.
+
+Rutgers ball, Q3, 4-2-PUR8 (00:55) 13-27
+Joe Adams converts the 26 yard field goal.
+
+Rutgers ball, Q3, 1-10-RUT35 (00:38) 16-27
+Anthony Roberts kicks 55 from Rutgers 35 to Purdue 10. Jason Porter to Purdue 28 for a 18 
+yard return.
+
+Purdue ball, Q3, 1-10-PUR28 (00:22) 27-16
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB J. Porter runs left end for 10 yards (OOB). DE J. Quinn missed a tackle.
+
+Purdue ball, Q3, 1-10-PUR38 (00:08) 27-16
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB C. Fowler runs right tackle for 3 yards (CB S. Oconnor, DT A. Anderson). 
+
+Purdue ball, Q4, 2-7-PUR41 (15:00) 27-16
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+QB R. Coleman completes a 12 yard post to WR C. Langford (SS A. Jensen, FS M. Trent).  OT 
+I. Smith earned a pancake on the play.
+
+Purdue ball, Q4, 1-10-RUT47 (14:35) 27-16
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB J. Porter runs right tackle for 2 yards (CB S. Oconnor, FS M. Trent). 
+
+Purdue ball, Q4, 2-8-RUT45 (14:06) 27-16
+Offense: Outside Run, Set: Quads, Play: Q-HB-toss-LE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB C. Fowler runs left end for -2 yards (OLB J. Watson). OT D. Arredondo missed a block that 
+hurt the play.
+
+Purdue ball, Q4, 3-10-RUT47 (13:37) 27-16
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB R. Coleman completes a 15 yard hook to WR C. Langford (CB S. Oconnor).  FS M. Trent missed 
+a tackle.
+
+Purdue ball, Q4, 1-10-RUT32 (13:11) 27-16
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB C. Fowler runs right guard for 2 yards (CB S. Oconnor). 
+
+Purdue ball, Q4, 1-10-RUT32 (13:11) 27-16
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+FS Mike Trent (RUT) was injured on the play (Elbow). It doesn't look too serious and he should 
+return.
+
+Purdue ball, Q4, 2-8-RUT30 (12:58) 27-16
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+RB J. Porter runs left end for 7 yards (FS M. Trent).  J. Porter created the big run with 
+his own skills.
+
+Grabbing Face Mask against DE Theodore Neff on Rutgers. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Rutgers 18.
+
+Purdue ball, Q4, 1-10-RUT18 (12:46) 27-16
+Offense: Short Pass, Set: Trips, Play: TR-TE-screen
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB R. Coleman completes a 5 yard screen to TE S. Hernandez (ILB O. Horn). 
+
+Purdue ball, Q4, 2-5-RUT13 (12:24) 27-16
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+RB C. Fowler runs right guard for 9 yards (SS A. Jensen).  DE J. Quinn was out of position 
+on the play.
+
+Purdue ball, Q4, 1-4-RUT4 (11:53) 27-16
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+RB J. Porter runs right end for -3 yards (DE K. Stanton).
+
+Purdue ball, Q4, 2-7-RUT7 (11:23) 27-16
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+RB J. Porter runs right end for 1 yard (OLB R. Beard). 
+
+Purdue ball, Q4, 3-6-RUT6 (10:50) 27-16
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+QB R. Coleman throws an incomplete pass to WR C. Thomas.
+
+Purdue ball, Q4, 4-6-RUT6 (10:31) 27-16
+Andrew Ashley converts the 24 yard field goal.
+
+Purdue ball, Q4, 1-10-PUR35 (10:12) 30-16
+David Butler kicks 75 from Purdue 35 to end zone, Touchback.
+
+Rutgers ball, Q4, 1-10-RUT20 (09:55) 16-30
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+QB R. Hancock throws an incomplete pass to WR A. Hampton.
+
+Rutgers ball, Q4, 2-10-RUT20 (09:37) 16-30
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+RB C. Knight runs right guard for 4 yards (ILB G. Miller). 
+
+Rutgers ball, Q4, 3-6-RUT24 (09:08) 16-30
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB R. Hancock throws an incomplete pass to WR J. Nichols.
+
+Roughing the Passer against ILB Gregory Miller on Purdue. The Penalty is for 15 yards, and 
+an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Rutgers 39.
+
+Rutgers ball, Q4, 1-10-RUT39 (08:56) 16-30
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+RB C. Knight runs right guard for 5 yards (ILB G. Miller, OLB D. Hall). 
+
+Rutgers ball, Q4, 2-5-RUT44 (08:30) 16-30
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB R. Hancock throws an incomplete pass to WR J. Hicks (OLB J. Osborne). OLB J. Osborne broke 
+up the pass.
+
+Rutgers ball, Q4, 3-5-RUT44 (08:15) 16-30
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB R. Hancock completes a 10 yard screen to RB C. Knight (SS M. Daniels).  He fumbles the 
+ball after a hit by M. Daniels. It's recovered by F. Booth of Purdue. He returns it 0 yards to the Purdue 46.
+
+Purdue ball, Q4, 1-10-PUR46 (07:54) 30-16
+Offense: Outside Run, Set: Trips, Play: TR-WR-endaround-RE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6
+WR C. Thomas runs right tackle for 4 yards (OOB).
+
+Purdue ball, Q4, 2-6-PUR50 (07:44) 30-16
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB C. Fowler runs left tackle for -2 yards (ILB O. Horn). OT D. Arredondo missed a block that 
+hurt the play.
+
+Purdue ball, Q4, 3-8-PUR48 (07:13) 30-16
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+R. Coleman has his 7 yard pass intercepted by T. Graham at the RUT 45. He returns it 0 yards 
+to the Rutgers 45. R. Coleman made a bad pass.
+
+Rutgers ball, Q4, 1-10-RUT45 (07:01) 16-30
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB C. Knight runs left tackle for 9 yards (CB J. Simon).  FS R. White missed a tackle.
+
+Rutgers ball, Q4, 2-1-PUR46 (06:35) 16-30
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB C. Knight runs right end for 8 yards (OLB D. Hall, OLB J. Osborne). 
+
+Rutgers ball, Q4, 1-10-PUR38 (06:09) 16-30
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB C. Knight runs left guard for -1 yards (DE P. Shultz).
+
+Rutgers ball, Q4, 2-11-PUR39 (05:43) 16-30
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6
+RB C. Knight runs right end for 2 yards (ILB M. Ray, ILB G. Miller). 
+
+Rutgers ball, Q4, 3-9-PUR37 (05:13) 16-30
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB R. Hancock completes a 11 yard out-and-up to WR J. Hicks (ILB G. Miller). 
+
+Rutgers ball, Q4, 1-10-PUR26 (04:47) 16-30
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB C. Knight runs right end for -2 yards (ILB G. Miller).
+
+Rutgers ball, Q4, 2-12-PUR28 (04:20) 16-30
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB M. May runs right end for 6 yards (OLB D. Hall). 
+
+Rutgers ball, Q4, 3-6-PUR22 (03:50) 16-30
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB C. Knight runs left guard for -4 yards (OLB J. Black). C J. Alvarez missed a block that 
+hurt the play.
+
+Illegal Motion against Rutgers. The Penalty is for 5 yards.
+The penalty will be declined.
+
+Rutgers ball, Q4, 4-10-PUR26 (03:37) 16-30
+Joe Adams misses the 44 yard field goal. It will be Purdue ball at the PUR 26
+
+Purdue ball, Q4, 1-10-PUR26 (03:18) 30-16
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB C. Fowler runs left guard for -1 yards (OLB R. Beard).
+
+Purdue ball, Q4, 2-11-PUR25 (02:50) 30-16
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB J. Porter runs left tackle for 8 yards (ILB T. Stewart, FS M. Trent). 
+
+Purdue ball, Q4, 3-3-PUR33 (02:23) 30-16
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+RB C. Fowler runs right tackle for 3 yards (OLB R. Beard, OLB J. Watson). 
+
+Purdue ball, Q4, 1-10-PUR36 (01:55) 30-16
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB J. Porter runs right guard for 1 yard (SS A. Jensen). 
+
+Purdue ball, Q4, 2-9-PUR37 (01:28) 30-16
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+RB J. Porter runs left tackle for 6 yards (ILB O. Horn). 
+
+Purdue ball, Q4, 3-3-PUR43 (01:01) 30-16
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB C. Fowler runs right guard for 2 yards He fumbles the ball after a hit by A. Anderson. 
+It's recovered by T. Neff of Rutgers. He returns it 6 yards to the Purdue 39.
+
+Rutgers ball, Q4, 1-10-PUR39 (00:50) 16-30
+Offense: Short Pass, Set: Trips, Play: TR-TE-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+R. Hancock has his 10 yard pass intercepted by M. Daniels at the PUR 29. He returns it 4 yards 
+to the Purdue 33. R. Hancock made a bad pass.
+
+Rutgers Timeout!
+
+Purdue ball, Q4, 1-10-PUR33 (00:19) 30-16
+Offense: Inside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+The QB takes a knee.
+
+Rutgers Timeout!
+
+Purdue ball, Q4, 2-11-PUR32 (00:11) 30-16
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+The QB takes a knee.
+
+Rutgers Timeout!
+
+Purdue ball, Q4, 3-12-PUR31 (00:04) 30-16
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+The QB takes a knee.
+

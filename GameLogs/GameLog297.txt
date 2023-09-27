@@ -1,0 +1,989 @@
+North Carolina ball, Q1, 1-10-UNC35 (15:00) 0-0
+Larry Moseley kicks 75 from North Carolina 35 to end zone, Touchback.
+
+Georgia Tech ball, Q1, 1-10-GATC20 (14:43) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB A. Bell runs right tackle for 1 yard (ILB T. Mattson). 
+
+Georgia Tech ball, Q1, 2-9-GATC21 (14:16) 0-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+RB A. Bell runs left end for 22 yards (OLB M. Merchant). 
+
+Georgia Tech ball, Q1, 1-10-GATC43 (13:50) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB A. Bell runs left tackle for 4 yards (OLB M. Merchant, CB S. Wheeler). 
+
+Georgia Tech ball, Q1, 2-6-GATC47 (13:21) 0-0
+Offense: Short Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB G. Kelley throws an incomplete pass to WR R. Scott (CB S. Wheeler). CB S. Wheeler broke 
+up the pass.
+
+Georgia Tech ball, Q1, 3-6-GATC47 (13:05) 0-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB G. Kelley completes a 7 yard cross to WR S. Westbrook (SS A. Sanchez). 
+
+Georgia Tech ball, Q1, 1-10-UNC46 (12:41) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB A. Bell runs right guard for 26 yards (FS J. Banks).  A. Bell created the big run with 
+his own skills. ILB T. Mattson missed a tackle.
+
+Georgia Tech ball, Q1, 1-10-UNC20 (12:08) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB A. Bell runs right end for 2 yards (ILB T. Mattson, ILB S. Schmitz). 
+
+Georgia Tech ball, Q1, 2-8-UNC18 (11:42) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+RB A. Bell runs right tackle for 12 yards (OOB). A. Bell created the big run with his own 
+skills.
+
+Georgia Tech ball, Q1, 1-6-UNC6 (11:28) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+RB A. Bell runs right guard for 1 yard (ILB T. Mattson). 
+
+Georgia Tech ball, Q1, 2-5-UNC5 (11:00) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+RB A. Bell runs right tackle for 3 yards (DE J. Knapp, DT W. Patterson). 
+
+Georgia Tech ball, Q1, 3-2-UNC2 (10:31) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+RB A. Bell runs right guard for 2 yards ****Touchdown!*****
+
+Georgia Tech ball, Q1, 1-0-UNC0 (09:58) 6-0
+Harry Spears converts the PAT.
+
+Georgia Tech ball, Q1, 1-10-GATC35 (09:58) 7-0
+Harry Spears kicks 67 from Georgia Tech 35 to North Carolina -2. John Smith to North Carolina 
+21 for a 23 yard return.
+
+North Carolina ball, Q1, 1-10-UNC21 (09:43) 0-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B5,6,8
+RB J. Smith runs left tackle for 1 yard (FS C. Sparks).  J. Smith missed a hole that could 
+have resulted in a bigger gain.
+
+North Carolina ball, Q1, 2-9-UNC22 (09:17) 0-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB J. Smith runs left guard for -1 yards (ILB H. Adams).
+
+North Carolina ball, Q1, 3-10-UNC21 (08:45) 0-7
+Offense: Medium Pass, Set: Trips, Play: TR-TE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB J. Boren completes a 35 yard post to WR E. Lozano (SS R. Tracy).  He fumbles the ball after 
+a hit by R. Tracy. It's recovered by S. Mills of Georgia Tech. He returns it 0 yards to the Georgia Tech 44. CB J. Riley allowed the big play.
+
+Georgia Tech ball, Q1, 1-10-GATC44 (08:17) 7-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+RB A. Bell runs right guard for 18 yards (FS J. Banks). 
+
+Georgia Tech ball, Q1, 1-10-UNC38 (07:49) 7-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+QB G. Kelley throws an incomplete pass to WR S. Westbrook.
+
+Georgia Tech ball, Q1, 1-10-UNC38 (07:49) 7-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+CB Daniel Garza (UNC) was injured on the play (Lower Back). It doesn't look like he will return.
+
+Georgia Tech ball, Q1, 2-10-UNC38 (07:30) 7-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+RB A. Bell runs right end for 11 yards (SS A. Sanchez).  OLB M. Merchant was out of position 
+on the play.
+
+Georgia Tech ball, Q1, 1-10-UNC27 (06:58) 7-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB J. Pugh runs left guard for 1 yard (DE J. Lee). 
+
+Georgia Tech ball, Q1, 2-9-UNC26 (06:28) 7-0
+Offense: Long Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB G. Kelley throws an incomplete pass to WR S. Westbrook (CB S. Wheeler). CB S. Wheeler broke 
+up the pass.
+
+Georgia Tech ball, Q1, 3-9-UNC26 (06:12) 7-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB G. Kelley completes a 12 yard hook to WR S. Westbrook (SS A. Sanchez).  OG J. Isom earned 
+a pancake on the play.
+
+Georgia Tech ball, Q1, 3-9-UNC26 (06:12) 7-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+ILB Timothy Mattson (UNC) was injured on the play (Kidney). It doesn't look like he will return.
+
+Georgia Tech ball, Q1, 1-10-UNC14 (05:56) 7-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB J. Pugh runs right guard for 5 yards (CB A. Gordon, DT J. Wagner). 
+
+Georgia Tech ball, Q1, 2-5-UNC9 (05:25) 7-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB A. Bell runs left guard for 0 yards (OLB J. Armstrong).  C J. Berry missed a block that 
+hurt the play.
+
+Georgia Tech ball, Q1, 3-5-UNC9 (04:53) 7-0
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB G. Kelley completes a -1 yard hook to RB A. Bell (SS A. Sanchez). 
+
+Georgia Tech ball, Q1, 4-6-UNC10 (04:31) 7-0
+Harry Spears converts the 28 yard field goal.
+
+Georgia Tech ball, Q1, 1-10-GATC35 (04:12) 10-0
+Harry Spears kicks 57 from Georgia Tech 35 to North Carolina 8. Perry Davila to North Carolina 
+27 for a 19 yard return.
+
+North Carolina ball, Q1, 1-10-UNC27 (03:52) 0-10
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB C. Rodriquez runs left end for 2 yards (OLB J. Mcdonald, FS C. Sparks). 
+
+North Carolina ball, Q1, 2-8-UNC29 (03:22) 0-10
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB J. Boren completes a 13 yard hook to TE J. Holt (OLB D. Shaffer).  CB J. Riley missed a 
+tackle.
+
+North Carolina ball, Q1, 1-10-UNC42 (03:00) 0-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+RB J. Smith runs left end for 6 yards (ILB H. Adams). 
+
+North Carolina ball, Q1, 2-4-UNC48 (02:30) 0-10
+Offense: Long Pass, Set: Trips, Play: TR-SE-rollout-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB J. Boren completes a 41 yard post to WR R. Fleming (FS C. Sparks).  TE J. Holt earned a 
+pancake on the play.
+
+North Carolina ball, Q1, 1-10-GATC11 (02:05) 0-10
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ-B7,8
+QB J. Boren throws an incomplete pass to RB C. Rodriquez (CB C. King). CB C. King broke up 
+the pass.
+
+North Carolina ball, Q1, 2-10-GATC11 (01:46) 0-10
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+RB C. Rodriquez runs right guard for -2 yards (OLB D. Shaffer). C R. Harper missed a block 
+that hurt the play.
+
+North Carolina ball, Q1, 3-12-GATC13 (01:19) 0-10
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+FB L. Howell runs right tackle for 0 yards (FS C. Sparks). 
+
+North Carolina ball, Q1, 4-12-GATC13 (00:49) 0-10
+Larry Moseley has his 31 yard field goal blocked by Leslie Lewis! The ball is recovered by 
+Leslie Lewis (GATC) at the GATC 8
+
+Georgia Tech ball, Q1, 1-10-GATC20 (00:29) 10-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB G. Kelley completes a 13 yard post to WR R. Scott (SS J. Post). 
+
+Georgia Tech ball, Q1, 1-10-GATC33 (00:03) 10-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B5,6,8
+RB J. Pugh runs right guard for 0 yards (ILB S. Schmitz).  TE C. Hawkins missed a block that 
+hurt the play.
+
+Georgia Tech ball, Q2, 2-10-GATC33 (15:00) 10-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB G. Kelley completes a 15 yard hook to WR S. Westbrook (ILB S. Schmitz).  He fumbles the 
+ball after a hit by S. Schmitz. It's recovered by B. Hatfield of Georgia Tech. FS J. Banks missed a tackle.
+
+Georgia Tech ball, Q2, 1-10-GATC48 (14:34) 10-0
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB G. Kelley completes a 52 yard streak to WR L. Scott ****Touchdown!*****
+
+Georgia Tech ball, Q2, 1-0-UNC0 (14:04) 16-0
+Harry Spears has his PAT blocked by CB Craig Scott! The ball is recovered by North Carolina 
+UNC 3
+
+Georgia Tech ball, Q2, 1-10-GATC35 (14:04) 16-0
+Harry Spears kicks 55 from Georgia Tech 35 to North Carolina 10. John Smith to Georgia Tech 
+45 for a 45 yard return.
+
+Piling On after the play against K Jose Hanks on Georgia Tech. The Penalty is for 15 yards, 
+and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Georgia Tech 30.
+
+North Carolina ball, Q2, 1-10-GATC30 (13:54) 0-16
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB J. Boren completes a 1 yard out to WR M. Douglas (DT J. Morris). 
+
+North Carolina ball, Q2, 2-9-GATC29 (13:30) 0-16
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Run, Set: Dime, Play: Dime-run-SZ
+QB J. Boren completes a 5 yard cross to WR R. Fleming (SS A. Lee, SS R. Tracy). 
+
+North Carolina ball, Q2, 3-4-GATC24 (13:09) 0-16
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB J. Boren completes a 14 yard out to WR M. Douglas (ILB H. Adams, SS R. Tracy).  J. Boren 
+with the great pass.
+
+North Carolina ball, Q2, 1-10-GATC10 (12:46) 0-16
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB C. Rodriquez runs left guard for 1 yard (DE S. Mills).  OT J. Wagner missed a block that 
+hurt the play.
+
+Grabbing Face Mask against FS Craig Sparks on Georgia Tech. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Second and Goal at the Georgia Tech 5.
+
+North Carolina ball, Q2, 2-5-GATC5 (12:36) 0-16
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+QB J. Boren completes a 5 yard streak to WR D. Glenn ****Touchdown!*****
+
+North Carolina ball, Q2, 1-0-GATC0 (12:25) 6-16
+Larry Moseley converts the PAT.
+
+North Carolina ball, Q2, 1-10-UNC35 (12:25) 7-16
+Larry Moseley kicks 53 from North Carolina 35 to Georgia Tech 12. Chris King to Georgia Tech 
+29 for a 17 yard return.
+
+Georgia Tech ball, Q2, 1-10-GATC29 (12:10) 16-7
+Offense: Medium Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB G. Kelley throws an incomplete pass to WR S. Westbrook (ILB S. Schmitz). WR S. Westbrook 
+dropped the pass. ILB S. Schmitz broke up the pass.
+
+Georgia Tech ball, Q2, 2-10-GATC29 (11:52) 16-7
+Offense: Outside Run, Set: I Form, Play: I-HB-toss-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB A. Bell runs right end for 22 yards (CB A. Gordon).  OLB J. Armstrong was out of position 
+on the play.
+
+Georgia Tech ball, Q2, 2-10-GATC29 (11:52) 16-7
+Offense: Outside Run, Set: I Form, Play: I-HB-toss-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB Gary Kelley (GATC) was injured on the play (OK). It doesn't look like he will return.
+
+Georgia Tech ball, Q2, 1-10-UNC49 (11:36) 16-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB A. Bell runs left tackle for 0 yards (ILB S. Schmitz). 
+
+Georgia Tech ball, Q2, 2-10-UNC49 (11:08) 16-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+RB J. Pugh runs right tackle for 0 yards (DT J. Wagner). 
+
+Georgia Tech ball, Q2, 3-10-UNC49 (10:41) 16-7
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB R. Shaw completes a 14 yard hook to RB A. Bell (CB A. Gordon, SS A. Sanchez).  A. Bell 
+made a great catch. CB A. Gordon missed a tackle.
+
+Georgia Tech ball, Q2, 1-10-UNC35 (10:18) 16-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB R. Shaw throws an incomplete pass to WR L. Scott.
+
+Georgia Tech ball, Q2, 2-10-UNC35 (10:02) 16-7
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB R. Shaw completes a 17 yard hook to WR S. Westbrook (SS J. Post).  FS J. Banks missed a 
+tackle.
+
+Georgia Tech ball, Q2, 1-10-UNC18 (09:40) 16-7
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB R. Shaw completes a 12 yard hook to RB J. Pugh (OOB). OLB J. Armstrong missed a tackle.
+
+Georgia Tech ball, Q2, 1-10-UNC18 (09:40) 16-7
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB Robert Shaw (GATC) was injured on the play (Knee). It doesn't look too serious and he should 
+return.
+
+Georgia Tech ball, Q2, 1-6-UNC6 (09:24) 16-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+RB A. Bell runs right guard for 5 yards (DT J. Wagner). 
+
+Georgia Tech ball, Q2, 2-1-UNC1 (08:57) 16-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+RB A. Bell runs left end for 0 yards (SS A. Sanchez).  TE C. Hawkins missed a block that hurt 
+the play.
+
+Offsides against DE James Knapp on North Carolina. The Penalty is for 0 yards.
+The Offense will accept the penalty. It is now Second and Goal at the North Carolina 1.
+
+Georgia Tech ball, Q2, 2-1-UNC1 (08:46) 16-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+RB A. Bell runs right guard for -3 yards (SS A. Sanchez).
+
+Georgia Tech ball, Q2, 3-4-UNC4 (08:18) 16-7
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+QB R. Shaw completes a 1 yard screen to RB A. Bell (SS A. Sanchez). 
+
+Georgia Tech ball, Q2, 3-4-UNC4 (08:18) 16-7
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+QB Robert Shaw (GATC) was injured on the play (Ear). It doesn't look too serious and he should 
+return.
+
+Georgia Tech ball, Q2, 4-3-UNC3 (08:02) 16-7
+Harry Spears converts the 21 yard field goal.
+
+Georgia Tech ball, Q2, 1-10-GATC35 (07:45) 19-7
+Harry Spears kicks 67 from Georgia Tech 35 to North Carolina -2. John Smith to North Carolina 
+15 for a 17 yard return.
+
+North Carolina ball, Q2, 1-10-UNC15 (07:25) 7-19
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB C. Rodriquez runs right tackle for 4 yards (SS A. Lee). 
+
+North Carolina ball, Q2, 2-6-UNC19 (06:53) 7-19
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+RB C. Rodriquez runs right guard for 3 yards (OLB J. Mcdonald). 
+
+North Carolina ball, Q2, 3-3-UNC22 (06:23) 7-19
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB J. Boren throws an incomplete pass to RB C. Rodriquez.
+
+North Carolina ball, Q2, 3-3-UNC22 (06:23) 7-19
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+OG Larry Stephens (UNC) was injured on the play (Lower Back). It doesn't look like he will 
+return.
+
+North Carolina ball, Q2, 4-3-UNC22 (06:03) 7-19
+Richard Bollinger Punts 57 yards to the Georgia Tech 21 yard line, where Chris King returns 
+it to Georgia Tech 23 for a 2 yard return.
+
+Georgia Tech ball, Q2, 1-10-GATC23 (05:44) 19-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB R. Shaw completes a 19 yard corner to WR L. Scott (OOB). C J. Berry earned a pancake on 
+the play.
+
+Georgia Tech ball, Q2, 1-10-GATC42 (05:32) 19-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB R. Shaw throws an incomplete pass to TE C. Hawkins. DT W. Patterson hurried the QB.
+
+Georgia Tech ball, Q2, 2-10-GATC42 (05:14) 19-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB A. Bell runs left end for -1 yards (FS J. Banks).
+
+Georgia Tech ball, Q2, 3-11-GATC41 (04:45) 19-7
+Offense: Medium Pass, Set: I Form, Play: I-TE-corner-FL-post
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB R. Shaw completes a 16 yard post to TE C. Hawkins (SS A. Sanchez).  FS J. Pena was out 
+of position on the play.
+
+Georgia Tech ball, Q2, 1-10-UNC43 (04:22) 19-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+False Start against OT Douglas Buck on Georgia Tech. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the North Carolina 48.
+
+Georgia Tech ball, Q2, 1-15-UNC48 (04:22) 19-7
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 3-3-5, Play: 335-run-Man-B8,10
+QB R. Shaw completes a 2 yard hook to TE C. Hawkins (OOB).
+
+Georgia Tech ball, Q2, 2-13-UNC46 (04:12) 19-7
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+QB R. Shaw runs outside for 0 yards (FS J. Banks).  DE J. Knapp hurried the QB.
+
+Georgia Tech ball, Q2, 3-13-UNC46 (03:56) 19-7
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4,5,6
+QB R. Shaw completes a 21 yard hook to TE C. Hawkins (OLB M. Merchant). 
+
+Georgia Tech ball, Q2, 1-10-UNC25 (03:34) 19-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB J. Pugh runs left tackle for 0 yards (FS J. Banks). 
+
+Georgia Tech ball, Q2, 2-10-UNC25 (03:02) 19-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB R. Shaw completes a 20 yard out-and-up to TE R. Jackson (CB A. Gordon).  R. Jackson made 
+a great catch.
+
+Georgia Tech ball, Q2, 1-5-UNC5 (02:39) 19-7
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Goal Line, Play: GL-run-Man-B7,8,9
+QB R. Shaw completes a 4 yard cross to WR L. Scott (FS J. Banks). 
+
+Georgia Tech ball, Q2, 2-1-UNC1 (02:17) 19-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+RB A. Bell runs left guard for 1 yard ****Touchdown!*****
+
+Georgia Tech ball, Q2, 1-0-UNC0 (01:53) 25-7
+Harry Spears converts the PAT.
+
+Georgia Tech ball, Q2, 1-10-GATC35 (01:53) 26-7
+Harry Spears kicks 57 from Georgia Tech 35 to North Carolina 8. Perry Davila to North Carolina 
+33 for a 25 yard return.
+
+North Carolina ball, Q2, 1-10-UNC33 (01:34) 7-26
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB J. Boren completes a 5 yard dump off to TE J. Holt (SS A. Lee). 
+
+North Carolina ball, Q2, 2-5-UNC38 (01:11) 7-26
+Offense: Short Pass, Set: Trips, Play: TR-TE-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Boren gets sacked for a 5 yard loss (DT J. Morris).  OG W. Cobb allowed the sack.
+
+North Carolina ball, Q2, 3-10-UNC33 (01:04) 7-26
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB J. Boren completes a 33 yard in to WR E. Lozano (SS A. Lee).  OG W. George earned a pancake 
+on the play. CB J. Riley allowed the big play.
+
+North Carolina ball, Q2, 1-10-GATC34 (00:39) 7-26
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+False Start against OT John Wagner on North Carolina. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Georgia Tech 39.
+
+North Carolina ball, Q2, 1-15-GATC39 (00:39) 7-26
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB J. Boren completes a 7 yard in to TE J. Holt (OOB).
+
+North Carolina ball, Q2, 2-8-GATC32 (00:32) 7-26
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB J. Boren throws an incomplete pass to WR R. Fleming. WR R. Fleming ran an incorrect route. 
+OLB D. Shaffer hurried the QB.
+
+North Carolina ball, Q2, 3-8-GATC32 (00:24) 7-26
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+QB J. Boren throws an incomplete pass to WR R. Fleming. DT C. Black hurried the QB.
+
+North Carolina ball, Q2, 4-8-GATC32 (00:17) 7-26
+Larry Moseley converts the 50 yard field goal.
+
+North Carolina ball, Q2, 1-10-UNC35 (00:10) 10-26
+Larry Moseley kicks 63 from North Carolina 35 to Georgia Tech 2. John Pugh to Georgia Tech 
+25 for a 23 yard return.
+
+Georgia Tech ball, Q2, 1-10-GATC25 (00:04) 26-10
+Offense: Inside Run, Set: I Form, Play: I-FB-power-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+The QB takes a knee.
+
+Georgia Tech ball, Q3, 1-10-GATC35 (15:00) 26-10
+Harry Spears kicks 67 from Georgia Tech 35 to North Carolina -2. John Smith to North Carolina 
+33 for a 35 yard return.
+
+North Carolina ball, Q3, 1-10-UNC33 (14:42) 10-26
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB C. Rodriquez runs left end for 1 yard (FS C. Sparks). 
+
+North Carolina ball, Q3, 2-9-UNC34 (14:13) 10-26
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB J. Boren completes a 8 yard screen to RB C. Rodriquez (ILB H. Adams). 
+
+North Carolina ball, Q3, 3-1-UNC42 (13:57) 10-26
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+RB C. Rodriquez runs right tackle for 3 yards (SS A. Lee). 
+
+North Carolina ball, Q3, 1-10-UNC45 (13:26) 10-26
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB J. Smith runs left guard for -1 yards (SS R. Tracy).
+
+North Carolina ball, Q3, 2-11-UNC44 (12:57) 10-26
+Offense: Short Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB J. Boren completes a 4 yard hook to WR M. Douglas (SS A. Lee). 
+
+North Carolina ball, Q3, 3-7-UNC48 (12:33) 10-26
+Offense: Long Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB J. Boren throws an incomplete pass to WR E. Lozano (CB C. King). J. Boren made a bad pass. 
+CB C. King broke up the pass.
+
+North Carolina ball, Q3, 4-7-UNC48 (12:14) 10-26
+Richard Bollinger Punts 50 yards to the Georgia Tech 2 yard line, where it gets downed.
+
+Georgia Tech ball, Q3, 1-10-GATC2 (11:54) 26-10
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB A. Bell runs right guard for 2 yards (CB S. Wheeler, SS J. Post). 
+
+Georgia Tech ball, Q3, 2-8-GATC4 (11:24) 26-10
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB A. Bell runs right guard for 14 yards (ILB S. Schmitz, FS J. Pena). 
+
+Georgia Tech ball, Q3, 1-10-GATC18 (10:57) 26-10
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB J. Pugh runs left end for 17 yards (SS J. Post, CB A. Gordon).  SS A. Sanchez was out of 
+position on the play.
+
+Georgia Tech ball, Q3, 1-10-GATC35 (10:28) 26-10
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB R. Shaw gets sacked for a 2 yard loss (DE J. Lee).  C J. Berry allowed the sack.
+
+Georgia Tech ball, Q3, 1-10-GATC35 (10:28) 26-10
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+CB Andrew Gordon (UNC) was injured on the play (Pelvis/Hip). It doesn't look like he will 
+return.
+
+Georgia Tech ball, Q3, 2-12-GATC33 (10:09) 26-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB A. Bell runs right end for 1 yard (FS J. Banks). 
+
+Georgia Tech ball, Q3, 3-11-GATC34 (09:41) 26-10
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB R. Shaw completes a 49 yard out-and-up to WR R. Scott (ILB S. Schmitz).  CB C. Scott allowed 
+the big play.
+
+Georgia Tech ball, Q3, 1-10-UNC17 (09:16) 26-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+RB J. Pugh runs right tackle for 6 yards (CB C. Scott). 
+
+Georgia Tech ball, Q3, 2-4-UNC11 (08:46) 26-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+RB J. Pugh runs left tackle for 8 yards (ILB S. Schmitz).  ILB S. Schmitz was out of position 
+on the play.
+
+Georgia Tech ball, Q3, 1-3-UNC3 (08:19) 26-10
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+RB A. Bell runs left end for -1 yards (ILB S. Schmitz). TE C. Hawkins missed a block that 
+hurt the play.
+
+Georgia Tech ball, Q3, 2-4-UNC4 (07:48) 26-10
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+WR S. Westbrook runs right end for 1 yard (DE J. Knapp).  C J. Berry missed a block that hurt 
+the play.
+
+Georgia Tech ball, Q3, 3-3-UNC3 (07:19) 26-10
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+RB A. Bell runs right tackle for 3 yards ****Touchdown!*****
+
+Georgia Tech ball, Q3, 1-0-UNC0 (06:49) 32-10
+Harry Spears converts the PAT.
+
+Georgia Tech ball, Q3, 1-10-GATC35 (06:49) 33-10
+Harry Spears kicks 75 from Georgia Tech 35 to end zone, Touchback.
+
+North Carolina ball, Q3, 1-10-UNC20 (06:30) 10-33
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB J. Boren completes a 13 yard streak to WR D. Glenn (SS R. Tracy, SS A. Lee).  J. Boren 
+with the great pass.
+
+North Carolina ball, Q3, 1-10-UNC33 (06:07) 10-33
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB J. Smith runs left guard for 1 yard (OLB D. Shaffer).  OT J. Wagner missed a block that 
+hurt the play.
+
+North Carolina ball, Q3, 2-9-UNC34 (05:38) 10-33
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+RB C. Rodriquez runs left end for 0 yards (SS A. Lee). 
+
+North Carolina ball, Q3, 3-9-UNC34 (05:11) 10-33
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+J. Boren has his 31 yard pass intercepted by J. Riley at the GATC 35. He returns it 0 yards 
+to the Georgia Tech 35. DT J. Morris hurried the QB.
+
+Georgia Tech ball, Q3, 1-10-GATC35 (04:41) 33-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB A. Bell runs right end for 0 yards (OOB).
+
+Georgia Tech ball, Q3, 2-10-GATC35 (04:27) 33-10
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB J. Pugh runs left end for 3 yards (OOB).
+
+Georgia Tech ball, Q3, 3-7-GATC38 (04:01) 33-10
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+QB R. Shaw throws an incomplete pass to WR L. Scott.
+
+Georgia Tech ball, Q3, 4-7-GATC38 (03:51) 33-10
+Enrique Sandoval Punts 41 yards to the North Carolina 21 yard line, where Daniel Glenn returns 
+it to North Carolina 28 for a 7 yard return.
+
+Unnecessary Roughness against C William Mccabe on Georgia Tech. The Penalty is for 15 yards, 
+and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the North Carolina 43.
+
+North Carolina ball, Q3, 1-10-UNC43 (03:41) 10-33
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB J. Boren throws an incomplete pass to WR E. Lozano (CB J. Riley). CB J. Riley broke up 
+the pass.
+
+North Carolina ball, Q3, 2-10-UNC43 (03:21) 10-33
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB J. Boren completes a 11 yard cross to WR R. Fleming (OOB). OLB J. Mcdonald was out of position 
+on the play.
+
+North Carolina ball, Q3, 1-10-GATC46 (03:08) 10-33
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB J. Boren completes a 8 yard dump off to TE J. Holt (OOB).
+
+North Carolina ball, Q3, 2-2-GATC38 (02:54) 10-33
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+RB C. Rodriquez runs left end for 0 yards (OLB D. Shaffer).  C. Rodriquez missed a hole that 
+could have resulted in a bigger gain.
+
+North Carolina ball, Q3, 3-2-GATC38 (02:26) 10-33
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB C. Rodriquez runs right guard for 3 yards (CB C. King). 
+
+North Carolina ball, Q3, 1-10-GATC35 (02:00) 10-33
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+RB C. Rodriquez runs left guard for 3 yards (CB C. King, ILB H. Adams). 
+
+North Carolina ball, Q3, 2-7-GATC32 (01:29) 10-33
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB J. Boren completes a 13 yard hook to WR R. Fleming (FS C. Sparks).  C R. Harper earned 
+a pancake on the play.
+
+North Carolina ball, Q3, 1-10-GATC19 (01:07) 10-33
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB C. Rodriquez runs right end for 8 yards (OOB). C. Rodriquez created the big run with his 
+own skills.
+
+North Carolina ball, Q3, 2-2-GATC11 (00:50) 10-33
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+False Start against C Richard Harper on North Carolina. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 7 at the Georgia Tech 16.
+
+North Carolina ball, Q3, 2-7-GATC16 (00:50) 10-33
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB J. Smith runs left end for 7 yards (SS R. Tracy). 
+
+North Carolina ball, Q3, 1-9-GATC9 (00:17) 10-33
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB J. Smith runs right guard for 3 yards (ILB H. Adams, CB C. King). 
+
+North Carolina ball, Q3, 1-9-GATC9 (00:17) 10-33
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+WR Edgar Lozano (UNC) was injured on the play (OK). It doesn't look like he will return.
+
+North Carolina ball, Q3, 2-6-GATC6 (00:02) 10-33
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+RB C. Rodriquez runs right end for 1 yard (DE S. Mills). 
+
+North Carolina ball, Q4, 3-5-GATC5 (15:00) 10-33
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+QB J. Boren throws an incomplete pass to TE J. Holt (CB J. Riley). CB J. Riley broke up the 
+pass.
+
+North Carolina ball, Q4, 4-7-GATC7 (14:45) 10-33
+Larry Moseley converts the 25 yard field goal.
+
+Illegal Substitution against Georgia Tech. The Penalty is for 5 yards.
+The penalty will be declined.
+
+North Carolina ball, Q4, 1-10-UNC35 (14:35) 13-33
+Larry Moseley kicks 75 from North Carolina 35 to end zone, Touchback.
+
+Georgia Tech ball, Q4, 1-10-GATC20 (14:18) 33-13
+Offense: Long Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-Spy
+QB R. Shaw gets sacked for a 3 yard loss (DE J. Lee).  OG S. Rogers allowed the sack.
+
+Georgia Tech ball, Q4, 2-13-GATC17 (14:02) 33-13
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+False Start against OT Douglas Buck on Georgia Tech. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 18 at the Georgia Tech 12.
+
+Georgia Tech ball, Q4, 2-18-GATC12 (14:02) 33-13
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+FB B. Thompson runs left tackle for 1 yard (CB S. Wheeler).  OG S. Rogers missed a block that 
+hurt the play.
+
+Grabbing Face Mask against FS Joseph Banks on North Carolina. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Third and 12 at the Georgia Tech 18.
+
+Georgia Tech ball, Q4, 3-12-GATC18 (13:51) 33-13
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+QB R. Shaw completes a 7 yard hook to WR S. Westbrook (OLB M. Merchant, CB S. Wheeler). 
+
+Georgia Tech ball, Q4, 4-5-GATC25 (13:29) 33-13
+Enrique Sandoval Punts 31 yards to the North Carolina 44 yard line, where Daniel Glenn returns 
+it to Georgia Tech 38 for a 18 yard return.
+
+Grabbing Face Mask against OLB Steven Leal on Georgia Tech. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Georgia Tech 33.
+
+North Carolina ball, Q4, 1-10-GATC33 (13:18) 13-33
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB J. Smith runs right guard for 2 yards (SS A. Lee). 
+
+North Carolina ball, Q4, 2-8-GATC31 (12:45) 13-33
+Offense: Short Pass, Set: Trips, Play: TR-FL-in-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Boren completes a 6 yard hook to WR D. Glenn (OOB).
+
+North Carolina ball, Q4, 3-2-GATC25 (12:31) 13-33
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+B. Gardner has his 5 yard pass intercepted by A. Lee at the GATC 20. He returns it 23 yards 
+to the Georgia Tech 43. DE J. Martinez hurried the QB.
+
+Georgia Tech ball, Q4, 1-10-GATC43 (11:59) 33-13
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB A. Bell runs left tackle for 0 yards (SS J. Post). 
+
+Georgia Tech ball, Q4, 2-10-GATC43 (11:32) 33-13
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-MZ-B4,5,6,8,
+RB A. Bell runs right end for 4 yards (DE J. Knapp). 
+
+Unnecessary Roughness against TE Carl Hawkins on Georgia Tech. The Penalty is for 15 yards.
+The Defense will accept the penalty. It is now Third and 21 at the Georgia Tech 32.
+
+Georgia Tech ball, Q4, 3-21-GATC32 (11:18) 33-13
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB R. Shaw runs outside for 3 yards (CB S. Wheeler). 
+
+Georgia Tech ball, Q4, 4-18-GATC35 (10:58) 33-13
+Enrique Sandoval Punts 42 yards to the North Carolina 23 yard line, where Daniel Glenn returns 
+it to North Carolina 37 for a 14 yard return.
+
+North Carolina ball, Q4, 1-10-UNC37 (10:40) 13-33
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB C. Rodriquez runs left tackle for 10 yards (OOB). CB J. Riley missed a tackle.
+
+North Carolina ball, Q4, 1-10-UNC47 (10:24) 13-33
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+QB J. Boren throws an incomplete pass to RB C. Rodriquez.
+
+North Carolina ball, Q4, 2-10-UNC47 (10:04) 13-33
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+QB J. Boren throws an incomplete pass to WR M. Douglas.
+
+North Carolina ball, Q4, 3-10-UNC47 (09:46) 13-33
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+QB J. Boren throws an incomplete pass to WR R. Fleming. J. Boren made a bad pass.
+
+North Carolina ball, Q4, 4-10-UNC47 (09:27) 13-33
+Richard Bollinger Punts 40 yards to the Georgia Tech 13 yard line, where it goes out of bounds.
+
+Georgia Tech ball, Q4, 1-10-GATC13 (09:07) 33-13
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-3-5, Play: 335-norm-MZ-B10
+R. Shaw has his 10 yard pass intercepted by J. Knapp at the GATC 23. He returns it 15 yards 
+to the Georgia Tech 8.
+
+North Carolina ball, Q4, 1-8-GATC8 (08:40) 13-33
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB C. Rodriquez runs right guard for 3 yards (SS R. Tracy). 
+
+North Carolina ball, Q4, 2-5-GATC5 (08:11) 13-33
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB C. Rodriquez runs left tackle for 5 yards ****Touchdown!*****
+
+North Carolina ball, Q4, 1-0-GATC0 (07:39) 19-33
+Larry Moseley converts the PAT.
+
+North Carolina ball, Q4, 1-10-UNC35 (07:39) 20-33
+Larry Moseley kicks 75 from North Carolina 35 to end zone, Touchback.
+
+Georgia Tech ball, Q4, 1-10-GATC20 (07:21) 33-20
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB A. Bell runs left end for 2 yards (FS J. Pena, OLB M. Merchant). 
+
+Georgia Tech ball, Q4, 2-8-GATC22 (06:54) 33-20
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB R. Shaw completes a 16 yard cross to WR L. Scott (OOB). OG S. Rogers earned a pancake on 
+the play.
+
+Georgia Tech ball, Q4, 1-10-GATC38 (06:42) 33-20
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB R. Shaw throws an incomplete pass to WR R. Scott. WR R. Scott dropped the pass.
+
+Georgia Tech ball, Q4, 2-10-GATC38 (06:23) 33-20
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB A. Bell runs right guard for 4 yards (OLB J. Armstrong). 
+
+Georgia Tech ball, Q4, 3-6-GATC42 (05:56) 33-20
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B11
+QB R. Shaw completes a 11 yard hook to WR S. Westbrook (SS J. Post). 
+
+Georgia Tech ball, Q4, 1-10-UNC47 (05:40) 33-20
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB J. Pugh runs right guard for 3 yards (CB S. Wheeler, SS J. Post). 
+
+Georgia Tech ball, Q4, 2-7-UNC44 (05:09) 33-20
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB R. Shaw throws an incomplete pass to WR L. Scott (SS A. Sanchez). SS A. Sanchez broke up 
+the pass.
+
+Georgia Tech ball, Q4, 3-7-UNC44 (04:50) 33-20
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB R. Shaw throws an incomplete pass to WR L. Scott.
+
+Georgia Tech ball, Q4, 4-7-UNC44 (04:32) 33-20
+Enrique Sandoval Punts 40 yards to the North Carolina 4 yard line, where it goes out of bounds.
+
+North Carolina ball, Q4, 1-10-UNC4 (04:13) 20-33
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+RB J. Smith runs left guard for -2 yards (DE J. Martinez).
+
+North Carolina ball, Q4, 2-12-UNC2 (03:43) 20-33
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB J. Boren throws an incomplete pass to WR M. Douglas (CB C. King). CB C. King broke up the 
+pass.
+
+North Carolina ball, Q4, 3-12-UNC2 (03:27) 20-33
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+False Start against C Richard Harper on North Carolina. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 13 at the North Carolina 1.
+
+North Carolina ball, Q4, 3-13-UNC1 (03:27) 20-33
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB J. Boren completes a 5 yard post to WR R. Fleming (OOB).
+
+North Carolina ball, Q4, 4-8-UNC6 (03:16) 20-33
+Richard Bollinger Punts 63 yards to the Georgia Tech 31 yard line, where Chris King returns 
+it to Georgia Tech 46 for a 15 yard return.
+
+Georgia Tech ball, Q4, 1-10-GATC46 (02:56) 33-20
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB A. Bell runs right tackle for 3 yards (CB C. Scott). 
+
+Georgia Tech ball, Q4, 2-7-GATC49 (02:28) 33-20
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+RB A. Bell runs left guard for 13 yards (OLB M. Merchant).  OG S. Rogers had a key block on 
+the run. OLB J. Armstrong missed a tackle.
+
+Georgia Tech ball, Q4, 1-10-UNC38 (01:57) 33-20
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB A. Bell runs right guard for 20 yards (CB S. Wheeler, FS J. Pena).  A. Bell created the 
+big run with his own skills. FS J. Banks was out of position on the play.
+
+Georgia Tech ball, Q4, 1-10-UNC18 (01:27) 33-20
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+RB J. Pugh runs right end for 9 yards (ILB S. Schmitz).  OT D. Buck had a key block on the 
+run. DE C. Peoples missed a tackle.
+
+Georgia Tech ball, Q4, 2-1-UNC9 (01:00) 33-20
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB A. Bell runs left end for 1 yard (DE J. Knapp).  TE C. Hawkins missed a block that hurt 
+the play.
+
+North Carolina Timeout!
+
+Georgia Tech ball, Q4, 1-8-UNC8 (00:51) 33-20
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB A. Bell runs left end for 3 yards (CB S. Wheeler). 
+
+North Carolina Timeout!
+
+Georgia Tech ball, Q4, 2-5-UNC5 (00:43) 33-20
+Offense: Outside Run, Set: I Form, Play: I-HB-toss-RE
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB J. Pugh runs right end for 5 yards ****Touchdown!*****
+
+Georgia Tech ball, Q4, 1-0-UNC0 (00:21) 39-20
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB A. Bell runs right guard for 0 yards TE C. Hawkins missed a block that hurt the play.
+
+Georgia Tech ball, Q4, 1-10-GATC35 (00:21) 39-20
+Harry Spears kicks 67 from Georgia Tech 35 to North Carolina -2. John Smith to North Carolina 
+15 for a 17 yard return.
+
+North Carolina ball, Q4, 1-10-UNC15 (00:13) 20-39
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+J. Boren has his 33 yard pass intercepted by A. Lee at the UNC 48. He returns it -3 yards 
+to the North Carolina 51.
+

@@ -1,0 +1,929 @@
+Houston ball, Q1, 1-10-HOU35 (15:00) 0-0
+Michael Beach kicks 67 from Houston 35 to Cincinnati -2. Charles Collins to Cincinnati 23 
+for a 25 yard return.
+
+Cincinnati ball, Q1, 1-10-CIN23 (14:43) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+RB R. Prather runs right guard for 5 yards (CB H. Villarreal). 
+
+Cincinnati ball, Q1, 2-5-CIN28 (14:16) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4,5,6
+QB N. Dennis throws an incomplete pass to WR A. Leavitt (CB H. Villarreal). OLB J. Thomas 
+hurried the QB. CB H. Villarreal broke up the pass.
+
+Cincinnati ball, Q1, 3-5-CIN28 (14:01) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB R. Prather runs left guard for 3 yards (OLB M. Peterson). 
+
+Cincinnati ball, Q1, 4-2-CIN31 (13:34) 0-0
+Nathaniel Little Punts 44 yards to the Houston 25 yard line, where Edward Johnson returns 
+it to Houston 29 for a 4 yard return.
+
+Houston ball, Q1, 1-10-HOU29 (13:14) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB D. Rivera runs left guard for 3 yards (OLB C. Penn, CB T. German). 
+
+Houston ball, Q1, 2-7-HOU32 (12:42) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB D. Rivera runs right guard for 2 yards (FS M. Harmon, OLB C. Penn). 
+
+Houston ball, Q1, 3-5-HOU34 (12:14) 0-0
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Harris completes a 3 yard dump off to FB B. Valdez (ILB K. Day). 
+
+Houston ball, Q1, 4-2-HOU37 (11:50) 0-0
+Daniel Daniels Punts 46 yards to the Cincinnati 17 yard line,
+
+Cincinnati ball, Q1, 1-10-CIN17 (11:31) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB N. Dennis completes a 49 yard hook to WR W. Carson (FS K. Ford).  OT W. Dubose earned a 
+pancake on the play. FS K. Ford allowed the big play.
+
+Cincinnati ball, Q1, 1-10-HOU34 (11:08) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: 3-3-5, Play: 335-run-Man-Spy
+N. Dennis has his 18 yard pass intercepted by K. Ford at the HOU 16. He returns it 10 yards 
+to the Houston 26.
+
+Houston ball, Q1, 1-10-HOU26 (10:43) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ
+QB D. Harris completes a 6 yard post to TE T. Williams (CB T. German). 
+
+Houston ball, Q1, 2-4-HOU32 (10:16) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB D. Moore runs right tackle for 2 yards (CB T. German). 
+
+Houston ball, Q1, 3-2-HOU34 (09:47) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB D. Rivera runs right tackle for 5 yards (SS K. Carter, CB B. Jacobs). 
+
+Houston ball, Q1, 1-10-HOU39 (09:14) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-SZ-B11
+RB D. Rivera runs right end for -1 yards (OLB J. Queen).
+
+Houston ball, Q1, 2-11-HOU38 (08:45) 0-0
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+QB D. Harris throws an incomplete pass to WR W. Martin. OLB J. Queen hurried the QB.
+
+Houston ball, Q1, 3-11-HOU38 (08:30) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+QB D. Harris completes a 9 yard streak to FB B. Valdez (OLB C. Penn). 
+
+Houston ball, Q1, 4-2-HOU47 (08:06) 0-0
+Daniel Daniels Punts 52 yards to the Cincinnati 1 yard line, where it gets downed.
+
+Cincinnati ball, Q1, 1-10-CIN1 (07:49) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB R. Prather runs right end for 7 yards (SS K. Cantu).  DT M. Hunter was out of position 
+on the play.
+
+Cincinnati ball, Q1, 2-3-CIN8 (07:16) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+RB R. Prather runs right tackle for 0 yards (FS F. Green). 
+
+Cincinnati ball, Q1, 3-3-CIN8 (06:47) 0-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+QB N. Dennis throws an incomplete pass to WR C. Collins (CB H. Villarreal). CB H. Villarreal 
+broke up the pass.
+
+Cincinnati ball, Q1, 3-3-CIN8 (06:47) 0-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+OT Cecil Miller (CIN) was injured on the play (OK). It doesn't look like he will return.
+
+Cincinnati ball, Q1, 4-3-CIN8 (06:30) 0-0
+Nathaniel Little Punts 35 yards to the Cincinnati 43 yard line, where Edward Johnson returns 
+it to Cincinnati 34 for a 9 yard return.
+
+Houston ball, Q1, 1-10-CIN34 (06:13) 0-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB D. Harris completes a 5 yard dump off to WR M. Dalton (OLB C. Penn). 
+
+Houston ball, Q1, 2-5-CIN29 (05:52) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB D. Moore runs right guard for 3 yards (FS M. Harmon). 
+
+Houston ball, Q1, 3-2-CIN26 (05:23) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB D. Rivera runs left guard for 3 yards (ILB K. Day, OLB J. Queen). 
+
+Houston ball, Q1, 1-10-CIN23 (04:57) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Run, Set: 4-3, Play: 43-run-M-B7-R
+FB B. Valdez runs left guard for 5 yards (FS M. Harmon, OLB C. Penn). 
+
+Houston ball, Q1, 2-5-CIN18 (04:29) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB D. Rivera runs right guard for 0 yards (DE R. Ring).  OT J. Barnett missed a block that 
+hurt the play.
+
+Houston ball, Q1, 3-5-CIN18 (03:57) 0-0
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB D. Harris throws an incomplete pass to WR W. Martin (CB B. Jacobs). WR W. Martin ran an 
+incorrect route. CB B. Jacobs broke up the pass.
+
+Houston ball, Q1, 4-5-CIN18 (03:37) 0-0
+Michael Beach converts the 36 yard field goal.
+
+Houston ball, Q1, 1-10-HOU35 (03:18) 3-0
+Michael Beach kicks 55 from Houston 35 to Cincinnati 10. Charles Collins to Cincinnati 38 
+for a 28 yard return.
+
+Cincinnati ball, Q1, 1-10-CIN38 (03:01) 0-3
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB N. Dennis completes a 4 yard dump off to TE S. Morris (OLB J. Thomas, FS F. Green). 
+
+Cincinnati ball, Q1, 2-6-CIN42 (02:39) 0-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB R. Prather runs right end for 1 yard (ILB D. Mccabe).  OG A. Jackson missed a block that 
+hurt the play.
+
+Cincinnati ball, Q1, 3-5-CIN43 (02:08) 0-3
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+QB N. Dennis gets sacked for a 7 yard loss (CB H. Villarreal).  He fumbles the ball after 
+a hit by H. Villarreal. It's recovered by C. Stephens of Cincinnati. OG A. Jackson allowed the sack.
+
+Cincinnati ball, Q1, 3-5-CIN43 (02:08) 0-3
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+DE Edmund New (HOU) was injured on the play (OK). It doesn't look like he will return.
+
+Cincinnati ball, Q1, 4-12-CIN36 (01:52) 0-3
+Nathaniel Little Punts 43 yards to the Houston 21 yard line, where it goes out of bounds.
+
+Houston ball, Q1, 1-10-HOU21 (01:37) 3-0
+Offense: Outside Run, Set: I Form, Play: I-HB-toss-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+RB D. Moore runs right end for 19 yards (SS K. Carter).  D. Moore created the big run with 
+his own skills. SS D. Jones missed a tackle.
+
+Houston ball, Q1, 1-10-HOU40 (01:08) 3-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: 4-3, Play: 43-norm-Man
+QB D. Harris throws an incomplete pass to WR C. Ayers.
+
+Houston ball, Q1, 2-10-HOU40 (00:49) 3-0
+Offense: Short Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Run, Set: 4-3, Play: 43-run-SZ
+QB D. Harris completes a 10 yard out to WR M. Dalton (OOB).
+
+Houston ball, Q1, 1-10-HOU50 (00:37) 3-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB D. Rivera runs right end for -4 yards (CB T. German). OG H. Macias missed a block that 
+hurt the play.
+
+Houston ball, Q1, 2-14-HOU46 (00:08) 3-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB D. Harris completes a 4 yard out to WR W. Martin (OOB).
+
+Houston ball, Q2, 3-10-HOU50 (15:00) 3-0
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB D. Harris completes a 11 yard screen to RB D. Rivera (CB B. Jacobs).  SS K. Carter missed 
+a tackle.
+
+Houston ball, Q2, 1-10-CIN39 (14:39) 3-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+QB D. Harris completes a 9 yard out to WR C. Ayers (CB B. Jacobs). 
+
+Houston ball, Q2, 2-1-CIN30 (14:16) 3-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+RB D. Rivera runs left guard for 10 yards (OLB C. Penn). 
+
+Houston ball, Q2, 1-10-CIN20 (13:46) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Run, Set: 4-3, Play: 43-run-SZ-B5
+RB D. Moore runs left guard for -1 yards (OLB B. Wood). FB B. Valdez missed a block that hurt 
+the play.
+
+Houston ball, Q2, 2-11-CIN21 (13:19) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB D. Rivera runs left guard for 21 yards ****Touchdown!*****
+
+Houston ball, Q2, 1-0-CIN0 (12:47) 9-0
+Michael Beach converts the PAT.
+
+Houston ball, Q2, 1-10-HOU35 (12:47) 10-0
+Michael Beach kicks 67 from Houston 35 to Cincinnati -2. Charles Collins to Cincinnati 12 
+for a 14 yard return. He fumbles the ball after a hit by T. Albright. It's recovered by P. Workman of Houston. He returns it 0 yards to the Cincinnati 12.
+
+Houston ball, Q2, 1-10-CIN12 (12:28) 10-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB D. Rivera runs left end for 1 yard (DE R. Ring). 
+
+Houston ball, Q2, 1-10-CIN12 (12:28) 10-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+SS Kenneth Carter (CIN) was injured on the play (Head). It doesn't look like he will return.
+
+Houston ball, Q2, 2-9-CIN11 (12:13) 10-0
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB D. Rivera runs right end for -2 yards (OLB J. Queen).
+
+Houston ball, Q2, 3-11-CIN13 (11:43) 10-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB D. Rivera runs left tackle for -4 yards (FS M. Harmon). OT J. Barnett missed a block that 
+hurt the play.
+
+Houston ball, Q2, 4-15-CIN17 (11:10) 10-0
+Michael Beach converts the 35 yard field goal.
+
+Houston ball, Q2, 1-10-HOU35 (10:53) 13-0
+Michael Beach kicks 55 from Houston 35 to Cincinnati 10. Charles Collins to Cincinnati 26 
+for a 16 yard return. He fumbles the ball after a hit by J. Jones. It's recovered by D. Moore of Houston. He returns it 0 yards to the Cincinnati 26.
+
+Houston ball, Q2, 1-10-CIN26 (10:35) 13-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB D. Rivera runs right guard for 5 yards (DE R. Ring). 
+
+Houston ball, Q2, 2-5-CIN21 (10:05) 13-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB D. Moore runs right guard for -1 yards (OLB C. Penn).
+
+Houston ball, Q2, 3-6-CIN22 (09:36) 13-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+RB D. Rivera runs right guard for 2 yards (CB B. Jacobs). 
+
+Houston ball, Q2, 4-4-CIN20 (09:03) 13-0
+Michael Beach misses the 38 yard field goal. It will be Cincinnati ball at the CIN 20
+
+Cincinnati ball, Q2, 1-10-CIN20 (08:46) 0-13
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB R. Prather runs right guard for 13 yards (FS K. Ford).  C J. Park had a key block on the 
+run.
+
+Cincinnati ball, Q2, 1-10-CIN33 (08:16) 0-13
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB R. Prather runs left tackle for 4 yards (FS F. Green). 
+
+Cincinnati ball, Q2, 2-6-CIN37 (07:44) 0-13
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB N. Dennis completes a 12 yard in to WR W. Carson (ILB D. Mccabe).  W. Carson made a great 
+catch.
+
+Cincinnati ball, Q2, 1-10-CIN49 (07:20) 0-13
+Offense: Inside Run, Set: Quads, Play: Q-QB-draw-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB N. Dennis runs right guard for 2 yards (OLB M. Peterson). 
+
+Cincinnati ball, Q2, 2-8-HOU49 (06:54) 0-13
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-run-Man-B5,6,8
+QB N. Dennis completes a 4 yard out-and-up to WR W. Carson (FS K. Ford). 
+
+Cincinnati ball, Q2, 3-4-HOU45 (06:26) 0-13
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: 3-3-5, Play: 335-norm-Man-B4
+QB N. Dennis throws an incomplete pass to WR C. Collins (CB A. Cullen). CB A. Cullen broke 
+up the pass.
+
+Cincinnati ball, Q2, 4-4-HOU45 (06:07) 0-13
+Nathaniel Little Punts 40 yards to the Houston 5 yard line, where it goes out of bounds.
+
+Houston ball, Q2, 1-10-HOU5 (05:50) 13-0
+Offense: Short Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB D. Harris completes a 5 yard in to WR M. Dalton (FS M. Harmon). 
+
+Houston ball, Q2, 2-5-HOU10 (05:29) 13-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB D. Rivera runs right guard for 5 yards (SS D. Jones). 
+
+Houston ball, Q2, 1-10-HOU15 (04:56) 13-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-TMan
+QB D. Harris completes a 27 yard out to WR C. Ayers (OLB J. Queen).  OLB J. Queen allowed 
+the big play.
+
+Pass Interference against SS David Jones on Cincinnati. The Penalty is for 15 yards, and an 
+automatic first down.
+The penalty will be declined.
+
+Houston ball, Q2, 1-10-HOU42 (04:43) 13-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+RB D. Moore runs left tackle for 7 yards (FS M. Harmon).  CB B. Jacobs missed a tackle.
+
+Houston ball, Q2, 2-3-HOU49 (04:16) 13-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB D. Moore runs right end for 1 yard (FS M. Harmon). 
+
+Houston ball, Q2, 3-2-HOU50 (03:45) 13-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB G. Frazier gets sacked for a 1 yard loss (OLB J. Queen).  OG O. Lin allowed the sack.
+
+Houston ball, Q2, 4-3-HOU49 (03:27) 13-0
+Daniel Daniels Punts 38 yards to the Cincinnati 13 yard line,
+
+Cincinnati ball, Q2, 1-10-CIN13 (03:11) 0-13
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+QB N. Dennis runs outside for 1 yard (SS K. Cantu). 
+
+Cincinnati ball, Q2, 2-9-CIN14 (02:53) 0-13
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB N. Dennis completes a 9 yard hook to WR G. Lee (CB A. Cullen).  He fumbles the ball after 
+a hit by A. Cullen. It's recovered by S. Morris of Cincinnati.
+
+Cincinnati ball, Q2, 1-10-CIN23 (02:30) 0-13
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB R. Prather runs left guard for 2 yards (OLB M. Peterson). 
+
+Cincinnati ball, Q2, 2-8-CIN25 (01:57) 0-13
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB R. Prather runs left guard for 6 yards (FS F. Green, OLB M. Peterson). 
+
+Cincinnati ball, Q2, 3-2-CIN31 (01:29) 0-13
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB N. Dennis completes a 1 yard hook to RB R. Prather (OLB M. Peterson). 
+
+Cincinnati ball, Q2, 4-1-CIN32 (01:05) 0-13
+Nathaniel Little Punts 44 yards to the Houston 24 yard line, where Edward Johnson returns 
+it to Houston 26 for a 2 yard return.
+
+Houston ball, Q2, 1-10-HOU26 (00:58) 13-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Harris throws an incomplete pass to WR C. Ayers (OLB C. Penn). OLB C. Penn broke up 
+the pass.
+
+Houston ball, Q2, 2-10-HOU26 (00:52) 13-0
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Harris throws an incomplete pass to WR C. Ayers (CB B. Jacobs). CB B. Jacobs broke up 
+the pass.
+
+Holding against OG Harold Macias on Houston. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 20 at the Houston 16.
+
+Houston ball, Q2, 2-20-HOU16 (00:42) 13-0
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB D. Harris completes a 12 yard hook to WR W. Martin (OOB). SS A. Porter missed a tackle.
+
+Houston ball, Q2, 3-8-HOU28 (00:36) 13-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB D. Rivera runs right guard for 0 yards (DT T. Mccray).  OG H. Macias missed a block that 
+hurt the play.
+
+Cincinnati Timeout!
+
+Houston ball, Q2, 4-8-HOU28 (00:29) 13-0
+Daniel Daniels Punts 36 yards to the Cincinnati 36 yard line, where Sid Boone returns it to 
+Houston 46 for a 18 yard return.
+
+Cincinnati ball, Q2, 1-10-HOU46 (00:23) 0-13
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB N. Dennis throws an incomplete pass to WR W. Carson. WR W. Carson dropped the pass.
+
+Cincinnati ball, Q2, 2-10-HOU46 (00:17) 0-13
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB N. Dennis completes a 5 yard dump off to WR C. Collins (OLB M. Peterson). 
+
+Cincinnati Timeout!
+
+Cincinnati ball, Q2, 3-5-HOU41 (00:11) 0-13
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+N. Dennis has his 24 yard pass intercepted by K. Ford at the HOU 17. He returns it 23 yards 
+to the Houston 40. N. Dennis made a bad pass. DE M. Parker hurried the QB.
+
+Cincinnati ball, Q3, 1-10-CIN35 (15:00) 0-13
+Francisco Wright kicks 67 from Cincinnati 35 to Houston -2. William Martin to Houston 19 for 
+a 21 yard return.
+
+Houston ball, Q3, 1-10-HOU19 (14:42) 13-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB D. Rivera runs right guard for 1 yard (FS M. Harmon).  OG O. Lin missed a block that hurt 
+the play.
+
+Houston ball, Q3, 2-9-HOU20 (14:16) 13-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB D. Harris throws an incomplete pass to WR W. Martin.
+
+Houston ball, Q3, 3-9-HOU20 (13:56) 13-0
+Offense: Outside Run, Set: I Form, Play: I-HB-toss-RE
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+RB D. Rivera runs right end for 1 yard (SS D. Jones). 
+
+Houston ball, Q3, 4-8-HOU21 (13:24) 13-0
+Daniel Daniels Punts 51 yards to the Cincinnati 28 yard line, where Sid Boone returns it to 
+Cincinnati 46 for a 18 yard return.
+
+Cincinnati ball, Q3, 1-10-CIN46 (13:06) 0-13
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+RB R. Prather runs left end for 8 yards (SS K. Cantu, FS K. Ford).  DE M. Parker missed a 
+tackle.
+
+Cincinnati ball, Q3, 2-2-HOU46 (12:40) 0-13
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-streak-SE-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB N. Dennis completes a 15 yard in to WR A. Leavitt (FS F. Green).  He fumbles the ball after 
+a hit by F. Green. It's recovered by A. Cullen of Houston. He returns it 5 yards to the Houston 36. C J. Park earned a pancake on the play.
+
+Houston ball, Q3, 1-10-HOU36 (12:17) 13-0
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Run, Set: 4-3, Play: 43-run-SZ
+RB D. Moore runs right end for 6 yards (ILB K. Day). 
+
+Houston ball, Q3, 1-10-HOU36 (12:17) 13-0
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Run, Set: 4-3, Play: 43-run-SZ
+RB David Moore (HOU) was injured on the play (Face). It doesn't look too serious and he should 
+return.
+
+Houston ball, Q3, 2-4-HOU42 (12:03) 13-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB D. Harris gets sacked for a 10 yard loss (DT T. Mccray).  C W. Medley allowed the sack.
+
+Houston ball, Q3, 3-14-HOU32 (11:47) 13-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Harris completes a 18 yard out to WR W. Martin (OLB J. Queen, CB T. German).  SS A. 
+Porter missed a tackle.
+
+Houston ball, Q3, 1-10-HOU50 (11:24) 13-0
+Offense: Inside Run, Set: I Form, Play: I-FB-counter-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ-B6
+FB B. Valdez runs right guard for 2 yards (OLB J. Queen, ILB K. Day). 
+
+Houston ball, Q3, 2-8-CIN48 (10:58) 13-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB D. Moore runs right tackle for 1 yard (OLB J. Queen). 
+
+Houston ball, Q3, 3-7-CIN47 (10:28) 13-0
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Harris throws an incomplete pass to WR W. Martin (CB B. Jacobs). CB B. Jacobs broke 
+up the pass.
+
+Houston ball, Q3, 4-7-CIN47 (10:11) 13-0
+Daniel Daniels Punts 44 yards to the Cincinnati 3 yard line, where it goes out of bounds.
+
+Cincinnati ball, Q3, 1-10-CIN3 (09:56) 0-13
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB N. Dennis throws an incomplete pass to WR W. Carson. WR W. Carson ran an incorrect route. 
+DE M. Parker hurried the QB.
+
+Cincinnati ball, Q3, 2-10-CIN3 (09:41) 0-13
+Offense: Inside Run, Set: Quads, Play: Q-QB-draw-RG
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+QB N. Dennis runs right tackle for 1 yard (ILB D. Mccabe). 
+
+Cincinnati ball, Q3, 3-9-CIN4 (09:13) 0-13
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB N. Dennis throws an incomplete pass to WR A. Leavitt (OLB M. Peterson). OLB M. Peterson 
+broke up the pass.
+
+Cincinnati ball, Q3, 4-9-CIN4 (08:54) 0-13
+Nathaniel Little Punts 53 yards to the Houston 43 yard line, where Edward Johnson returns 
+it to Cincinnati 22 for a 35 yard return.
+
+Houston ball, Q3, 1-10-CIN22 (08:34) 13-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB D. Moore runs left tackle for 1 yard (OLB C. Penn). 
+
+Houston ball, Q3, 2-9-CIN21 (08:04) 13-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B10,11
+RB D. Rivera runs right guard for 8 yards (ILB K. Day).  ILB K. Day missed a tackle.
+
+Houston ball, Q3, 3-1-CIN13 (07:35) 13-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB D. Rivera runs right guard for -1 yards (OLB J. Queen).
+
+Houston ball, Q3, 4-2-CIN14 (07:08) 13-0
+False Start against ILB Paul Workman on Houston. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Fourth and 7 at the Cincinnati 19.
+
+Houston ball, Q3, 4-7-CIN19 (07:08) 13-0
+Michael Beach converts the 37 yard field goal.
+
+Houston ball, Q3, 1-10-HOU35 (06:51) 16-0
+Michael Beach kicks 55 from Houston 35 to Cincinnati 10. Charles Collins to Cincinnati 45 
+for a 35 yard return.
+
+Piling On after the play against RB Jeffrey Jones on Houston. The Penalty is for 15 yards, 
+and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Houston 40.
+
+Cincinnati ball, Q3, 1-10-HOU40 (06:40) 0-16
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB R. Prather runs right end for 2 yards (ILB D. Mccabe). 
+
+Cincinnati ball, Q3, 1-10-HOU40 (06:40) 0-16
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB Norris Dennis (CIN) was injured on the play (Teeth). It doesn't look like he will return.
+
+Cincinnati ball, Q3, 2-8-HOU38 (06:25) 0-16
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-posts
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB J. Castillo completes a 2 yard post to WR A. Leavitt (ILB D. Mccabe). 
+
+Cincinnati ball, Q3, 3-6-HOU36 (05:58) 0-16
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-posts
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB J. Castillo gets sacked for a 10 yard loss (DE L. Staton).  OG A. Jackson allowed the sack.
+
+Cincinnati ball, Q3, 4-16-HOU46 (05:38) 0-16
+Nathaniel Little Punts 32 yards to the Houston 14 yard line, where it goes out of bounds.
+
+Houston ball, Q3, 1-10-HOU14 (05:18) 16-0
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-straight-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB D. Moore runs right guard for 1 yard (OLB C. Penn).  OT J. Barnett missed a block that 
+hurt the play.
+
+Houston ball, Q3, 2-9-HOU15 (04:45) 16-0
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Stop Run, Set: Dime, Play: Dime-pass-MZ
+RB D. Moore runs left tackle for 9 yards (CB T. German, CB B. Jacobs).  OG H. Macias had a 
+key block on the run. OLB J. Queen missed a tackle.
+
+Houston ball, Q3, 1-10-HOU24 (04:17) 16-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Harris completes a 25 yard in to TE T. Williams (OLB C. Penn).  He fumbles the ball 
+after a hit by C. Penn. It's recovered by C. Penn of Cincinnati. He returns it 37 yards to the Houston 12.
+
+Cincinnati ball, Q3, 1-10-HOU12 (03:52) 0-16
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: 3-3-5, Play: 335-norm-Man
+QB J. Castillo gets sacked for a 3 yard loss (DE L. Staton).  OT B. Moore allowed the sack.
+
+Cincinnati ball, Q3, 2-13-HOU15 (03:36) 0-16
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+RB R. Prather runs left end for 10 yards (SS K. Cantu, FS F. Green). 
+
+Cincinnati ball, Q3, 3-3-HOU5 (03:09) 0-16
+Offense: Short Pass, Set: Trips, Play: TR-SE-screen
+Defense: Stop Pass, Set: Goal Line, Play: GL-run-SZ
+QB J. Castillo runs outside for 3 yards (OOB). DE L. Staton hurried the QB.
+
+Cincinnati ball, Q3, 1-2-HOU2 (02:54) 0-16
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+QB J. Castillo completes a 1 yard out to WR W. Carson (ILB D. Mccabe). 
+
+Cincinnati ball, Q3, 2-1-HOU1 (02:30) 0-16
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+RB R. Prather runs right end for -1 yards (OLB M. Peterson).
+
+Cincinnati ball, Q3, 3-2-HOU2 (01:58) 0-16
+Offense: Outside Run, Set: Quads, Play: Q-HB-power-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+RB R. Prather runs right end for 1 yard (OLB M. Peterson). 
+
+Cincinnati ball, Q3, 4-1-HOU1 (01:27) 0-16
+Brian Mcintyre converts the 19 yard field goal.
+
+Cincinnati ball, Q3, 1-10-CIN35 (01:07) 3-16
+Francisco Wright kicks 67 from Cincinnati 35 to Houston -2. William Martin to Houston 12 for 
+a 14 yard return.
+
+Houston ball, Q3, 1-10-HOU12 (00:47) 16-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: 4-3, Play: 43-norm-DZ-B5,7
+RB D. Rivera runs right guard for 4 yards (FS M. Harmon, OLB C. Penn). 
+
+Houston ball, Q3, 2-6-HOU16 (00:17) 16-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB D. Moore runs right guard for 4 yards (CB T. German). 
+
+Houston ball, Q4, 3-2-HOU20 (15:00) 16-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB D. Rivera runs left guard for -1 yards (OLB J. Queen).
+
+Houston ball, Q4, 3-2-HOU20 (15:00) 16-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB Gerald Frazier (HOU) was injured on the play (Sternum). It doesn't look like he will return.
+
+Houston ball, Q4, 4-3-HOU19 (14:43) 16-3
+Daniel Daniels Punts 52 yards to the Cincinnati 29 yard line, where Sid Boone returns it to 
+Houston 36 for a 35 yard return.
+
+Cincinnati ball, Q4, 1-10-HOU36 (14:28) 3-16
+Offense: Short Pass, Set: Trips, Play: TR-FL-streak-WR3-in
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB J. Castillo throws an incomplete pass to WR A. Leavitt.
+
+Cincinnati ball, Q4, 2-10-HOU36 (14:13) 3-16
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+RB R. Prather runs left guard for 1 yard (SS K. Cantu). 
+
+Cincinnati ball, Q4, 3-9-HOU35 (13:44) 3-16
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+QB J. Castillo throws an incomplete pass to WR W. Carson (FS F. Green). FS F. Green broke 
+up the pass.
+
+Cincinnati ball, Q4, 4-9-HOU35 (13:26) 3-16
+Nathaniel Little Punts 38 yards to the end zone, Touchback.
+
+Houston ball, Q4, 1-10-HOU20 (13:09) 16-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB D. Rivera runs right guard for 12 yards (SS A. Porter, OLB J. Queen). 
+
+Houston ball, Q4, 1-10-HOU32 (12:36) 16-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB D. Harris completes a 6 yard out to WR C. Ayers (OOB).
+
+Houston ball, Q4, 2-4-HOU38 (12:24) 16-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B5,8
+QB D. Harris gets sacked for a 7 yard loss (DE R. Ring).  OG O. Lin allowed the sack.
+
+Houston ball, Q4, 3-11-HOU31 (12:08) 16-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB D. Harris throws an incomplete pass to WR M. Dalton. D. Harris made a bad pass.
+
+Houston ball, Q4, 4-11-HOU31 (11:52) 16-3
+Daniel Daniels Punts 41 yards to the Cincinnati 28 yard line, where Sid Boone returns it to 
+Cincinnati 50 for a 22 yard return.
+
+Cincinnati ball, Q4, 1-10-CIN50 (11:37) 3-16
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB J. Castillo completes a 3 yard streak to WR G. Lee (CB H. Villarreal). 
+
+Cincinnati ball, Q4, 2-7-HOU47 (11:14) 3-16
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-posts
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB J. Castillo throws an incomplete pass to WR W. Carson.
+
+Cincinnati ball, Q4, 3-7-HOU47 (10:55) 3-16
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB J. Castillo completes a 6 yard hook to WR C. Collins (SS K. Cantu, ILB D. Mccabe). 
+
+Cincinnati ball, Q4, 3-7-HOU47 (10:55) 3-16
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+CB Anthony Cullen (HOU) was injured on the play (Head). It doesn't look like he will return.
+
+Cincinnati ball, Q4, 4-1-HOU41 (10:38) 3-16
+Nathaniel Little Punts 38 yards to the Houston 3 yard line, where it goes out of bounds.
+
+Houston ball, Q4, 1-10-HOU3 (10:18) 16-3
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+FB B. Valdez runs left guard for 15 yards (CB T. German). 
+
+Houston ball, Q4, 1-10-HOU18 (09:48) 16-3
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+FB B. Valdez runs right end for 23 yards (OOB). SS D. Jones missed a tackle.
+
+Houston ball, Q4, 1-10-HOU41 (09:35) 16-3
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB D. Moore runs right tackle for 4 yards (CB T. German). 
+
+Houston ball, Q4, 2-6-HOU45 (09:07) 16-3
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Harris throws an incomplete pass to WR C. Ayers (CB B. Jacobs). D. Harris made a bad 
+pass. OLB C. Penn hurried the QB. CB B. Jacobs broke up the pass.
+
+Houston ball, Q4, 2-6-HOU45 (09:07) 16-3
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+OT Carey Hernandez (HOU) was injured on the play (Finger). It doesn't look too serious and 
+he should return.
+
+Houston ball, Q4, 3-6-HOU45 (08:51) 16-3
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Harris throws an incomplete pass to RB D. Rivera (ILB K. Day). RB D. Rivera ran an incorrect 
+route. OLB C. Penn hurried the QB. ILB K. Day broke up the pass.
+
+Houston ball, Q4, 4-6-HOU45 (08:34) 16-3
+Daniel Daniels Punts 42 yards to the Cincinnati 13 yard line, where Sid Boone returns it to 
+Cincinnati 31 for a 18 yard return.
+
+Cincinnati ball, Q4, 1-10-CIN31 (08:17) 3-16
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB R. Prather runs left tackle for -1 yards (SS K. Cantu).
+
+Cincinnati ball, Q4, 2-11-CIN30 (07:50) 3-16
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-MZ-B4,5,6,8,
+QB J. Castillo throws an incomplete pass to WR W. Carson (OLB J. Thomas). WR W. Carson ran 
+an incorrect route. OLB J. Thomas broke up the pass.
+
+Cincinnati ball, Q4, 3-11-CIN30 (07:31) 3-16
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+J. Castillo has his 8 yard pass intercepted by L. Staton at the CIN 38. He returns it 16 yards 
+to the Cincinnati 22.
+
+Houston ball, Q4, 1-10-CIN22 (06:59) 16-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B5
+RB D. Moore runs right end for 17 yards (OOB).
+
+Houston ball, Q4, 1-5-CIN5 (06:46) 16-3
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+RB D. Moore runs left end for -4 yards (DE R. Ring). OG H. Macias missed a block that hurt 
+the play.
+
+Houston ball, Q4, 2-9-CIN9 (06:14) 16-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan
+RB D. Rivera runs right end for 0 yards (ILB K. Day).  TE T. Williams missed a block that 
+hurt the play.
+
+Houston ball, Q4, 3-9-CIN9 (05:48) 16-3
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB D. Harris throws an incomplete pass to WR W. Martin.
+
+Houston ball, Q4, 4-9-CIN9 (05:30) 16-3
+Michael Beach converts the 27 yard field goal.
+
+Houston ball, Q4, 1-10-HOU35 (05:15) 19-3
+Michael Beach kicks 67 from Houston 35 to Cincinnati -2. Charles Collins to Cincinnati 19 
+for a 21 yard return.
+
+Cincinnati ball, Q4, 1-10-CIN19 (04:56) 3-19
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+QB J. Castillo completes a 11 yard dump off to WR G. Lee (FS K. Ford, CB H. Villarreal).  
+C J. Park earned a pancake on the play. CB H. Villarreal was out of position on the play.
+
+Cincinnati ball, Q4, 1-10-CIN30 (04:33) 3-19
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB J. Castillo throws an incomplete pass to WR A. Leavitt (OLB M. Peterson). OLB M. Peterson 
+broke up the pass.
+
+Cincinnati ball, Q4, 1-10-CIN30 (04:33) 3-19
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+DE Leo Staton (HOU) was injured on the play (OK). It doesn't look like he will return.
+
+Cincinnati ball, Q4, 2-10-CIN30 (04:17) 3-19
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB R. Prather runs right end for 2 yards (FS F. Green). 
+
+Cincinnati ball, Q4, 3-8-CIN32 (03:45) 3-19
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB R. Prather runs right end for 8 yards (SS K. Cantu, CB H. Villarreal). 
+
+Cincinnati ball, Q4, 1-10-CIN40 (03:12) 3-19
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB J. Castillo completes a 20 yard streak to WR G. Lee (SS K. Cantu).  C J. Park earned a 
+pancake on the play.
+
+Cincinnati ball, Q4, 1-10-HOU40 (02:46) 3-19
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB J. Castillo throws an incomplete pass to WR W. Carson. WR W. Carson ran an incorrect route. 
+DE J. Roman hurried the QB.
+
+Cincinnati ball, Q4, 2-10-HOU40 (02:28) 3-19
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB J. Castillo throws an incomplete pass to WR A. Leavitt.
+
+Cincinnati ball, Q4, 3-10-HOU40 (02:09) 3-19
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB J. Castillo completes a 22 yard cross to WR W. Carson (OOB). J. Castillo with the great 
+pass. OT W. Dubose earned a pancake on the play.
+
+Cincinnati ball, Q4, 1-10-HOU18 (01:55) 3-19
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+QB J. Castillo completes a 4 yard out to WR C. Collins (OLB M. Peterson). 
+
+Cincinnati ball, Q4, 2-6-HOU14 (01:34) 3-19
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB J. Castillo completes a 0 yard dump off to WR G. Lee (OOB).
+
+Cincinnati ball, Q4, 3-6-HOU14 (01:16) 3-19
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 3-3-5, Play: 335-run-Man-B8,10
+QB J. Castillo completes a 6 yard screen to RB R. Prather (OLB J. Thomas).  He fumbles the 
+ball after a hit by J. Thomas. It's recovered by S. Morris of Cincinnati.
+
+Cincinnati Timeout!
+
+Cincinnati ball, Q4, 1-8-HOU8 (01:01) 3-19
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB J. Castillo completes a 5 yard dump off to TE S. Morris (FS F. Green). 
+
+Cincinnati Timeout!
+
+Cincinnati ball, Q4, 2-3-HOU3 (01:03) 3-19
+Offense: Short Pass, Set: Trips, Play: TR-SE-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Castillo throws an incomplete pass to WR W. Carson.
+
+Cincinnati ball, Q4, 3-3-HOU3 (00:56) 3-19
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB J. Castillo throws an incomplete pass to FB W. Crawford (ILB D. Mccabe). DE J. Roman hurried 
+the QB. ILB D. Mccabe broke up the pass.
+
+Cincinnati ball, Q4, 4-3-HOU3 (00:48) 3-19
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 3-3-5, Play: 335-norm-MZ
+QB J. Castillo completes a 3 yard post to WR C. Collins ****Touchdown!*****
+
+Cincinnati ball, Q4, 1-0-HOU0 (00:37) 9-19
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+QB J. Castillo throws an incomplete pass to TE S. Morris.
+
+Cincinnati ball, Q4, 1-10-CIN35 (00:37) 9-19
+Francisco Wright Lines up for the onside kick! The opponent has their hands team out there. 
+The kick goes 18 yards and bounces around...[B] The Return Team Holds on to it. Todd Williams ends up with it on the Houston 47.
+
+Cincinnati Timeout!
+
+Houston ball, Q4, 1-10-HOU47 (00:31) 19-9
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+The QB takes a knee.
+
+Houston ball, Q4, 2-11-HOU46 (00:23) 19-9
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+The QB takes a knee.
+

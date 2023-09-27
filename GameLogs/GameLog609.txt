@@ -1,0 +1,988 @@
+Fresno State ball, Q1, 1-10-FRS35 (15:00) 0-0
+Stephen Alfaro kicks 66 from Fresno State 35 to Boise State -1. Roger Milligan to Boise State 
+13 for a 14 yard return.
+
+Boise State ball, Q1, 1-10-BOI13 (14:44) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB O. Thompson runs right tackle for 6 yards (CB J. Lynn). 
+
+Boise State ball, Q1, 2-4-BOI19 (14:13) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+False Start against OT Felipe Patrick on Boise State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 9 at the Boise State 14.
+
+Boise State ball, Q1, 2-9-BOI14 (14:13) 0-0
+Offense: Long Pass, Set: Weak, Play: WK-SE-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB B. Julian throws an incomplete pass to WR M. Powell.
+
+Boise State ball, Q1, 3-9-BOI14 (13:54) 0-0
+Offense: Medium Pass, Set: Weak, Play: WK-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB B. Julian throws an incomplete pass to WR M. Powell.
+
+Boise State ball, Q1, 4-9-BOI14 (13:35) 0-0
+Jerry Hiatt Punts 56 yards to the Fresno State 30 yard line, where George Wilson returns it 
+to Fresno State 38 for a 8 yard return.
+
+Fresno State ball, Q1, 1-10-FRS38 (13:15) 0-0
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB P. Cash throws an incomplete pass to WR S. Taylor (CB W. Handley). CB W. Handley broke 
+up the pass.
+
+Fresno State ball, Q1, 2-10-FRS38 (12:55) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB P. Matthews runs right end for 9 yards (SS I. Nelson, FS F. Ellis).  SS T. Gipson missed 
+a tackle.
+
+Fresno State ball, Q1, 3-1-FRS47 (12:29) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+QB J. Taylor throws an incomplete pass to WR J. Workman.
+
+Fresno State ball, Q1, 4-1-FRS47 (12:13) 0-0
+Jack Connor Punts 29 yards to the Boise State 24 yard line, where it goes out of bounds.
+
+Boise State ball, Q1, 1-10-BOI24 (11:55) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB B. Roman runs left guard for 5 yards (FS M. Lewis). 
+
+Boise State ball, Q1, 2-5-BOI29 (11:22) 0-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-MZ-B6,8,10
+RB O. Thompson runs right guard for 71 yards ****Touchdown!*****
+
+Boise State ball, Q1, 1-0-FRS0 (10:54) 6-0
+Nicholas Stanley converts the PAT.
+
+Boise State ball, Q1, 1-10-BOI35 (10:54) 7-0
+Nicholas Stanley kicks 67 from Boise State 35 to Fresno State -2. Wendell Richmond to Fresno 
+State 16 for a 18 yard return.
+
+Fresno State ball, Q1, 1-10-FRS16 (10:36) 0-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB P. Matthews runs left guard for 0 yards (FS D. Lucero). 
+
+Fresno State ball, Q1, 2-10-FRS16 (10:03) 0-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB P. Matthews runs right guard for 0 yards (FS D. Lucero).  C L. Reyes missed a block that 
+hurt the play.
+
+Fresno State ball, Q1, 3-10-FRS16 (09:37) 0-7
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5-L
+QB P. Cash throws an incomplete pass to WR J. Workman. OLB R. Evans hurried the QB.
+
+Fresno State ball, Q1, 4-10-FRS16 (09:21) 0-7
+Jack Connor Punts 29 yards to the Fresno State 45 yard line, where Robert Boston returns it 
+to Fresno State 44 for a 1 yard return.
+
+Boise State ball, Q1, 1-10-FRS44 (09:04) 7-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ
+QB B. Julian completes a 19 yard hook to FB R. Fry (ILB D. Valentin). 
+
+Boise State ball, Q1, 1-10-FRS25 (08:41) 7-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB O. Thompson runs right guard for 0 yards (FS M. Lewis). 
+
+Boise State ball, Q1, 2-10-FRS25 (08:14) 7-0
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Normal, Set: 4-2-5, Play: 425-norm-Man-B6
+FB R. Fry runs left guard for 5 yards (CB E. Yates, SS C. Robinson). 
+
+Boise State ball, Q1, 3-5-FRS20 (07:59) 7-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Normal, Set: 4-2-5, Play: 425-norm-Man-B8,10
+RB O. Thompson runs left guard for 7 yards (CB E. Yates).  OT F. Patrick had a key block on 
+the run.
+
+Boise State ball, Q1, 1-10-FRS13 (07:29) 7-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: 4-2-5, Play: 425-norm-DZ
+RB O. Thompson runs right tackle for 13 yards ****Touchdown!***** OG J. Williams had a key 
+block on the run.
+
+Boise State ball, Q1, 1-10-FRS13 (07:29) 7-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: 4-2-5, Play: 425-norm-DZ
+QB Brian Julian (BOI) was injured on the play (Sternum). It doesn't look like he will return.
+
+Boise State ball, Q1, 1-0-FRS0 (07:15) 13-0
+Nicholas Stanley converts the PAT.
+
+Boise State ball, Q1, 1-10-BOI35 (07:15) 14-0
+Nicholas Stanley kicks 54 from Boise State 35 to Fresno State 11. Wendell Richmond to Fresno 
+State 25 for a 14 yard return.
+
+Fresno State ball, Q1, 1-10-FRS25 (06:56) 0-14
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB P. Cash throws an incomplete pass to WR J. Workman (SS I. Nelson). DE J. Morgan hurried 
+the QB. SS I. Nelson broke up the pass.
+
+Fresno State ball, Q1, 2-10-FRS25 (06:37) 0-14
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB P. Cash gets sacked for a 10 yard loss (OLB M. Thompson).  TE W. Little allowed the sack.
+
+Fresno State ball, Q1, 3-20-FRS15 (06:20) 0-14
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB P. Cash completes a 7 yard post to WR J. Workman (OOB).
+
+Fresno State ball, Q1, 4-13-FRS22 (06:09) 0-14
+Jack Connor Punts 44 yards to the Boise State 34 yard line, where Robert Boston returns it 
+to Boise State 35 for a 1 yard return.
+
+Boise State ball, Q1, 1-10-BOI35 (05:54) 14-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Normal, Set: 4-2-5, Play: 425-norm-TMan-Spy
+RB O. Thompson runs left tackle for 13 yards (ILB D. Valentin, SS C. Robinson).  TE B. Ramos 
+had a key block on the run.
+
+Boise State ball, Q1, 1-10-BOI35 (05:54) 14-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Normal, Set: 4-2-5, Play: 425-norm-TMan-Spy
+DT James Price (FRS) was injured on the play (OK). It doesn't look like he will return.
+
+Boise State ball, Q1, 1-10-BOI48 (05:39) 14-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-DZ
+RB B. Roman runs left tackle for 5 yards (ILB D. Valentin). 
+
+Boise State ball, Q1, 2-5-FRS47 (05:09) 14-0
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ
+QB J. Grant throws an incomplete pass to WR R. Milligan.
+
+Boise State ball, Q1, 3-5-FRS47 (04:54) 14-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Normal, Set: 4-2-5, Play: 425-norm-TMan-Spy
+QB J. Grant throws an incomplete pass to WR R. Milligan.
+
+Boise State ball, Q1, 4-5-FRS47 (04:39) 14-0
+Jerry Hiatt Punts 33 yards to the Fresno State 14 yard line, where it goes out of bounds.
+
+Fresno State ball, Q1, 1-10-FRS14 (04:20) 0-14
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB P. Matthews runs right guard for 3 yards (OLB M. Thompson). 
+
+Fresno State ball, Q1, 2-7-FRS17 (03:47) 0-14
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB P. Matthews runs left end for 19 yards (OOB).
+
+Fresno State ball, Q1, 1-10-FRS36 (03:33) 0-14
+Offense: Long Pass, Set: Trips, Play: TR-SE-rollout-post
+Defense: Stop Pass, Set: 4-3, Play: 43-run-M-B7-R
+QB P. Cash throws an incomplete pass to WR S. Taylor. DE J. Morgan hurried the QB.
+
+Fresno State ball, Q1, 2-10-FRS36 (03:13) 0-14
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ-B6
+QB P. Cash completes a 6 yard screen to RB P. Matthews (SS I. Nelson). 
+
+Fresno State ball, Q1, 3-4-FRS42 (02:52) 0-14
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB P. Cash completes a 1 yard in to WR G. Wilson (FS D. Lucero). 
+
+Fresno State ball, Q1, 4-3-FRS43 (02:31) 0-14
+Jack Connor Punts 38 yards to the Boise State 19 yard line, where Robert Boston returns it 
+to Boise State 28 for a 9 yard return.
+
+Boise State ball, Q1, 1-10-BOI28 (02:12) 14-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: 4-2-5, Play: 425-norm-DZ
+RB O. Thompson runs right guard for 4 yards (SS C. Robinson). 
+
+Boise State ball, Q1, 2-6-BOI32 (01:40) 14-0
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB J. Grant completes a 60 yard streak to WR R. Milligan (SS C. Robinson, FS M. Lewis).  TE 
+B. Ramos earned a pancake on the play. CB J. Lynn allowed the big play.
+
+Boise State ball, Q1, 1-8-FRS8 (01:07) 14-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: 4-2-5, Play: 425-norm-DZ
+RB O. Thompson runs left end for 4 yards (OOB).
+
+Boise State ball, Q1, 2-4-FRS4 (00:54) 14-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+RB O. Thompson runs right end for 3 yards (OLB D. Mcmurray). 
+
+Boise State ball, Q1, 3-1-FRS1 (00:22) 14-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-MZ-B6,8,10
+RB O. Thompson runs right guard for -1 yards (FS M. Lewis).
+
+Boise State ball, Q2, 4-2-FRS2 (15:00) 14-0
+Nicholas Stanley converts the 20 yard field goal.
+
+Boise State ball, Q2, 1-10-BOI35 (14:44) 17-0
+Nicholas Stanley kicks 53 from Boise State 35 to Fresno State 12. Wendell Richmond to Fresno 
+State 37 for a 25 yard return.
+
+Fresno State ball, Q2, 1-10-FRS37 (14:29) 0-17
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Run, Set: 4-3, Play: 43-run-SZ-B5
+RB P. Matthews runs right guard for 1 yard (OLB M. Thompson). 
+
+Fresno State ball, Q2, 2-9-FRS38 (14:01) 0-17
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB P. Cash completes a 31 yard hook to WR S. Taylor (OOB). OLB R. Evans allowed the big play.
+
+Fresno State ball, Q2, 1-10-BOI31 (13:50) 0-17
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB P. Cash completes a 11 yard out to WR G. Wilson (OOB). CB V. Sullivan missed a tackle.
+
+Fresno State ball, Q2, 1-10-BOI20 (13:38) 0-17
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB P. Matthews runs left tackle for 6 yards (SS I. Nelson). 
+
+Fresno State ball, Q2, 2-4-BOI14 (13:07) 0-17
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: 4-3, Play: 43-norm-Man
+QB P. Cash completes a 9 yard out to WR G. Wilson (OLB M. Thompson). 
+
+Fresno State ball, Q2, 1-5-BOI5 (12:45) 0-17
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: 4-3, Play: 43-run-SZ-B5
+RB P. Matthews runs right tackle for 5 yards ****Touchdown!*****
+
+Fresno State ball, Q2, 1-0-BOI0 (12:16) 6-17
+Charles Weaver converts the PAT.
+
+Fresno State ball, Q2, 1-10-FRS35 (12:16) 7-17
+Stephen Alfaro kicks 75 from Fresno State 35 to end zone, Touchback.
+
+Boise State ball, Q2, 1-10-BOI20 (11:59) 17-7
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB O. Thompson runs right guard for 9 yards (FS T. Watkins).  OG J. Williams had a key block 
+on the run. FS M. Lewis was out of position on the play.
+
+Boise State ball, Q2, 2-1-BOI29 (11:32) 17-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+FB G. Johnson runs right guard for 0 yards (ILB D. Valentin).  C L. Warner missed a block 
+that hurt the play.
+
+Boise State ball, Q2, 3-1-BOI29 (11:01) 17-7
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 4-2-5, Play: 425-norm-DZ
+QB J. Grant throws an incomplete pass to WR L. Mathis.
+
+Boise State ball, Q2, 3-1-BOI29 (11:01) 17-7
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 4-2-5, Play: 425-norm-DZ
+OT Felipe Patrick (BOI) was injured on the play (Groin). It doesn't look like he will return.
+
+Boise State ball, Q2, 4-1-BOI29 (10:41) 17-7
+Jerry Hiatt Punts 44 yards to the Fresno State 27 yard line, where George Wilson returns it 
+to Fresno State 36 for a 9 yard return.
+
+Fresno State ball, Q2, 1-10-FRS36 (10:25) 7-17
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB P. Matthews runs right guard for 15 yards (SS I. Nelson).  FS F. Ellis missed a tackle.
+
+Fresno State ball, Q2, 1-10-BOI49 (09:54) 7-17
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-slotrun-RE
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+WR J. Workman runs right end for 1 yard (SS I. Nelson). 
+
+Fresno State ball, Q2, 2-9-BOI48 (09:25) 7-17
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB P. Cash gets sacked for a 12 yard loss (OLB M. Thompson).  OG R. Williams allowed the sack.
+
+Fresno State ball, Q2, 2-9-BOI48 (09:25) 7-17
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+DT Matthew Serna (BOI) was injured on the play (Groin). It doesn't look too serious and he 
+should return.
+
+Fresno State ball, Q2, 3-21-FRS40 (09:09) 7-17
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB P. Cash throws an incomplete pass to WR G. Wilson (FS D. Lucero). FS D. Lucero broke up 
+the pass.
+
+Fresno State ball, Q2, 4-21-FRS40 (08:54) 7-17
+Jack Connor Punts 43 yards to the Boise State 17 yard line, where Robert Boston returns it 
+to Boise State 34 for a 17 yard return.
+
+Boise State ball, Q2, 1-10-BOI34 (08:34) 17-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-2-5, Play: 425-norm-Man-B8,10
+RB O. Thompson runs right guard for 3 yards (SS C. Robinson). 
+
+Boise State ball, Q2, 2-7-BOI37 (08:05) 17-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-run-SZ
+QB J. Grant completes a 10 yard streak to TE B. Ramos (FS T. Watkins). 
+
+Boise State ball, Q2, 1-10-BOI47 (07:39) 17-7
+Offense: Long Pass, Set: Weak, Play: WK-SE-str-FL-post
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB J. Grant completes a 22 yard post to WR R. Milligan (OOB). CB E. Yates missed a tackle.
+
+Boise State ball, Q2, 1-10-FRS31 (07:25) 17-7
+Offense: Short Pass, Set: Weak, Play: WK-SE-slant-FL-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB J. Grant completes a 14 yard screen to WR M. Powell (CB J. Ruiz).  He fumbles the ball 
+after a hit by J. Ruiz. It's recovered by B. Bradford of Boise State. OG J. Williams earned a pancake on the play. CB J. Lynn missed a tackle.
+
+Boise State ball, Q2, 1-10-FRS17 (07:02) 17-7
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB J. Grant throws an incomplete pass to WR M. Powell. WR M. Powell dropped the pass.
+
+Boise State ball, Q2, 2-10-FRS17 (06:43) 17-7
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB J. Grant completes a 7 yard hook to FB R. Fry (CB J. Lynn). 
+
+Boise State ball, Q2, 3-3-FRS10 (06:21) 17-7
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB J. Grant gets sacked for a 3 yard loss (DE J. Wilson).  OG R. Jones allowed the sack.
+
+Boise State ball, Q2, 4-6-FRS13 (06:05) 17-7
+Nicholas Stanley misses the 31 yard field goal. It will be Fresno State ball at the FRS 20
+
+Fresno State ball, Q2, 1-10-FRS20 (05:46) 7-17
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+RB P. Matthews runs right tackle for 0 yards (OLB R. Evans). 
+
+Fresno State ball, Q2, 2-10-FRS20 (05:17) 7-17
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB P. Cash throws an incomplete pass to WR J. Workman.
+
+Fresno State ball, Q2, 3-10-FRS20 (05:02) 7-17
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-L
+RB P. Matthews runs left tackle for 1 yard (SS I. Nelson).  OT A. Wilson missed a block that 
+hurt the play.
+
+Fresno State ball, Q2, 4-9-FRS21 (04:30) 7-17
+Jack Connor Punts 41 yards to the Boise State 38 yard line, where Robert Boston returns it 
+to Boise State 45 for a 7 yard return.
+
+Tripping against FB Terry York on Fresno State. The Penalty is for 15 yards.
+The Offense will accept the penalty. It is now First and 10 at the Fresno State 40.
+
+Boise State ball, Q2, 1-10-FRS40 (04:16) 17-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB B. Roman runs left end for 2 yards (DE R. Siegel). 
+
+Boise State ball, Q2, 2-8-FRS38 (03:48) 17-7
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Normal, Set: 4-2-5, Play: 425-norm-Man
+QB J. Grant completes a 7 yard cross to WR M. Powell (SS C. Robinson). 
+
+Boise State ball, Q2, 3-1-FRS31 (03:26) 17-7
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+FB R. Fry runs left guard for 0 yards (FS M. Lewis).  OT B. Bradford missed a block that hurt 
+the play.
+
+Boise State ball, Q2, 4-1-FRS31 (02:55) 17-7
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB J. Grant throws an incomplete pass to FB G. Johnson (OLB D. Mcmurray). FB G. Johnson ran 
+an incorrect route. OLB D. Mcmurray broke up the pass.
+
+Fresno State ball, Q2, 1-10-FRS31 (02:39) 7-17
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ
+RB P. Matthews runs right guard for 1 yard (FS D. Lucero). 
+
+Fresno State ball, Q2, 1-10-FRS31 (02:39) 7-17
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ
+WR Seth Taylor (FRS) was injured on the play (Foot). It doesn't look too serious and he should 
+return.
+
+Fresno State ball, Q2, 2-9-FRS32 (02:22) 7-17
+Offense: Short Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Normal, Set: 4-3, Play: 43-norm-Man
+QB P. Cash gets sacked for a 5 yard loss (DE J. Morgan).  TE W. Little allowed the sack.
+
+Fresno State ball, Q2, 3-14-FRS27 (02:05) 7-17
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+QB P. Cash throws an incomplete pass to WR D. Mills.
+
+Fresno State ball, Q2, 4-14-FRS27 (01:52) 7-17
+Jack Connor Punts 46 yards to the Boise State 27 yard line,
+
+Boise State ball, Q2, 1-10-BOI27 (01:34) 17-7
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-MZ-B6,8,10
+QB J. Grant throws an incomplete pass to WR H. Thomas.
+
+Boise State ball, Q2, 2-10-BOI27 (01:15) 17-7
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ
+QB J. Grant throws an incomplete pass to WR M. Powell. WR M. Powell ran an incorrect route.
+
+Boise State ball, Q2, 3-10-BOI27 (01:08) 17-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B5,6
+QB J. Grant completes a 12 yard hook to WR H. Thomas (CB J. Lynn).  OG J. Williams earned 
+a pancake on the play. CB J. Lynn missed a tackle.
+
+Boise State ball, Q2, 1-10-BOI39 (00:46) 17-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Grant runs outside for 24 yards (OLB D. Mcmurray). 
+
+Boise State Timeout!
+
+Boise State ball, Q2, 1-10-FRS37 (00:38) 17-7
+Offense: Short Pass, Set: Weak, Play: WK-HB-flat-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB J. Grant completes a 12 yard dump off to RB O. Thompson (FS T. Watkins).  O. Thompson made 
+a great catch. OT R. Adams earned a pancake on the play.
+
+Boise State Timeout!
+
+Boise State ball, Q2, 1-10-FRS25 (00:32) 17-7
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Grant completes a 4 yard screen to RB O. Thompson (ILB D. Valentin, SS C. Robinson). 
+
+Boise State Timeout!
+
+Boise State ball, Q2, 2-6-FRS21 (00:24) 17-7
+Offense: Short Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB J. Grant completes a 8 yard in to WR M. Powell (CB J. Ruiz). 
+
+Boise State ball, Q2, 2-6-FRS21 (00:13) 17-7
+Offense: Short Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+The QB spikes the ball to stop the clock!
+
+Boise State ball, Q2, 2-10-FRS13 (00:13) 17-7
+Nicholas Stanley converts the 31 yard field goal.
+
+Boise State ball, Q2, 1-10-BOI35 (00:05) 20-7
+Nicholas Stanley kicks 66 from Boise State 35 to Fresno State -1. Wendell Richmond to Fresno 
+State 10 for a 11 yard return.
+
+Boise State ball, Q3, 1-10-BOI35 (15:00) 20-7
+SS Eugene Medeiros (BOI) was injured on the play (Upper Arm). It doesn't look like he will 
+return.
+
+Boise State ball, Q3, 1-10-BOI35 (15:00) 20-7
+Nicholas Stanley kicks 64 from Boise State 35 to Fresno State 1. Wendell Richmond to Fresno 
+State 16 for a 15 yard return.
+
+Fresno State ball, Q3, 1-10-FRS16 (14:44) 7-20
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB P. Cash throws an incomplete pass to RB P. Matthews (OLB M. Thompson). RB P. Matthews dropped 
+the pass. OLB M. Thompson broke up the pass.
+
+Fresno State ball, Q3, 2-10-FRS16 (14:29) 7-20
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB P. Cash throws an incomplete pass to WR S. Taylor. WR S. Taylor dropped the pass.
+
+Fresno State ball, Q3, 3-10-FRS16 (14:12) 7-20
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB P. Cash throws an incomplete pass to WR S. Taylor. WR S. Taylor dropped the pass.
+
+Fresno State ball, Q3, 4-10-FRS16 (13:57) 7-20
+Jack Connor Punts 43 yards to the Boise State 41 yard line, where Robert Boston returns it 
+to Fresno State 41 for a 18 yard return.
+
+Boise State ball, Q3, 1-10-FRS41 (13:38) 20-7
+Offense: Medium Pass, Set: Weak, Play: WK-SE-curls
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB J. Grant throws an incomplete pass to TE B. Ramos.
+
+Boise State ball, Q3, 2-10-FRS41 (13:22) 20-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB J. Grant completes a 34 yard in to TE B. Ramos (CB J. Ruiz).  J. Grant with the great pass. 
+FS T. Watkins allowed the big play.
+
+Boise State ball, Q3, 1-7-FRS7 (12:59) 20-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+RB O. Thompson runs right end for 3 yards (CB J. Lynn). 
+
+Illegal Motion against Boise State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and Goal at the Fresno State 12.
+
+Boise State ball, Q3, 1-12-FRS12 (12:45) 20-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-2-5, Play: 425-norm-TMan-Spy
+RB O. Thompson runs right tackle for 0 yards (FS T. Watkins).  C L. Warner missed a block 
+that hurt the play.
+
+Boise State ball, Q3, 2-12-FRS12 (12:18) 20-7
+Offense: Inside Run, Set: Weak, Play: WK-FB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+FB R. Fry runs left guard for 6 yards (CB J. Lynn, CB E. Yates). 
+
+Boise State ball, Q3, 3-6-FRS6 (11:46) 20-7
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+RB O. Thompson runs right end for 3 yards (OLB D. Mcmurray). 
+
+Boise State ball, Q3, 4-3-FRS3 (11:13) 20-7
+Nicholas Stanley converts the 21 yard field goal.
+
+Boise State ball, Q3, 1-10-BOI35 (10:58) 23-7
+Nicholas Stanley kicks 47 from Boise State 35 to Fresno State 18. William Little to Fresno 
+State 32 for a 14 yard return.
+
+Fresno State ball, Q3, 1-10-FRS32 (10:39) 7-23
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+RB P. Matthews runs right guard for -1 yards (FS D. Lucero). P. Matthews missed a hole that 
+could have resulted in a bigger gain.
+
+Fresno State ball, Q3, 2-11-FRS31 (10:10) 7-23
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-run-MZ-B8
+QB P. Cash throws an incomplete pass to WR J. Workman. WR J. Workman ran an incorrect route.
+
+Fresno State ball, Q3, 3-11-FRS31 (09:55) 7-23
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB P. Cash completes a 12 yard screen to RB P. Matthews (FS D. Lucero).  OT A. Wilson earned 
+a pancake on the play. CB V. Sullivan missed a tackle.
+
+Fresno State ball, Q3, 1-10-FRS43 (09:32) 7-23
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+RB P. Matthews runs left guard for 2 yards (ILB W. Zuniga). 
+
+Fresno State ball, Q3, 2-8-FRS45 (08:59) 7-23
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-slotrun-RE
+Defense: Stop Run, Set: 4-3, Play: 43-run-SZ-B5
+WR J. Workman runs right end for 2 yards (OOB).
+
+Fresno State ball, Q3, 3-6-FRS47 (08:49) 7-23
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-slotrun-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+WR J. Workman runs right end for 7 yards (ILB W. Zuniga, OLB M. Thompson). 
+
+Fresno State ball, Q3, 1-10-BOI46 (08:23) 7-23
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB C. Merrill runs right guard for 2 yards (OLB M. Thompson, OLB R. Evans). 
+
+Fresno State ball, Q3, 2-8-BOI44 (07:55) 7-23
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB P. Cash completes a 4 yard cross to WR J. Workman (OLB M. Thompson). 
+
+Fresno State ball, Q3, 3-4-BOI40 (07:31) 7-23
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-L
+QB P. Cash gets sacked for a 6 yard loss (DT G. Sanchez).  OG C. Parker allowed the sack.
+
+Fresno State ball, Q3, 4-10-BOI46 (07:13) 7-23
+Jack Connor Punts 32 yards to the Boise State 14 yard line, where it goes out of bounds.
+
+Boise State ball, Q3, 1-10-BOI14 (06:58) 23-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB O. Thompson runs right end for 0 yards (OLB D. Mcmurray). 
+
+Boise State ball, Q3, 1-10-BOI14 (06:58) 23-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+CB Edward Yates (FRS) was injured on the play (Head). It doesn't look like he will return.
+
+Boise State ball, Q3, 2-10-BOI14 (06:44) 23-7
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-MZ-B6,8,10
+QB J. Grant throws an incomplete pass to WR H. Thomas.
+
+Boise State ball, Q3, 3-10-BOI14 (06:25) 23-7
+Offense: Short Pass, Set: Weak, Play: WK-FL-screen
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB J. Grant completes a 9 yard screen to WR H. Thomas (FS T. Watkins). 
+
+Boise State ball, Q3, 4-1-BOI23 (06:02) 23-7
+Jerry Hiatt Punts 52 yards to the Fresno State 25 yard line, where George Wilson returns it 
+to Fresno State 26 for a 1 yard return.
+
+Fresno State ball, Q3, 1-10-FRS26 (05:44) 7-23
+Offense: Long Pass, Set: Trips, Play: TR-WR3-str-FL-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB P. Cash throws an incomplete pass to WR G. Wilson. DT G. Sanchez hurried the QB.
+
+Fresno State ball, Q3, 2-10-FRS26 (05:25) 7-23
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB C. Merrill runs right guard for 14 yards (OLB R. Evans). 
+
+Fresno State ball, Q3, 1-10-FRS40 (04:54) 7-23
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+QB P. Cash gets sacked for a 7 yard loss (DE J. Morgan).  He fumbles the ball after a hit 
+by J. Morgan. It's recovered by C. Parker of Fresno State. OT R. Patterson allowed the sack.
+
+Fresno State ball, Q3, 2-17-FRS33 (04:39) 7-23
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+QB P. Cash throws an incomplete pass to WR S. Taylor.
+
+Holding against OT Richard Patterson on Fresno State. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 27 at the Fresno State 23.
+
+Fresno State ball, Q3, 2-27-FRS23 (04:24) 7-23
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB P. Cash completes a 6 yard in to WR G. Wilson (OOB).
+
+Fresno State ball, Q3, 3-21-FRS29 (04:01) 7-23
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-3, Play: 43-norm-SZ-B11
+QB P. Cash throws an incomplete pass to WR S. Taylor.
+
+Fresno State ball, Q3, 4-21-FRS29 (03:54) 7-23
+Jack Connor Punts 27 yards to the Boise State 44 yard line, where Robert Boston returns it 
+to Fresno State 41 for a 15 yard return. He fumbles the ball after a hit by S. Taylor. It's recovered by W. Little of Fresno State. He returns it 25 yards to the Boise State 34.
+
+Fresno State ball, Q3, 1-10-BOI34 (03:38) 7-23
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB P. Cash completes a 17 yard post to WR G. Wilson (SS I. Nelson).  He fumbles the ball after 
+a hit by I. Nelson. It's recovered by G. Sanchez of Boise State. He returns it 0 yards to the Boise State 17. ILB W. Zuniga missed a tackle.
+
+Boise State ball, Q3, 1-10-BOI17 (03:13) 23-7
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-DZ
+QB J. Grant completes a 5 yard hook to FB R. Fry (FS M. Lewis). 
+
+Boise State ball, Q3, 2-5-BOI22 (02:52) 23-7
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB O. Thompson runs left end for 18 yards (OOB). OG J. Williams had a key block on the run. 
+ILB D. Valentin missed a tackle.
+
+Boise State ball, Q3, 1-10-BOI40 (02:34) 23-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB O. Thompson runs right end for 2 yards (OOB).
+
+Boise State ball, Q3, 2-8-BOI42 (02:18) 23-7
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ
+QB J. Grant throws an incomplete pass to WR M. Powell. DT M. Davison hurried the QB.
+
+Boise State ball, Q3, 3-8-BOI42 (01:58) 23-7
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB J. Grant completes a 10 yard screen to RB O. Thompson (CB J. Lynn). 
+
+Boise State ball, Q3, 1-10-FRS48 (01:34) 23-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-ZoneBlitz
+RB O. Thompson runs right tackle for 5 yards (SS C. Robinson). 
+
+Boise State ball, Q3, 2-5-FRS43 (01:08) 23-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ
+RB O. Thompson runs right guard for 3 yards (DE R. Siegel). 
+
+Boise State ball, Q3, 3-2-FRS40 (00:41) 23-7
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B5,11
+RB O. Thompson runs right tackle for 0 yards (DE R. Pierce).  OG R. Jones missed a block that 
+hurt the play.
+
+Boise State ball, Q3, 4-2-FRS40 (00:08) 23-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B6,8-L
+FB R. Fry runs right guard for 1 yard (ILB D. Valentin). 
+
+Boise State ball, Q3, 4-2-FRS40 (00:08) 23-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B6,8-L
+WR Michael Powell (BOI) was injured on the play (OK). It doesn't look like he will return.
+
+Fresno State ball, Q4, 1-10-FRS39 (15:00) 7-23
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB P. Matthews runs right guard for 20 yards (OLB M. Thompson).  CB W. Handley missed a tackle.
+
+Fresno State ball, Q4, 1-10-BOI41 (14:28) 7-23
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-R
+RB P. Matthews runs left end for 4 yards (OLB R. Evans). 
+
+Fresno State ball, Q4, 2-6-BOI37 (14:02) 7-23
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB P. Cash throws an incomplete pass to WR S. Taylor (OLB M. Thompson). WR S. Taylor dropped 
+the pass. OLB M. Thompson hurried the QB. OLB M. Thompson broke up the pass.
+
+Fresno State ball, Q4, 3-6-BOI37 (13:44) 7-23
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B5
+QB P. Cash completes a 13 yard out to WR G. Wilson (OOB). CB W. Handley missed a tackle.
+
+Fresno State ball, Q4, 1-10-BOI24 (13:29) 7-23
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB P. Cash throws an incomplete pass to WR G. Wilson. P. Cash made a bad pass.
+
+Fresno State ball, Q4, 2-10-BOI24 (13:09) 7-23
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB P. Cash throws an incomplete pass to WR S. Taylor.
+
+Fresno State ball, Q4, 3-10-BOI24 (12:49) 7-23
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB P. Cash throws an incomplete pass to WR J. Workman. WR J. Workman dropped the pass.
+
+Fresno State ball, Q4, 4-10-BOI24 (12:33) 7-23
+Charles Weaver misses the 42 yard field goal. It will be Boise State ball at the BOI 24
+
+Illegal Substitution against Boise State. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Fourth and 5 at the Boise State 19.
+
+Fresno State ball, Q4, 4-5-BOI19 (12:23) 7-23
+Charles Weaver converts the 37 yard field goal.
+
+Fresno State ball, Q4, 1-10-FRS35 (12:03) 10-23
+Stephen Alfaro kicks 73 from Fresno State 35 to end zone, Touchback.
+
+Boise State ball, Q4, 1-10-BOI20 (11:45) 23-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: 4-2-5, Play: 425-norm-MZ-B9
+RB O. Thompson runs right guard for 9 yards (FS M. Lewis).  OG J. Williams had a key block 
+on the run.
+
+Boise State ball, Q4, 2-1-BOI29 (11:13) 23-10
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-DZ
+FB R. Fry runs right tackle for 1 yard (FS M. Lewis). 
+
+Boise State ball, Q4, 1-10-BOI30 (10:46) 23-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB O. Thompson runs left guard for 4 yards (ILB D. Valentin). 
+
+Boise State ball, Q4, 2-6-BOI34 (10:13) 23-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+False Start against OT Ramon Adams on Boise State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 11 at the Boise State 29.
+
+Boise State ball, Q4, 2-11-BOI29 (10:13) 23-10
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: 4-2-5, Play: 425-norm-DZ
+QB J. Grant completes a 18 yard out-and-up to WR R. Milligan (SS C. Robinson, CB J. Ruiz). 
+ R. Milligan made a great catch.
+
+Boise State ball, Q4, 1-10-BOI47 (09:47) 23-10
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: Dime, Play: Dime-run-SZ
+J. Grant has his 7 yard pass intercepted by D. Valentin at the FRS 46. He returns it 4 yards 
+to the Fresno State 50.
+
+Boise State ball, Q4, 1-10-BOI47 (09:47) 23-10
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: Dime, Play: Dime-run-SZ
+DE Robert Siegel (FRS) was injured on the play (Shoulder). It doesn't look like he will return.
+
+Fresno State ball, Q4, 1-10-FRS50 (09:20) 10-23
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB P. Cash throws an incomplete pass to WR G. Wilson.
+
+Fresno State ball, Q4, 2-10-FRS50 (09:02) 10-23
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB P. Cash scrambles out of the pocket and gets sacked for a 4 yard loss (DT M. Serna).  C 
+L. Reyes allowed the sack.
+
+Fresno State ball, Q4, 3-14-FRS46 (08:33) 10-23
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-SZ-B11
+RB P. Matthews runs right end for -4 yards (OLB M. Thompson). C L. Reyes missed a block that 
+hurt the play.
+
+Fresno State ball, Q4, 4-18-FRS42 (08:00) 10-23
+Jack Connor Punts 41 yards to the Boise State 17 yard line, where Robert Boston returns it 
+to Boise State 28 for a 11 yard return.
+
+Boise State ball, Q4, 1-10-BOI28 (07:40) 23-10
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Grant completes a 2 yard out to WR R. Milligan (OOB).
+
+Boise State ball, Q4, 2-8-BOI30 (07:26) 23-10
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B6,8-L
+QB J. Grant completes a 1 yard dump off to TE B. Ramos (OLB D. Mcmurray). 
+
+Boise State ball, Q4, 3-7-BOI31 (07:02) 23-10
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ
+QB J. Grant completes a 10 yard corner to WR R. Milligan (CB J. Ruiz, CB J. Lynn). 
+
+Boise State ball, Q4, 1-10-BOI41 (06:38) 23-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-Man-B6,8-L
+RB B. Roman runs left guard for 4 yards (FS T. Watkins, CB J. Ruiz). 
+
+Boise State ball, Q4, 2-6-BOI45 (06:01) 23-10
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+QB J. Grant throws an incomplete pass to TE B. Ramos.
+
+Boise State ball, Q4, 3-6-BOI45 (05:54) 23-10
+Offense: Short Pass, Set: Weak, Play: WK-HB-flat-SE-post
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-MZ
+QB J. Grant completes a 9 yard dump off to RB O. Thompson (FS T. Watkins). 
+
+Boise State ball, Q4, 1-10-FRS46 (05:30) 23-10
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB O. Thompson runs right guard for 3 yards (OLB D. Mcmurray). 
+
+Boise State ball, Q4, 2-7-FRS43 (05:02) 23-10
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+False Start against OT Barry Bradford on Boise State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 12 at the Fresno State 48.
+
+Boise State ball, Q4, 2-12-FRS48 (05:02) 23-10
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: 4-2-5, Play: 425-run-Man-B5,6
+QB J. Grant gets sacked for a 4 yard loss (OLB D. Mcmurray).  OT B. Bradford allowed the sack.
+
+Boise State ball, Q4, 3-16-BOI48 (04:42) 23-10
+Offense: Long Pass, Set: Weak, Play: WK-SE-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Grant throws an incomplete pass to WR R. Milligan.
+
+Boise State ball, Q4, 4-16-BOI48 (04:26) 23-10
+Jerry Hiatt Punts 43 yards to the Fresno State 9 yard line, where it gets downed.
+
+Fresno State ball, Q4, 1-10-FRS9 (04:09) 10-23
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+P. Cash has his 38 yard pass intercepted by F. Ellis at the FRS 47. He returns it -3 yards 
+to the Fresno State 50. P. Cash made a bad pass.
+
+Boise State ball, Q4, 1-10-FRS50 (03:42) 23-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-DZ
+RB O. Thompson runs left end for 6 yards (SS C. Robinson). 
+
+Illegal Motion against FB Richard Fry on Boise State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Boise State 45.
+
+Boise State ball, Q4, 1-15-BOI45 (03:29) 23-10
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 4-2-5, Play: 425-norm-Man
+RB O. Thompson runs left end for 13 yards (OLB D. Mcmurray). 
+
+Boise State ball, Q4, 2-2-FRS42 (02:58) 23-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: 4-2-5, Play: 425-norm-DZ
+FB G. Johnson runs left guard for 1 yard (OLB D. Mcmurray). 
+
+Boise State ball, Q4, 3-1-FRS41 (02:29) 23-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-MZ
+RB O. Thompson runs left guard for 3 yards (OLB D. Mcmurray, FS M. Lewis). 
+
+Boise State ball, Q4, 1-10-FRS38 (02:01) 23-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB O. Thompson runs right guard for 2 yards (CB J. Ruiz). 
+
+Boise State ball, Q4, 2-8-FRS36 (01:51) 23-10
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-DZ
+RB B. Roman runs right end for -2 yards (SS C. Robinson). C L. Warner missed a block that 
+hurt the play.
+
+Boise State ball, Q4, 3-10-FRS38 (01:25) 23-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: 4-2-5, Play: 425-run-MZ-B6,8,10
+RB O. Thompson runs right end for 4 yards (CB J. Lynn). 
+
+Boise State ball, Q4, 4-6-FRS34 (00:52) 23-10
+Nicholas Stanley misses the 52 yard field goal. It will be Fresno State ball at the FRS 34
+
+Fresno State ball, Q4, 1-10-FRS34 (00:46) 10-23
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB P. Cash throws an incomplete pass to WR J. Workman.
+
+Fresno State ball, Q4, 2-10-FRS34 (00:40) 10-23
+Offense: Long Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB P. Cash throws an incomplete pass to WR D. Mills. DT M. Serna hurried the QB.
+
+Fresno State ball, Q4, 3-10-FRS34 (00:34) 10-23
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB P. Cash gets sacked for a 9 yard loss (DE J. Morgan).  C L. Reyes allowed the sack.
+
+Fresno State ball, Q4, 4-19-FRS25 (00:27) 10-23
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man
+QB P. Cash throws an incomplete pass to WR S. Taylor. WR S. Taylor dropped the pass.
+
+Fresno State ball, Q4, 4-19-FRS25 (00:27) 10-23
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man
+WR Seth Taylor (FRS) was injured on the play (Quadriceps). It doesn't look like he will return.
+
+Boise State ball, Q4, 1-10-FRS25 (00:20) 23-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB O. Thompson runs right guard for 4 yards (CB J. Ruiz). 
+
+Fresno State Timeout!
+
+Fresno State Timeout!
+
+Boise State ball, Q4, 2-6-FRS21 (00:13) 23-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+The QB takes a knee.
+
+Fresno State Timeout!
+
+Boise State ball, Q4, 3-7-FRS22 (00:05) 23-10
+Offense: Inside Run, Set: SingleBack, Play: SB-WR-slotrun-RE
+Defense: Stop Pass, Set: 4-2-5, Play: 425-pass-DZ
+The QB takes a knee.
+

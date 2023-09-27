@@ -1,0 +1,1006 @@
+Cincinnati ball, Q1, 1-10-CIN35 (15:00) 0-0
+George Robbins kicks 75 from Cincinnati 35 to end zone, Touchback.
+
+Memphis ball, Q1, 1-10-MEM20 (14:40) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB D. Henderson completes a 14 yard streak to RB C. Hathaway (CB B. Jacobs).  C. Hathaway 
+made a great catch.
+
+Memphis ball, Q1, 1-10-MEM34 (14:19) 0-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB R. Sanders runs right tackle for 3 yards (DT A. Davis). 
+
+Memphis ball, Q1, 1-10-MEM34 (14:19) 0-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+DT Anthony Davis (CIN) was injured on the play (Eye). It doesn't look like he will return.
+
+Memphis ball, Q1, 2-7-MEM37 (14:04) 0-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+RB C. Hathaway runs left tackle for 7 yards (OLB J. Queen).  OG T. Larson had a key block 
+on the run.
+
+Memphis ball, Q1, 1-10-MEM44 (13:38) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+RB C. Hathaway runs left tackle for 4 yards (FS R. Burgess). 
+
+Memphis ball, Q1, 2-6-MEM48 (13:06) 0-0
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB D. Henderson throws an incomplete pass to WR D. Wilson. ILB K. Day hurried the QB.
+
+Memphis ball, Q1, 3-6-MEM48 (12:50) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B5,6,8
+QB D. Henderson completes a 14 yard hook to FB B. Scott (SS D. Knight).  B. Scott made a great 
+catch. OLB J. Queen was out of position on the play.
+
+Memphis ball, Q1, 1-10-CIN38 (12:28) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+RB C. Hathaway runs right guard for -1 yards (SS D. Knight).
+
+Memphis ball, Q1, 2-11-CIN39 (12:01) 0-0
+Offense: Long Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B5,6,8
+QB D. Henderson gets sacked for a 13 yard loss (DT T. Mccray).  OG T. Larson allowed the sack.
+
+Memphis ball, Q1, 3-24-MEM48 (11:46) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B5,6,8
+RB C. Hathaway runs right guard for 1 yard (DT T. Mccray).  OG D. Chavez missed a block that 
+hurt the play.
+
+Memphis ball, Q1, 4-23-MEM49 (11:20) 0-0
+Willy Doss Punts 52 yards to the end zone, Touchback.
+
+Cincinnati ball, Q1, 1-10-CIN20 (11:04) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB J. Johnson completes a 16 yard screen to RB R. Prather (OOB). OG C. Soto earned a pancake 
+on the play. OLB D. Washington was out of position on the play.
+
+Cincinnati ball, Q1, 1-10-CIN36 (10:51) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+RB R. Prather runs left guard for 3 yards (ILB G. Bennett). 
+
+Cincinnati ball, Q1, 2-7-CIN39 (10:20) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB J. Johnson throws an incomplete pass to WR G. Lee.
+
+Cincinnati ball, Q1, 3-7-CIN39 (10:00) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB R. Prather runs right end for 1 yard (OLB D. Washington). 
+
+Cincinnati ball, Q1, 4-6-CIN40 (09:31) 0-0
+Nathaniel Little Punts 57 yards to the Memphis 3 yard line, where it gets downed.
+
+Memphis ball, Q1, 1-10-MEM3 (09:12) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB D. Henderson completes a 10 yard streak to RB C. Hathaway (CB B. Jacobs, CB T. German). 
+
+Memphis ball, Q1, 1-10-MEM13 (08:50) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+RB R. Sanders runs right guard for 5 yards (FS R. Burgess). 
+
+Memphis ball, Q1, 2-5-MEM18 (08:18) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+QB D. Henderson completes a 7 yard hook to WR D. Wilson (OOB).
+
+Memphis ball, Q1, 2-5-MEM18 (08:18) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+WR James Martinez (MEM) was injured on the play (Elbow). It doesn't look like he will return.
+
+Memphis ball, Q1, 1-10-MEM25 (08:05) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+RB C. Hathaway runs right end for 7 yards (OOB). FS R. Burgess missed a tackle.
+
+Memphis ball, Q1, 2-3-MEM32 (07:48) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB C. Hathaway runs right guard for -2 yards (FS T. Freeman).
+
+Memphis ball, Q1, 3-5-MEM30 (07:19) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+RB C. Hathaway runs right end for 0 yards (ILB K. Day). 
+
+Memphis ball, Q1, 3-5-MEM30 (07:19) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+OG Danny Chavez (MEM) was injured on the play (Toe). It doesn't look like he will return.
+
+Memphis ball, Q1, 4-5-MEM30 (07:04) 0-0
+Willy Doss Punts 36 yards to the Cincinnati 34 yard line, where Sid Boone returns it to Cincinnati 
+35 for a 1 yard return.
+
+Cincinnati ball, Q1, 1-10-CIN35 (06:46) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ-B6-Spy
+QB J. Johnson throws an incomplete pass to WR W. Carson.
+
+Cincinnati ball, Q1, 2-10-CIN35 (06:29) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Johnson completes a 7 yard post to WR C. Collins (OLB J. Geiger, FS M. Sullivan). 
+
+Cincinnati ball, Q1, 3-3-CIN42 (06:01) 0-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,7,11
+QB J. Johnson completes a 7 yard cross to WR G. Lee (CB I. Allen, SS H. Meredith). 
+
+Cincinnati ball, Q1, 1-10-CIN49 (05:39) 0-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Johnson completes a 4 yard in to WR W. Carson (OLB J. Geiger, FS M. Sullivan). 
+
+Cincinnati ball, Q1, 2-6-MEM47 (05:16) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB J. Johnson completes a 3 yard in to WR A. Leavitt (OOB).
+
+Cincinnati ball, Q1, 3-3-MEM44 (04:58) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+QB J. Johnson throws an incomplete pass to TE M. Richardson.
+
+Cincinnati ball, Q1, 4-3-MEM44 (04:39) 0-0
+They line up for the Punt...[B]
+Wait, it's a fake![B]
+Nathaniel Little throws the pass[B]
+Matthew 
+Harmon[B] can't make the grab. It was a failed attempt.
+
+Memphis ball, Q1, 1-10-MEM44 (04:08) 0-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB R. Sanders runs left end for -1 yards (SS D. Knight).
+
+Memphis ball, Q1, 2-11-MEM43 (03:37) 0-0
+Offense: Medium Pass, Set: Weak, Play: WK-HB-flat-SE-post
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB D. Henderson completes a 23 yard post to WR D. Wilson (ILB K. Day, OLB B. Wood).  CB B. 
+Jacobs missed a tackle.
+
+Memphis ball, Q1, 1-10-CIN34 (03:14) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+QB D. Henderson throws an incomplete pass to WR J. Jordan.
+
+Memphis ball, Q1, 2-10-CIN34 (02:58) 0-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB R. Sanders runs right end for 0 yards (DE G. Bronson).  OG T. Larson missed a block that 
+hurt the play.
+
+Memphis ball, Q1, 3-10-CIN34 (02:29) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB D. Henderson throws an incomplete pass to WR B. Bryant (FS T. Freeman). WR B. Bryant dropped 
+the pass. ILB K. Day hurried the QB. FS T. Freeman broke up the pass.
+
+Memphis ball, Q1, 4-10-CIN34 (02:14) 0-0
+George Roberts misses the 52 yard field goal. It will be Cincinnati ball at the CIN 34
+
+Cincinnati ball, Q1, 1-10-CIN34 (01:59) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+RB R. Prather runs right guard for 11 yards (FS M. Sullivan). 
+
+Cincinnati ball, Q1, 1-10-CIN45 (01:27) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB R. Prather runs left guard for 8 yards (ILB K. Gentry).  CB I. Allen missed a tackle.
+
+Cincinnati ball, Q1, 2-2-MEM47 (00:57) 0-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+QB N. Dennis throws an incomplete pass to WR W. Carson.
+
+Cincinnati ball, Q1, 3-2-MEM47 (00:37) 0-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB N. Dennis completes a 18 yard out to WR G. Lee (ILB G. Bennett).  OG D. Green earned a 
+pancake on the play. FS M. Sullivan missed a tackle.
+
+Cincinnati ball, Q1, 1-10-MEM29 (00:13) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,6,11-R
+RB R. Prather runs right guard for 6 yards (OLB J. Geiger, FS M. Sullivan). 
+
+Cincinnati ball, Q1, 1-10-MEM29 (00:13) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,6,11-R
+QB James Johnson (CIN) was injured on the play (Elbow). It doesn't look like he will return.
+
+Cincinnati ball, Q2, 2-4-MEM23 (15:00) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB N. Dennis completes a 5 yard out to WR A. Leavitt (ILB G. Bennett). 
+
+Holding against OG Christopher Soto on Cincinnati. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 14 at the Memphis 33.
+
+Cincinnati ball, Q2, 2-14-MEM33 (14:46) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB N. Dennis gets sacked for a 3 yard loss (DE G. Larkin).  OG C. Soto allowed the sack.
+
+Cincinnati ball, Q2, 3-17-MEM36 (14:28) 0-0
+Offense: Outside Run, Set: Quads, Play: Q-HB-counter-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB R. Prather runs right tackle for -4 yards (OLB D. Washington).
+
+Cincinnati ball, Q2, 4-21-MEM40 (13:59) 0-0
+Nathaniel Little Punts 36 yards to the Memphis 4 yard line, where it goes out of bounds.
+
+Memphis ball, Q2, 1-10-MEM4 (13:44) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB R. Sanders runs right guard for 3 yards (FS T. Freeman, ILB K. Day). 
+
+Memphis ball, Q2, 2-7-MEM7 (13:12) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-Spy
+RB C. Hathaway runs right tackle for 2 yards (FS T. Freeman). 
+
+Memphis ball, Q2, 3-5-MEM9 (12:40) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Henderson completes a 13 yard in to RB C. Hathaway (OOB). D. Henderson with the great 
+pass. OT S. Ledbetter earned a pancake on the play. FS R. Burgess missed a tackle.
+
+Memphis ball, Q2, 1-10-MEM22 (12:29) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB D. Henderson scrambles out of the pocket and gets sacked for a 6 yard loss (DE J. Turner). 
+ OG S. Velasco allowed the sack.
+
+Memphis ball, Q2, 2-16-MEM16 (12:03) 0-0
+Offense: Outside Run, Set: Quads, Play: Q-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+RB C. Hathaway runs right end for 11 yards (ILB K. Day).  SS D. Knight was out of position 
+on the play.
+
+Memphis ball, Q2, 3-5-MEM27 (11:33) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB D. Henderson completes a 13 yard in to WR B. Bryant (ILB K. Day, FS R. Burgess). 
+
+Memphis ball, Q2, 1-10-MEM40 (11:11) 0-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB C. Hathaway runs right end for 13 yards (FS R. Burgess, SS D. Knight).  FB B. Scott had 
+a key block on the run. DE R. Ring missed a tackle.
+
+Memphis ball, Q2, 1-10-CIN47 (10:43) 0-0
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-posts
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+QB D. Henderson throws an incomplete pass to WR D. Wilson.
+
+Memphis ball, Q2, 2-10-CIN47 (10:27) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB D. Henderson completes a 19 yard hook to WR J. Jordan (CB B. Jacobs, ILB K. Day).  CB B. 
+Jacobs missed a tackle.
+
+Memphis ball, Q2, 1-10-CIN28 (10:02) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB C. Hathaway runs right guard for 3 yards (FS R. Burgess). 
+
+Memphis ball, Q2, 2-7-CIN25 (09:31) 0-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB R. Sanders runs right end for 1 yard (OLB J. Queen).  OG T. Larson missed a block that 
+hurt the play.
+
+Memphis ball, Q2, 3-6-CIN24 (09:02) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB D. Henderson completes a 7 yard hook to FB B. Scott (ILB K. Day). 
+
+Memphis ball, Q2, 1-10-CIN17 (08:41) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+FB B. Scott runs left guard for 9 yards (ILB K. Day, OLB B. Wood).  OT S. Ledbetter had a 
+key block on the run. DT A. Rosales was out of position on the play.
+
+Memphis ball, Q2, 2-1-CIN8 (08:26) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB D. Henderson completes a 8 yard corner to WR D. Wilson ****Touchdown!*****
+
+Memphis ball, Q2, 1-0-CIN0 (07:59) 6-0
+George Roberts converts the PAT.
+
+Memphis ball, Q2, 1-10-MEM35 (07:59) 7-0
+George Roberts kicks 55 from Memphis 35 to Cincinnati 10. Stephen Martinez to Cincinnati 38 
+for a 28 yard return.
+
+Cincinnati ball, Q2, 1-10-CIN38 (07:39) 0-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB R. Prather runs right guard for 3 yards (FS M. Sullivan, CB I. Allen). 
+
+Cincinnati ball, Q2, 2-7-CIN41 (07:01) 0-7
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB N. Dennis gets sacked for a 2 yard loss (DE A. Green).  OG D. Green allowed the sack.
+
+Cincinnati ball, Q2, 3-9-CIN39 (06:54) 0-7
+Offense: Long Pass, Set: Trips, Play: TR-WR3-str-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB N. Dennis throws an incomplete pass to WR W. Carson. N. Dennis made a bad pass.
+
+Cincinnati ball, Q2, 4-9-CIN39 (06:37) 0-7
+Nathaniel Little Punts 37 yards to the Memphis 24 yard line, where Mark Cyr returns it to 
+Memphis 30 for a 6 yard return.
+
+Memphis ball, Q2, 1-10-MEM30 (06:19) 7-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+QB D. Henderson throws an incomplete pass to WR D. Wilson (CB T. German). CB T. German broke 
+up the pass.
+
+Memphis ball, Q2, 2-10-MEM30 (06:02) 7-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB D. Henderson throws an incomplete pass to WR J. Jordan. WR J. Jordan ran an incorrect route.
+
+Memphis ball, Q2, 3-10-MEM30 (05:47) 7-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB D. Henderson completes a 20 yard hook to WR J. Jordan (CB B. Jacobs). 
+
+Holding against OT Eric Palmer on Memphis. The Penalty is for 10 yards.
+Memphis ball, Q2, 3-10-MEM30 (05:47) 7-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+DE Gregory Bronson (CIN) was injured on the play (Knee). It doesn't look too serious and he 
+should return.
+
+The Defense will accept the penalty. It is now Third and 20 at the Memphis 20.
+
+Memphis ball, Q2, 3-20-MEM20 (05:32) 7-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB D. Henderson completes a 38 yard corner to WR J. Jordan (OLB B. Wood).  OT S. Ledbetter 
+earned a pancake on the play. FS R. Burgess allowed the big play.
+
+Memphis ball, Q2, 1-10-CIN42 (05:07) 7-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB D. Henderson completes a 19 yard corner to WR J. Jordan (SS D. Knight).  OG T. Larson earned 
+a pancake on the play. CB T. German missed a tackle.
+
+Memphis ball, Q2, 1-10-CIN23 (04:43) 7-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB C. Hathaway runs left end for 23 yards ****Touchdown!*****
+
+Memphis ball, Q2, 1-0-CIN0 (04:01) 13-0
+George Roberts converts the PAT.
+
+Memphis ball, Q2, 1-10-MEM35 (04:01) 14-0
+George Roberts kicks 75 from Memphis 35 to end zone, Touchback.
+
+Cincinnati ball, Q2, 1-10-CIN20 (03:51) 0-14
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+RB R. Prather runs right guard for 9 yards (ILB G. Bennett). 
+
+Cincinnati ball, Q2, 2-1-CIN29 (03:18) 0-14
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB R. Prather runs right end for -2 yards (SS H. Meredith).
+
+Cincinnati ball, Q2, 3-3-CIN27 (02:52) 0-14
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B11
+RB R. Prather runs left guard for 3 yards (FS M. Sullivan). 
+
+Cincinnati ball, Q2, 1-10-CIN30 (02:24) 0-14
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB N. Dennis completes a 10 yard in to WR A. Leavitt (CB I. Allen, SS H. Meredith). 
+
+Cincinnati ball, Q2, 1-10-CIN40 (02:01) 0-14
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-out-WR3-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB N. Dennis throws an incomplete pass to WR G. Lee (CB I. Allen). CB I. Allen broke up the 
+pass.
+
+Holding against SS Howard Meredith on Memphis. The Penalty is for 10 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Cincinnati 50.
+
+Cincinnati ball, Q2, 1-10-CIN50 (01:52) 0-14
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB R. Prather runs left tackle for 4 yards (OLB J. Geiger). 
+
+Cincinnati ball, Q2, 2-6-MEM46 (01:19) 0-14
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB N. Dennis completes a 5 yard out to WR G. Lee (OLB J. Geiger). 
+
+Cincinnati Timeout!
+
+Cincinnati ball, Q2, 3-1-MEM41 (01:13) 0-14
+Offense: Short Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB N. Dennis gets sacked for a 2 yard loss (OLB J. Geiger).  OT W. Dubose allowed the sack.
+
+Cincinnati ball, Q2, 4-3-MEM43 (01:05) 0-14
+Nathaniel Little Punts 37 yards to the Memphis 6 yard line, where it goes out of bounds.
+
+Memphis ball, Q2, 1-10-MEM6 (00:57) 14-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB D. Henderson throws an incomplete pass to WR D. Wilson.
+
+Memphis ball, Q2, 2-10-MEM6 (00:49) 14-0
+Offense: Short Pass, Set: Weak, Play: WK-FL-screen
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB D. Henderson throws an incomplete pass to WR J. Jordan.
+
+Memphis ball, Q2, 3-10-MEM6 (00:41) 14-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB D. Henderson gets sacked for a 4 yard loss (DE J. Turner).  OG T. Larson allowed the sack.
+
+Memphis ball, Q2, 4-14-MEM2 (00:34) 14-0
+Willy Doss Punts 48 yards to the Cincinnati 50 yard line, where Sid Boone returns it to Cincinnati 
+50 for a 0 yard return.
+
+Cincinnati ball, Q2, 1-10-CIN50 (00:27) 0-14
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB N. Dennis completes a 18 yard in to WR G. Lee (CB I. Allen, CB L. Davis).  OT J. Jones 
+earned a pancake on the play. SS H. Meredith missed a tackle.
+
+Cincinnati Timeout!
+
+Cincinnati ball, Q2, 1-10-MEM32 (00:21) 0-14
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB N. Dennis completes a 3 yard in to WR W. Carson (CB L. Davis). 
+
+Cincinnati Timeout!
+
+Cincinnati ball, Q2, 2-7-MEM29 (00:15) 0-14
+George Robbins converts the 47 yard field goal.
+
+Cincinnati ball, Q2, 1-10-CIN35 (00:08) 3-14
+George Robbins kicks 57 from Cincinnati 35 to Memphis 8. Richard Sanders to Memphis 26 for 
+a 18 yard return.
+
+Memphis ball, Q2, 1-10-MEM26 (00:01) 14-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+The QB takes a knee.
+
+Memphis ball, Q3, 1-10-MEM35 (15:00) 14-3
+George Roberts kicks 75 from Memphis 35 to end zone, Touchback.
+
+Cincinnati ball, Q3, 1-10-CIN20 (14:44) 3-14
+Offense: Inside Run, Set: Shotgun, Play: SG-QB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+QB N. Dennis runs right guard for 4 yards (CB M. Cyr, SS H. Meredith). 
+
+Cincinnati ball, Q3, 2-6-CIN24 (14:17) 3-14
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB N. Dennis throws an incomplete pass to WR W. Carson.
+
+Cincinnati ball, Q3, 3-6-CIN24 (13:58) 3-14
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+QB N. Dennis completes a 19 yard post to WR A. Leavitt (FS M. Sullivan).  SS H. Meredith missed 
+a tackle.
+
+Cincinnati ball, Q3, 1-10-CIN43 (13:31) 3-14
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB N. Dennis completes a 12 yard hook to WR W. Carson (OOB). OT W. Dubose earned a pancake 
+on the play. CB F. Castillo was out of position on the play.
+
+Cincinnati ball, Q3, 1-10-MEM45 (13:21) 3-14
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB R. Prather runs left end for 5 yards (OOB).
+
+Cincinnati ball, Q3, 2-5-MEM40 (13:07) 3-14
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB R. Prather runs left end for 5 yards (OLB J. Geiger, DE G. Larkin). 
+
+Cincinnati ball, Q3, 2-5-MEM40 (13:07) 3-14
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+WR Alvin Leavitt (CIN) was injured on the play (Elbow). It doesn't look too serious and he 
+should return.
+
+Cincinnati ball, Q3, 1-10-MEM35 (12:54) 3-14
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-HBfake-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+WR W. Carson runs right tackle for -1 yards (DE G. Larkin).
+
+Cincinnati ball, Q3, 2-11-MEM36 (12:24) 3-14
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB R. Prather runs left tackle for 3 yards (ILB G. Bennett, OLB D. Washington). 
+
+Cincinnati ball, Q3, 3-8-MEM33 (11:58) 3-14
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ-B6-Spy
+QB N. Dennis completes a 8 yard dump off to WR A. Leavitt (OLB J. Geiger). 
+
+Cincinnati ball, Q3, 1-10-MEM25 (11:37) 3-14
+Offense: Medium Pass, Set: Trips, Play: TR-FL-in-SE-post
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB N. Dennis throws an incomplete pass to WR G. Lee.
+
+Cincinnati ball, Q3, 2-10-MEM25 (11:18) 3-14
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB N. Dennis completes a 23 yard post to WR C. Collins (OLB J. Geiger).  CB I. Allen was out 
+of position on the play.
+
+Cincinnati ball, Q3, 1-2-MEM2 (10:51) 3-14
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+QB N. Dennis completes a 2 yard in to WR A. Leavitt ****Touchdown!*****
+
+Cincinnati ball, Q3, 1-0-MEM0 (10:29) 9-14
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB N. Dennis throws an incomplete pass to WR G. Lee.
+
+Cincinnati ball, Q3, 1-10-CIN35 (10:29) 9-14
+George Robbins kicks 54 from Cincinnati 35 to Memphis 11. Donnell Wilson to Memphis 25 for 
+a 14 yard return.
+
+Memphis ball, Q3, 1-10-MEM25 (10:09) 14-9
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB C. Hathaway runs right tackle for 6 yards (OOB).
+
+Memphis ball, Q3, 2-4-MEM31 (09:59) 14-9
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB D. Henderson throws an incomplete pass to WR J. Jordan.
+
+Memphis ball, Q3, 3-4-MEM31 (09:40) 14-9
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB C. Hathaway runs right tackle for 4 yards (SS D. Knight). 
+
+Memphis ball, Q3, 1-10-MEM35 (09:10) 14-9
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB C. Hathaway runs right guard for 1 yard (SS D. Knight). 
+
+Memphis ball, Q3, 2-9-MEM36 (08:43) 14-9
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB D. Henderson throws an incomplete pass to WR J. Jordan (SS D. Knight). WR J. Jordan dropped 
+the pass. SS D. Knight broke up the pass.
+
+Memphis ball, Q3, 3-9-MEM36 (08:23) 14-9
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB C. Hathaway runs right end for 6 yards (FS T. Freeman). 
+
+Memphis ball, Q3, 4-3-MEM42 (07:57) 14-9
+Willy Doss Punts 39 yards to the Cincinnati 19 yard line, where it goes out of bounds.
+
+Cincinnati ball, Q3, 1-10-CIN19 (07:42) 9-14
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB R. Roberts runs right guard for -1 yards (OLB J. Geiger).
+
+Cincinnati ball, Q3, 2-11-CIN18 (07:11) 9-14
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB R. Prather runs left guard for -1 yards (OLB J. Geiger).
+
+Cincinnati ball, Q3, 3-12-CIN17 (06:42) 9-14
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB N. Dennis completes a 20 yard post to WR A. Leavitt (FS M. Sullivan).  He fumbles the ball 
+after a hit by M. Sullivan. It's recovered by G. Larkin of Memphis. He returns it 0 yards to the Cincinnati 37. A. Leavitt made a great catch.
+
+Memphis ball, Q3, 1-10-CIN37 (06:14) 14-9
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B5,8
+QB D. Henderson completes a 3 yard dump off to RB C. Hathaway (FS M. Harmon, FS T. Freeman). 
+
+Memphis ball, Q3, 2-7-CIN34 (05:51) 14-9
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB D. Henderson throws an incomplete pass to WR D. Wilson.
+
+Memphis ball, Q3, 3-7-CIN34 (05:36) 14-9
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB D. Henderson throws an incomplete pass to WR D. Wilson.
+
+Memphis ball, Q3, 4-7-CIN34 (05:21) 14-9
+George Roberts converts the 52 yard field goal.
+
+Memphis ball, Q3, 1-10-MEM35 (05:05) 17-9
+George Roberts kicks 67 from Memphis 35 to Cincinnati -2. Stephen Martinez to Cincinnati 33 
+for a 35 yard return.
+
+Spearing against FB Bryan Scott on Memphis. The Penalty is for 15 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Cincinnati 48.
+
+Cincinnati ball, Q3, 1-10-CIN48 (04:54) 9-17
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB N. Dennis throws an incomplete pass to WR W. Carson (ILB G. Bennett). DE A. Green hurried 
+the QB. ILB G. Bennett broke up the pass.
+
+Cincinnati ball, Q3, 2-10-CIN48 (04:36) 9-17
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+Delay of Game against Cincinnati. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 15 at the Cincinnati 43.
+
+Cincinnati ball, Q3, 2-15-CIN43 (04:36) 9-17
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB R. Prather runs left end for 1 yard (ILB K. Gentry). 
+
+Cincinnati ball, Q3, 3-14-CIN44 (04:07) 9-17
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB N. Dennis completes a 56 yard post to WR G. Lee ****Touchdown!***** G. Lee made a great 
+catch. OG C. Soto earned a pancake on the play. SS H. Meredith allowed the big play.
+
+Cincinnati ball, Q3, 1-0-MEM0 (03:53) 15-17
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB N. Dennis gets sacked for a 4 yard loss (DE G. Larkin).  OT W. Dubose allowed the sack.
+
+Cincinnati ball, Q3, 1-10-CIN35 (03:53) 15-17
+George Robbins kicks 55 from Cincinnati 35 to Memphis 10. Donnell Wilson to Memphis 23 for 
+a 13 yard return.
+
+Memphis ball, Q3, 1-10-MEM23 (03:33) 17-15
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB D. Henderson completes a 27 yard in to WR B. Bryant (OOB). OT E. Palmer earned a pancake 
+on the play. FS R. Burgess allowed the big play.
+
+Memphis ball, Q3, 1-10-MEM50 (03:23) 17-15
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB R. Sanders runs left tackle for 10 yards (ILB K. Day, OLB J. Queen). 
+
+Memphis ball, Q3, 1-10-CIN40 (02:53) 17-15
+Offense: Long Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB D. Henderson throws an incomplete pass to WR D. Wilson.
+
+Memphis ball, Q3, 1-10-CIN40 (02:53) 17-15
+Offense: Long Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+DT Adolph Rosales (CIN) was injured on the play (Knee). It doesn't look like he will return.
+
+Memphis ball, Q3, 2-10-CIN40 (02:35) 17-15
+Offense: Medium Pass, Set: Weak, Play: WK-TE-playact-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB D. Henderson throws an incomplete pass to WR D. Wilson.
+
+Memphis ball, Q3, 3-10-CIN40 (02:18) 17-15
+Offense: Long Pass, Set: Quads, Play: Q-WR3-corner-FL-post
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB D. Henderson gets sacked for a 14 yard loss (DT T. Mccray).  OT S. Ledbetter allowed the 
+sack.
+
+Memphis ball, Q3, 4-24-MEM46 (01:58) 17-15
+Willy Doss Punts 33 yards to the Cincinnati 21 yard line, where it goes out of bounds.
+
+Cincinnati ball, Q3, 1-10-CIN21 (01:41) 15-17
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB R. Prather runs right tackle for 6 yards (OOB).
+
+Cincinnati ball, Q3, 2-4-CIN27 (01:24) 15-17
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB N. Dennis throws an incomplete pass to WR G. Lee.
+
+Cincinnati ball, Q3, 2-4-CIN27 (01:24) 15-17
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+OG David Green (CIN) was injured on the play (Head). It doesn't look like he will return.
+
+Cincinnati ball, Q3, 3-4-CIN27 (01:09) 15-17
+Offense: Long Pass, Set: SingleBack, Play: SB-FL-playact-up
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB N. Dennis throws an incomplete pass to WR G. Lee. DE G. Larkin hurried the QB.
+
+Cincinnati ball, Q3, 4-4-CIN27 (00:53) 15-17
+Nathaniel Little Punts 37 yards to the Memphis 36 yard line, where Mark Cyr returns it to 
+Memphis 40 for a 4 yard return.
+
+Memphis ball, Q3, 1-10-MEM40 (00:33) 17-15
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB C. Hathaway runs right tackle for 10 yards (OLB B. Wood, OLB J. Queen).  C M. Crane had 
+a key block on the run. CB B. Jacobs was out of position on the play.
+
+Memphis ball, Q3, 1-10-MEM50 (00:01) 17-15
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-MZ-B7,9
+QB D. Henderson completes a 20 yard hook to RB C. Hathaway (OLB J. Queen).  CB B. Jacobs was 
+out of position on the play.
+
+Memphis ball, Q4, 1-10-CIN30 (15:00) 17-15
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+FB B. Scott runs left guard for 11 yards (FS T. Freeman, OLB B. Wood). 
+
+Memphis ball, Q4, 1-10-CIN19 (14:29) 17-15
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B11
+RB R. Sanders runs right end for 8 yards (OOB).
+
+Memphis ball, Q4, 2-2-CIN11 (14:18) 17-15
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB D. Henderson throws an incomplete pass to WR J. Jordan. DE J. Turner hurried the QB.
+
+Memphis ball, Q4, 3-2-CIN11 (13:59) 17-15
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB C. Hathaway runs right guard for 0 yards (FS T. Freeman).  OT S. Ledbetter missed a block 
+that hurt the play.
+
+Illegal Crackback Block against C Mark Crane on Memphis. The Penalty is for 15 yards.
+The penalty will be declined.
+
+Memphis ball, Q4, 4-2-CIN11 (13:47) 17-15
+George Roberts converts the 29 yard field goal.
+
+Memphis ball, Q4, 1-10-MEM35 (13:29) 20-15
+George Roberts kicks 75 from Memphis 35 to end zone, Touchback.
+
+Cincinnati ball, Q4, 1-10-CIN20 (13:14) 15-20
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB R. Prather runs right guard for 5 yards (ILB G. Bennett). 
+
+Cincinnati ball, Q4, 2-5-CIN25 (12:45) 15-20
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB R. Prather runs right tackle for 1 yard (DT D. Wilson). 
+
+Cincinnati ball, Q4, 3-4-CIN26 (12:13) 15-20
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,7,11
+QB N. Dennis completes a 22 yard in to WR A. Leavitt (CB L. Davis, CB I. Allen).  OLB J. Geiger 
+was out of position on the play.
+
+Cincinnati ball, Q4, 1-10-CIN48 (11:47) 15-20
+Offense: Long Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+N. Dennis has his 29 yard pass intercepted by M. Sullivan at the MEM 23. He returns it 0 yards 
+to the Memphis 23. DE A. Green hurried the QB.
+
+Cincinnati ball, Q4, 1-10-CIN48 (11:47) 15-20
+Offense: Long Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+OLB Danny Washington (MEM) was injured on the play (Eye). It doesn't look like he will return.
+
+Memphis ball, Q4, 1-10-MEM23 (11:16) 20-15
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB C. Hathaway runs right guard for -1 yards (SS D. Knight). OG S. Velasco missed a block 
+that hurt the play.
+
+Memphis ball, Q4, 2-11-MEM22 (10:48) 20-15
+Offense: Short Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB D. Henderson throws an incomplete pass to WR B. Bryant.
+
+Memphis ball, Q4, 3-11-MEM22 (10:31) 20-15
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-MZ-B7,9
+QB D. Henderson scrambles out of the pocket and gets sacked for a 1 yard loss (OLB B. Wood). 
+ OG S. Velasco missed a block that hurt the play. OG S. Velasco allowed the sack.
+
+Memphis ball, Q4, 4-12-MEM21 (10:05) 20-15
+Willy Doss Punts 46 yards to the Cincinnati 33 yard line,
+
+Cincinnati ball, Q4, 1-10-CIN33 (09:50) 15-20
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+QB N. Dennis throws an incomplete pass to WR G. Lee. N. Dennis made a bad pass. DE G. Larkin 
+hurried the QB.
+
+Cincinnati ball, Q4, 2-10-CIN33 (09:31) 15-20
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB R. Prather runs right tackle for 1 yard (ILB K. Gentry). 
+
+Cincinnati ball, Q4, 3-9-CIN34 (09:00) 15-20
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB N. Dennis throws an incomplete pass to WR G. Lee.
+
+Cincinnati ball, Q4, 4-9-CIN34 (08:44) 15-20
+Nathaniel Little Punts 37 yards to the Memphis 29 yard line, where Mark Cyr returns it to 
+Cincinnati 40 for a 31 yard return.
+
+Memphis ball, Q4, 1-10-CIN40 (08:24) 20-15
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB C. Hathaway runs right tackle for 2 yards (OLB B. Wood). 
+
+Memphis ball, Q4, 1-10-CIN40 (08:24) 20-15
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+DT Travis Mccray (CIN) was injured on the play (OK). It doesn't look like he will return.
+
+Memphis ball, Q4, 2-8-CIN38 (08:09) 20-15
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB C. Hathaway runs left end for -2 yards (SS D. Knight).
+
+Memphis ball, Q4, 3-10-CIN40 (07:39) 20-15
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB C. Hathaway runs left guard for 7 yards (FS T. Freeman, FS R. Burgess).  OLB J. Queen missed 
+a tackle.
+
+Memphis ball, Q4, 4-3-CIN33 (07:26) 20-15
+George Roberts misses the 51 yard field goal. It will be Cincinnati ball at the CIN 33
+
+Offsides against ILB Brock Ortiz on Cincinnati. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Cincinnati 28.
+
+Memphis ball, Q4, 1-10-CIN28 (07:14) 20-15
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+FB B. Scott runs right end for 1 yard (CB T. German). 
+
+Memphis ball, Q4, 2-9-CIN27 (06:48) 20-15
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB R. Sanders runs right end for 6 yards (CB B. Jacobs). 
+
+Memphis ball, Q4, 3-3-CIN21 (06:21) 20-15
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB C. Hathaway runs right guard for -1 yards (DE J. Turner).
+
+Memphis ball, Q4, 4-4-CIN22 (05:50) 20-15
+George Roberts converts the 40 yard field goal.
+
+Memphis ball, Q4, 1-10-MEM35 (05:32) 23-15
+George Roberts kicks 66 from Memphis 35 to Cincinnati -1. Stephen Martinez to Cincinnati 34 
+for a 35 yard return.
+
+Piling On after the play against K George Roberts on Memphis. The Penalty is for 15 yards, 
+and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Cincinnati 49.
+
+Cincinnati ball, Q4, 1-10-CIN49 (05:19) 15-23
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB N. Dennis completes a 7 yard post to WR A. Leavitt (FS M. Sullivan). 
+
+Cincinnati ball, Q4, 2-3-MEM44 (04:52) 15-23
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB R. Prather runs right tackle for 0 yards (SS H. Meredith). 
+
+Cincinnati ball, Q4, 3-3-MEM44 (04:24) 15-23
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B5,7
+QB N. Dennis throws an incomplete pass to WR G. Lee.
+
+Cincinnati ball, Q4, 4-3-MEM44 (04:05) 15-23
+Nathaniel Little Punts 38 yards to the Memphis 6 yard line, where it goes out of bounds.
+
+Memphis ball, Q4, 1-10-MEM6 (03:49) 23-15
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB C. Hathaway runs left tackle for 4 yards (CB B. Jacobs). 
+
+Memphis ball, Q4, 2-6-MEM10 (03:16) 23-15
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB R. Sanders runs left tackle for 8 yards (FS T. Freeman, SS D. Knight). 
+
+Memphis ball, Q4, 1-10-MEM18 (02:43) 23-15
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB R. Sanders runs right guard for 10 yards (CB B. Jacobs, FS T. Freeman).  CB B. Jacobs was 
+out of position on the play.
+
+Memphis ball, Q4, 1-10-MEM28 (02:12) 23-15
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB R. Sanders runs right guard for 3 yards (ILB K. Day, CB T. German). 
+
+Memphis ball, Q4, 2-7-MEM31 (01:52) 23-15
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB R. Sanders runs right end for -2 yards (SS D. Knight). TE D. William missed a block that 
+hurt the play.
+
+Memphis ball, Q4, 2-7-MEM31 (01:52) 23-15
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+CB Benjamin Jacobs (CIN) was injured on the play (Finger). It doesn't look too serious and 
+he should return.
+
+Memphis ball, Q4, 3-9-MEM29 (01:39) 23-15
+Offense: Outside Run, Set: Quads, Play: Q-HB-power-RE
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB C. Hathaway runs right tackle for -2 yards (FS M. Harmon). OG T. Larson missed a block 
+that hurt the play.
+
+Memphis ball, Q4, 4-11-MEM27 (01:07) 23-15
+Willy Doss Punts 29 yards to the Cincinnati 44 yard line, where Sid Boone returns it to Cincinnati 
+47 for a 3 yard return.
+
+Cincinnati ball, Q4, 1-10-CIN47 (01:01) 15-23
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B11
+QB N. Dennis throws an incomplete pass to WR C. Collins (CB I. Allen). N. Dennis made a bad 
+pass. CB I. Allen broke up the pass.
+
+Cincinnati ball, Q4, 2-10-CIN47 (00:55) 15-23
+Offense: Long Pass, Set: Quads, Play: Q-WR3-corner-FL-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB N. Dennis gets sacked for a 9 yard loss (OLB J. Geiger).  OG C. Thomas allowed the sack.
+
+Cincinnati ball, Q4, 3-19-CIN38 (00:47) 15-23
+Offense: Long Pass, Set: Trips, Play: TR-SE-rollout-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB N. Dennis gets sacked for a 11 yard loss (DE G. Larkin).  OT W. Dubose allowed the sack.
+
+Cincinnati ball, Q4, 4-30-CIN27 (00:40) 15-23
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-SZ-B5,6
+QB N. Dennis gets sacked for a 4 yard loss (DT J. Evans).  C J. Park allowed the sack.
+
+Memphis ball, Q4, 1-10-CIN23 (00:32) 23-15
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB R. Sanders runs right guard for 10 yards (SS D. Knight). 
+
+Cincinnati Timeout!
+
+Cincinnati Timeout!
+
+Memphis ball, Q4, 1-10-CIN13 (00:24) 23-15
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+The QB takes a knee.
+
+Memphis ball, Q4, 2-12-CIN15 (00:15) 23-15
+Offense: Inside Run, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+The QB takes a knee.
+

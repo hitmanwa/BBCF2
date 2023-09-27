@@ -1,0 +1,986 @@
+Oklahoma ball, Q1, 1-10-OKL35 (15:00) 0-0
+Joshua Williams kicks 75 from Oklahoma 35 to end zone, Touchback.
+
+Hawaii ball, Q1, 1-10-HAW20 (14:42) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB T. Bain runs right end for 18 yards (CB W. Moore).  SS T. Flores missed a tackle.
+
+Hawaii ball, Q1, 1-10-HAW38 (14:14) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB T. Bain runs right guard for 4 yards (FS D. Bridges). 
+
+Hawaii ball, Q1, 2-6-HAW42 (13:45) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB T. Bain runs left tackle for 11 yards (SS R. Moore, CB S. Hatfield).  OT H. Martin had 
+a key block on the run. FS D. Bridges missed a tackle.
+
+Hawaii ball, Q1, 1-10-OKL47 (13:18) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB T. Bain runs right guard for 5 yards (OLB J. Plummer). 
+
+Hawaii ball, Q1, 2-5-OKL42 (12:46) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB T. Newby throws an incomplete pass to WR D. Mosley (CB W. Moore). WR D. Mosley dropped 
+the pass. CB W. Moore broke up the pass.
+
+Hawaii ball, Q1, 3-5-OKL42 (12:27) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB T. Newby completes a 10 yard out to WR D. Mosley (OLB J. Plummer). 
+
+Hawaii ball, Q1, 1-10-OKL32 (12:05) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB T. Aiken runs right guard for 10 yards (OLB S. Clark, OLB J. Plummer).  ILB C. Oneill missed 
+a tackle.
+
+Hawaii ball, Q1, 1-10-OKL22 (11:33) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B11
+QB T. Newby completes a 12 yard in to WR N. Koch (OOB).
+
+Hawaii ball, Q1, 1-10-OKL10 (11:15) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB T. Bain runs right guard for 0 yards (FS D. Bridges).  C J. Johnson missed a block that 
+hurt the play.
+
+Hawaii ball, Q1, 2-10-OKL10 (10:47) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB T. Aiken runs right guard for 4 yards (OLB S. Clark, SS T. Flores). 
+
+Hawaii ball, Q1, 3-6-OKL6 (10:14) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: 4-3, Play: 43-norm-DZ-B5,7
+RB T. Bain runs left end for 6 yards ****Touchdown!*****
+
+Hawaii ball, Q1, 1-0-OKL0 (09:59) 6-0
+Joe Stovall converts the PAT.
+
+Hawaii ball, Q1, 1-10-HAW35 (09:59) 7-0
+Albert Prather kicks 75 from Hawaii 35 to end zone, Touchback.
+
+Oklahoma ball, Q1, 1-10-OKL20 (09:43) 0-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB T. Pearson completes a 6 yard corner to WR C. Pruitt (ILB M. Boyce). 
+
+Oklahoma ball, Q1, 2-4-OKL26 (09:17) 0-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB K. Hill runs right end for 3 yards (OLB J. Smith, FS J. Wong). 
+
+Oklahoma ball, Q1, 3-1-OKL29 (08:51) 0-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB S. Deleon runs left guard for 7 yards (ILB J. Spencer, CB D. Cronin). 
+
+Oklahoma ball, Q1, 1-10-OKL36 (08:19) 0-7
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man
+QB T. Pearson completes a 2 yard out to WR G. Simmons (OOB).
+
+Oklahoma ball, Q1, 2-8-OKL38 (08:02) 0-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB S. Deleon runs right tackle for 4 yards (CB P. Lopez). 
+
+Oklahoma ball, Q1, 3-4-OKL42 (07:35) 0-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB T. Pearson gets sacked for a 2 yard loss (DT D. Morin).  C M. Nagel allowed the sack.
+
+Oklahoma ball, Q1, 4-6-OKL40 (07:20) 0-7
+Robert Norman Punts 53 yards to the Hawaii 7 yard line, where it gets downed.
+
+Hawaii ball, Q1, 1-10-HAW7 (07:02) 7-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB T. Aiken runs right guard for -1 yards (DE E. Waters).
+
+Hawaii ball, Q1, 2-11-HAW6 (06:33) 7-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB T. Bain runs right guard for 4 yards (OLB S. Clark, SS T. Flores). 
+
+Hawaii ball, Q1, 3-7-HAW10 (06:07) 7-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB T. Newby gets sacked for a 5 yard loss (DE E. Waters).  OG R. Dixon allowed the sack.
+
+Hawaii ball, Q1, 4-12-HAW5 (05:47) 7-0
+Marvin Roberts Punts 51 yards to the Oklahoma 44 yard line, where Ruben Moore returns it to 
+Oklahoma 45 for a 1 yard return.
+
+Oklahoma ball, Q1, 1-10-OKL45 (05:30) 0-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB S. Deleon runs right end for 7 yards (FS J. Wong).  DE J. Rogers missed a tackle.
+
+Oklahoma ball, Q1, 2-3-HAW48 (05:02) 0-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB T. Pearson throws an incomplete pass to WR G. Simmons.
+
+Oklahoma ball, Q1, 3-3-HAW48 (04:42) 0-7
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB T. Pearson completes a 14 yard out to WR D. Oneal (OOB). FS J. Wong missed a tackle.
+
+Oklahoma ball, Q1, 1-10-HAW34 (04:32) 0-7
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-HBfake-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+WR C. Pruitt runs right end for 28 yards (OLB J. Jones). 
+
+Oklahoma ball, Q1, 1-6-HAW6 (04:02) 0-7
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+RB S. Deleon runs right guard for 6 yards ****Touchdown!*****
+
+Oklahoma ball, Q1, 1-0-HAW0 (03:30) 6-7
+Joshua Williams converts the PAT.
+
+Oklahoma ball, Q1, 1-10-OKL35 (03:30) 7-7
+Joshua Williams kicks 66 from Oklahoma 35 to Hawaii -1. John Katz to Hawaii 24 for a 25 yard 
+return.
+
+Hawaii ball, Q1, 1-10-HAW24 (03:14) 7-7
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB T. Newby completes a 1 yard cross to WR C. Garcia (SS R. Moore). 
+
+Hawaii ball, Q1, 2-9-HAW25 (02:48) 7-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB T. Newby completes a 2 yard corner to WR D. Mosley (OLB S. Clark). 
+
+Hawaii ball, Q1, 3-7-HAW27 (02:22) 7-7
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+QB T. Newby throws an incomplete pass to WR N. Koch.
+
+Hawaii ball, Q1, 4-7-HAW27 (02:07) 7-7
+Marvin Roberts Punts 40 yards to the Oklahoma 33 yard line, where Ruben Moore returns it to 
+Oklahoma 38 for a 5 yard return.
+
+Hawaii ball, Q1, 4-7-HAW27 (02:07) 7-7
+RB Arthur Moore (HAW) was injured on the play (Ankle). It doesn't look too serious and he 
+should return.
+
+Oklahoma ball, Q1, 1-10-OKL38 (01:51) 7-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB S. Deleon runs right guard for 4 yards (OLB J. Jones). 
+
+Unnecessary Roughness against OG Fernando Rios on Oklahoma. The Penalty is for 15 yards.
+The Defense will accept the penalty. It is now Second and 21 at the Oklahoma 27.
+
+Oklahoma ball, Q1, 2-21-OKL27 (01:38) 7-7
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+QB T. Pearson completes a 5 yard in to WR G. Simmons (OLB J. Smith, ILB J. Spencer). 
+
+Oklahoma ball, Q1, 3-16-OKL32 (01:17) 7-7
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,7,11
+QB T. Pearson throws an incomplete pass to WR D. Oneal. WR D. Oneal ran an incorrect route.
+
+Oklahoma ball, Q1, 4-16-OKL32 (00:58) 7-7
+Robert Norman Punts 42 yards to the Hawaii 26 yard line, where Bradley Brock returns it to 
+Hawaii 40 for a 14 yard return.
+
+Hawaii ball, Q1, 1-10-HAW40 (00:41) 7-7
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB T. Newby completes a 40 yard in to WR N. Koch (OOB). N. Koch made a great catch. OT H. 
+Martin earned a pancake on the play. SS T. Flores allowed the big play.
+
+Hawaii ball, Q1, 1-10-OKL20 (00:24) 7-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB T. Bain runs right tackle for 8 yards (OLB S. Clark, CB S. Hatfield). 
+
+Hawaii ball, Q2, 2-2-OKL12 (15:00) 7-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB T. Aiken runs left tackle for 1 yard (OLB S. Clark).  OG T. Young missed a block that hurt 
+the play.
+
+Hawaii ball, Q2, 3-1-OKL11 (14:31) 7-7
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB T. Bain runs right guard for 4 yards (FS D. Bridges). 
+
+Hawaii ball, Q2, 1-7-OKL7 (14:02) 7-7
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+QB T. Newby throws an incomplete pass to RB T. Aiken (OLB J. Plummer). DE W. Patel hurried 
+the QB. OLB J. Plummer broke up the pass.
+
+Hawaii ball, Q2, 1-7-OKL7 (14:02) 7-7
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+OT Henry Martin (HAW) was injured on the play (Stomach). It doesn't look too serious and he 
+should return.
+
+Hawaii ball, Q2, 2-7-OKL7 (13:43) 7-7
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB T. Newby completes a 1 yard streak to WR J. Katz (SS R. Moore). 
+
+Hawaii ball, Q2, 3-6-OKL6 (13:17) 7-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Goal Line, Play: GL-run-SZ-R
+QB T. Newby completes a 6 yard post to WR N. Koch ****Touchdown!*****
+
+Hawaii ball, Q2, 1-0-OKL0 (12:49) 13-7
+Joe Stovall converts the PAT.
+
+Hawaii ball, Q2, 1-10-HAW35 (12:49) 14-7
+Albert Prather kicks 54 from Hawaii 35 to Oklahoma 11. Joshua Black to Oklahoma 28 for a 17 
+yard return.
+
+Oklahoma ball, Q2, 1-10-OKL28 (12:33) 7-14
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB K. Hill runs left guard for 4 yards (SS B. Smith). 
+
+Oklahoma ball, Q2, 2-6-OKL32 (12:01) 7-14
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB S. Deleon runs left tackle for 8 yards (OLB J. Smith).  OG F. Rios had a key block on the 
+run.
+
+Offsides against DE Jeffery Rogers on Hawaii. The Penalty is for 5 yards.
+The penalty will be declined.
+
+Oklahoma ball, Q2, 1-10-OKL40 (11:48) 7-14
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+QB T. Pearson completes a 19 yard hook to RB S. Deleon (CB D. Cronin). 
+
+Oklahoma ball, Q2, 1-10-HAW41 (11:25) 7-14
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB S. Deleon runs right end for 5 yards (OLB J. Smith, DE J. Rogers). 
+
+Oklahoma ball, Q2, 1-10-HAW41 (11:25) 7-14
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+DE Jeffery Rogers (HAW) was injured on the play (Toe). It doesn't look like he will return.
+
+Oklahoma ball, Q2, 2-5-HAW36 (11:10) 7-14
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-slotrun-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+WR C. Pruitt runs right end for 4 yards (OOB).
+
+Oklahoma ball, Q2, 3-1-HAW32 (10:56) 7-14
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB S. Deleon runs right guard for 2 yards (OLB J. Smith). 
+
+Oklahoma ball, Q2, 3-1-HAW32 (10:56) 7-14
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+SS Burton Smith (HAW) was injured on the play (OK). It doesn't look like he will return.
+
+Oklahoma ball, Q2, 1-10-HAW30 (10:43) 7-14
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB K. Hill runs right guard for 3 yards (OLB J. Smith). 
+
+Oklahoma ball, Q2, 2-7-HAW27 (10:12) 7-14
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+RB K. Hill runs right end for 4 yards (DT J. Chester). 
+
+Oklahoma ball, Q2, 3-3-HAW23 (09:44) 7-14
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+QB T. Pearson completes a 12 yard hook to WR D. Oneal (SS G. Chin). 
+
+Oklahoma ball, Q2, 1-10-HAW11 (09:20) 7-14
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB K. Hill runs right tackle for 5 yards (OLB J. Smith, DE L. Humphrey). 
+
+Oklahoma ball, Q2, 2-5-HAW6 (08:52) 7-14
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-slotrun-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+WR C. Pruitt runs right end for 1 yard (ILB M. Boyce).  TE B. Brown missed a block that hurt 
+the play.
+
+Oklahoma ball, Q2, 3-4-HAW5 (08:20) 7-14
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB T. Pearson completes a -1 yard in to WR G. Simmons (OLB L. Glass). 
+
+Oklahoma ball, Q2, 4-5-HAW6 (07:58) 7-14
+Joshua Williams misses the 24 yard field goal. It will be Hawaii ball at the HAW 20
+
+Hawaii ball, Q2, 1-10-HAW20 (07:39) 14-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB T. Bain runs left tackle for 6 yards (OLB S. Clark, ILB C. Oneill). 
+
+Hawaii ball, Q2, 1-10-HAW20 (07:39) 14-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB Tony Bain (HAW) was injured on the play (Thumb). It doesn't look too serious and he should 
+return.
+
+Hawaii ball, Q2, 2-4-HAW26 (07:24) 14-7
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+T. Newby has his 27 yard pass intercepted by J. Black at the OKL 47. He returns it 0 yards 
+to the Oklahoma 47.
+
+Oklahoma ball, Q2, 1-10-OKL47 (06:59) 7-14
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB K. Hill runs right guard for 5 yards (CB P. Lopez). 
+
+Oklahoma ball, Q2, 1-10-OKL47 (06:59) 7-14
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+OG Fernando Rios (OKL) was injured on the play (Lower Leg). It doesn't look too serious and 
+he should return.
+
+Oklahoma ball, Q2, 2-5-HAW48 (06:45) 7-14
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB S. Deleon runs left tackle for 7 yards (OLB J. Jones, ILB M. Boyce). 
+
+Oklahoma ball, Q2, 1-10-HAW41 (06:17) 7-14
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB K. Hill runs right end for 1 yard (OLB J. Jones). 
+
+Oklahoma ball, Q2, 2-9-HAW40 (05:51) 7-14
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+False Start against OG Fernando Rios on Oklahoma. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 14 at the Hawaii 45.
+
+Oklahoma ball, Q2, 2-14-HAW45 (05:51) 7-14
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB T. Pearson completes a 2 yard streak to WR G. Simmons (OLB J. Smith). 
+
+Oklahoma ball, Q2, 3-12-HAW43 (05:28) 7-14
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB T. Pearson completes a 8 yard post to TE B. Brown (SS G. Chin). 
+
+Holding against C Martin Nagel on Oklahoma. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Oklahoma ball, Q2, 4-4-HAW35 (05:15) 7-14
+Joshua Williams misses the 53 yard field goal. It will be Hawaii ball at the HAW 35
+
+Hawaii ball, Q2, 1-10-HAW35 (04:56) 14-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB T. Bain runs right end for 6 yards (OOB).
+
+Hawaii ball, Q2, 2-4-HAW41 (04:45) 14-7
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: 4-3, Play: 43-norm-Man
+QB T. Newby throws an incomplete pass to WR N. Koch. T. Newby made a bad pass.
+
+Hawaii ball, Q2, 2-4-HAW41 (04:45) 14-7
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: 4-3, Play: 43-norm-Man
+SS Thomas Flores (OKL) was injured on the play (Toe). It doesn't look like he will return.
+
+Hawaii ball, Q2, 3-4-HAW41 (04:30) 14-7
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB T. Newby throws an incomplete pass to WR N. Koch. DT E. Blackwell hurried the QB.
+
+Hawaii ball, Q2, 4-4-HAW41 (04:11) 14-7
+Marvin Roberts Punts 53 yards to the Oklahoma 6 yard line, where it gets downed.
+
+Oklahoma ball, Q2, 1-10-OKL6 (03:54) 7-14
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB S. Deleon runs left guard for 2 yards (CB D. Cronin). 
+
+Oklahoma ball, Q2, 2-8-OKL8 (03:25) 7-14
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB S. Deleon runs right end for 1 yard (OLB J. Smith). 
+
+Oklahoma ball, Q2, 3-7-OKL9 (02:57) 7-14
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB T. Pearson throws an incomplete pass to WR C. Pruitt. T. Pearson made a bad pass.
+
+Oklahoma ball, Q2, 4-7-OKL9 (02:38) 7-14
+Robert Norman Punts 54 yards to the Hawaii 37 yard line, where Bradley Brock returns it to 
+Oklahoma 46 for a 17 yard return.
+
+Illegal Use of Hands against RB Arthur Moore on Hawaii. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 10 at the Hawaii 44.
+
+Hawaii ball, Q2, 1-10-HAW44 (02:23) 14-7
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB T. Newby completes a 28 yard hook to WR C. Garcia (CB W. Moore, SS R. Moore).  OT H. Martin 
+earned a pancake on the play. CB S. Hatfield allowed the big play.
+
+Hawaii ball, Q2, 1-10-OKL28 (01:55) 14-7
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB T. Bain runs right tackle for 7 yards (SS R. Moore, SS M. Hunt). 
+
+Hawaii ball, Q2, 2-3-OKL21 (01:23) 14-7
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB T. Newby throws an incomplete pass to WR N. Koch.
+
+Hawaii ball, Q2, 3-3-OKL21 (01:15) 14-7
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+T. Newby has his 6 yard pass intercepted by R. Moore at the OKL 15. He returns it 0 yards 
+to the Oklahoma 15. T. Newby made a bad pass.
+
+Oklahoma ball, Q2, 1-10-OKL15 (00:44) 7-14
+Offense: Medium Pass, Set: Weak, Play: WK-TE-playact-str
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB T. Pearson throws an incomplete pass to WR D. Oneal.
+
+Oklahoma ball, Q2, 2-10-OKL15 (00:37) 7-14
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB K. Hill runs left guard for 15 yards (CB P. Lopez, FS J. Wong).  OT L. Mangum had a key 
+block on the run.
+
+Oklahoma Timeout!
+
+Oklahoma ball, Q2, 1-10-OKL30 (00:16) 7-14
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+The QB takes a knee.
+
+Oklahoma ball, Q2, 2-11-OKL29 (00:07) 7-14
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+The QB takes a knee.
+
+Hawaii ball, Q3, 1-10-HAW35 (15:00) 14-7
+Albert Prather kicks 67 from Hawaii 35 to Oklahoma -2. Joshua Black to Oklahoma 21 for a 23 
+yard return.
+
+Oklahoma ball, Q3, 1-10-OKL21 (14:42) 7-14
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+QB T. Pearson throws an incomplete pass to WR C. Pruitt.
+
+Oklahoma ball, Q3, 2-10-OKL21 (14:27) 7-14
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB K. Hill runs right guard for 1 yard (DE L. Humphrey).  TE B. Brown missed a block that 
+hurt the play.
+
+Oklahoma ball, Q3, 3-9-OKL22 (13:55) 7-14
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+QB T. Pearson completes a 45 yard out-and-up to WR C. Pruitt (OLB J. Jones).  He fumbles the 
+ball after a hit by J. Jones. It's recovered by J. Spencer of Hawaii. He returns it 0 yards to the Hawaii 33. OT L. Mangum earned a pancake on the play. ILB J. Spencer allowed the big play.
+
+Hawaii ball, Q3, 1-10-HAW33 (13:30) 14-7
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB T. Newby completes a 2 yard screen to RB T. Bain (SS R. Moore, OLB J. Plummer). 
+
+Hawaii ball, Q3, 1-10-HAW33 (13:30) 14-7
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+DE Edward Waters (OKL) was injured on the play (Elbow). It doesn't look like he will return.
+
+Hawaii ball, Q3, 2-8-HAW35 (13:15) 14-7
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: 4-3, Play: 43-run-Man-B5-L
+QB T. Newby throws an incomplete pass to TE R. Miller. TE R. Miller dropped the pass.
+
+Hawaii ball, Q3, 3-8-HAW35 (12:58) 14-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB T. Newby completes a 42 yard post to WR N. Koch (CB W. Moore).  OT R. Madrid earned a pancake 
+on the play. SS R. Moore allowed the big play.
+
+Hawaii ball, Q3, 1-10-OKL23 (12:34) 14-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-L
+QB T. Newby completes a 23 yard corner to WR D. Mosley ****Touchdown!***** CB S. Hatfield 
+missed a tackle.
+
+Hawaii ball, Q3, 1-0-OKL0 (12:08) 20-7
+Joe Stovall converts the PAT.
+
+Hawaii ball, Q3, 1-10-HAW35 (12:08) 21-7
+Albert Prather kicks 66 from Hawaii 35 to Oklahoma -1. Joshua Black to Oklahoma 8 for a 9 
+yard return.
+
+Oklahoma ball, Q3, 1-10-OKL8 (11:48) 7-21
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB S. Deleon runs right tackle for 10 yards (OLB J. Jones).  CB T. Spicer missed a tackle.
+
+Oklahoma ball, Q3, 1-10-OKL18 (11:15) 7-21
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: 3-4, Play: 34-run-SZ
+QB T. Pearson completes a 4 yard streak to RB S. Deleon (OLB J. Jones, SS G. Chin). 
+
+Oklahoma ball, Q3, 2-6-OKL22 (10:52) 7-21
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-B7,11-R
+RB S. Deleon runs left end for 1 yard (ILB M. Boyce).  C M. Nagel missed a block that hurt 
+the play.
+
+Oklahoma ball, Q3, 3-5-OKL23 (10:21) 7-21
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB T. Pearson completes a 50 yard corner to WR C. Pruitt (ILB J. Spencer, CB T. Spicer).  
+OLB J. Jones allowed the big play.
+
+Oklahoma ball, Q3, 3-5-OKL23 (10:21) 7-21
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+CB Daniel Cronin (HAW) was injured on the play (Forearm). It doesn't look too serious and 
+he should return.
+
+Oklahoma ball, Q3, 1-10-HAW27 (10:04) 7-21
+Offense: Short Pass, Set: Weak, Play: WK-HB-flat-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB T. Pearson completes a 10 yard dump off to RB K. Hill (OOB).
+
+Oklahoma ball, Q3, 1-10-HAW17 (09:53) 7-21
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB K. Hill runs right tackle for -1 yards (DE L. Humphrey).
+
+Oklahoma ball, Q3, 2-11-HAW18 (09:36) 7-21
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+RB K. Hill runs left tackle for 5 yards (OLB L. Glass, FS J. Wong). 
+
+Oklahoma ball, Q3, 3-6-HAW13 (09:06) 7-21
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB T. Pearson throws an incomplete pass to WR G. Simmons (FS J. Wong). FS J. Wong broke up 
+the pass.
+
+Oklahoma ball, Q3, 4-6-HAW13 (08:49) 7-21
+Joshua Williams misses the 31 yard field goal. It will be Hawaii ball at the HAW 20
+
+Hawaii ball, Q3, 1-10-HAW20 (08:33) 21-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+RB T. Aiken runs right end for 2 yards (CB S. Hatfield). 
+
+Hawaii ball, Q3, 2-8-HAW22 (08:00) 21-7
+Offense: Long Pass, Set: Trips, Play: TR-WR3-str-FL-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-norm-Man
+T. Newby has his 26 yard pass intercepted by W. Moore at the HAW 48. He returns it 0 yards 
+to the Hawaii 48. T. Newby made a bad pass.
+
+Oklahoma ball, Q3, 1-10-HAW48 (07:31) 7-21
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB K. Hill runs left end for 6 yards (FS J. Wong). 
+
+Oklahoma ball, Q3, 2-4-HAW42 (07:01) 7-21
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB K. Hill runs left tackle for 2 yards (OOB).
+
+Oklahoma ball, Q3, 3-2-HAW40 (06:48) 7-21
+Offense: Short Pass, Set: Weak, Play: WK-FL-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB T. Pearson completes a 2 yard screen to WR G. Simmons (CB D. Cronin). 
+
+Oklahoma ball, Q3, 1-10-HAW38 (06:25) 7-21
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB T. Pearson completes a 20 yard screen to RB S. Deleon (CB T. Spicer, CB D. Cronin).  OG 
+B. Johnston earned a pancake on the play.
+
+Oklahoma ball, Q3, 1-10-HAW18 (06:01) 7-21
+Offense: Short Pass, Set: Weak, Play: WK-FL-screen
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB T. Pearson gets sacked for a 3 yard loss (DE P. Levine).  C M. Nagel allowed the sack.
+
+Oklahoma ball, Q3, 2-13-HAW21 (05:46) 7-21
+Offense: Short Pass, Set: Weak, Play: WK-SE-slant-FL-in
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB T. Pearson completes a 4 yard screen to WR C. Pruitt (SS G. Chin). 
+
+Oklahoma ball, Q3, 3-9-HAW17 (05:22) 7-21
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+QB T. Pearson throws an incomplete pass to WR D. Oneal.
+
+Oklahoma ball, Q3, 4-9-HAW17 (05:04) 7-21
+Joshua Williams converts the 35 yard field goal.
+
+Oklahoma ball, Q3, 1-10-OKL35 (04:44) 10-21
+Joshua Williams kicks 67 from Oklahoma 35 to Hawaii -2. John Katz to Hawaii 16 for a 18 yard 
+return.
+
+Hawaii ball, Q3, 1-10-HAW16 (04:24) 21-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB T. Bain runs right guard for 1 yard (DE J. Fish).  OG T. Young missed a block that hurt 
+the play.
+
+Hawaii ball, Q3, 2-9-HAW17 (03:53) 21-10
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB T. Newby gets sacked for a 10 yard loss (DT E. Blackwell).  OG R. Dixon allowed the sack.
+
+Hawaii ball, Q3, 3-19-HAW7 (03:34) 21-10
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB T. Newby gets sacked for a 5 yard loss (DT K. Walsh).  OG T. Young allowed the sack.
+
+Hawaii ball, Q3, 4-24-HAW2 (03:16) 21-10
+Marvin Roberts Punts 36 yards to the Hawaii 38 yard line, where Ruben Moore returns it to 
+Hawaii 21 for a 17 yard return.
+
+Oklahoma ball, Q3, 1-10-HAW21 (03:01) 10-21
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB T. Pearson gets sacked for a 6 yard loss (OLB J. Smith).  C M. Nagel allowed the sack.
+
+Oklahoma ball, Q3, 2-16-HAW27 (02:41) 10-21
+Offense: Short Pass, Set: Weak, Play: WK-FL-screen
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB T. Pearson completes a 12 yard screen to WR D. Oneal (OOB).
+
+Oklahoma ball, Q3, 3-4-HAW15 (02:27) 10-21
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB S. Deleon runs left end for 5 yards (CB D. Cronin). 
+
+Grabbing Face Mask against SS George Chin on Hawaii. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and Goal at the Hawaii 5.
+
+Oklahoma ball, Q3, 1-5-HAW5 (02:13) 10-21
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB S. Deleon runs right guard for 2 yards (CB D. Cronin). 
+
+Oklahoma ball, Q3, 2-3-HAW3 (01:41) 10-21
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+RB S. Deleon runs right end for -2 yards (DE L. Humphrey).
+
+Oklahoma ball, Q3, 3-5-HAW5 (01:12) 10-21
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+RB S. Deleon runs right tackle for -1 yards (ILB M. Boyce).
+
+Oklahoma ball, Q3, 4-6-HAW6 (00:42) 10-21
+Joshua Williams converts the 24 yard field goal.
+
+Oklahoma ball, Q3, 1-10-OKL35 (00:26) 13-21
+Joshua Williams kicks 67 from Oklahoma 35 to Hawaii -2. John Katz to Hawaii 33 for a 35 yard 
+return.
+
+Hawaii ball, Q3, 1-10-HAW33 (00:07) 21-13
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB T. Bain runs left end for 0 yards (OLB J. Plummer).  OG R. Dixon missed a block that hurt 
+the play.
+
+Hawaii ball, Q4, 2-10-HAW33 (15:00) 21-13
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB T. Newby completes a 50 yard in to WR D. Mosley (SS R. Moore).  D. Mosley made a great 
+catch. OG T. Young earned a pancake on the play. FS D. Bridges allowed the big play.
+
+Hawaii ball, Q4, 1-10-OKL17 (14:33) 21-13
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB T. Newby gets sacked for a 7 yard loss (DT K. Walsh).  He fumbles the ball after a hit 
+by K. Walsh. It's recovered by H. Martin of Hawaii. C J. Johnson allowed the sack.
+
+Hawaii ball, Q4, 2-17-OKL24 (14:05) 21-13
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-3, Play: 43-norm-Man
+QB T. Newby throws an incomplete pass to WR C. Garcia.
+
+Holding against FS Daniel Bridges on Oklahoma. The Penalty is for 10 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Oklahoma 14.
+
+Hawaii ball, Q4, 1-10-OKL14 (13:55) 21-13
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB T. Bain runs right tackle for -1 yards (FS D. Bridges). OT H. Martin missed a block that 
+hurt the play.
+
+Hawaii ball, Q4, 2-11-OKL15 (13:28) 21-13
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB T. Bain runs right tackle for 2 yards (OLB J. Plummer). 
+
+Illegal Motion against Hawaii. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 16 at the Oklahoma 20.
+
+Hawaii ball, Q4, 2-16-OKL20 (13:13) 21-13
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB T. Newby completes a 20 yard hook to WR C. Garcia ****Touchdown!***** SS M. Hunt was out 
+of position on the play.
+
+Hawaii ball, Q4, 1-0-OKL0 (12:46) 27-13
+Joe Stovall converts the PAT.
+
+Hawaii ball, Q4, 1-10-HAW35 (12:46) 28-13
+Albert Prather kicks 67 from Hawaii 35 to Oklahoma -2. Joshua Black to Oklahoma 17 for a 19 
+yard return.
+
+Oklahoma ball, Q4, 1-10-OKL17 (12:30) 13-28
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB K. Hill runs right tackle for 1 yard (DE L. Humphrey).  C M. Nagel missed a block that 
+hurt the play.
+
+Oklahoma ball, Q4, 1-10-OKL17 (12:30) 13-28
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+TE Bruce Brown (OKL) was injured on the play (Elbow). It doesn't look like he will return.
+
+Oklahoma ball, Q4, 2-9-OKL18 (12:13) 13-28
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB K. Hill runs right end for 2 yards (OOB).
+
+Oklahoma ball, Q4, 3-7-OKL20 (12:02) 13-28
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB S. Deleon runs right end for 12 yards (FS J. Wong).  OG F. Rios had a key block on the run.
+
+Oklahoma ball, Q4, 1-10-OKL32 (11:34) 13-28
+Offense: Short Pass, Set: Weak, Play: WK-SE-slant-FL-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB T. Pearson completes a 11 yard screen to WR C. Pruitt (FS J. Wong, SS G. Chin).  CB T. 
+Spicer was out of position on the play.
+
+Oklahoma ball, Q4, 1-10-OKL43 (11:12) 13-28
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB K. Hill runs right guard for 14 yards (OLB J. Smith, OLB J. Jones).  OG F. Rios had a key 
+block on the run.
+
+Oklahoma ball, Q4, 1-10-HAW43 (10:41) 13-28
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB S. Deleon runs right end for 1 yard (ILB J. Spencer). 
+
+Oklahoma ball, Q4, 2-9-HAW42 (10:08) 13-28
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-TMan
+QB T. Pearson completes a 2 yard dump off to WR G. Simmons (OOB).
+
+Oklahoma ball, Q4, 3-7-HAW40 (09:55) 13-28
+Offense: Medium Pass, Set: Weak, Play: WK-SE-streaks
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB T. Pearson completes a 11 yard streak to WR C. Pruitt (OLB J. Jones).  OT L. Mangum earned 
+a pancake on the play. CB T. Spicer was out of position on the play.
+
+Oklahoma ball, Q4, 1-10-HAW29 (09:29) 13-28
+Offense: Medium Pass, Set: Weak, Play: WK-FL-streaks
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB T. Pearson gets sacked for a 4 yard loss (DE P. Levine).  C M. Nagel allowed the sack.
+
+Holding against OG Fernando Rios on Oklahoma. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Oklahoma ball, Q4, 2-14-HAW33 (09:14) 13-28
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB T. Pearson completes a 6 yard in to TE R. Schwartz (ILB M. Boyce). 
+
+Pass Interference against SS George Chin on Hawaii. The Penalty is for 6 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Hawaii 27.
+
+Oklahoma ball, Q4, 1-10-HAW27 (08:59) 13-28
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB T. Pearson throws an incomplete pass to WR C. Pruitt.
+
+Oklahoma ball, Q4, 2-10-HAW27 (08:40) 13-28
+Offense: Short Pass, Set: Weak, Play: WK-SE-slant-FL-in
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-Man-B6
+QB T. Pearson throws an incomplete pass to WR D. Oneal. OLB J. Smith hurried the QB.
+
+Oklahoma ball, Q4, 3-10-HAW27 (08:25) 13-28
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB T. Pearson completes a 12 yard in to WR G. Simmons (CB D. Cronin).  T. Pearson with the 
+great pass. FS J. Wong missed a tackle.
+
+Ineligible Receiver Downfield against C Martin Nagel on Oklahoma. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 15 at the Hawaii 32.
+
+Oklahoma ball, Q4, 3-15-HAW32 (08:11) 13-28
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB S. Deleon runs right end for 0 yards (DE L. Humphrey).  TE R. Schwartz missed a block that 
+hurt the play.
+
+Oklahoma ball, Q4, 4-15-HAW32 (07:41) 13-28
+Joshua Williams converts the 50 yard field goal.
+
+Oklahoma ball, Q4, 1-10-OKL35 (07:26) 16-28
+Joshua Williams kicks 75 from Oklahoma 35 to end zone, Touchback.
+
+Hawaii ball, Q4, 1-10-HAW20 (07:09) 28-16
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B5,7
+RB T. Bain runs left tackle for -1 yards (OLB S. Clark).
+
+Hawaii ball, Q4, 2-11-HAW19 (06:42) 28-16
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB T. Bain runs right guard for 0 yards (SS R. Moore).  OG R. Dixon missed a block that hurt 
+the play.
+
+Hawaii ball, Q4, 3-11-HAW19 (06:28) 28-16
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB T. Newby completes a 15 yard in to WR N. Koch (OOB).
+
+Hawaii ball, Q4, 1-10-HAW34 (06:13) 28-16
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-Man
+RB T. Aiken runs left guard for 4 yards (CB W. Moore). 
+
+Hawaii ball, Q4, 2-6-HAW38 (05:41) 28-16
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B5,7
+QB T. Newby completes a 17 yard cross to WR C. Garcia (CB W. Moore, OLB J. Plummer).  C. Garcia 
+made a great catch. OT R. Madrid earned a pancake on the play. CB W. Moore missed a tackle.
+
+Roughing the Passer against OLB Stephen Clark on Oklahoma. The Penalty is for 15 yards, and 
+an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Oklahoma 30.
+
+Hawaii ball, Q4, 1-10-OKL30 (05:26) 28-16
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB T. Bain runs left tackle for 14 yards (OLB S. Clark).  DT K. Walsh was out of position 
+on the play.
+
+Hawaii ball, Q4, 1-10-OKL16 (04:55) 28-16
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB T. Newby completes a 16 yard hook to WR D. Mosley ****Touchdown!***** T. Newby with the 
+great pass. OT H. Martin earned a pancake on the play. SS M. Hunt was out of position on the play.
+
+Hawaii ball, Q4, 1-0-OKL0 (04:32) 34-16
+Joe Stovall converts the PAT.
+
+Hawaii ball, Q4, 1-10-HAW35 (04:32) 35-16
+Albert Prather kicks 67 from Hawaii 35 to Oklahoma -2. Joshua Black to Oklahoma 33 for a 35 
+yard return.
+
+Unnecessary Roughness against RB Douglas James on Hawaii. The Penalty is for 15 yards, and 
+an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Oklahoma 48.
+
+Oklahoma ball, Q4, 1-10-OKL48 (04:17) 16-35
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-out-WR3-curl
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+QB T. Pearson completes a 7 yard out to TE R. Schwartz (FS J. Wong). 
+
+Oklahoma ball, Q4, 2-3-HAW45 (03:53) 16-35
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB T. Pearson completes a 28 yard streak to WR G. Simmons (CB T. Spicer).  CB T. Spicer allowed 
+the big play.
+
+Oklahoma ball, Q4, 1-10-HAW17 (03:22) 16-35
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+QB T. Pearson throws an incomplete pass to WR C. Pruitt (CB D. Cronin). CB D. Cronin broke 
+up the pass.
+
+Oklahoma ball, Q4, 2-10-HAW17 (03:06) 16-35
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB T. Pearson completes a 1 yard in to WR G. Simmons (OOB).
+
+Oklahoma ball, Q4, 3-9-HAW16 (02:54) 16-35
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB T. Pearson completes a 16 yard hook to WR D. Oneal ****Touchdown!***** OG B. Johnston earned 
+a pancake on the play.
+
+Oklahoma ball, Q4, 1-0-HAW0 (02:31) 22-35
+Joshua Williams converts the PAT.
+
+Oklahoma ball, Q4, 1-10-OKL35 (02:31) 23-35
+Joshua Williams kicks 75 from Oklahoma 35 to end zone, Touchback.
+
+Hawaii ball, Q4, 1-10-HAW20 (02:13) 35-23
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB T. Bain runs right tackle for 3 yards (CB W. Moore, CB S. Hatfield). 
+
+Hawaii ball, Q4, 2-7-HAW23 (01:51) 35-23
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB T. Bain runs left tackle for 3 yards (FS D. Bridges). 
+
+Hawaii ball, Q4, 3-4-HAW26 (01:21) 35-23
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB T. Bain runs right guard for 2 yards (CB W. Moore, DE W. Patel). 
+
+Hawaii ball, Q4, 4-2-HAW28 (00:52) 35-23
+Marvin Roberts Punts 41 yards to the Oklahoma 31 yard line, where Ruben Moore returns it to 
+Oklahoma 36 for a 5 yard return.
+
+Oklahoma ball, Q4, 1-10-OKL36 (00:45) 23-35
+Offense: Long Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB T. Pearson throws an incomplete pass to WR C. Pruitt. T. Pearson made a bad pass.
+
+Oklahoma ball, Q4, 2-10-OKL36 (00:39) 23-35
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB T. Pearson throws an incomplete pass to WR C. Pruitt.
+
+Oklahoma ball, Q4, 3-10-OKL36 (00:33) 23-35
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB T. Pearson completes a 15 yard out-and-up to WR D. Oneal (FS J. Wong).  T. Pearson with 
+the great pass. OG F. Rios earned a pancake on the play.
+
+Oklahoma Timeout!
+
+Oklahoma ball, Q4, 1-10-HAW49 (00:27) 23-35
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB T. Pearson completes a 2 yard screen to RB S. Deleon (ILB M. Boyce). 
+
+Oklahoma Timeout!
+
+Oklahoma ball, Q4, 2-8-HAW47 (00:20) 23-35
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+T. Pearson has his 6 yard pass intercepted by D. Cronin at the HAW 41. He returns it 10 yards 
+to the Oklahoma 49.
+

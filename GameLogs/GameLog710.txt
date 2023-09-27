@@ -1,0 +1,994 @@
+Alabama ball, Q1, 1-10-ALB35 (15:00) 0-0
+Jon Williamson kicks 75 from Alabama 35 to end zone, Touchback.
+
+Mississippi ball, Q1, 1-10-MISS20 (14:40) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+RB T. Miller runs right guard for 3 yards (FS R. Ellis). 
+
+Mississippi ball, Q1, 2-7-MISS23 (14:14) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB R. Jones throws an incomplete pass to WR S. Byrd. WR S. Byrd ran an incorrect route.
+
+Mississippi ball, Q1, 3-7-MISS23 (13:56) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+RB T. Miller runs left tackle for 8 yards (OLB D. Randle). 
+
+Mississippi ball, Q1, 1-10-MISS31 (13:30) 0-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB R. Carlson runs left end for 7 yards (OLB D. Randle, ILB W. Jackson). 
+
+Mississippi ball, Q1, 2-3-MISS38 (12:57) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB R. Jones throws an incomplete pass to WR A. Nieto (CB J. Smith). WR A. Nieto dropped the 
+pass. CB J. Smith broke up the pass.
+
+Mississippi ball, Q1, 3-3-MISS38 (12:42) 0-0
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB R. Jones completes a 4 yard in to WR N. Bernard (OLB D. Randle, ILB W. Jackson). 
+
+Mississippi ball, Q1, 1-10-MISS42 (12:18) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB R. Jones throws an incomplete pass to WR S. Byrd (CB D. Jones). CB D. Jones broke up the 
+pass.
+
+Mississippi ball, Q1, 2-10-MISS42 (12:02) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB T. Miller runs right guard for 9 yards (SS M. Lopez). 
+
+Mississippi ball, Q1, 3-1-ALB49 (11:31) 0-0
+Offense: Short Pass, Set: Trips, Play: TR-TE-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB R. Jones completes a 10 yard screen to TE E. Orr (CB J. Smith). 
+
+Mississippi ball, Q1, 1-10-ALB39 (11:07) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-TMan
+QB R. Jones throws an incomplete pass to WR N. Bernard (CB D. Jones). WR N. Bernard dropped 
+the pass. CB D. Jones broke up the pass.
+
+Mississippi ball, Q1, 2-10-ALB39 (10:48) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB R. Jones completes a 8 yard hook to WR A. Nieto (CB J. Smith). 
+
+Mississippi ball, Q1, 2-10-ALB39 (10:48) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+DT Jonathan Albert (ALB) was injured on the play (Head). It doesn't look too serious and he 
+should return.
+
+Mississippi ball, Q1, 3-2-ALB31 (10:35) 0-0
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB T. Miller runs right end for 2 yards (SS M. Lopez, OLB S. Miles). 
+
+Mississippi ball, Q1, 1-10-ALB29 (10:08) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB R. Jones throws an incomplete pass to WR A. Nieto.
+
+Mississippi ball, Q1, 2-10-ALB29 (09:52) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB R. Carlson runs left guard for -2 yards (ILB G. Lilly).
+
+Mississippi ball, Q1, 3-12-ALB31 (09:22) 0-0
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB T. Miller runs right end for 4 yards (FS R. Ellis, DT J. Albert). 
+
+Mississippi ball, Q1, 4-8-ALB27 (08:53) 0-0
+Thomas Sharp converts the 45 yard field goal.
+
+Mississippi ball, Q1, 1-10-MISS35 (08:33) 3-0
+Clyde Lyons kicks 47 from Mississippi 35 to Alabama 18. Royal Garland to Alabama 27 for a 
+9 yard return.
+
+Alabama ball, Q1, 1-10-ALB27 (08:18) 0-3
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB S. Love throws an incomplete pass to TE J. Brown. OLB R. Helms hurried the QB.
+
+Alabama ball, Q1, 2-10-ALB27 (08:00) 0-3
+Offense: Outside Run, Set: I Form Big, Play: IB-RB-power-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-pass-Man-B10
+RB J. Daniel runs right end for 16 yards (OLB R. Helms).  OG J. Fontenot had a key block on 
+the run.
+
+Alabama ball, Q1, 1-10-ALB43 (07:27) 0-3
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+RB J. Daniel runs left end for -3 yards (OLB R. Helms).
+
+Alabama ball, Q1, 1-10-ALB43 (07:27) 0-3
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+FS Paul Grace (MISS) was injured on the play (OK). It doesn't look like he will return.
+
+Alabama ball, Q1, 2-13-ALB40 (07:01) 0-3
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+S. Love has his 16 yard pass intercepted by A. Bates at the MISS 44. He returns it 4 yards 
+to the Mississippi 48.
+
+Mississippi ball, Q1, 1-10-MISS48 (06:45) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB T. Miller runs right guard for -3 yards (SS M. Lopez). C N. Buck missed a block that hurt 
+the play.
+
+Mississippi ball, Q1, 2-13-MISS45 (06:13) 3-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+False Start against OT Rene King on Mississippi. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 18 at the Mississippi 40.
+
+Mississippi ball, Q1, 2-18-MISS40 (06:13) 3-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB R. Jones completes a 6 yard out to WR S. Byrd (ILB W. Jackson, SS E. Parks). 
+
+Mississippi ball, Q1, 3-12-MISS46 (05:51) 3-0
+Offense: Long Pass, Set: Trips, Play: TR-WR3-str-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB R. Jones completes a 17 yard streak to WR S. Byrd (ILB G. Lilly).  OG R. Watt earned a 
+pancake on the play. CB J. Smith missed a tackle.
+
+Mississippi ball, Q1, 1-10-ALB37 (05:19) 3-0
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB R. Jones completes a 11 yard in to WR A. Nieto (CB D. Jones).  CB D. Jones missed a tackle.
+
+Mississippi ball, Q1, 1-10-ALB26 (04:52) 3-0
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB R. Jones completes a 6 yard dump off to TE E. Orr (SS E. Parks).  He fumbles the ball after 
+a hit by E. Parks. It's recovered by E. Parks of Alabama. He returns it 59 yards to the Mississippi 21.
+
+Mississippi ball, Q1, 1-10-ALB26 (04:52) 3-0
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+OG Robert Watt (MISS) was injured on the play (Elbow). It doesn't look too serious and he 
+should return.
+
+Alabama ball, Q1, 1-10-MISS21 (04:37) 0-3
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+WR R. Dempsey runs right end for 2 yards (SS S. Smith, DE O. Holbrook). 
+
+Alabama ball, Q1, 2-8-MISS19 (04:05) 0-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+RB J. Daniel runs right end for -2 yards (OLB R. Helms). OT R. Byrne missed a block that hurt 
+the play.
+
+Alabama ball, Q1, 3-10-MISS21 (03:37) 0-3
+Offense: Medium Pass, Set: Strong, Play: ST-SE-corner-FL-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB S. Love throws an incomplete pass to WR W. Maldonado (SS S. Smith). SS S. Smith broke up 
+the pass.
+
+Holding against TE Jacob Brown on Alabama. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Alabama ball, Q1, 4-10-MISS21 (03:26) 0-3
+Jon Williamson converts the 39 yard field goal.
+
+Alabama ball, Q1, 1-10-ALB35 (03:11) 3-3
+Jon Williamson kicks 66 from Alabama 35 to Mississippi -1. Jacob Spicer to Mississippi 24 
+for a 25 yard return.
+
+Mississippi ball, Q1, 1-10-MISS24 (02:53) 3-3
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+FB R. Hanson runs right end for 2 yards (ILB W. Jackson, CB J. Smith). 
+
+Mississippi ball, Q1, 2-8-MISS26 (02:22) 3-3
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B5,8
+QB R. Jones throws an incomplete pass to WR N. Bernard.
+
+Mississippi ball, Q1, 3-8-MISS26 (02:05) 3-3
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+QB R. Jones completes a 4 yard hook to WR N. Bernard (OLB S. Miles). 
+
+Mississippi ball, Q1, 4-4-MISS30 (01:44) 3-3
+Francisco Watkins Punts 42 yards to the Alabama 28 yard line, where Robert Ellis returns it 
+to Alabama 31 for a 3 yard return.
+
+Alabama ball, Q1, 1-10-ALB31 (01:25) 3-3
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-toss-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-pass-MZ
+RB J. Daniel runs left tackle for -1 yards (OLB R. Helms). TE J. Brown missed a block that 
+hurt the play.
+
+Alabama ball, Q1, 2-11-ALB30 (00:52) 3-3
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+RB J. Daniel runs right tackle for 4 yards (ILB A. Brown). 
+
+Alabama ball, Q1, 3-7-ALB34 (00:23) 3-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB L. Martin runs left tackle for 1 yard (DT C. Jones). 
+
+Alabama ball, Q2, 4-6-ALB35 (15:00) 3-3
+Kevin Lopez Punts 37 yards to the Mississippi 28 yard line, where Franklin Knight returns 
+it to Mississippi 31 for a 3 yard return.
+
+Mississippi ball, Q2, 1-10-MISS31 (14:40) 3-3
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+QB R. Jones throws an incomplete pass to TE E. Orr. TE E. Orr dropped the pass.
+
+Mississippi ball, Q2, 2-10-MISS31 (14:21) 3-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+RB R. Carlson runs left end for 6 yards (FS R. Ellis, ILB G. Lilly). 
+
+Mississippi ball, Q2, 2-10-MISS31 (14:21) 3-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+OLB Shelton Miles (ALB) was injured on the play (Groin). It doesn't look like he will return.
+
+Mississippi ball, Q2, 3-4-MISS37 (14:07) 3-3
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-str-FL-curl
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+QB R. Jones completes a 29 yard post to WR A. Nieto (FS R. Ellis).  ILB W. Jackson allowed 
+the big play.
+
+Mississippi ball, Q2, 1-10-ALB34 (13:42) 3-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB T. Miller runs right end for 8 yards (FS R. Ellis).  OT R. King had a key block on the run.
+
+Mississippi ball, Q2, 2-2-ALB26 (13:10) 3-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+RB T. Miller runs left tackle for -5 yards (SS M. Lopez).
+
+Mississippi ball, Q2, 3-7-ALB31 (12:38) 3-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB R. Jones throws an incomplete pass to WR N. Bernard.
+
+Mississippi ball, Q2, 3-7-ALB31 (12:38) 3-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+DT Jonathan Albert (ALB) was injured on the play (Stomach). It doesn't look too serious and 
+he should return.
+
+Mississippi ball, Q2, 4-7-ALB31 (12:20) 3-3
+Thomas Sharp converts the 49 yard field goal.
+
+Mississippi ball, Q2, 1-10-MISS35 (12:05) 6-3
+Clyde Lyons kicks 66 from Mississippi 35 to Alabama -1. Lee Martin to Alabama 16 for a 17 
+yard return.
+
+Alabama ball, Q2, 1-10-ALB16 (11:47) 3-6
+Offense: Medium Pass, Set: Double TE, Play: DTE-TE-posts
+Defense: Stop Pass, Set: 3-3-5, Play: 335-norm-Man
+QB S. Love completes a 9 yard hook to WR W. Maldonado (SS S. Smith, FS A. Bates). 
+
+Alabama ball, Q2, 2-1-ALB25 (11:20) 3-6
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB L. Martin runs right end for 2 yards (SS J. Graves, OLB S. Owen). 
+
+Alabama ball, Q2, 1-10-ALB27 (10:47) 3-6
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+RB J. Daniel runs right tackle for 6 yards (OLB S. Owen). 
+
+Alabama ball, Q2, 2-4-ALB33 (10:17) 3-6
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB J. Daniel runs left guard for 2 yards (CB D. Castro). 
+
+Alabama ball, Q2, 3-2-ALB35 (09:49) 3-6
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB L. Martin runs right tackle for 1 yard (ILB A. Brown).  TE J. Brown missed a block that 
+hurt the play.
+
+Alabama ball, Q2, 3-2-ALB35 (09:49) 3-6
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+ILB Arthur Brown (MISS) was injured on the play (Knee). It doesn't look like he will return.
+
+Alabama ball, Q2, 4-1-ALB36 (09:33) 3-6
+Kevin Lopez Punts 53 yards to the Mississippi 11 yard line, where Franklin Knight returns 
+it to Mississippi 47 for a 36 yard return.
+
+Mississippi ball, Q2, 1-10-MISS47 (09:15) 6-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+RB R. Carlson runs right end for 1 yard (ILB W. Jackson).  FB R. Hanson missed a block that 
+hurt the play.
+
+Mississippi ball, Q2, 2-9-MISS48 (08:45) 6-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB T. Miller runs right end for 5 yards (ILB W. Jackson, OLB D. Randle). 
+
+Mississippi ball, Q2, 3-4-ALB47 (08:16) 6-3
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+QB R. Jones gets sacked for a 7 yard loss (DE C. Bolton).  OT D. Sowers allowed the sack.
+
+Mississippi ball, Q2, 4-11-MISS46 (07:56) 6-3
+Francisco Watkins Punts 29 yards to the Alabama 25 yard line, where Robert Ellis returns it 
+to Alabama 25 for a 0 yard return.
+
+Alabama ball, Q2, 1-10-ALB25 (07:36) 3-6
+Offense: Short Pass, Set: Strong, Play: ST-FL-rollout-TE
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-MZ
+QB S. Love completes a 22 yard dump off to RB J. Daniel (SS S. Smith, FS A. Bates).  C T. 
+Ferguson earned a pancake on the play. FS A. Bates missed a tackle.
+
+Holding against OT Richard Byrne on Alabama. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Alabama 15.
+
+Alabama ball, Q2, 1-20-ALB15 (07:25) 3-6
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-toss-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB J. Daniel runs left end for 10 yards (OLB S. Owen, SS J. Graves).  J. Daniel created the 
+big run with his own skills.
+
+Alabama ball, Q2, 2-10-ALB25 (06:52) 3-6
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+QB S. Love throws an incomplete pass to WR W. Maldonado (CB D. Castro). CB D. Castro broke 
+up the pass.
+
+Alabama ball, Q2, 3-10-ALB25 (06:36) 3-6
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB S. Love completes a 14 yard hook to WR W. Maldonado (OOB). ILB D. Maynard was out of position 
+on the play.
+
+Alabama ball, Q2, 1-10-ALB39 (06:19) 3-6
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB L. Martin runs right end for -2 yards (DE O. Holbrook). TE L. Mendoza missed a block that 
+hurt the play.
+
+Alabama ball, Q2, 2-12-ALB37 (05:51) 3-6
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB J. Daniel runs left guard for 3 yards (FS A. Bates). 
+
+Alabama ball, Q2, 3-9-ALB40 (05:21) 3-6
+Offense: Short Pass, Set: Strong, Play: ST-FL-rollout-TE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB S. Love completes a 7 yard dump off to RB L. Martin (FS A. Bates, FS G. Garcia). 
+
+Alabama ball, Q2, 4-2-ALB47 (04:58) 3-6
+Kevin Lopez Punts 51 yards to the Mississippi 2 yard line, where it gets downed.
+
+Mississippi ball, Q2, 1-10-MISS2 (04:39) 6-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB T. Miller runs left guard for 6 yards (ILB W. Jackson). 
+
+Mississippi ball, Q2, 2-4-MISS8 (04:07) 6-3
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB T. Miller runs right end for 16 yards (OOB). T. Miller created the big run with his own 
+skills. CB D. Jones was out of position on the play.
+
+Mississippi ball, Q2, 1-10-MISS24 (03:51) 6-3
+Offense: Long Pass, Set: Quads, Play: Q-WR3-in-WR4-up
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB R. Jones throws an incomplete pass to WR A. Nieto.
+
+Mississippi ball, Q2, 2-10-MISS24 (03:31) 6-3
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB T. Miller runs right guard for 8 yards (ILB W. Jackson, OLB D. Dean).  OG R. Watt had a 
+key block on the run. CB D. Jones was out of position on the play.
+
+Mississippi ball, Q2, 3-2-MISS32 (03:03) 6-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB T. Miller runs left guard for 2 yards (OLB D. Randle, FS R. Ellis). 
+
+Mississippi ball, Q2, 1-10-MISS34 (02:36) 6-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+RB R. Carlson runs left end for 4 yards (CB J. Smith). 
+
+Grabbing Face Mask against OLB Dale Dean on Alabama. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Second and 1 at the Mississippi 43.
+
+Mississippi ball, Q2, 2-1-MISS43 (02:25) 6-3
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB T. Miller runs left guard for 5 yards (OLB D. Randle). 
+
+Mississippi ball, Q2, 1-10-MISS48 (01:54) 6-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-Man-B6
+QB R. Jones throws an incomplete pass to WR S. Byrd.
+
+Mississippi ball, Q2, 2-10-MISS48 (01:38) 6-3
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB R. Jones completes a 14 yard out to WR S. Byrd (OOB). ILB W. Jackson was out of position 
+on the play.
+
+Mississippi ball, Q2, 1-10-ALB38 (01:23) 6-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+QB R. Jones completes a 38 yard in to WR S. Byrd ****Touchdown!***** OG R. Watt earned a pancake 
+on the play. CB D. Jones allowed the big play.
+
+Mississippi ball, Q2, 1-0-ALB0 (01:16) 12-3
+Thomas Sharp converts the PAT.
+
+Mississippi ball, Q2, 1-10-MISS35 (01:16) 13-3
+Clyde Lyons kicks 67 from Mississippi 35 to Alabama -2. Lee Martin to Alabama 19 for a 21 
+yard return.
+
+Alabama ball, Q2, 1-10-ALB19 (01:09) 3-13
+Offense: Short Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB S. Love completes a 12 yard out to TE J. Brown (SS J. Graves).  He fumbles the ball after 
+a hit by J. Graves. It's recovered by D. Maynard of Mississippi. He returns it 3 yards to the Alabama 28.
+
+Mississippi ball, Q2, 1-10-ALB28 (00:57) 13-3
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+Delay of Game against Mississippi. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Alabama 33.
+
+Mississippi ball, Q2, 1-15-ALB33 (00:57) 13-3
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+R. Jones has his 6 yard pass intercepted by M. Lopez at the ALB 27. He returns it 10 yards 
+to the Alabama 37.
+
+Alabama ball, Q2, 1-10-ALB37 (00:32) 3-13
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB J. Daniel runs right guard for 1 yard (DT S. Singletary).  J. Daniel missed a hole that 
+could have resulted in a bigger gain.
+
+Mississippi Timeout!
+
+Alabama ball, Q2, 2-9-ALB38 (00:25) 3-13
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB J. Daniel runs left tackle for 6 yards (FS A. Bates). 
+
+Mississippi Timeout!
+
+Alabama ball, Q2, 3-3-ALB44 (00:18) 3-13
+Offense: Short Pass, Set: Strong, Play: ST-TE-screen
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+QB S. Love completes a 7 yard screen to TE J. Brown (FS A. Bates, CB G. Smith). 
+
+Alabama ball, Q2, 3-3-ALB44 (00:18) 3-13
+Offense: Short Pass, Set: Strong, Play: ST-TE-screen
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+OG Armando Milton (ALB) was injured on the play (Hand). It doesn't look like he will return.
+
+Alabama ball, Q2, 1-10-MISS49 (00:02) 3-13
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB S. Love throws an incomplete pass to FB A. Clark. FB A. Clark ran an incorrect route.
+
+Mississippi ball, Q3, 1-10-MISS35 (15:00) 13-3
+Clyde Lyons kicks 54 from Mississippi 35 to Alabama 11. Lee Martin to Alabama 36 for a 25 
+yard return.
+
+Alabama ball, Q3, 1-10-ALB36 (14:41) 3-13
+Offense: Short Pass, Set: Strong, Play: ST-FL-rollout-TE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB S. Love throws an incomplete pass to RB J. Daniel.
+
+Alabama ball, Q3, 2-10-ALB36 (14:21) 3-13
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B5,8
+QB S. Love completes a 7 yard hook to WR J. Morgan (SS J. Graves, CB D. Castro). 
+
+Alabama ball, Q3, 3-3-ALB43 (13:57) 3-13
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+QB S. Love completes a 29 yard hook to WR W. Maldonado (OLB R. Helms).  W. Maldonado made 
+a great catch. ILB D. Maynard allowed the big play.
+
+Alabama ball, Q3, 1-10-MISS28 (13:36) 3-13
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB J. Daniel runs right end for 2 yards (CB D. Castro, SS S. Smith). 
+
+Alabama ball, Q3, 2-8-MISS26 (13:04) 3-13
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-straight-RG
+Defense: Stop Run, Set: Dime, Play: Dime-pass-DZ
+RB J. Daniel runs right guard for 5 yards (SS S. Smith, DT C. Jones). 
+
+Alabama ball, Q3, 3-3-MISS21 (12:31) 3-13
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB S. Love gets sacked for a 1 yard loss (DT S. Singletary).  TE J. Brown allowed the sack.
+
+Alabama ball, Q3, 4-4-MISS22 (12:12) 3-13
+Jon Williamson converts the 40 yard field goal.
+
+Alabama ball, Q3, 1-10-ALB35 (11:56) 6-13
+Jon Williamson kicks 75 from Alabama 35 to end zone, Touchback.
+
+Mississippi ball, Q3, 1-10-MISS20 (11:38) 13-6
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB R. Jones completes a 5 yard post to WR N. Bernard (SS E. Parks). 
+
+Mississippi ball, Q3, 2-5-MISS25 (11:11) 13-6
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B11
+QB R. Jones throws an incomplete pass to WR A. Nieto (FS R. Ellis). OLB D. Randle hurried 
+the QB. FS R. Ellis broke up the pass.
+
+Holding against OT Rene King on Mississippi. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 15 at the Mississippi 15.
+
+Mississippi ball, Q3, 2-15-MISS15 (10:57) 13-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,7,11
+RB R. Carlson runs left tackle for 6 yards (SS M. Lopez). 
+
+Mississippi ball, Q3, 3-9-MISS21 (10:25) 13-6
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB R. Jones completes a 27 yard hook to WR N. Bernard (FS R. Ellis, OLB D. Randle).  FS R. 
+Ellis allowed the big play.
+
+Mississippi ball, Q3, 1-10-MISS48 (09:57) 13-6
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+RB R. Carlson runs right guard for 11 yards (OLB D. Randle).  OT R. King had a key block on 
+the run.
+
+Mississippi ball, Q3, 1-10-ALB41 (09:26) 13-6
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB R. Jones throws an incomplete pass to RB T. Miller. R. Jones made a bad pass. OLB D. Randle 
+hurried the QB.
+
+Mississippi ball, Q3, 2-10-ALB41 (09:10) 13-6
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB R. Jones completes a 8 yard hook to WR N. Bernard (ILB G. Lilly). 
+
+Ineligible Receiver Downfield against OG Carl Lambert on Mississippi. The Penalty is for 5 
+yards.
+The Defense will accept the penalty. It is now Second and 15 at the Alabama 46.
+
+Mississippi ball, Q3, 2-15-ALB46 (08:58) 13-6
+Offense: Short Pass, Set: Trips, Play: TR-FL-streak-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB R. Jones completes a 21 yard in to WR S. Byrd (OLB D. Randle).  CB D. Jones missed a tackle.
+
+Mississippi ball, Q3, 1-10-ALB25 (08:37) 13-6
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+QB R. Jones completes a 11 yard cross to WR A. Nieto (FS R. Ellis).  CB D. Jones missed a 
+tackle.
+
+Mississippi ball, Q3, 1-10-ALB14 (08:16) 13-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB T. Miller runs right guard for 5 yards (ILB W. Jackson, SS E. Parks). 
+
+Mississippi ball, Q3, 2-5-ALB9 (07:47) 13-6
+Offense: Inside Run, Set: Trips, Play: TR-QB-sneak-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB R. Jones runs right guard for 1 yard (DE M. Shelton). 
+
+Mississippi ball, Q3, 3-4-ALB8 (07:18) 13-6
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB T. Miller runs right tackle for 4 yards (ILB W. Jackson, SS M. Lopez). 
+
+Mississippi ball, Q3, 1-4-ALB4 (06:45) 13-6
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+QB R. Jones completes a 4 yard hook to WR A. Nieto ****Touchdown!*****
+
+Mississippi ball, Q3, 1-0-ALB0 (06:24) 19-6
+Thomas Sharp converts the PAT.
+
+Mississippi ball, Q3, 1-10-MISS35 (06:24) 20-6
+Clyde Lyons kicks 66 from Mississippi 35 to Alabama -1. Lee Martin to Alabama 32 for a 33 
+yard return.
+
+Alabama ball, Q3, 1-10-ALB32 (06:06) 6-20
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B5,6,8
+QB S. Love completes a 11 yard hook to TE J. Brown (SS S. Smith).  OLB S. Owen missed a tackle.
+
+Alabama ball, Q3, 1-10-ALB43 (05:43) 6-20
+Offense: Short Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4,5,6
+QB S. Love completes a 5 yard dump off to RB J. Daniel (CB D. Castro). 
+
+Alabama ball, Q3, 2-5-ALB48 (05:19) 6-20
+Offense: Inside Run, Set: I Form, Play: I-FB-counter-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+FB A. Clark runs right guard for 1 yard (OLB R. Helms).  OT L. Johnson missed a block that 
+hurt the play.
+
+Alabama ball, Q3, 3-4-ALB49 (04:48) 6-20
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB S. Love throws an incomplete pass to WR R. Dempsey. WR R. Dempsey dropped the pass.
+
+Alabama ball, Q3, 4-4-ALB49 (04:30) 6-20
+Kevin Lopez Punts 43 yards to the Mississippi 8 yard line, where it gets downed.
+
+Mississippi ball, Q3, 1-10-MISS8 (04:14) 20-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+RB R. Carlson runs left guard for 4 yards (OLB D. Dean). 
+
+Mississippi ball, Q3, 2-6-MISS12 (03:48) 20-6
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB T. Miller runs left end for 9 yards (ILB W. Jackson). 
+
+Mississippi ball, Q3, 1-10-MISS21 (03:16) 20-6
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB T. Miller runs right end for 2 yards (OOB).
+
+Mississippi ball, Q3, 2-8-MISS23 (02:59) 20-6
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB R. Jones completes a 23 yard hook to WR N. Bernard (OOB). FS R. Ellis missed a tackle.
+
+Mississippi ball, Q3, 1-10-MISS46 (02:47) 20-6
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB R. Jones throws an incomplete pass to WR N. Bernard.
+
+Mississippi ball, Q3, 2-10-MISS46 (02:29) 20-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB R. Carlson runs right guard for 5 yards (ILB G. Lilly, OLB D. Dean). 
+
+Mississippi ball, Q3, 3-5-ALB49 (01:58) 20-6
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB R. Jones completes a 20 yard post to WR K. Dupree (ILB W. Jackson).  OG R. Watt earned 
+a pancake on the play.
+
+Mississippi ball, Q3, 1-10-ALB29 (01:34) 20-6
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB R. Jones throws an incomplete pass to WR S. Byrd. R. Jones made a bad pass. ILB W. Jackson 
+hurried the QB.
+
+Mississippi ball, Q3, 2-10-ALB29 (01:15) 20-6
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB R. Carlson runs right guard for 11 yards (OLB D. Randle).  OT D. Sowers had a key block 
+on the run.
+
+Mississippi ball, Q3, 1-10-ALB18 (00:42) 20-6
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB R. Carlson runs right guard for 1 yard (ILB W. Jackson). 
+
+Mississippi ball, Q3, 2-9-ALB17 (00:10) 20-6
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB T. Miller runs left guard for -1 yards (SS E. Parks). OT D. Sowers missed a block that 
+hurt the play.
+
+Mississippi ball, Q4, 3-10-ALB18 (15:00) 20-6
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB R. Jones completes a 18 yard out-and-up to WR A. Nieto ****Touchdown!***** A. Nieto made 
+a great catch. OG C. Lambert earned a pancake on the play. CB J. Smith missed a tackle.
+
+Mississippi ball, Q4, 1-0-ALB0 (14:36) 26-6
+Thomas Sharp converts the PAT.
+
+Mississippi ball, Q4, 1-10-MISS35 (14:36) 27-6
+Clyde Lyons kicks 55 from Mississippi 35 to Alabama 10. Lee Martin to Alabama 28 for a 18 
+yard return.
+
+Alabama ball, Q4, 1-10-ALB28 (14:21) 6-27
+Offense: Short Pass, Set: Strong, Play: ST-FL-rollout-TE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB S. Love runs right end for 19 yards (SS J. Graves, OLB S. Owen). 
+
+Alabama ball, Q4, 1-10-ALB47 (14:02) 6-27
+Offense: Medium Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB S. Love throws an incomplete pass to TE J. Brown. S. Love made a bad pass.
+
+Alabama ball, Q4, 1-10-ALB47 (14:02) 6-27
+Offense: Medium Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+CB Gerald Smith (MISS) was injured on the play (Teeth). It doesn't look too serious and he 
+should return.
+
+Alabama ball, Q4, 2-10-ALB47 (13:45) 6-27
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB S. Love gets sacked for a 6 yard loss (OLB R. Helms).  C T. Ferguson allowed the sack.
+
+Alabama ball, Q4, 3-16-ALB41 (13:28) 6-27
+Offense: Medium Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+QB S. Love completes a 18 yard in to RB L. Martin (CB D. Castro).  FS G. Garcia missed a tackle.
+
+Alabama ball, Q4, 1-10-MISS41 (13:03) 6-27
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+RB L. Martin runs right guard for 4 yards (CB D. Castro). 
+
+Alabama ball, Q4, 2-6-MISS37 (12:32) 6-27
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-power-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB J. Daniel runs right tackle for -3 yards (DE F. Turner). TE J. Brown missed a block that 
+hurt the play.
+
+Alabama ball, Q4, 3-9-MISS40 (12:03) 6-27
+Offense: Medium Pass, Set: Double TE, Play: DTE-TE-posts
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB S. Love completes a 6 yard hook to WR R. Dempsey (FS A. Bates). 
+
+Ineligible Receiver Downfield against C Tyler Ferguson on Alabama. The Penalty is for 5 yards.
+The penalty will be declined.
+
+Alabama ball, Q4, 4-3-MISS34 (11:51) 6-27
+Jon Williamson converts the 52 yard field goal.
+
+Alabama ball, Q4, 1-10-ALB35 (11:34) 9-27
+Jon Williamson kicks 47 from Alabama 35 to Mississippi 18. Ralph Martin to Mississippi 36 
+for a 18 yard return.
+
+Mississippi ball, Q4, 1-10-MISS36 (11:15) 27-9
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+RB T. Miller runs left tackle for 9 yards (OLB D. Dean, ILB W. Jackson).  SS M. Lopez was 
+out of position on the play.
+
+Mississippi ball, Q4, 2-1-MISS45 (10:44) 27-9
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+QB R. Jones throws an incomplete pass to WR A. Nieto. WR A. Nieto ran an incorrect route.
+
+Mississippi ball, Q4, 3-1-MISS45 (10:25) 27-9
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-in-WR4-up
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB R. Jones completes a 9 yard in to WR S. Byrd (SS E. Parks, SS M. Lopez). 
+
+Mississippi ball, Q4, 1-10-ALB46 (09:57) 27-9
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB R. Carlson runs left guard for 2 yards (ILB G. Lilly). 
+
+Mississippi ball, Q4, 2-8-ALB44 (09:24) 27-9
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB R. Jones throws an incomplete pass to WR A. Nieto.
+
+Mississippi ball, Q4, 3-8-ALB44 (09:04) 27-9
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB T. Miller runs left end for 6 yards (ILB W. Jackson). 
+
+Mississippi ball, Q4, 4-2-ALB38 (08:34) 27-9
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB R. Jones completes a 7 yard screen to RB T. Miller (FS R. Ellis). 
+
+Mississippi ball, Q4, 1-10-ALB31 (08:12) 27-9
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB R. Carlson runs left tackle for 1 yard (SS M. Lopez).  R. Carlson missed a hole that could 
+have resulted in a bigger gain.
+
+Mississippi ball, Q4, 1-10-ALB31 (08:12) 27-9
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+DE Charles Bolton (ALB) was injured on the play (Chin). It doesn't look too serious and he 
+should return.
+
+Mississippi ball, Q4, 2-9-ALB30 (07:55) 27-9
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB T. Miller runs right guard for 15 yards (SS E. Parks, ILB G. Lilly). 
+
+Mississippi ball, Q4, 1-10-ALB15 (07:24) 27-9
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB R. Carlson runs right end for 15 yards ****Touchdown!***** OG R. Watt had a key block on 
+the run. CB J. Smith missed a tackle.
+
+Mississippi ball, Q4, 1-10-ALB15 (07:24) 27-9
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB Robert Carlson (MISS) was injured on the play (Eye). It doesn't look like he will return.
+
+Mississippi ball, Q4, 1-0-ALB0 (07:09) 33-9
+Thomas Sharp converts the PAT.
+
+Mississippi ball, Q4, 1-10-MISS35 (07:09) 34-9
+Clyde Lyons kicks 55 from Mississippi 35 to Alabama 10. Lee Martin to Mississippi 29 for a 
+61 yard return.
+
+Alabama ball, Q4, 1-10-MISS29 (06:54) 9-34
+Offense: Short Pass, Set: Strong, Play: ST-SE-slant-FL-str
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+QB S. Love throws an incomplete pass to RB J. Daniel (CB D. Castro). CB D. Castro broke up 
+the pass.
+
+Alabama ball, Q4, 1-10-MISS29 (06:54) 9-34
+Offense: Short Pass, Set: Strong, Play: ST-SE-slant-FL-str
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+RB James Daniel (ALB) was injured on the play (Nose). It doesn't look too serious and he should 
+return.
+
+Alabama ball, Q4, 2-10-MISS29 (06:39) 9-34
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB J. Daniel runs left tackle for 1 yard (OLB S. Owen).  OT L. Johnson missed a block that 
+hurt the play.
+
+Alabama ball, Q4, 3-9-MISS28 (06:11) 9-34
+Offense: Medium Pass, Set: Strong, Play: ST-SE-corner-FL-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB S. Love throws an incomplete pass to WR W. Maldonado (SS S. Smith). SS S. Smith broke up 
+the pass.
+
+Alabama ball, Q4, 4-9-MISS28 (05:52) 9-34
+Jon Williamson misses the 46 yard field goal. It will be Mississippi ball at the MISS 28
+
+Mississippi ball, Q4, 1-10-MISS28 (05:37) 34-9
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB T. Miller runs left tackle for 1 yard (ILB W. Jackson).  OT D. Sowers missed a block that 
+hurt the play.
+
+Mississippi ball, Q4, 2-9-MISS29 (05:04) 34-9
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+QB R. Jones completes a 1 yard hook to WR S. Byrd (OLB D. Dean). 
+
+Mississippi ball, Q4, 2-9-MISS29 (05:04) 34-9
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+OLB Dale Dean (ALB) was injured on the play (Thumb). It doesn't look too serious and he should 
+return.
+
+Mississippi ball, Q4, 3-8-MISS30 (04:50) 34-9
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB R. Jones completes a 12 yard in to WR S. Byrd (OLB D. Randle, CB J. Smith).  OG R. Watt 
+earned a pancake on the play.
+
+Mississippi ball, Q4, 1-10-MISS42 (04:28) 34-9
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB D. Key runs right guard for 5 yards (OLB D. Dean, FS R. Ellis). 
+
+Mississippi ball, Q4, 2-5-MISS47 (03:57) 34-9
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB T. Miller runs right guard for -1 yards (ILB W. Jackson). TE E. Orr missed a block that 
+hurt the play.
+
+Mississippi ball, Q4, 3-6-MISS46 (03:44) 34-9
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB R. Jones throws an incomplete pass to WR N. Bernard (CB J. Smith). CB J. Smith broke up 
+the pass.
+
+Mississippi ball, Q4, 4-6-MISS46 (03:25) 34-9
+Francisco Watkins Punts 51 yards to the Alabama 3 yard line, where it gets downed.
+
+Alabama ball, Q4, 1-10-ALB3 (03:05) 9-34
+Offense: Short Pass, Set: Strong, Play: ST-HB-playact-cross
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB S. Love completes a 5 yard corner to WR W. Maldonado (OOB).
+
+Alabama ball, Q4, 2-5-ALB8 (02:51) 9-34
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+QB S. Love completes a 8 yard streak to WR R. Dempsey (OOB).
+
+Alabama ball, Q4, 1-10-ALB16 (02:40) 9-34
+Offense: Short Pass, Set: Strong, Play: ST-FB-streak-HB-flat
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+QB S. Love completes a 0 yard hook to WR R. Dempsey (OOB).
+
+Alabama ball, Q4, 1-10-ALB16 (02:40) 9-34
+Offense: Short Pass, Set: Strong, Play: ST-FB-streak-HB-flat
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+OT Richard Byrne (ALB) was injured on the play (OK). It doesn't look like he will return.
+
+Alabama ball, Q4, 2-10-ALB16 (02:30) 9-34
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Run, Set: Dime, Play: Dime-run-SZ
+QB S. Love completes a 14 yard hook to WR R. Dempsey (SS S. Smith, CB G. Smith).  OG J. Fontenot 
+earned a pancake on the play. FS G. Garcia missed a tackle.
+
+Alabama ball, Q4, 1-10-ALB30 (02:09) 9-34
+Offense: Short Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB S. Love throws an incomplete pass to RB J. Daniel. OLB R. Helms hurried the QB.
+
+Alabama ball, Q4, 2-10-ALB30 (01:49) 9-34
+Offense: Short Pass, Set: Strong, Play: ST-TE-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB S. Love completes a 5 yard screen to TE J. Brown (FS A. Bates). 
+
+Alabama ball, Q4, 3-5-ALB35 (01:26) 9-34
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB S. Love completes a 9 yard streak to WR R. Dempsey (CB D. Castro, ILB D. Maynard). 
+
+Alabama ball, Q4, 1-10-ALB44 (01:00) 9-34
+Offense: Medium Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB S. Love completes a 32 yard post to WR J. Morgan (SS J. Graves).  He fumbles the ball after 
+a hit by J. Graves. It's recovered by S. Smith of Mississippi. He returns it 0 yards to the Mississippi 24. S. Love with the great pass. OLB S. Owen allowed the big play.
+
+Mississippi ball, Q4, 1-10-MISS24 (00:48) 34-9
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+RB D. Key runs right tackle for 4 yards (SS M. Lopez, OLB D. Randle). 
+
+Alabama Timeout!
+
+Mississippi ball, Q4, 2-6-MISS28 (00:40) 34-9
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB T. Miller runs left end for 1 yard (ILB W. Jackson).  OT D. Sowers missed a block that 
+hurt the play.
+
+Alabama Timeout!
+
+Mississippi ball, Q4, 3-5-MISS29 (00:33) 34-9
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB T. Miller runs right tackle for 2 yards (SS M. Lopez, ILB G. Lilly). 
+
+Alabama Timeout!
+
+Mississippi ball, Q4, 4-3-MISS31 (00:26) 34-9
+Francisco Watkins Punts 26 yards to the Alabama 43 yard line, where Melvin Lopez returns it 
+to Alabama 49 for a 6 yard return.
+
+Alabama ball, Q4, 1-10-ALB49 (00:20) 9-34
+Offense: Medium Pass, Set: Double TE, Play: DTE-TE-posts
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB S. Love throws an incomplete pass to WR W. Maldonado (OLB R. Helms). DE F. Turner hurried 
+the QB. OLB R. Helms broke up the pass.
+
+Alabama ball, Q4, 2-10-ALB49 (00:14) 9-34
+Offense: Long Pass, Set: I Form Big, Play: IB-TE-streaks
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+QB S. Love throws an incomplete pass to TE J. Brown (CB G. Smith). CB G. Smith broke up the 
+pass.
+
+Alabama ball, Q4, 3-10-ALB49 (00:06) 9-34
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB S. Love completes a 23 yard corner to TE L. Mendoza (CB D. Castro).  L. Mendoza made a 
+great catch.
+

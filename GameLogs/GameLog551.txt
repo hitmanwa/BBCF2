@@ -1,0 +1,984 @@
+Bowling Green ball, Q1, 1-10-BG35 (15:00) 0-0
+Joshua Spence kicks 75 from Bowling Green 35 to end zone, Touchback.
+
+Ohio ball, Q1, 1-10-OHIO20 (14:43) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+RB B. Smith runs left tackle for 20 yards (ILB J. Yates, OLB F. Fernandes).  OLB F. Fernandes 
+was out of position on the play.
+
+Ohio ball, Q1, 1-10-OHIO40 (14:10) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB B. Smith runs left guard for 20 yards (ILB J. Yates, OLB F. Fernandes).  CB T. Christensen 
+missed a tackle.
+
+Ohio ball, Q1, 1-10-BG40 (13:43) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB T. Grooms throws an incomplete pass to TE E. Christiansen (CB J. Patterson). CB J. Patterson 
+broke up the pass.
+
+Ohio ball, Q1, 2-10-BG40 (13:26) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB B. Smith runs right tackle for 6 yards (ILB J. Yates). 
+
+Ohio ball, Q1, 2-10-BG40 (13:26) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB Brent Smith (OHIO) was injured on the play (Hamstring). It doesn't look like he will return.
+
+Ohio ball, Q1, 3-4-BG34 (13:10) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB J. Vance runs right guard for 5 yards (OLB F. Fernandes, DT T. Treadwell). 
+
+Ohio ball, Q1, 1-10-BG29 (12:38) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB T. Grooms throws an incomplete pass to WR K. Shaw (CB T. Christensen). CB T. Christensen 
+broke up the pass.
+
+Ohio ball, Q1, 1-10-BG29 (12:38) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB Jose Vance (OHIO) was injured on the play (Eye). It doesn't look like he will return.
+
+Ohio ball, Q1, 2-10-BG29 (12:20) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB I. Willoughby runs right guard for 5 yards (FS A. Smith, CB T. Christensen). 
+
+Ohio ball, Q1, 3-5-BG24 (11:50) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB I. Willoughby runs right end for 3 yards (CB J. Patterson). 
+
+Ohio ball, Q1, 4-2-BG21 (11:21) 0-0
+Bruce Sanders converts the 39 yard field goal.
+
+Ohio ball, Q1, 1-10-OHIO35 (11:02) 3-0
+Bruce Sanders kicks 75 from Ohio 35 to end zone, Touchback.
+
+Bowling Green ball, Q1, 1-10-BG20 (10:47) 0-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB M. Hanson runs right guard for 9 yards (SS H. Espinosa). 
+
+Bowling Green ball, Q1, 2-1-BG29 (10:16) 0-3
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB M. Parham runs left tackle for 2 yards (ILB J. Rollins, ILB I. Mcdonald). 
+
+Bowling Green ball, Q1, 1-10-BG31 (09:48) 0-3
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB D. Bishop runs outside for 1 yard (OOB). DE J. Elder hurried the QB.
+
+Bowling Green ball, Q1, 2-9-BG32 (09:32) 0-3
+Offense: Long Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB D. Bishop throws an incomplete pass to WR L. Stephens (CB P. Phillips). D. Bishop made 
+a bad pass. CB P. Phillips broke up the pass.
+
+Bowling Green ball, Q1, 3-9-BG32 (09:16) 0-3
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB D. Bishop completes a 1 yard in to WR M. Charles (DT J. Peters). 
+
+Bowling Green ball, Q1, 4-8-BG33 (08:52) 0-3
+Kenneth Moore Punts 43 yards to the Ohio 24 yard line, where Kevin Shaw returns it to Ohio 
+35 for a 11 yard return.
+
+Ohio ball, Q1, 1-10-OHIO35 (08:35) 3-0
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB T. Grooms throws an incomplete pass to WR K. Shaw (FS B. Lawson). FS B. Lawson broke up 
+the pass.
+
+Ohio ball, Q1, 2-10-OHIO35 (08:17) 3-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+QB T. Grooms throws an incomplete pass to WR H. Stewart (CB T. Christensen). CB T. Christensen 
+broke up the pass.
+
+Ohio ball, Q1, 3-10-OHIO35 (07:59) 3-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB T. Grooms completes a 19 yard post to WR K. Shaw (OLB P. Harper). 
+
+Ohio ball, Q1, 1-10-BG46 (07:35) 3-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB W. Rodriguez runs left end for 1 yard (ILB J. Yates).  W. Rodriguez missed a hole that 
+could have resulted in a bigger gain.
+
+Ohio ball, Q1, 2-9-BG45 (07:09) 3-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+QB T. Grooms throws an incomplete pass to WR K. Shaw. DT T. Treadwell hurried the QB.
+
+Ohio ball, Q1, 3-9-BG45 (06:51) 3-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+QB T. Grooms completes a 7 yard in to WR R. Ramirez (OLB P. Harper). 
+
+Ohio ball, Q1, 4-2-BG38 (06:24) 3-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB T. Grooms throws an incomplete pass to FB G. Ray.
+
+Holding against OG Thomas Navarro on Ohio. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Bowling Green ball, Q1, 1-10-BG38 (06:11) 0-3
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB D. Bishop scrambles out of the pocket and gets sacked for a 5 yard loss (DE J. Elder). 
+ C S. Robinson allowed the sack.
+
+Bowling Green ball, Q1, 2-15-BG33 (05:40) 0-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB D. Bishop completes a 16 yard streak to WR M. Charles (OOB). CB R. Otero missed a tackle.
+
+Bowling Green ball, Q1, 1-10-BG49 (05:26) 0-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB M. Hanson runs right guard for 6 yards (CB D. Nicholson, OLB R. Trevino). 
+
+Bowling Green ball, Q1, 2-4-OHIO45 (04:59) 0-3
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB D. Bishop completes a 9 yard hook to WR C. Singleton (FS I. Murray, OLB T. Parish). 
+
+Bowling Green ball, Q1, 2-4-OHIO45 (04:59) 0-3
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+DT James Peters (OHIO) was injured on the play (Elbow). It doesn't look like he will return.
+
+Bowling Green ball, Q1, 1-10-OHIO36 (04:44) 0-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-out-WR3-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB D. Bishop gets sacked for a 1 yard loss (DT R. Coates).  OT R. Burchfield allowed the sack.
+
+Bowling Green ball, Q1, 2-11-OHIO37 (04:25) 0-3
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-out-WR3-curl
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB D. Bishop throws an incomplete pass to WR L. Stephens. WR L. Stephens dropped the pass. 
+DE M. Wood hurried the QB.
+
+Bowling Green ball, Q1, 3-11-OHIO37 (04:08) 0-3
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-corner-FL-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB D. Bishop completes a 26 yard in to RB M. Parham (CB P. Phillips).  OG C. Owens earned 
+a pancake on the play. SS H. Espinosa allowed the big play.
+
+Bowling Green ball, Q1, 1-10-OHIO11 (03:45) 0-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB D. Bishop completes a 11 yard hook to WR C. Singleton ****Touchdown!***** C. Singleton 
+made a great catch. SS H. Espinosa missed a tackle.
+
+Bowling Green ball, Q1, 1-0-OHIO0 (03:30) 6-3
+Joshua Spence converts the PAT.
+
+Bowling Green ball, Q1, 1-10-BG35 (03:30) 7-3
+Joshua Spence kicks 66 from Bowling Green 35 to Ohio -1. Harold Stewart to Ohio 20 for a 21 
+yard return.
+
+Ohio ball, Q1, 1-10-OHIO20 (03:12) 3-7
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB T. Grooms completes a 5 yard hook to WR R. Ramirez (SS L. Whaley). 
+
+Ohio ball, Q1, 2-5-OHIO25 (02:50) 3-7
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB I. Willoughby runs left tackle for 1 yard (FS B. Lawson).  OG Y. Hoover missed a block 
+that hurt the play.
+
+Ohio ball, Q1, 3-4-OHIO26 (02:19) 3-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+RB I. Willoughby runs right guard for 2 yards (OLB F. Fernandes, ILB D. Huffman). 
+
+Ohio ball, Q1, 4-2-OHIO28 (02:02) 3-7
+Willie Smith Punts 48 yards to the Bowling Green 24 yard line, where it goes out of bounds.
+
+Bowling Green ball, Q1, 1-10-BG24 (01:42) 7-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B11
+RB M. Parham runs right guard for 6 yards (CB D. Nicholson). 
+
+Bowling Green ball, Q1, 2-4-BG30 (01:15) 7-3
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB D. Bishop completes a 1 yard dump off to RB M. Parham (ILB J. Rollins). 
+
+Bowling Green ball, Q1, 3-3-BG31 (00:52) 7-3
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB D. Bishop throws an incomplete pass to TE Z. Young.
+
+Bowling Green ball, Q1, 4-3-BG31 (00:34) 7-3
+Kenneth Moore Punts 38 yards to the Ohio 31 yard line, where Kevin Shaw returns it to Ohio 
+32 for a 1 yard return.
+
+Ohio ball, Q1, 1-10-OHIO32 (00:15) 3-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB I. Willoughby runs right guard for 9 yards (CB J. Patterson).  OT R. Rudolph had a key 
+block on the run.
+
+Ohio ball, Q2, 2-1-OHIO41 (15:00) 3-7
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+FB G. Ray runs left end for -2 yards (OLB P. Harper).
+
+Ohio ball, Q2, 3-3-OHIO39 (14:32) 3-7
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB T. Grooms throws an incomplete pass to WR K. Shaw (CB J. Patterson). DT C. Olsen hurried 
+the QB. CB J. Patterson broke up the pass.
+
+Ohio ball, Q2, 4-3-OHIO39 (14:14) 3-7
+Willie Smith Punts 51 yards to the Bowling Green 10 yard line, where Steven Whitten returns 
+it to Bowling Green 28 for a 18 yard return.
+
+Illegal Use of Hands against C Allen Ward on Bowling Green. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 10 at the Bowling Green 18.
+
+Bowling Green ball, Q2, 1-10-BG18 (13:59) 7-3
+Offense: Inside Run, Set: Trips, Play: TR-QB-sneak-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB D. Bishop runs right guard for 2 yards (FS I. Murray). 
+
+Bowling Green ball, Q2, 2-8-BG20 (13:27) 7-3
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB M. Hanson runs left end for 0 yards (FS I. Murray).  C S. Robinson missed a block that 
+hurt the play.
+
+Bowling Green ball, Q2, 3-8-BG20 (12:54) 7-3
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB D. Bishop completes a 43 yard out-and-up to WR L. Stephens (OLB T. Parish).  OT R. Burchfield 
+earned a pancake on the play.
+
+Bowling Green ball, Q2, 1-10-OHIO37 (12:27) 7-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+RB M. Parham runs right tackle for 4 yards (CB R. Otero). 
+
+Bowling Green ball, Q2, 2-6-OHIO33 (11:59) 7-3
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB M. Hanson runs left tackle for 5 yards (ILB J. Rollins). 
+
+Bowling Green ball, Q2, 3-1-OHIO28 (11:27) 7-3
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB D. Bishop completes a 1 yard hook to TE Z. Young (FS I. Murray). 
+
+Bowling Green ball, Q2, 1-10-OHIO27 (11:04) 7-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB M. Parham runs right guard for 7 yards (ILB J. Rollins).  DE R. Fisher missed a tackle.
+
+Bowling Green ball, Q2, 2-3-OHIO20 (10:31) 7-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+RB M. Parham runs right guard for 5 yards (SS H. Espinosa). 
+
+Bowling Green ball, Q2, 1-10-OHIO15 (10:02) 7-3
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB M. Hanson runs left end for 4 yards (OLB R. Trevino, FS I. Murray). 
+
+Bowling Green ball, Q2, 2-6-OHIO11 (09:32) 7-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB M. Hanson runs right guard for 10 yards (FS I. Murray). 
+
+Bowling Green ball, Q2, 1-1-OHIO1 (09:00) 7-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+RB M. Parham runs left tackle for 1 yard ****Touchdown!*****
+
+Bowling Green ball, Q2, 1-0-OHIO0 (08:31) 13-3
+Joshua Spence converts the PAT.
+
+Bowling Green ball, Q2, 1-10-BG35 (08:31) 14-3
+Joshua Spence kicks 66 from Bowling Green 35 to Ohio -1. Harold Stewart to Ohio 8 for a 9 
+yard return.
+
+Ohio ball, Q2, 1-10-OHIO8 (08:11) 3-14
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB T. Grooms completes a 15 yard hook to WR H. Stewart (ILB J. Yates).  T. Grooms with the 
+great pass. OT F. Cameron earned a pancake on the play. CB T. Christensen was out of position on the play.
+
+Holding against OG Young Hoover on Ohio. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 14 at the Ohio 4.
+
+Ohio ball, Q2, 1-14-OHIO4 (08:00) 3-14
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+RB I. Willoughby runs right guard for 10 yards (CB T. Christensen).  OLB F. Fernandes was 
+out of position on the play.
+
+Ohio ball, Q2, 2-4-OHIO14 (07:30) 3-14
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB I. Willoughby runs left end for 1 yard (ILB D. Huffman).  I. Willoughby missed a hole that 
+could have resulted in a bigger gain.
+
+Ohio ball, Q2, 3-3-OHIO15 (07:03) 3-14
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB T. Grooms runs outside for 0 yards (OLB F. Fernandes). 
+
+Ohio ball, Q2, 4-3-OHIO15 (06:43) 3-14
+Willie Smith Punts 54 yards to the Bowling Green 31 yard line, where Steven Whitten returns 
+it to Bowling Green 40 for a 9 yard return.
+
+Bowling Green ball, Q2, 1-10-BG40 (06:25) 14-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ
+RB M. Hanson runs left guard for 1 yard (DT R. Coates).  M. Hanson missed a hole that could 
+have resulted in a bigger gain.
+
+Bowling Green ball, Q2, 2-9-BG41 (05:57) 14-3
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+RB M. Hanson runs left guard for -2 yards (ILB J. Rollins). M. Hanson missed a hole that could 
+have resulted in a bigger gain.
+
+Bowling Green ball, Q2, 3-11-BG39 (05:31) 14-3
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB D. Bishop completes a 13 yard screen to RB M. Parham (CB D. Nicholson, OLB R. Trevino). 
+ FS I. Murray was out of position on the play.
+
+Bowling Green ball, Q2, 1-10-OHIO48 (05:01) 14-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+RB M. Parham runs right guard for 4 yards (CB D. Nicholson). 
+
+Illegal Motion against RB Michael Parham on Bowling Green. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Bowling Green 47.
+
+Bowling Green ball, Q2, 1-15-BG47 (04:58) 14-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB M. Parham runs left end for 8 yards (OLB T. Parish).  OG C. Owens had a key block on the 
+run. DT R. Coates missed a tackle.
+
+Bowling Green ball, Q2, 2-7-OHIO45 (04:32) 14-3
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-slotrun-RE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+WR L. Stephens runs right end for 23 yards (OLB T. Parish).  OG C. Owens had a key block on 
+the run.
+
+Bowling Green ball, Q2, 1-10-OHIO22 (04:05) 14-3
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB D. Bishop throws an incomplete pass to WR L. Stephens.
+
+Bowling Green ball, Q2, 2-10-OHIO22 (03:45) 14-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB M. Parham runs right tackle for 6 yards (SS H. Espinosa, CB R. Otero). 
+
+Bowling Green ball, Q2, 3-4-OHIO16 (03:14) 14-3
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB D. Bishop completes a 1 yard dump off to WR M. Charles (OOB).
+
+Bowling Green ball, Q2, 4-3-OHIO15 (03:03) 14-3
+Joshua Spence converts the 33 yard field goal.
+
+Bowling Green ball, Q2, 1-10-BG35 (02:47) 17-3
+Joshua Spence kicks 57 from Bowling Green 35 to Ohio 8. Kevin Shaw to Ohio 21 for a 13 yard 
+return.
+
+Ohio ball, Q2, 1-10-OHIO21 (02:29) 3-17
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB W. Rodriguez runs left guard for 5 yards (OLB P. Harper). 
+
+Ohio ball, Q2, 2-5-OHIO26 (02:03) 3-17
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB I. Willoughby runs right guard for 8 yards (FS A. Smith).  OT F. Cameron had a key block 
+on the run. FS B. Lawson missed a tackle.
+
+Ohio ball, Q2, 1-10-OHIO34 (01:49) 3-17
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB T. Grooms gets sacked for a 11 yard loss (DE R. Collins).  C J. Scott allowed the sack.
+
+Ohio ball, Q2, 2-21-OHIO23 (01:33) 3-17
+Offense: Short Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB T. Grooms throws an incomplete pass to WR K. Shaw. DT C. Olsen hurried the QB.
+
+Ohio ball, Q2, 3-21-OHIO23 (01:15) 3-17
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB T. Grooms completes a 0 yard out to WR K. Shaw (ILB J. Yates). 
+
+Bowling Green Timeout!
+
+Ohio ball, Q2, 4-21-OHIO23 (01:07) 3-17
+Willie Smith Punts 38 yards to the Bowling Green 39 yard line, where Steven Whitten returns 
+it to Bowling Green 45 for a 6 yard return.
+
+Bowling Green ball, Q2, 1-10-BG45 (00:59) 17-3
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+QB D. Bishop completes a 34 yard hook to WR C. Singleton (OOB). OG C. Owens earned a pancake 
+on the play.
+
+Bowling Green ball, Q2, 1-10-BG45 (00:59) 17-3
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+DT Randy Coates (OHIO) was injured on the play (Foot). It doesn't look like he will return.
+
+Bowling Green ball, Q2, 1-10-OHIO21 (00:53) 17-3
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 4-4, Play: 44-run-Man-B5,8
+QB D. Bishop completes a 12 yard screen to RB M. Parham (OLB R. Trevino).  OT R. Burchfield 
+earned a pancake on the play. CB D. Nicholson missed a tackle.
+
+Holding against OG Charles Owens on Bowling Green. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Ohio 31.
+
+Bowling Green ball, Q2, 1-20-OHIO31 (00:41) 17-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+QB D. Bishop throws an incomplete pass to WR M. Charles.
+
+Bowling Green ball, Q2, 2-20-OHIO31 (00:35) 17-3
+Offense: Short Pass, Set: Trips, Play: TR-FL-in-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Bishop completes a 15 yard hook to WR M. Charles (CB R. Otero).  FS I. Murray missed 
+a tackle.
+
+Bowling Green Timeout!
+
+Bowling Green ball, Q2, 3-5-OHIO16 (00:29) 17-3
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB D. Bishop runs outside for 6 yards (OLB R. Trevino, SS H. Espinosa).  DE M. Wood hurried 
+the QB.
+
+Bowling Green Timeout!
+
+Bowling Green ball, Q2, 1-10-OHIO10 (00:21) 17-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB D. Bishop completes a 10 yard hook to WR L. Stephens ****Touchdown!*****
+
+Bowling Green ball, Q2, 1-0-OHIO0 (00:11) 23-3
+Joshua Spence converts the PAT.
+
+Bowling Green ball, Q2, 1-10-BG35 (00:11) 24-3
+Joshua Spence kicks 67 from Bowling Green 35 to Ohio -2. Harold Stewart to Ohio 14 for a 16 
+yard return. He fumbles the ball after a hit by S. Barlow. It's recovered by A. Ward of Bowling Green. He returns it 6 yards to the Ohio 8.
+
+Bowling Green ball, Q2, 1-8-OHIO8 (00:04) 24-3
+Joshua Spence converts the 26 yard field goal.
+
+Ohio ball, Q3, 1-10-OHIO35 (15:00) 3-27
+Bruce Sanders kicks 54 from Ohio 35 to Bowling Green 11. Michael Parham to Bowling Green 36 
+for a 25 yard return.
+
+Bowling Green ball, Q3, 1-10-BG36 (14:44) 27-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB M. Hanson runs right end for 7 yards (OLB R. Trevino, ILB J. Rollins).  OG C. Owens had 
+a key block on the run. CB R. Otero was out of position on the play.
+
+Bowling Green ball, Q3, 2-3-BG43 (14:15) 27-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB M. Hanson runs right guard for 2 yards (ILB I. Mcdonald, DE J. Elder). 
+
+Bowling Green ball, Q3, 3-1-BG45 (13:44) 27-3
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB D. Bishop completes a 2 yard out to WR M. Charles (OOB).
+
+Bowling Green ball, Q3, 1-10-BG47 (13:29) 27-3
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB D. Bishop completes a 14 yard out to WR M. Charles (SS H. Espinosa). 
+
+Bowling Green ball, Q3, 1-10-OHIO39 (13:06) 27-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-Man-B5
+QB D. Bishop completes a 39 yard streak to WR C. Singleton ****Touchdown!***** CB R. Otero 
+allowed the big play.
+
+Bowling Green ball, Q3, 1-0-OHIO0 (12:41) 33-3
+Joshua Spence converts the PAT.
+
+Bowling Green ball, Q3, 1-10-BG35 (12:41) 34-3
+Joshua Spence kicks 43 from Bowling Green 35 to Ohio 22. David Mattison to Ohio 35 for a 13 
+yard return.
+
+Ohio ball, Q3, 1-10-OHIO35 (12:24) 3-34
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB I. Willoughby runs left guard for 10 yards (SS L. Whaley, OLB P. Harper). 
+
+Ohio ball, Q3, 1-10-OHIO35 (12:24) 3-34
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+DT Clayton Olsen (BG) was injured on the play (OK). It doesn't look like he will return.
+
+Ohio ball, Q3, 1-10-OHIO45 (12:08) 3-34
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+QB T. Grooms completes a 46 yard post to WR K. Shaw (CB J. Patterson, ILB D. Huffman).  CB 
+T. Christensen allowed the big play.
+
+Ohio ball, Q3, 1-10-OHIO45 (12:08) 3-34
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+RB Ian Willoughby (OHIO) was injured on the play (Foot). It doesn't look like he will return.
+
+Ohio ball, Q3, 1-9-BG9 (11:51) 3-34
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB W. Rodriguez runs left guard for 3 yards (FS A. Smith). 
+
+Ohio ball, Q3, 2-6-BG6 (11:21) 3-34
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+RB W. Rodriguez runs right guard for 1 yard (OLB F. Fernandes). 
+
+Ohio ball, Q3, 3-5-BG5 (10:54) 3-34
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+RB R. Bond runs right end for 4 yards (ILB D. Huffman). 
+
+Ohio ball, Q3, 4-1-BG1 (10:24) 3-34
+Bruce Sanders converts the 19 yard field goal.
+
+Ohio ball, Q3, 1-10-OHIO35 (10:08) 6-34
+Bruce Sanders kicks 55 from Ohio 35 to Bowling Green 10. Michael Parham to Bowling Green 35 
+for a 25 yard return.
+
+Bowling Green ball, Q3, 1-10-BG35 (09:52) 34-6
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB M. Hanson runs right end for 23 yards (SS H. Espinosa).  OG C. Owens had a key block on 
+the run.
+
+Bowling Green ball, Q3, 1-10-OHIO42 (09:25) 34-6
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB M. Parham runs left guard for 3 yards (ILB J. Rollins). 
+
+Bowling Green ball, Q3, 2-7-OHIO39 (08:54) 34-6
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6
+RB M. Parham runs left tackle for 5 yards (OLB T. Parish, CB D. Nicholson). 
+
+Bowling Green ball, Q3, 3-2-OHIO34 (08:27) 34-6
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB D. Bishop completes a 4 yard out to WR L. Stephens (FS I. Murray). 
+
+Bowling Green ball, Q3, 1-10-OHIO30 (08:02) 34-6
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB M. Parham runs right tackle for 1 yard (ILB I. Mcdonald).  OT C. Bell missed a block that 
+hurt the play.
+
+Bowling Green ball, Q3, 2-9-OHIO29 (07:36) 34-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB M. Hanson runs right guard for -2 yards (ILB J. Rollins).
+
+Bowling Green ball, Q3, 3-11-OHIO31 (07:07) 34-6
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+QB D. Bishop completes a 2 yard out to WR M. Charles (OOB).
+
+Bowling Green ball, Q3, 4-9-OHIO29 (06:51) 34-6
+Joshua Spence converts the 47 yard field goal.
+
+Bowling Green ball, Q3, 1-10-BG35 (06:33) 37-6
+Joshua Spence kicks 67 from Bowling Green 35 to Ohio -2. Harold Stewart to Ohio 17 for a 19 
+yard return.
+
+Ohio ball, Q3, 1-10-OHIO17 (06:15) 6-37
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB R. Bond runs right tackle for 1 yard (DE R. Collins).  OT F. Cameron missed a block that 
+hurt the play.
+
+Ohio ball, Q3, 2-9-OHIO18 (05:46) 6-37
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB R. Bond runs left end for 6 yards (CB E. Little). 
+
+Ohio ball, Q3, 3-3-OHIO24 (05:15) 6-37
+Offense: Long Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB T. Grooms throws an incomplete pass to WR H. Stewart.
+
+Ohio ball, Q3, 4-3-OHIO24 (05:00) 6-37
+Willie Smith Punts 53 yards to the Bowling Green 23 yard line, where Steven Whitten returns 
+it to Bowling Green 23 for a 0 yard return.
+
+Bowling Green ball, Q3, 1-10-BG23 (04:40) 37-6
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-Man
+QB D. Bishop completes a 10 yard hook to WR L. Stephens (CB D. Nicholson). 
+
+Bowling Green ball, Q3, 1-10-BG33 (04:18) 37-6
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB M. Parham runs left guard for 17 yards (CB D. Nicholson, CB R. Otero).  FS I. Murray missed 
+a tackle.
+
+Bowling Green ball, Q3, 1-10-BG50 (03:48) 37-6
+Offense: Long Pass, Set: SingleBack, Play: SB-FL-playact-up
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB D. Bishop throws an incomplete pass to WR L. Stephens. D. Bishop made a bad pass.
+
+Bowling Green ball, Q3, 2-10-BG50 (03:28) 37-6
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB D. Bishop throws an incomplete pass to WR C. Singleton. WR C. Singleton dropped the pass.
+
+Bowling Green ball, Q3, 3-10-BG50 (03:13) 37-6
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB D. Bishop completes a 4 yard hook to WR C. Singleton (ILB I. Mcdonald, OLB R. Trevino). 
+
+Bowling Green ball, Q3, 4-6-OHIO46 (02:48) 37-6
+Kenneth Moore Punts 46 yards to the end zone, Touchback.
+
+Ohio ball, Q3, 1-10-OHIO20 (02:28) 6-37
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB W. Rodriguez runs right guard for 6 yards (OLB F. Fernandes, CB T. Christensen). 
+
+Ohio ball, Q3, 2-4-OHIO26 (02:01) 6-37
+Offense: Medium Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB T. Grooms completes a 44 yard post to TE E. Christiansen (CB T. Christensen). 
+
+Ohio ball, Q3, 1-10-BG30 (01:37) 6-37
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+QB T. Grooms completes a 6 yard post to TE E. Christiansen (FS A. Smith, OLB F. Fernandes). 
+
+Ohio ball, Q3, 2-4-BG24 (01:01) 6-37
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB R. Bond runs left tackle for -3 yards (ILB D. Huffman). TE E. Christiansen missed a block 
+that hurt the play.
+
+Ohio ball, Q3, 3-7-BG27 (00:38) 6-37
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB T. Grooms throws an incomplete pass to WR R. Ramirez. DE R. Collins hurried the QB.
+
+Ohio ball, Q3, 4-7-BG27 (00:22) 6-37
+Bruce Sanders misses the 45 yard field goal. It will be Bowling Green ball at the BG 27
+
+Bowling Green ball, Q3, 1-10-BG27 (00:05) 37-6
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-streaks
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+QB D. Bishop gets sacked for a 9 yard loss (ILB J. Rollins).  C S. Robinson allowed the sack.
+
+Bowling Green ball, Q4, 2-19-BG18 (15:00) 37-6
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-LE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB M. Hanson runs left end for 1 yard (ILB J. Rollins).  C S. Robinson missed a block that 
+hurt the play.
+
+Bowling Green ball, Q4, 3-18-BG19 (14:32) 37-6
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+False Start against OG Forest Dolan on Bowling Green. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 23 at the Bowling Green 14.
+
+Bowling Green ball, Q4, 3-23-BG14 (14:32) 37-6
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB D. Bishop completes a 26 yard post to WR M. Charles (FS I. Murray). 
+
+Bowling Green ball, Q4, 1-10-BG40 (14:05) 37-6
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB D. Bishop completes a 22 yard out-and-up to WR C. Singleton (ILB I. Mcdonald).  FS I. Murray 
+missed a tackle.
+
+Bowling Green ball, Q4, 1-10-OHIO38 (13:40) 37-6
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB M. Hanson runs right guard for 9 yards (CB P. Phillips, OLB T. Parish).  OG F. Dolan had 
+a key block on the run. DE M. Wood was out of position on the play.
+
+Bowling Green ball, Q4, 2-1-OHIO29 (13:12) 37-6
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+D. Bishop has his 13 yard pass intercepted by D. Nicholson at the OHIO 16. He returns it 23 
+yards to the Ohio 39. D. Bishop made a bad pass. DE R. Fisher hurried the QB.
+
+Holding against FS Ignacio Murray on Ohio. The Penalty is for 10 yards, and an automatic first 
+down.
+The Offense will accept the penalty. It is now First and 10 at the Ohio 19.
+
+Bowling Green ball, Q4, 1-10-OHIO19 (12:59) 37-6
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB D. Bishop completes a 6 yard streak to RB M. Hanson (ILB I. Mcdonald, OLB R. Trevino). 
+
+Holding against Bowling Green. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Ohio 29.
+
+Bowling Green ball, Q4, 1-20-OHIO29 (12:47) 37-6
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB D. Bishop throws an incomplete pass to WR L. Stephens (ILB J. Rollins). ILB J. Rollins 
+broke up the pass.
+
+Bowling Green ball, Q4, 2-20-OHIO29 (12:27) 37-6
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6
+QB D. Bishop throws an incomplete pass to WR L. Stephens. WR L. Stephens dropped the pass.
+
+Bowling Green ball, Q4, 3-20-OHIO29 (12:07) 37-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB M. Parham runs right tackle for 7 yards (SS H. Espinosa).  OG F. Dolan had a key block 
+on the run. DE J. Elder missed a tackle.
+
+Bowling Green ball, Q4, 4-13-OHIO22 (11:39) 37-6
+Joshua Spence converts the 40 yard field goal.
+
+Bowling Green ball, Q4, 1-10-BG35 (11:22) 40-6
+Joshua Spence kicks 66 from Bowling Green 35 to Ohio -1. Harold Stewart to Ohio 30 for a 31 
+yard return.
+
+Ohio ball, Q4, 1-10-OHIO30 (11:04) 6-40
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB T. Grooms throws an incomplete pass to RB R. Bond (FS A. Smith). RB R. Bond dropped the 
+pass. FS A. Smith broke up the pass.
+
+Ohio ball, Q4, 2-10-OHIO30 (10:46) 6-40
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB T. Grooms completes a 18 yard hook to WR R. Ramirez (FS A. Smith).  FS B. Lawson was out 
+of position on the play.
+
+Ohio ball, Q4, 1-10-OHIO48 (10:20) 6-40
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB W. Rodriguez runs right tackle for 10 yards (OLB F. Fernandes). 
+
+Ohio ball, Q4, 1-10-BG42 (09:49) 6-40
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+RB R. Bond runs right tackle for 0 yards (ILB D. Huffman). 
+
+Ohio ball, Q4, 2-10-BG42 (09:21) 6-40
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+QB T. Grooms throws an incomplete pass to WR R. Ramirez.
+
+Ohio ball, Q4, 3-10-BG42 (09:01) 6-40
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Stop Pass, Set: 4-4, Play: 44-run-Man-B5,8
+QB T. Grooms throws an incomplete pass to WR K. Shaw (CB J. Patterson). CB J. Patterson broke 
+up the pass.
+
+Ohio ball, Q4, 4-10-BG42 (08:42) 6-40
+Willie Smith Punts 42 yards to the end zone, Touchback.
+
+Bowling Green ball, Q4, 1-10-BG20 (08:22) 40-6
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB M. Parham runs right guard for 3 yards (OLB R. Trevino, OLB T. Parish). 
+
+Bowling Green ball, Q4, 2-7-BG23 (07:51) 40-6
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB D. Bishop completes a 4 yard out to WR C. Singleton (OLB T. Parish). 
+
+Bowling Green ball, Q4, 3-3-BG27 (07:28) 40-6
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB D. Bishop completes a 10 yard out-and-up to WR L. Stephens (CB R. Otero, OLB R. Trevino). 
+
+Bowling Green ball, Q4, 1-10-BG37 (07:04) 40-6
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+QB D. Bishop completes a 63 yard post to WR R. Robinson ****Touchdown!***** OLB R. Trevino 
+allowed the big play.
+
+Bowling Green ball, Q4, 1-10-BG37 (07:04) 40-6
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+QB David Bishop (BG) was injured on the play (Elbow). It doesn't look like he will return.
+
+Bowling Green ball, Q4, 1-0-OHIO0 (06:48) 46-6
+Joshua Spence converts the PAT.
+
+Bowling Green ball, Q4, 1-10-BG35 (06:48) 47-6
+Joshua Spence kicks 55 from Bowling Green 35 to Ohio 10. Harold Stewart to Ohio 47 for a 37 
+yard return.
+
+Piling On after the play against K Joshua Spence on Bowling Green. The Penalty is for 15 yards, 
+and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Bowling Green 38.
+
+Ohio ball, Q4, 1-10-BG38 (06:38) 6-47
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B11
+QB H. Robert gets sacked for a 2 yard loss (DE E. Cottrell).  OG T. Navarro allowed the sack.
+
+Ohio ball, Q4, 2-12-BG40 (06:18) 6-47
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ-B7,8
+RB W. Rodriguez runs left tackle for -1 yards (DT T. Treadwell). W. Rodriguez missed a hole 
+that could have resulted in a bigger gain.
+
+Ohio ball, Q4, 3-13-BG41 (05:51) 6-47
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB H. Robert gets sacked for a 4 yard loss (DT T. Treadwell).  OG T. Navarro allowed the sack.
+
+Ohio ball, Q4, 4-17-BG45 (05:34) 6-47
+Willie Smith Punts 39 yards to the Bowling Green 6 yard line, where it goes out of bounds.
+
+Bowling Green ball, Q4, 1-10-BG6 (05:19) 47-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB M. Parham runs left guard for -2 yards (CB P. Phillips). C S. Robinson missed a block that 
+hurt the play.
+
+Bowling Green ball, Q4, 2-12-BG4 (04:46) 47-6
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: 4-4, Play: 44-run-Man-B6,7
+QB G. Mccarthy completes a 22 yard post to WR R. Robinson (OOB).
+
+Passer beyond Line of Scrimmage against QB Gordon Mccarthy on Bowling Green. The Penalty is 
+for 5 yards, and a loss of down.
+The Defense will accept the penalty. It is now Third and 14 at the Bowling Green 2.
+
+Bowling Green ball, Q4, 3-14-BG2 (04:33) 47-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB M. Parham runs left guard for 4 yards (ILB K. Winston). 
+
+Bowling Green ball, Q4, 4-10-BG6 (04:05) 47-6
+Kenneth Moore Punts 43 yards to the Bowling Green 49 yard line, where Kevin Shaw returns it 
+to Bowling Green 18 for a 31 yard return.
+
+Ohio ball, Q4, 1-10-BG18 (03:48) 6-47
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB R. Bond runs right guard for -3 yards (ILB J. Yates).
+
+Ohio ball, Q4, 2-13-BG21 (03:16) 6-47
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 4-4, Play: 44-norm-MZ-B7
+QB T. Grooms throws an incomplete pass to WR K. Shaw.
+
+Ohio ball, Q4, 3-13-BG21 (03:00) 6-47
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB H. Robert completes a 5 yard out to WR R. Ramirez (ILB J. Yates, ILB D. Olvera). 
+
+Ohio ball, Q4, 4-8-BG16 (02:36) 6-47
+Bruce Sanders misses the 34 yard field goal. It will be Bowling Green ball at the BG 20
+
+Bowling Green ball, Q4, 1-10-BG20 (02:19) 47-6
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB M. Parham runs left end for -3 yards (OLB R. Trevino). OT C. Bell missed a block that hurt 
+the play.
+
+Bowling Green ball, Q4, 2-13-BG17 (01:51) 47-6
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB M. Hanson runs left guard for 7 yards (OLB R. Trevino).  M. Hanson created the big run 
+with his own skills.
+
+Bowling Green ball, Q4, 3-6-BG24 (01:25) 47-6
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB M. Parham runs right guard for 5 yards (DE M. Wood, FS M. Cook). 
+
+Bowling Green ball, Q4, 4-1-BG29 (00:59) 47-6
+Kenneth Moore Punts 41 yards to the Ohio 30 yard line, where Kevin Shaw returns it to Ohio 
+34 for a 4 yard return.
+
+Ohio ball, Q4, 1-10-OHIO34 (00:52) 6-47
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB H. Robert throws an incomplete pass to WR R. Ramirez. WR R. Ramirez dropped the pass.
+
+Ohio ball, Q4, 2-10-OHIO34 (00:45) 6-47
+Offense: Long Pass, Set: SingleBack, Play: SB-WR3-slant-FL-str
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB T. Grooms throws an incomplete pass to WR D. Richards.
+
+Ohio ball, Q4, 2-10-OHIO34 (00:45) 6-47
+Offense: Long Pass, Set: SingleBack, Play: SB-WR3-slant-FL-str
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+ILB John Yates (BG) was injured on the play (OK). It doesn't look like he will return.
+
+Ohio ball, Q4, 3-10-OHIO34 (00:39) 6-47
+Offense: Long Pass, Set: Trips, Play: TR-SE-rollout-post
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB H. Robert completes a 39 yard cross to WR R. Ramirez (FS B. Lawson, CB E. Little). 
+
+Ohio Timeout!
+
+Ohio ball, Q4, 1-10-BG27 (00:32) 6-47
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+QB T. Grooms completes a 4 yard hook to RB R. Bond (OLB S. Sharp).  He fumbles the ball after 
+a hit by S. Sharp. It's recovered by T. Navarro of Ohio.
+
+Ohio Timeout!
+
+Ohio ball, Q4, 2-6-BG23 (00:24) 6-47
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB H. Robert completes a 8 yard in to WR D. Richards (OLB P. Harper, FS B. Lawson). 
+
+Ohio Timeout!
+
+Ohio ball, Q4, 1-10-BG15 (00:16) 6-47
+Offense: Short Pass, Set: Trips, Play: TR-TE-screen
+Defense: Stop Pass, Set: 4-4, Play: 44-norm-MZ-B7
+QB T. Grooms throws an incomplete pass to TE E. Christiansen.
+
+Ohio ball, Q4, 2-10-BG15 (00:08) 6-47
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB H. Robert completes a 15 yard in to TE E. Christiansen ****Touchdown!***** E. Christiansen 
+made a great catch. CB E. Little missed a tackle.
+
+Ohio ball, Q4, 2-10-BG15 (00:08) 6-47
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+FS Adam Smith (BG) was injured on the play (Head). It doesn't look like he will return.
+
+Ohio ball, Q4, 1-0-BG0 (00:00) 12-47
+Bruce Sanders converts the PAT.
+

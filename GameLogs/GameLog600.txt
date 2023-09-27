@@ -1,0 +1,1002 @@
+New Mexico ball, Q1, 1-10-UNM35 (15:00) 0-0
+Larry Roberts kicks 73 from New Mexico 35 to end zone, Touchback.
+
+Boise State ball, Q1, 1-10-BOI20 (14:42) 0-0
+Offense: Long Pass, Set: Weak, Play: WK-SE-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB B. Julian throws an incomplete pass to WR L. Mathis.
+
+Boise State ball, Q1, 2-10-BOI20 (14:26) 0-0
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB B. Julian throws an incomplete pass to WR M. Powell.
+
+Boise State ball, Q1, 3-10-BOI20 (14:07) 0-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-TMan
+QB B. Julian throws an incomplete pass to WR L. Mathis.
+
+Boise State ball, Q1, 4-10-BOI20 (13:49) 0-0
+Jerry Hiatt Punts 38 yards to the New Mexico 42 yard line, where Nelson Grantham returns it 
+to New Mexico 48 for a 6 yard return.
+
+New Mexico ball, Q1, 1-10-UNM48 (13:30) 0-0
+Offense: Long Pass, Set: Flexbone, Play: FL-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB S. Bowser completes a 1 yard streak to WR N. Grantham (FS D. Lucero). 
+
+New Mexico ball, Q1, 1-10-UNM48 (13:30) 0-0
+Offense: Long Pass, Set: Flexbone, Play: FL-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+OG Nicholas Ramsey (UNM) was injured on the play (Ribs). It doesn't look like he will return.
+
+New Mexico ball, Q1, 2-9-UNM49 (13:15) 0-0
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+S. Bowser has his 21 yard pass intercepted by F. Ellis at the BOI 30. He returns it 0 yards 
+to the Boise State 30. S. Bowser made a bad pass.
+
+Boise State ball, Q1, 1-10-BOI30 (12:47) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+QB B. Julian throws an incomplete pass to WR M. Powell (CB P. Mejia). B. Julian made a bad 
+pass. CB P. Mejia broke up the pass.
+
+Boise State ball, Q1, 2-10-BOI30 (12:27) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB O. Thompson runs left guard for 2 yards (FS H. Nelson). 
+
+Boise State ball, Q1, 3-8-BOI32 (12:00) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB B. Julian throws an incomplete pass to TE B. Ramos (CB B. Worrell). CB B. Worrell broke 
+up the pass.
+
+Boise State ball, Q1, 3-8-BOI32 (12:00) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB Brian Julian (BOI) was injured on the play (Toe). It doesn't look like he will return.
+
+Boise State ball, Q1, 4-8-BOI32 (11:42) 0-0
+Jerry Hiatt Punts 53 yards to the New Mexico 15 yard line, where Nelson Grantham returns it 
+to New Mexico 29 for a 14 yard return.
+
+New Mexico ball, Q1, 1-10-UNM29 (11:25) 0-0
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB S. Bowser completes a 0 yard dump off to RB C. Brown (SS I. Nelson). 
+
+New Mexico ball, Q1, 2-10-UNM29 (11:03) 0-0
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB C. Brown runs right guard for 6 yards (OLB M. Thompson). 
+
+New Mexico ball, Q1, 2-10-UNM29 (11:03) 0-0
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+CB William Handley (BOI) was injured on the play (OK). It doesn't look like he will return.
+
+New Mexico ball, Q1, 3-4-UNM35 (10:50) 0-0
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB C. Brown runs left guard for -2 yards (DT M. Mcdaniel).
+
+New Mexico ball, Q1, 4-6-UNM33 (10:21) 0-0
+Larry Roberts Punts 38 yards to the Boise State 29 yard line, where Robert Boston returns 
+it to Boise State 38 for a 9 yard return.
+
+Boise State ball, Q1, 1-10-BOI38 (10:04) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+FB R. Fry runs right end for 9 yards (OLB K. Nixon). 
+
+Boise State ball, Q1, 2-1-BOI47 (09:36) 0-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+FB G. Johnson runs right end for 2 yards (FS H. Nelson). 
+
+Boise State ball, Q1, 1-10-BOI49 (09:03) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB J. Grant throws an incomplete pass to TE B. Ramos. OLB C. Minton hurried the QB.
+
+Boise State ball, Q1, 2-10-BOI49 (08:43) 0-0
+Offense: Short Pass, Set: Weak, Play: WK-SE-slant-FL-in
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+J. Grant has his 14 yard pass intercepted by S. Hubbard at the UNM 37. He returns it 10 yards 
+to the New Mexico 47.
+
+New Mexico ball, Q1, 1-10-UNM47 (08:17) 0-0
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+QB S. Bowser gets sacked for a 1 yard loss (DE J. Morgan).  RB J. Moore allowed the sack.
+
+New Mexico ball, Q1, 2-11-UNM46 (08:02) 0-0
+Offense: Outside Run, Set: I Form, Play: I-HB-toss-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB C. Brown runs right end for 1 yard (OLB M. Thompson). 
+
+New Mexico ball, Q1, 3-10-UNM47 (07:33) 0-0
+Offense: Inside Run, Set: Wing T, Play: T-HB-power-RG
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-R
+RB C. Brown runs right guard for 0 yards (CB V. Sullivan). 
+
+New Mexico ball, Q1, 4-10-UNM47 (07:06) 0-0
+Larry Roberts Punts 26 yards to the Boise State 27 yard line, where Daniel Stewart returns 
+it to Boise State 27 for a 0 yard return.
+
+Boise State ball, Q1, 1-10-BOI27 (06:50) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB O. Thompson runs left end for 3 yards (OOB).
+
+Boise State ball, Q1, 2-7-BOI30 (06:39) 0-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB O. Thompson runs right guard for 1 yard (SS D. Berry). 
+
+Boise State ball, Q1, 3-6-BOI31 (06:08) 0-0
+Offense: Medium Pass, Set: Weak, Play: WK-FL-streaks
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+QB J. Grant gets sacked for a 6 yard loss (DE K. Williams).  C L. Warner allowed the sack.
+
+Boise State ball, Q1, 4-12-BOI25 (05:48) 0-0
+Jerry Hiatt Punts 29 yards to the New Mexico 46 yard line, where Nelson Grantham returns it 
+to Boise State 45 for a 9 yard return.
+
+New Mexico ball, Q1, 1-10-BOI45 (05:33) 0-0
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB S. Bowser completes a 3 yard hook to WR A. Jones (SS I. Nelson, CB C. Moore). 
+
+New Mexico ball, Q1, 2-7-BOI42 (05:12) 0-0
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-power-LE
+Defense: Stop Run, Set: 4-3, Play: 43-run-SZ-B5
+RB C. Brown runs left end for 1 yard (ILB W. Zuniga). 
+
+New Mexico ball, Q1, 2-7-BOI42 (05:12) 0-0
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-power-LE
+Defense: Stop Run, Set: 4-3, Play: 43-run-SZ-B5
+TE James Johnson (UNM) was injured on the play (Knee). It doesn't look too serious and he 
+should return.
+
+New Mexico ball, Q1, 3-6-BOI41 (04:57) 0-0
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-straight-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB C. Brown runs left end for 0 yards (OLB M. Thompson). 
+
+New Mexico ball, Q1, 4-6-BOI41 (04:31) 0-0
+Larry Roberts Punts 41 yards to the end zone, Touchback.
+
+Boise State ball, Q1, 1-10-BOI20 (04:14) 0-0
+Offense: Long Pass, Set: Quads, Play: Q-WR3-corner-FL-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB J. Grant completes a 44 yard post to WR M. Powell (OOB). SS D. Berry allowed the big play.
+
+Boise State ball, Q1, 1-10-UNM36 (04:02) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,5,6,7,
+RB O. Thompson runs left guard for 8 yards (SS D. Berry, CB B. Worrell).  OT B. Bradford had 
+a key block on the run.
+
+Boise State ball, Q1, 2-2-UNM28 (03:32) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+FB G. Johnson runs right guard for 1 yard (CB B. Worrell). 
+
+Boise State ball, Q1, 3-1-UNM27 (03:05) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB J. Grant completes a 8 yard hook to FB R. Fry (CB B. Worrell). 
+
+Boise State ball, Q1, 3-1-UNM27 (03:05) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+CB Paul Mejia (UNM) was injured on the play (Head). It doesn't look too serious and he should 
+return.
+
+Boise State ball, Q1, 1-10-UNM19 (02:50) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+RB O. Thompson runs right end for 2 yards (ILB R. Anderson). 
+
+Boise State ball, Q1, 2-8-UNM17 (02:22) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB O. Thompson runs right guard for 2 yards (DT J. Reeves, OLB C. Minton). 
+
+Boise State ball, Q1, 3-6-UNM15 (01:53) 0-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,7,11
+RB O. Thompson runs left end for 3 yards (ILB S. Hubbard). 
+
+Boise State ball, Q1, 4-3-UNM12 (01:26) 0-0
+Nicholas Stanley converts the 30 yard field goal.
+
+Boise State ball, Q1, 1-10-BOI35 (01:11) 3-0
+Nicholas Stanley kicks 67 from Boise State 35 to New Mexico -2. Nelson Grantham to New Mexico 
+28 for a 30 yard return.
+
+New Mexico ball, Q1, 1-10-UNM28 (00:54) 0-3
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-R
+RB C. Brown runs right guard for 4 yards (SS I. Nelson). 
+
+New Mexico ball, Q1, 2-6-UNM32 (00:26) 0-3
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB M. Olson runs left guard for 2 yards (ILB W. Zuniga). 
+
+New Mexico ball, Q2, 3-4-UNM34 (15:00) 0-3
+Offense: Short Pass, Set: I Form Big, Play: IB-SE-post-TE-out
+Defense: Stop Pass, Set: 4-3, Play: 43-run-SZ-B5
+QB S. Bowser completes a 6 yard out to TE J. Johnson (OOB).
+
+New Mexico ball, Q2, 1-10-UNM40 (14:49) 0-3
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+RB M. Olson runs right guard for -1 yards (DE R. Jones).
+
+New Mexico ball, Q2, 2-11-UNM39 (14:32) 0-3
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-toss-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-pass-Man-B10
+RB C. Brown runs left end for -2 yards (OLB R. Evans).
+
+New Mexico ball, Q2, 3-13-UNM37 (14:18) 0-3
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB S. Bowser completes a 1 yard dump off to FB M. Burns (OOB).
+
+New Mexico ball, Q2, 4-12-UNM38 (14:00) 0-3
+Larry Roberts Punts 42 yards to the Boise State 20 yard line, where Robert Boston returns 
+it to Boise State 28 for a 8 yard return.
+
+Boise State ball, Q2, 1-10-BOI28 (13:42) 3-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,7,11
+RB O. Thompson runs right guard for 72 yards ****Touchdown!***** CB P. Mejia missed a tackle.
+
+Boise State ball, Q2, 1-0-UNM0 (13:15) 9-0
+Nicholas Stanley converts the PAT.
+
+Boise State ball, Q2, 1-10-BOI35 (13:15) 10-0
+Nicholas Stanley kicks 67 from Boise State 35 to New Mexico -2. Nelson Grantham to New Mexico 
+43 for a 45 yard return.
+
+New Mexico ball, Q2, 1-10-UNM43 (12:56) 0-10
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB S. Bowser completes a 1 yard dump off to RB J. Moore (OOB).
+
+New Mexico ball, Q2, 2-9-UNM44 (12:41) 0-10
+Offense: Outside Run, Set: Flexbone, Play: FL-RB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+RB C. Brown runs left end for 2 yards (SS T. Gipson). 
+
+New Mexico ball, Q2, 3-7-UNM46 (12:10) 0-10
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-power-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB C. Brown runs left end for 1 yard (FS D. Lucero).  C. Brown missed a hole that could have 
+resulted in a bigger gain.
+
+Tripping against OG Joshua Patel on New Mexico. The Penalty is for 15 yards.
+The penalty will be declined.
+
+New Mexico ball, Q2, 4-6-UNM47 (11:56) 0-10
+Larry Roberts Punts 33 yards to the Boise State 20 yard line, where it goes out of bounds.
+
+Boise State ball, Q2, 1-10-BOI20 (11:37) 10-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB O. Thompson runs right guard for 9 yards (FS H. Nelson, CB J. Jackson). 
+
+Boise State ball, Q2, 2-1-BOI29 (11:04) 10-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+FB G. Johnson runs left tackle for 0 yards (ILB R. Anderson). 
+
+Boise State ball, Q2, 3-1-BOI29 (10:31) 10-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B5,8
+QB J. Grant completes a 6 yard hook to FB R. Fry (OLB K. Nixon). 
+
+Boise State ball, Q2, 1-10-BOI35 (10:09) 10-0
+Offense: Long Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB J. Grant throws an incomplete pass to WR L. Mathis. J. Grant made a bad pass.
+
+Boise State ball, Q2, 2-10-BOI35 (09:54) 10-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB O. Thompson runs right end for 7 yards (CB B. Worrell, ILB R. Anderson). 
+
+Boise State ball, Q2, 3-3-BOI42 (09:24) 10-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB O. Thompson runs left end for 6 yards (OLB K. Nixon). 
+
+Boise State ball, Q2, 1-10-BOI48 (08:55) 10-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB O. Thompson runs left tackle for 8 yards (SS D. Berry). 
+
+Boise State ball, Q2, 2-2-UNM44 (08:23) 10-0
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB J. Grant completes a 4 yard screen to FB G. Johnson (ILB R. Anderson). 
+
+Boise State ball, Q2, 1-10-UNM40 (07:59) 10-0
+Offense: Long Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ-B6-Spy
+QB J. Grant gets sacked for a 13 yard loss (DE J. Black).  He fumbles the ball after a hit 
+by J. Black. It's recovered by C. Minton of New Mexico. He returns it 7 yards to the Boise State 40. C L. Warner allowed the sack.
+
+New Mexico ball, Q2, 1-10-BOI40 (07:40) 0-10
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-straight-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+RB C. Brown runs right guard for -1 yards (FS D. Lucero).
+
+New Mexico ball, Q2, 1-10-BOI40 (07:40) 0-10
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-straight-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+TE James Johnson (UNM) was injured on the play (Shoulder). It doesn't look like he will return.
+
+New Mexico ball, Q2, 2-11-BOI41 (07:26) 0-10
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-tripoption-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB M. Olson runs left end for -4 yards (OLB M. Thompson).
+
+New Mexico ball, Q2, 2-11-BOI41 (07:26) 0-10
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-tripoption-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+CB Charles Moore (BOI) was injured on the play (Groin). It doesn't look like he will return.
+
+New Mexico ball, Q2, 3-15-BOI45 (07:09) 0-10
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB S. Bowser throws an incomplete pass to RB J. Moore. RB J. Moore ran an incorrect route.
+
+New Mexico ball, Q2, 4-15-BOI45 (06:54) 0-10
+Larry Roberts Punts 45 yards to the end zone, Touchback.
+
+Boise State ball, Q2, 1-10-BOI20 (06:39) 10-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB O. Thompson runs left guard for -2 yards (ILB R. Anderson).
+
+Grabbing Face Mask against ILB Richard Anderson on New Mexico. The Penalty is for 15 yards, 
+and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Boise State 33.
+
+Boise State ball, Q2, 1-10-BOI33 (06:24) 10-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB M. Cash runs right guard for -2 yards (DT J. Campbell).
+
+Boise State ball, Q2, 2-12-BOI31 (05:52) 10-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-MZ
+QB J. Grant throws an incomplete pass to WR M. Powell (CB P. Mejia). CB P. Mejia broke up 
+the pass.
+
+Boise State ball, Q2, 3-12-BOI31 (05:32) 10-0
+Offense: Short Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,6,11-R
+QB J. Grant completes a 8 yard in to WR R. Milligan (OOB).
+
+Boise State ball, Q2, 4-4-BOI39 (05:20) 10-0
+Jerry Hiatt Punts 46 yards to the New Mexico 15 yard line,
+
+New Mexico ball, Q2, 1-10-UNM15 (05:00) 0-10
+Offense: Long Pass, Set: Wishbone, Play: WB-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB S. Bowser throws an incomplete pass to WR A. Ambrose (OLB M. Thompson). WR A. Ambrose dropped 
+the pass. OLB M. Thompson broke up the pass.
+
+New Mexico ball, Q2, 2-10-UNM15 (04:42) 0-10
+Offense: Inside Run, Set: Wing T, Play: T-HB-power-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB M. Olson runs right tackle for 2 yards (SS I. Nelson). 
+
+New Mexico ball, Q2, 3-8-UNM17 (04:11) 0-10
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B5
+QB S. Bowser completes a 11 yard hook to WR A. Jones (OOB). S. Bowser with the great pass. 
+OG J. Patel earned a pancake on the play.
+
+New Mexico ball, Q2, 1-10-UNM28 (03:56) 0-10
+Offense: Short Pass, Set: I Form Big, Play: IB-SE-str-TE2-slant
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB S. Bowser completes a 8 yard dump off to TE T. Walden (SS T. Gipson, SS I. Nelson). 
+
+New Mexico ball, Q2, 2-2-UNM36 (03:33) 0-10
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-tripoption-LE
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-L
+RB C. Brown runs left end for 17 yards (FS D. Lucero).  CB R. Boston missed a tackle.
+
+New Mexico ball, Q2, 1-10-BOI47 (03:07) 0-10
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+RB C. Brown runs right guard for -2 yards (OLB M. Thompson). TE T. Walden missed a block that 
+hurt the play.
+
+New Mexico ball, Q2, 1-10-BOI47 (03:07) 0-10
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+WR Andrew Ambrose (UNM) was injured on the play (Heel/Achilles). It doesn't look like he will 
+return.
+
+New Mexico ball, Q2, 2-12-BOI49 (02:54) 0-10
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB C. Brown runs left guard for 0 yards (DT M. Mcdaniel). 
+
+New Mexico ball, Q2, 3-12-BOI49 (02:25) 0-10
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B5
+QB S. Bowser completes a 6 yard dump off to RB C. Brown (OLB M. Thompson). 
+
+Holding against OT Daniel Mccormick on New Mexico. The Penalty is for 10 yards.
+The penalty will be declined.
+
+New Mexico ball, Q2, 4-6-BOI43 (02:12) 0-10
+Larry Roberts Punts 38 yards to the Boise State 5 yard line, where it goes out of bounds.
+
+Boise State ball, Q2, 1-10-BOI5 (01:52) 10-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B11
+QB J. Grant completes a 9 yard post to WR L. Mathis (OOB).
+
+Boise State ball, Q2, 2-1-BOI14 (01:38) 10-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B5,7
+QB J. Grant completes a 2 yard post to TE B. Ramos (ILB S. Hubbard). 
+
+Passer beyond Line of Scrimmage against QB Jesse Grant on Boise State. The Penalty is for 
+5 yards, and a loss of down.
+The Defense will accept the penalty. It is now Third and 6 at the Boise State 9.
+
+Boise State ball, Q2, 3-6-BOI9 (01:28) 10-0
+Offense: Medium Pass, Set: Weak, Play: WK-SE-streaks
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B5,7
+QB J. Grant completes a 9 yard in to WR M. Powell (OLB C. Minton, CB J. Jackson). 
+
+Pass Interference against OLB Craig Minton on New Mexico. The Penalty is for 9 yards, and 
+an automatic first down.
+The penalty will be declined.
+
+Boise State ball, Q2, 1-10-BOI18 (01:15) 10-0
+Offense: Short Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB J. Grant completes a 0 yard hook to WR M. Powell (DE K. Williams). 
+
+New Mexico Timeout!
+
+Boise State ball, Q2, 2-10-BOI18 (01:09) 10-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB J. Grant throws an incomplete pass to WR M. Powell.
+
+Boise State ball, Q2, 3-10-BOI18 (01:03) 10-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB J. Grant completes a 15 yard hook to WR L. Mathis (CB J. Jackson, FS H. Nelson).  CB B. 
+Worrell was out of position on the play.
+
+Holding against TE Brian Ramos on Boise State. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Third and 19 at the Boise State 9.
+
+Boise State ball, Q2, 3-19-BOI9 (00:51) 10-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB J. Grant throws an incomplete pass to WR R. Milligan.
+
+Boise State ball, Q2, 4-19-BOI9 (00:43) 10-0
+Jerry Hiatt Punts 36 yards to the Boise State 45 yard line, where Nelson Grantham returns 
+it to Boise State 41 for a 4 yard return.
+
+New Mexico ball, Q2, 1-10-BOI41 (00:36) 0-10
+Offense: Medium Pass, Set: I Form Big, Play: IB-TE-flats
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB S. Bowser throws an incomplete pass to WR N. Grantham.
+
+New Mexico ball, Q2, 2-10-BOI41 (00:28) 0-10
+Offense: Short Pass, Set: I Form Big, Play: IB-FB-screen
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB S. Bowser throws an incomplete pass to FB M. Burns.
+
+New Mexico ball, Q2, 3-10-BOI41 (00:22) 0-10
+Offense: Short Pass, Set: Wing T, Play: T-TE-out-SE-slant
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB S. Bowser completes a 15 yard in to TE T. Walden (CB R. Boston). 
+
+New Mexico Timeout!
+
+New Mexico ball, Q2, 1-10-BOI26 (00:14) 0-10
+James Howard has his 44 yard field goal blocked by Russell Jones! The ball is recovered by 
+Mike Cash (BOI) at the BOI 17
+
+New Mexico Timeout!
+
+Boise State ball, Q2, 1-10-BOI20 (00:07) 10-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+The QB takes a knee.
+
+Boise State ball, Q3, 1-10-BOI35 (15:00) 10-0
+Nicholas Stanley kicks 53 from Boise State 35 to New Mexico 12. Nelson Grantham to New Mexico 
+29 for a 17 yard return.
+
+New Mexico ball, Q3, 1-10-UNM29 (14:44) 0-10
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB C. Brown runs left end for 1 yard (ILB W. Zuniga). 
+
+New Mexico ball, Q3, 2-9-UNM30 (14:12) 0-10
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-RT
+Defense: Normal, Set: 4-3, Play: 43-norm-DZ-B5,7
+RB C. Brown runs right tackle for -1 yards (SS I. Nelson).
+
+New Mexico ball, Q3, 3-10-UNM29 (13:44) 0-10
+Offense: Outside Run, Set: Flexbone, Play: FL-RB-power-RE
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB C. Brown runs left end for 2 yards (SS T. Gipson, CB R. Boston). 
+
+New Mexico ball, Q3, 4-8-UNM31 (13:16) 0-10
+Larry Roberts Punts 43 yards to the Boise State 26 yard line, where Robert Boston returns 
+it to Boise State 26 for a 0 yard return.
+
+Boise State ball, Q3, 1-10-BOI26 (12:59) 10-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-SZ-B5,6
+RB O. Thompson runs right end for 10 yards (ILB S. Hubbard, OLB C. Minton).  DT J. Campbell 
+missed a tackle.
+
+Boise State ball, Q3, 1-10-BOI36 (12:31) 10-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB O. Thompson runs right guard for 0 yards (ILB S. Hubbard). 
+
+Boise State ball, Q3, 2-10-BOI36 (12:00) 10-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,5,6,7,
+RB O. Thompson runs left end for 0 yards (SS D. Berry). 
+
+Boise State ball, Q3, 3-10-BOI36 (11:28) 10-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB J. Grant completes a 43 yard hook to WR L. Mathis (ILB S. Hubbard, CB J. Jackson).  OG 
+J. Williams earned a pancake on the play. OLB C. Minton allowed the big play.
+
+Boise State ball, Q3, 1-10-UNM21 (11:04) 10-0
+Offense: Inside Run, Set: Weak, Play: WK-FB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+FB R. Fry runs left tackle for 9 yards (SS D. Berry, CB P. Mejia).  ILB S. Hubbard was out 
+of position on the play.
+
+Boise State ball, Q3, 2-1-UNM12 (10:35) 10-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+FB G. Johnson runs right guard for 2 yards (CB P. Mejia). 
+
+Boise State ball, Q3, 1-10-UNM10 (10:07) 10-0
+Offense: Medium Pass, Set: Weak, Play: WK-SE-streaks
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+QB J. Grant completes a 10 yard streak to FB R. Fry ****Touchdown!*****
+
+Boise State ball, Q3, 1-0-UNM0 (09:42) 16-0
+Nicholas Stanley converts the PAT.
+
+Boise State ball, Q3, 1-10-BOI35 (09:42) 17-0
+Nicholas Stanley kicks 75 from Boise State 35 to end zone, Touchback.
+
+New Mexico ball, Q3, 1-10-UNM20 (09:23) 0-17
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-RT
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+RB M. Olson runs right guard for -1 yards (ILB W. Zuniga). FB M. Burns missed a block that 
+hurt the play.
+
+New Mexico ball, Q3, 2-11-UNM19 (08:52) 0-17
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+QB S. Bowser throws an incomplete pass to TE T. Walden.
+
+New Mexico ball, Q3, 3-11-UNM19 (08:33) 0-17
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB S. Bowser gets sacked for a 2 yard loss (DT M. Mcdaniel).  RB J. Moore allowed the sack.
+
+New Mexico ball, Q3, 4-13-UNM17 (08:18) 0-17
+Larry Roberts Punts 43 yards to the Boise State 40 yard line, where Robert Boston returns 
+it to New Mexico 49 for a 11 yard return.
+
+Boise State ball, Q3, 1-10-UNM49 (08:01) 17-0
+Offense: Long Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB J. Grant gets sacked for a 3 yard loss (DE G. Martin).  OG J. Baker allowed the sack.
+
+Boise State ball, Q3, 2-13-BOI48 (07:42) 17-0
+Offense: Medium Pass, Set: Weak, Play: WK-SE-streaks
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB J. Grant throws an incomplete pass to WR R. Milligan (CB B. Worrell). J. Grant made a bad 
+pass. DE J. Black hurried the QB. CB B. Worrell broke up the pass.
+
+Boise State ball, Q3, 3-13-BOI48 (07:26) 17-0
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Grant throws an incomplete pass to WR M. Powell.
+
+Holding against OG James Williams on Boise State. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Boise State ball, Q3, 4-13-BOI48 (07:11) 17-0
+Jerry Hiatt Punts 36 yards to the New Mexico 16 yard line, where Nelson Grantham returns it 
+to New Mexico 27 for a 11 yard return.
+
+New Mexico ball, Q3, 1-10-UNM27 (06:51) 0-17
+Offense: Medium Pass, Set: I Form, Play: I-TE-corner-FL-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB S. Bowser throws an incomplete pass to WR N. Grantham (CB R. Boston). CB R. Boston broke 
+up the pass.
+
+New Mexico ball, Q3, 2-10-UNM27 (06:32) 0-17
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB S. Bowser throws an incomplete pass to RB C. Brown.
+
+New Mexico ball, Q3, 3-10-UNM27 (06:12) 0-17
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB S. Bowser throws an incomplete pass to RB J. Moore. S. Bowser made a bad pass.
+
+New Mexico ball, Q3, 4-10-UNM27 (05:56) 0-17
+Larry Roberts Punts 24 yards to the Boise State 49 yard line, where it gets downed.
+
+Boise State ball, Q3, 1-10-BOI49 (05:38) 17-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB J. Grant completes a 9 yard dump off to WR H. Thomas (CB B. Worrell). 
+
+Roughing the Passer against DT John Campbell on New Mexico. The Penalty is for 15 yards, and 
+an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the New Mexico 27.
+
+Boise State ball, Q3, 1-10-UNM27 (05:25) 17-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB O. Thompson runs left end for 0 yards (OOB).
+
+Boise State ball, Q3, 2-10-UNM27 (05:13) 17-0
+Offense: Medium Pass, Set: Weak, Play: WK-FL-streaks
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+J. Grant has his 11 yard pass intercepted by K. Nixon at the UNM 16. He returns it 0 yards 
+to the New Mexico 16.
+
+New Mexico ball, Q3, 1-10-UNM16 (04:42) 0-17
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-DZ-B5,7
+RB M. Olson runs left tackle for -2 yards (FS D. Lucero).
+
+New Mexico ball, Q3, 2-12-UNM14 (04:09) 0-17
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB C. Brown runs right tackle for -4 yards (DT M. Serna). OG J. Patel missed a block that 
+hurt the play.
+
+New Mexico ball, Q3, 3-16-UNM10 (03:43) 0-17
+Offense: Short Pass, Set: Flexbone, Play: FL-FL-playact-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B5
+QB S. Bowser throws an incomplete pass to RB J. Moore (CB V. Sullivan). CB V. Sullivan broke 
+up the pass.
+
+New Mexico ball, Q3, 4-16-UNM10 (03:26) 0-17
+Larry Roberts Punts 41 yards to the Boise State 49 yard line, where Daniel Stewart returns 
+it to New Mexico 43 for a 8 yard return.
+
+Boise State ball, Q3, 1-10-UNM43 (03:08) 17-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,5,6,7,
+RB O. Thompson runs right guard for 1 yard (FS H. Nelson). 
+
+Boise State ball, Q3, 2-9-UNM42 (02:35) 17-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+QB J. Grant throws an incomplete pass to WR M. Powell.
+
+Holding against OG Joel Baker on Boise State. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 19 at the Boise State 48.
+
+Boise State ball, Q3, 2-19-BOI48 (02:20) 17-0
+Offense: Inside Run, Set: Quads, Play: Q-QB-draw-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Grant runs right guard for 18 yards (CB J. Jackson).  CB B. Worrell was out of position 
+on the play.
+
+Boise State ball, Q3, 2-19-BOI48 (02:20) 17-0
+Offense: Inside Run, Set: Quads, Play: Q-QB-draw-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+WR Roger Milligan (BOI) was injured on the play (Wrist). It doesn't look like he will return.
+
+Boise State ball, Q3, 3-1-UNM34 (02:03) 17-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB J. Grant throws an incomplete pass to WR H. Thomas.
+
+Boise State ball, Q3, 4-1-UNM34 (01:47) 17-0
+Nicholas Stanley converts the 52 yard field goal.
+
+Boise State ball, Q3, 1-10-BOI35 (01:32) 20-0
+Nicholas Stanley kicks 67 from Boise State 35 to New Mexico -2. Nelson Grantham to New Mexico 
+35 for a 37 yard return.
+
+Piling On after the play against FS Fredrick Ellis on Boise State. The Penalty is for 15 yards, 
+and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the New Mexico 50.
+
+New Mexico ball, Q3, 1-10-UNM50 (01:21) 0-20
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-RT
+Defense: Stop Run, Set: Nickel, Play: Nickel-norm-Man
+RB M. Olson runs right guard for -1 yards (OLB R. Evans).
+
+New Mexico ball, Q3, 2-11-UNM49 (00:50) 0-20
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-option-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB S. Bowser scrambles out of the pocket and gets sacked for a 5 yard loss (ILB W. Zuniga). 
+ RB J. Moore allowed the sack.
+
+New Mexico ball, Q3, 3-16-UNM44 (00:18) 0-20
+Offense: Long Pass, Set: Wishbone, Play: WB-SE-streaks
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB S. Bowser runs outside for 20 yards (SS I. Nelson). 
+
+New Mexico ball, Q4, 1-10-BOI36 (15:00) 0-20
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-option-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-MZ-B5,7
+RB C. Brown runs right end for 4 yards (SS I. Nelson). 
+
+New Mexico ball, Q4, 2-6-BOI32 (14:30) 0-20
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-tripoption-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB S. Bowser scrambles out of the pocket and gets sacked for a 3 yard loss (DE R. Jones). 
+ OG J. Patel missed a block that hurt the play. RB J. Moore allowed the sack.
+
+New Mexico ball, Q4, 2-6-BOI32 (14:30) 0-20
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-tripoption-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB Matthew Olson (UNM) was injured on the play (Eye). It doesn't look too serious and he should 
+return.
+
+New Mexico ball, Q4, 3-9-BOI35 (14:17) 0-20
+Offense: Medium Pass, Set: Wing T, Play: T-SE-corner-WB-flat
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B5
+QB S. Bowser throws an incomplete pass to WR N. Grantham. WR N. Grantham ran an incorrect 
+route.
+
+New Mexico ball, Q4, 4-9-BOI35 (14:02) 0-20
+Larry Roberts Punts 19 yards to the Boise State 16 yard line, where it goes out of bounds.
+
+New Mexico ball, Q4, 4-9-BOI35 (14:02) 0-20
+SS Eugene Medeiros (BOI) was injured on the play (Hand). It doesn't look too serious and he 
+should return.
+
+Boise State ball, Q4, 1-10-BOI16 (13:42) 20-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB O. Thompson runs right tackle for 2 yards (CB P. Mejia). 
+
+Boise State ball, Q4, 2-8-BOI18 (13:10) 20-0
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+FB R. Fry runs left guard for 8 yards (OLB K. Nixon).  DE K. Williams was out of position 
+on the play.
+
+Boise State ball, Q4, 1-10-BOI26 (12:39) 20-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB J. Grant completes a 74 yard out to WR L. Mathis ****Touchdown!***** OG J. Williams earned 
+a pancake on the play. ILB S. Hubbard allowed the big play.
+
+Boise State ball, Q4, 1-0-UNM0 (12:17) 26-0
+Nicholas Stanley converts the PAT.
+
+Boise State ball, Q4, 1-10-BOI35 (12:17) 27-0
+Nicholas Stanley kicks 67 from Boise State 35 to New Mexico -2. Nelson Grantham to New Mexico 
+11 for a 13 yard return.
+
+New Mexico ball, Q4, 1-10-UNM11 (11:58) 0-27
+Offense: Short Pass, Set: I Form Big, Play: IB-SE-str-TE2-slant
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB S. Bowser completes a 8 yard dump off to RB C. Brown (OOB).
+
+New Mexico ball, Q4, 2-2-UNM19 (11:43) 0-27
+Offense: Medium Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB S. Bowser completes a 81 yard post to WR A. Jones ****Touchdown!***** CB V. Sullivan allowed 
+the big play.
+
+New Mexico ball, Q4, 1-0-BOI0 (11:19) 6-27
+James Howard converts the PAT.
+
+New Mexico ball, Q4, 1-10-UNM35 (11:19) 7-27
+Larry Roberts kicks 47 from New Mexico 35 to Boise State 18. William Handley to Boise State 
+37 for a 19 yard return.
+
+Boise State ball, Q4, 1-10-BOI37 (11:01) 27-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB O. Thompson runs left tackle for 4 yards (CB B. Garcia, CB P. Mejia). 
+
+Boise State ball, Q4, 2-6-BOI41 (10:46) 27-7
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-HBfake-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+WR M. Powell runs right end for 1 yard (ILB S. Hubbard). 
+
+Boise State ball, Q4, 3-5-BOI42 (10:18) 27-7
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB O. Thompson runs left tackle for 7 yards (ILB S. Hubbard). 
+
+Boise State ball, Q4, 1-10-BOI49 (09:52) 27-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB O. Thompson runs right tackle for 4 yards (CB P. Mejia, CB B. Worrell). 
+
+Boise State ball, Q4, 2-6-UNM47 (09:23) 27-7
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+FB R. Fry runs right end for 0 yards (DE G. Martin).  OT B. Bradford missed a block that hurt 
+the play.
+
+Boise State ball, Q4, 3-6-UNM47 (08:56) 27-7
+Offense: Short Pass, Set: Weak, Play: WK-SE-slant-FL-in
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+QB J. Grant completes a 3 yard screen to WR M. Powell (OOB).
+
+Holding against OG Joel Baker on Boise State. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Boise State ball, Q4, 4-3-UNM44 (08:42) 27-7
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB J. Grant completes a 11 yard screen to RB O. Thompson (OLB K. Nixon). 
+
+Holding against CB Paul Mejia on New Mexico. The Penalty is for 10 yards, and an automatic 
+first down.
+The penalty will be declined.
+
+Boise State ball, Q4, 1-10-UNM33 (08:29) 27-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB O. Thompson runs left end for 5 yards (ILB S. Hubbard). 
+
+Boise State ball, Q4, 2-5-UNM28 (07:57) 27-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB M. Cash runs right end for 9 yards (OOB).
+
+Boise State ball, Q4, 1-10-UNM19 (07:40) 27-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+RB O. Thompson runs left guard for -4 yards (OLB K. Nixon). O. Thompson missed a hole that 
+could have resulted in a bigger gain.
+
+Boise State ball, Q4, 2-14-UNM23 (07:09) 27-7
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB M. Cash runs left end for 0 yards (OLB K. Nixon). 
+
+Boise State ball, Q4, 3-14-UNM23 (06:40) 27-7
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Grant throws an incomplete pass to WR M. Powell (CB B. Worrell). CB B. Worrell broke 
+up the pass.
+
+Boise State ball, Q4, 4-14-UNM23 (06:21) 27-7
+Nicholas Stanley converts the 41 yard field goal.
+
+Boise State ball, Q4, 1-10-BOI35 (06:05) 30-7
+Nicholas Stanley kicks 55 from Boise State 35 to New Mexico 10. Nelson Grantham to New Mexico 
+21 for a 11 yard return.
+
+New Mexico ball, Q4, 1-10-UNM21 (05:46) 7-30
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB C. Brown runs right tackle for 2 yards (OLB M. Thompson). 
+
+New Mexico ball, Q4, 2-8-UNM23 (05:20) 7-30
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB S. Bowser throws an incomplete pass to TE T. Walden. TE T. Walden dropped the pass.
+
+New Mexico ball, Q4, 3-8-UNM23 (05:03) 7-30
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB C. Brown runs left tackle for -3 yards (SS I. Nelson).
+
+New Mexico ball, Q4, 4-11-UNM20 (04:34) 7-30
+Larry Roberts Punts 38 yards to the Boise State 42 yard line, where Robert Boston returns 
+it to Boise State 43 for a 1 yard return.
+
+Boise State ball, Q4, 1-10-BOI43 (04:16) 30-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-TMan-R
+QB C. Wilkins throws an incomplete pass to TE H. Johnston.
+
+Boise State ball, Q4, 2-10-BOI43 (03:58) 30-7
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+QB C. Wilkins completes a 35 yard in to WR M. Powell (OLB C. Minton, ILB S. Hubbard).  OG 
+J. Williams earned a pancake on the play. FS H. Nelson allowed the big play.
+
+Boise State ball, Q4, 1-10-UNM22 (03:31) 30-7
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB M. Cash runs left end for 1 yard (CB P. Mejia). 
+
+Boise State ball, Q4, 2-9-UNM21 (03:04) 30-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+RB M. Cash runs right end for 1 yard (SS D. Berry). 
+
+Boise State ball, Q4, 3-8-UNM20 (02:38) 30-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+RB O. Thompson runs right guard for 3 yards (OLB C. Minton). 
+
+Boise State ball, Q4, 4-5-UNM17 (02:05) 30-7
+Nicholas Stanley converts the 35 yard field goal.
+
+Boise State ball, Q4, 1-10-BOI35 (01:51) 33-7
+Nicholas Stanley kicks 55 from Boise State 35 to New Mexico 10. Nelson Grantham to New Mexico 
+37 for a 27 yard return.
+
+New Mexico ball, Q4, 1-10-UNM37 (01:36) 7-33
+Offense: Medium Pass, Set: Wishbone, Play: WB-HB-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB S. Bowser throws an incomplete pass to RB J. Moore. S. Bowser made a bad pass. DT M. Mcdaniel 
+hurried the QB.
+
+New Mexico ball, Q4, 2-10-UNM37 (01:20) 7-33
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB S. Bowser completes a 6 yard dump off to RB C. Brown (SS T. Gipson). 
+
+New Mexico ball, Q4, 3-4-UNM43 (00:58) 7-33
+Offense: Long Pass, Set: I Form, Play: I-SE-streaks
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+S. Bowser has his 34 yard pass intercepted by R. Evans at the BOI 23. He returns it 17 yards 
+to the Boise State 40.
+
+New Mexico ball, Q4, 3-4-UNM43 (00:58) 7-33
+Offense: Long Pass, Set: I Form, Play: I-SE-streaks
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+TE Thomas Walden (UNM) was injured on the play (Teeth). It doesn't look too serious and he 
+should return.
+
+Boise State ball, Q4, 1-10-BOI40 (00:29) 33-7
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB M. Cash runs right tackle for 10 yards (OLB C. Minton, ILB R. Anderson). 
+
+New Mexico Timeout!
+
+New Mexico Timeout!
+
+Boise State ball, Q4, 1-10-BOI50 (00:22) 33-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+The QB takes a knee.
+
+New Mexico Timeout!
+
+Boise State ball, Q4, 2-12-BOI48 (00:13) 33-7
+Offense: Inside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+The QB takes a knee.
+
+Boise State ball, Q4, 3-13-BOI47 (00:06) 33-7
+Offense: Inside Run, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+The QB takes a knee.
+

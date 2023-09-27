@@ -1,0 +1,954 @@
+Idaho ball, Q1, 1-10-IDHO35 (15:00) 0-0
+Anthony Fuller kicks 66 from Idaho 35 to Appalachian State -1. Stanley Shipman to Appalachian 
+State 12 for a 13 yard return.
+
+Appalachian State ball, Q1, 1-10-APP12 (14:40) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB J. Chow completes a 3 yard in to WR R. Norton (SS D. Barnhill, OLB R. Rice). 
+
+Appalachian State ball, Q1, 2-7-APP15 (14:16) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB J. Falcon runs right end for 26 yards (FS D. Castillo). 
+
+Appalachian State ball, Q1, 1-10-APP41 (13:46) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB C. Dixon runs left guard for 5 yards (CB D. Crooks). 
+
+Appalachian State ball, Q1, 2-5-APP46 (13:20) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB J. Falcon runs left end for 1 yard (DE F. Stpierre). 
+
+Appalachian State ball, Q1, 3-4-APP47 (12:47) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB J. Chow throws an incomplete pass to WR F. Odom. WR F. Odom dropped the pass.
+
+Appalachian State ball, Q1, 4-4-APP47 (12:31) 0-0
+John Lambert Punts 34 yards to the Idaho 19 yard line, where it goes out of bounds.
+
+Idaho ball, Q1, 1-10-IDHO19 (12:11) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+QB G. Bray throws an incomplete pass to WR W. Mccord. WR W. Mccord dropped the pass.
+
+Idaho ball, Q1, 2-10-IDHO19 (11:52) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB C. Marshall runs left guard for -2 yards (OLB P. Collins).
+
+Idaho ball, Q1, 3-12-IDHO17 (11:20) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB G. Bray throws an incomplete pass to WR W. Mccord.
+
+Idaho ball, Q1, 4-12-IDHO17 (11:04) 0-0
+Keith Riggs Punts 38 yards to the Appalachian State 45 yard line, where Daniel Hall returns 
+it to Idaho 44 for a 11 yard return.
+
+Appalachian State ball, Q1, 1-10-IDHO44 (10:48) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB C. Dixon runs left end for 22 yards (CB D. Green). 
+
+Appalachian State ball, Q1, 1-10-IDHO22 (10:19) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+RB J. Falcon runs right guard for -2 yards (DE F. Stpierre). J. Falcon missed a hole that 
+could have resulted in a bigger gain.
+
+Appalachian State ball, Q1, 2-12-IDHO24 (09:50) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,6,11-R
+RB C. Dixon runs right guard for 4 yards (CB D. Crooks). 
+
+Appalachian State ball, Q1, 3-8-IDHO20 (09:20) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,7,11
+J. Chow has his 13 yard pass intercepted by D. Crooks at the IDHO 7. He returns it 0 yards 
+to the Idaho 7.
+
+Idaho ball, Q1, 1-10-IDHO7 (08:52) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB C. Marshall runs left tackle for -3 yards (OLB P. Williams).
+
+Idaho ball, Q1, 2-13-IDHO4 (08:26) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+RB C. Marshall runs left tackle for 1 yard (ILB C. Stone). 
+
+Idaho ball, Q1, 3-12-IDHO5 (07:53) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB G. Bray throws an incomplete pass to WR W. Mccord.
+
+Idaho ball, Q1, 4-12-IDHO5 (07:36) 0-0
+Keith Riggs Punts 37 yards to the Idaho 42 yard line, where Daniel Hall returns it to Idaho 
+16 for a 26 yard return.
+
+Appalachian State ball, Q1, 1-10-IDHO16 (07:20) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB J. Falcon runs right end for 5 yards (ILB S. Garcia, ILB L. Nielsen). 
+
+Appalachian State ball, Q1, 2-5-IDHO11 (06:50) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB C. Dixon runs left guard for 5 yards (ILB L. Nielsen, OLB R. Rice). 
+
+Appalachian State ball, Q1, 1-6-IDHO6 (06:20) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+RB J. Falcon runs left end for 6 yards ****Touchdown!*****
+
+Appalachian State ball, Q1, 1-0-IDHO0 (05:50) 6-0
+Edward Moody converts the PAT.
+
+Appalachian State ball, Q1, 1-10-APP35 (05:50) 7-0
+Edward Moody kicks 55 from Appalachian State 35 to Idaho 10. Kevin Cooper to Idaho 45 for 
+a 35 yard return.
+
+Illegal Use of Hands against FB Gary Whitson on Idaho. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 10 at the Idaho 35.
+
+Idaho ball, Q1, 1-10-IDHO35 (05:37) 0-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB C. Marshall runs right guard for -2 yards (CB T. Bush). OT W. Howe missed a block that 
+hurt the play.
+
+Idaho ball, Q1, 2-12-IDHO33 (05:08) 0-7
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+RB C. Marshall runs left end for 7 yards (OLB P. Williams, FS T. Sanchez).  OG W. Hedrick 
+had a key block on the run. SS M. Bruno missed a tackle.
+
+Idaho ball, Q1, 3-5-IDHO40 (04:41) 0-7
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB C. Marshall runs left guard for 2 yards (OLB P. Williams). 
+
+Idaho ball, Q1, 4-3-IDHO42 (04:08) 0-7
+Keith Riggs Punts 26 yards to the Appalachian State 32 yard line, where Roberto Brown returns 
+it to Appalachian State 32 for a 0 yard return.
+
+Appalachian State ball, Q1, 1-10-APP32 (03:49) 7-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB J. Falcon runs left end for 0 yards (FS D. Castillo). 
+
+Appalachian State ball, Q1, 2-10-APP32 (03:19) 7-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB C. Dixon runs right tackle for -2 yards (ILB S. Garcia). C. Dixon missed a hole that could 
+have resulted in a bigger gain.
+
+Appalachian State ball, Q1, 3-12-APP30 (02:50) 7-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB J. Falcon runs left tackle for 3 yards (ILB S. Garcia). 
+
+Appalachian State ball, Q1, 4-9-APP33 (02:19) 7-0
+John Lambert Punts 38 yards to the Idaho 29 yard line, where Michael Perez returns it to Idaho 
+37 for a 8 yard return.
+
+Idaho ball, Q1, 1-10-IDHO37 (02:04) 0-7
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-str-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB G. Bray completes a 31 yard post to WR W. Mccord (FS T. Sanchez).  W. Mccord made a great 
+catch. OG R. Adamson earned a pancake on the play. SS R. Riley allowed the big play.
+
+Idaho ball, Q1, 1-10-APP32 (01:37) 0-7
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+QB G. Bray throws an incomplete pass to WR K. Webb.
+
+Idaho ball, Q1, 2-10-APP32 (01:17) 0-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB C. Marshall runs left guard for 0 yards (SS R. Riley).  OG W. Hedrick missed a block that 
+hurt the play.
+
+Idaho ball, Q1, 3-10-APP32 (00:49) 0-7
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB C. Marshall runs left end for 3 yards (CB D. Cooper). 
+
+Idaho ball, Q1, 4-7-APP29 (00:23) 0-7
+Anthony Fuller misses the 47 yard field goal. It will be Appalachian State ball at the APP 29
+
+Appalachian State ball, Q1, 1-10-APP29 (00:05) 7-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB J. Chow throws an incomplete pass to WR W. Smith (CB D. Green). CB D. Green broke up the 
+pass.
+
+Appalachian State ball, Q2, 2-10-APP29 (15:00) 7-0
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB C. Dixon runs left end for 5 yards (CB B. Wylie, CB D. Green). 
+
+Grabbing Face Mask against DE Craig Simon on Idaho. The Penalty is for 15 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Appalachian State 49.
+
+Appalachian State ball, Q2, 1-10-APP49 (14:50) 7-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB J. Falcon runs left end for -2 yards (SS D. Barnhill).
+
+Appalachian State ball, Q2, 2-12-APP47 (14:21) 7-0
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-HBfake-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+WR W. Smith runs right end for 19 yards (OLB R. Rice). 
+
+Appalachian State ball, Q2, 1-10-IDHO34 (13:55) 7-0
+Offense: Outside Run, Set: Quads, Play: Q-HB-counter-RT
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+RB J. Falcon runs right end for 9 yards (ILB L. Nielsen).  C J. Cornett had a key block on 
+the run. OLB R. Rice was out of position on the play.
+
+Appalachian State ball, Q2, 2-1-IDHO25 (13:27) 7-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+FB M. Delgado runs right guard for 1 yard (DE T. Miller). 
+
+Appalachian State ball, Q2, 1-10-IDHO24 (13:00) 7-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB J. Chow completes a 17 yard post to WR W. Smith (FS B. Schell, CB B. Wylie).  OT G. Snow 
+earned a pancake on the play. SS D. Barnhill missed a tackle.
+
+Appalachian State ball, Q2, 1-7-IDHO7 (12:32) 7-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+QB J. Chow completes a 1 yard dump off to WR D. Hall (ILB L. Nielsen). 
+
+Appalachian State ball, Q2, 2-6-IDHO6 (12:10) 7-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,6,11-R
+QB J. Chow completes a 1 yard dump off to WR D. Hall (DE C. Simon). 
+
+Appalachian State ball, Q2, 3-5-IDHO5 (11:46) 7-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Goal Line, Play: GL-run-BlitzAll
+QB J. Chow completes a 3 yard screen to RB J. Falcon (ILB L. Nielsen, ILB S. Garcia). 
+
+Appalachian State ball, Q2, 4-2-IDHO2 (11:25) 7-0
+Edward Moody has his 20 yard field goal blocked by Miguel Pacheco! The ball is recovered by 
+Thomas Galloway (IDHO) at the IDHO 2
+
+Idaho ball, Q2, 1-10-IDHO20 (11:08) 0-7
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB G. Bray throws an incomplete pass to WR A. Lusk.
+
+Idaho ball, Q2, 2-10-IDHO20 (10:53) 0-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB C. Marshall runs left tackle for -2 yards (OLB P. Collins). OT R. Ackerman missed a block 
+that hurt the play.
+
+Idaho ball, Q2, 3-12-IDHO18 (10:25) 0-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,6,11-R
+RB C. Marshall runs right tackle for 0 yards (CB R. Brown).  OT W. Howe missed a block that 
+hurt the play.
+
+Idaho ball, Q2, 4-12-IDHO18 (09:52) 0-7
+Keith Riggs Punts 57 yards to the Appalachian State 25 yard line, where Daniel Hall returns 
+it to Appalachian State 29 for a 4 yard return.
+
+Grabbing Face Mask against RB James Wilson on Idaho. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Appalachian State 34.
+
+Appalachian State ball, Q2, 1-10-APP34 (09:41) 7-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+RB J. Falcon runs left guard for 14 yards (ILB S. Garcia).  OT G. Snow had a key block on 
+the run.
+
+Appalachian State ball, Q2, 1-10-APP48 (09:10) 7-0
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB J. Falcon runs left guard for 6 yards (CB D. Green). 
+
+Appalachian State ball, Q2, 2-4-IDHO46 (08:39) 7-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B5
+RB J. Falcon runs right guard for 5 yards (ILB L. Nielsen). 
+
+Appalachian State ball, Q2, 2-4-IDHO46 (08:39) 7-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B5
+FS David Castillo (IDHO) was injured on the play (OK). It doesn't look like he will return.
+
+Appalachian State ball, Q2, 1-10-IDHO41 (08:23) 7-0
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+False Start against OG Jim Osborne on Appalachian State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Idaho 46.
+
+Appalachian State ball, Q2, 1-15-IDHO46 (08:23) 7-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB C. Dixon runs left end for 11 yards (FS B. Schell, SS D. Barnhill). 
+
+Appalachian State ball, Q2, 2-4-IDHO35 (07:51) 7-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB C. Dixon runs right end for 0 yards (FS B. Schell). 
+
+Appalachian State ball, Q2, 3-4-IDHO35 (07:19) 7-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+QB J. Chow completes a 2 yard in to WR R. Norton (FS B. Schell). 
+
+Appalachian State ball, Q2, 4-2-IDHO33 (06:56) 7-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+FB R. Brown runs left guard for 1 yard (OLB C. Queen).  FB M. Delgado missed a block that 
+hurt the play.
+
+Idaho ball, Q2, 1-10-IDHO32 (06:23) 0-7
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB C. Marshall runs left guard for 1 yard (OLB P. Williams).  OG R. Adamson missed a block 
+that hurt the play.
+
+Idaho ball, Q2, 2-9-IDHO33 (05:54) 0-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB C. Marshall runs right tackle for 2 yards (ILB P. Perry, SS M. Bruno). 
+
+Idaho ball, Q2, 3-7-IDHO35 (05:23) 0-7
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-B7,11-R
+QB G. Bray completes a 9 yard streak to WR J. Wise (CB R. Brown). 
+
+Idaho ball, Q2, 1-10-IDHO44 (04:58) 0-7
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB G. Bray completes a 33 yard out to WR W. Mccord (OOB). FS T. Sanchez allowed the big play.
+
+Idaho ball, Q2, 1-10-APP23 (04:48) 0-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB C. Marshall runs left end for 9 yards (OOB). OG R. Adamson had a key block on the run. 
+FS T. Sanchez missed a tackle.
+
+Idaho ball, Q2, 2-1-APP14 (04:35) 0-7
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB H. Wallace throws an incomplete pass to WR W. Mccord. H. Wallace made a bad pass.
+
+Idaho ball, Q2, 3-1-APP14 (04:17) 0-7
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB H. Wallace completes a 4 yard cross to WR W. Mccord (SS M. Bruno). 
+
+Idaho ball, Q2, 1-10-APP10 (03:53) 0-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB C. Marshall runs left tackle for 10 yards ****Touchdown!***** OG R. Adamson had a key block 
+on the run.
+
+Idaho ball, Q2, 1-0-APP0 (03:21) 6-7
+Anthony Fuller converts the PAT.
+
+Idaho ball, Q2, 1-10-IDHO35 (03:21) 7-7
+Anthony Fuller kicks 55 from Idaho 35 to Appalachian State 10. Stanley Shipman to Appalachian 
+State 23 for a 13 yard return.
+
+Appalachian State ball, Q2, 1-10-APP23 (03:03) 7-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB J. Falcon runs right end for 19 yards (CB B. Wylie, SS D. Barnhill).  CB B. Wylie missed 
+a tackle.
+
+Appalachian State ball, Q2, 1-10-APP42 (02:34) 7-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB C. Dixon runs left end for -3 yards (ILB L. Nielsen).
+
+Appalachian State ball, Q2, 2-13-APP39 (02:01) 7-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB C. Dixon runs right guard for 4 yards (CB B. Wylie). 
+
+Appalachian State ball, Q2, 3-9-APP43 (01:49) 7-7
+Offense: Long Pass, Set: SingleBack, Play: SB-WR3-slant-FL-str
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-TMan
+QB J. Chow gets sacked for a 3 yard loss (DT B. Walsh).  OG J. Osborne allowed the sack.
+
+Appalachian State ball, Q2, 4-12-APP40 (01:32) 7-7
+John Lambert Punts 54 yards to the Idaho 6 yard line, where it gets downed.
+
+Idaho ball, Q2, 1-10-IDHO6 (01:15) 7-7
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+QB G. Bray throws an incomplete pass to RB C. Marshall.
+
+Idaho ball, Q2, 2-10-IDHO6 (01:09) 7-7
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-TMan
+QB G. Bray throws an incomplete pass to RB J. Wilson.
+
+Idaho ball, Q2, 3-10-IDHO6 (01:02) 7-7
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB G. Bray throws an incomplete pass to WR W. Mccord.
+
+Idaho ball, Q2, 4-10-IDHO6 (00:56) 7-7
+Keith Riggs Punts 34 yards to the Idaho 40 yard line, where Daniel Hall returns it to Idaho 
+40 for a 0 yard return.
+
+Appalachian State ball, Q2, 1-10-IDHO40 (00:50) 7-7
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Chow completes a 12 yard cross to WR W. Smith (OOB). OT G. Snow earned a pancake on 
+the play. FS B. Schell was out of position on the play.
+
+Appalachian State ball, Q2, 1-10-IDHO28 (00:42) 7-7
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+QB J. Chow throws an incomplete pass to WR F. Odom. WR F. Odom dropped the pass.
+
+Appalachian State ball, Q2, 1-10-IDHO28 (00:42) 7-7
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+CB Donn Crooks (IDHO) was injured on the play (Elbow). It doesn't look like he will return.
+
+Appalachian State ball, Q2, 2-10-IDHO28 (00:35) 7-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Chow completes a 7 yard post to WR R. Norton (SS D. Barnhill). 
+
+Appalachian State ball, Q2, 2-10-IDHO28 (00:35) 7-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+ILB Larry Nielsen (IDHO) was injured on the play (Foot). It doesn't look like he will return.
+
+Appalachian State ball, Q2, 3-3-IDHO21 (00:22) 7-7
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB J. Chow throws an incomplete pass to WR R. Norton.
+
+Appalachian State ball, Q2, 4-3-IDHO21 (00:15) 7-7
+Edward Moody converts the 39 yard field goal.
+
+Appalachian State ball, Q2, 1-10-APP35 (00:07) 10-7
+Edward Moody kicks 67 from Appalachian State 35 to Idaho -2. Kevin Cooper to Idaho 12 for 
+a 14 yard return. He fumbles the ball after a hit by F. Odom. It's recovered by M. Pacheco of Idaho.
+
+Appalachian State ball, Q3, 1-10-APP35 (15:00) 10-7
+Edward Moody kicks 66 from Appalachian State 35 to Idaho -1. Kevin Cooper to Idaho 17 for 
+a 18 yard return.
+
+Idaho ball, Q3, 1-10-IDHO17 (14:45) 7-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB C. Marshall runs right guard for -1 yards (DE E. Green). OG R. Adamson missed a block that 
+hurt the play.
+
+Idaho ball, Q3, 2-11-IDHO16 (14:14) 7-10
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB J. Wilson runs right end for 6 yards (FS T. Sanchez). 
+
+Idaho ball, Q3, 3-5-IDHO22 (13:48) 7-10
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB G. Bray completes a 9 yard hook to WR W. Mccord (SS M. Bruno). 
+
+Idaho ball, Q3, 1-10-IDHO31 (13:20) 7-10
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB G. Bray throws an incomplete pass to TE J. James.
+
+Idaho ball, Q3, 2-10-IDHO31 (13:04) 7-10
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+G. Bray has his 30 yard pass intercepted by R. Brown at the APP 39. He returns it 4 yards 
+to the Appalachian State 43. G. Bray made a bad pass. OLB P. Collins hurried the QB.
+
+Appalachian State ball, Q3, 1-10-APP43 (12:36) 10-7
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB J. Chow throws an incomplete pass to WR R. Norton.
+
+Appalachian State ball, Q3, 2-10-APP43 (12:21) 10-7
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB J. Chow throws an incomplete pass to WR W. Smith.
+
+Appalachian State ball, Q3, 3-10-APP43 (12:01) 10-7
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB J. Chow runs outside for 2 yards (CB D. Green, SS D. Barnhill).  DE T. Miller hurried the 
+QB.
+
+Appalachian State ball, Q3, 4-8-APP45 (11:41) 10-7
+John Lambert Punts 41 yards to the Idaho 14 yard line, where Michael Perez returns it to Idaho 
+32 for a 18 yard return.
+
+Idaho ball, Q3, 1-10-IDHO32 (11:26) 7-10
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ-B6-Spy
+QB G. Bray throws an incomplete pass to RB J. Wilson. G. Bray made a bad pass. OLB P. Collins 
+hurried the QB.
+
+Idaho ball, Q3, 2-10-IDHO32 (11:08) 7-10
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+RB C. Marshall runs left tackle for 18 yards (OLB P. Williams, ILB C. Stone).  C G. Lee had 
+a key block on the run.
+
+Idaho ball, Q3, 1-10-IDHO50 (10:40) 7-10
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB G. Bray completes a 17 yard dump off to WR J. Wise (ILB P. Perry, CB T. Bush).  OG R. Adamson 
+earned a pancake on the play. CB T. Bush missed a tackle.
+
+Idaho ball, Q3, 1-10-APP33 (10:16) 7-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+RB J. Wilson runs right tackle for 2 yards (CB R. Brown). 
+
+Idaho ball, Q3, 2-8-APP31 (09:49) 7-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB C. Marshall runs left guard for -3 yards (SS M. Bruno).
+
+Idaho ball, Q3, 3-11-APP34 (09:22) 7-10
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB G. Bray throws an incomplete pass to WR W. Mccord.
+
+Idaho ball, Q3, 4-11-APP34 (09:05) 7-10
+Anthony Fuller misses the 52 yard field goal. It will be Appalachian State ball at the APP 34
+
+Appalachian State ball, Q3, 1-10-APP34 (08:49) 10-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+RB J. Falcon runs right end for 4 yards He fumbles the ball after a hit by B. Wylie. It's 
+recovered by J. Cornett of Appalachian State.
+
+Appalachian State ball, Q3, 2-6-APP38 (08:20) 10-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB J. Falcon runs right guard for 4 yards (CB D. Green). 
+
+Appalachian State ball, Q3, 3-2-APP42 (07:47) 10-7
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB J. Falcon runs left guard for 0 yards (ILB T. Franklin). 
+
+Appalachian State ball, Q3, 4-2-APP42 (07:19) 10-7
+John Lambert Punts 38 yards to the Idaho 20 yard line, where it goes out of bounds.
+
+Idaho ball, Q3, 1-10-IDHO20 (07:03) 7-10
+Offense: Long Pass, Set: Quads, Play: Q-WR3-corner-FL-post
+Defense: Stop Pass, Set: 3-4, Play: 34-run-SZ
+QB G. Bray throws an incomplete pass to WR J. Wise. G. Bray made a bad pass.
+
+Idaho ball, Q3, 2-10-IDHO20 (06:44) 7-10
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+QB G. Bray throws an incomplete pass to WR W. Mccord. WR W. Mccord dropped the pass.
+
+Idaho ball, Q3, 3-10-IDHO20 (06:29) 7-10
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB G. Bray throws an incomplete pass to RB C. Marshall.
+
+Idaho ball, Q3, 4-10-IDHO20 (06:12) 7-10
+Keith Riggs Punts 44 yards to the Appalachian State 36 yard line, where Daniel Hall returns 
+it to Appalachian State 39 for a 3 yard return.
+
+Appalachian State ball, Q3, 1-10-APP39 (05:52) 10-7
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB J. Chow throws an incomplete pass to WR F. Odom (CB B. Wylie). CB B. Wylie broke up the 
+pass.
+
+Appalachian State ball, Q3, 1-10-APP39 (05:52) 10-7
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+WR Richard Norton (APP) was injured on the play (Foot). It doesn't look like he will return.
+
+Appalachian State ball, Q3, 2-10-APP39 (05:34) 10-7
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB J. Chow gets sacked for a 10 yard loss (DT B. Walsh).  OT L. Lewis allowed the sack.
+
+Appalachian State ball, Q3, 3-20-APP29 (05:22) 10-7
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB J. Chow completes a 19 yard out-and-up to WR W. Smith (CB B. Wylie).  OG L. Burchett earned 
+a pancake on the play.
+
+Appalachian State ball, Q3, 4-1-APP48 (04:58) 10-7
+John Lambert Punts 43 yards to the Idaho 9 yard line, where it gets downed.
+
+Idaho ball, Q3, 1-10-IDHO9 (04:40) 7-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB C. Marshall runs right tackle for 4 yards (DE E. Green). 
+
+Idaho ball, Q3, 1-10-IDHO9 (04:40) 7-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+ILB Charles Stone (APP) was injured on the play (Ankle). It doesn't look too serious and he 
+should return.
+
+Idaho ball, Q3, 2-6-IDHO13 (04:25) 7-10
+Offense: Long Pass, Set: Quads, Play: Q-WR3-corner-FL-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB G. Bray throws an incomplete pass to WR A. Lusk (CB D. Cooper). G. Bray made a bad pass. 
+CB D. Cooper broke up the pass.
+
+Holding against Idaho. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 12 at the Idaho 7.
+
+Idaho ball, Q3, 2-12-IDHO7 (04:12) 7-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB C. Marshall runs left guard for -3 yards (ILB P. Perry).
+
+Idaho ball, Q3, 3-15-IDHO4 (03:46) 7-10
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB C. Marshall runs right guard for -3 yards (SS M. Bruno). OT W. Howe missed a block that 
+hurt the play.
+
+Idaho ball, Q3, 4-18-IDHO1 (03:15) 7-10
+Keith Riggs Punts 52 yards to the Appalachian State 47 yard line, where Daniel Hall returns 
+it to Appalachian State 48 for a 1 yard return.
+
+Appalachian State ball, Q3, 1-10-APP48 (02:56) 10-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB J. Falcon runs left end for -3 yards (ILB S. Garcia).
+
+Appalachian State ball, Q3, 2-13-APP45 (02:25) 10-7
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B5,7
+QB J. Chow gets sacked for a 6 yard loss (OLB R. Rice).  OT G. Snow allowed the sack.
+
+Appalachian State ball, Q3, 3-19-APP39 (02:03) 10-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+QB J. Chow completes a 23 yard post to WR D. Hall (SS D. Barnhill, FS B. Schell).  C J. Cornett 
+earned a pancake on the play.
+
+Appalachian State ball, Q3, 1-10-IDHO38 (01:40) 10-7
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB J. Falcon runs left guard for -1 yards (OLB R. Rice). OG L. Burchett missed a block that 
+hurt the play.
+
+Appalachian State ball, Q3, 1-10-IDHO38 (01:40) 10-7
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+OLB Charlie Queen (IDHO) was injured on the play (Stomach). It doesn't look too serious and 
+he should return.
+
+Appalachian State ball, Q3, 2-11-IDHO39 (01:24) 10-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB C. Dixon runs right end for 6 yards (OLB R. Rice, CB D. Green). 
+
+Grabbing Face Mask against SS David Barnhill on Idaho. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Idaho 28.
+
+Appalachian State ball, Q3, 1-10-IDHO28 (01:13) 10-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB C. Dixon runs left tackle for -2 yards (DE F. Stpierre).
+
+Appalachian State ball, Q3, 2-12-IDHO30 (00:42) 10-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB J. Falcon runs left guard for -2 yards (OLB C. Queen).
+
+Appalachian State ball, Q3, 3-14-IDHO32 (00:15) 10-7
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB J. Chow completes a 21 yard in to WR F. Odom (CB B. Wylie, OLB C. Queen).  OG L. Burchett 
+earned a pancake on the play.
+
+Appalachian State ball, Q4, 1-10-IDHO11 (15:00) 10-7
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB J. Chow completes a 11 yard in to WR D. Hall ****Touchdown!***** OT G. Snow earned a pancake 
+on the play. FS B. Schell was out of position on the play.
+
+Appalachian State ball, Q4, 1-0-IDHO0 (14:48) 16-7
+Edward Moody converts the PAT.
+
+Appalachian State ball, Q4, 1-10-APP35 (14:48) 17-7
+Edward Moody kicks 67 from Appalachian State 35 to Idaho -2. Kevin Cooper to Idaho 15 for 
+a 17 yard return.
+
+Idaho ball, Q4, 1-10-IDHO15 (14:29) 7-17
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB G. Bray throws an incomplete pass to WR A. Lusk. G. Bray made a bad pass.
+
+Idaho ball, Q4, 2-10-IDHO15 (14:12) 7-17
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+QB G. Bray throws an incomplete pass to RB C. Marshall (CB R. Brown). RB C. Marshall ran an 
+incorrect route. CB R. Brown broke up the pass.
+
+Idaho ball, Q4, 3-10-IDHO15 (13:56) 7-17
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB G. Bray throws an incomplete pass to RB C. Marshall.
+
+Idaho ball, Q4, 3-10-IDHO15 (13:56) 7-17
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB Gregory Bray (IDHO) was injured on the play (OK). It doesn't look like he will return.
+
+Idaho ball, Q4, 4-10-IDHO15 (13:37) 7-17
+Keith Riggs Punts 29 yards to the Idaho 44 yard line, where Daniel Hall returns it to Idaho 
+45 for a -1 yard return.
+
+Appalachian State ball, Q4, 1-10-IDHO45 (13:21) 17-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+RB J. Falcon runs right tackle for 7 yards (ILB T. Franklin).  DE C. Simon was out of position 
+on the play.
+
+Appalachian State ball, Q4, 2-3-IDHO38 (12:54) 17-7
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B5,8
+QB J. Chow throws an incomplete pass to WR W. Smith.
+
+Appalachian State ball, Q4, 3-3-IDHO38 (12:35) 17-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB J. Falcon runs right guard for 8 yards (FS M. Perez). 
+
+Appalachian State ball, Q4, 3-3-IDHO38 (12:35) 17-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+OG Lewis Burchett (APP) was injured on the play (Lower Back). It doesn't look like he will 
+return.
+
+Appalachian State ball, Q4, 1-10-IDHO30 (12:20) 17-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB C. Dixon runs left guard for 3 yards (ILB S. Garcia). 
+
+Appalachian State ball, Q4, 2-7-IDHO27 (11:48) 17-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB C. Dixon runs right guard for 4 yards (OLB C. Queen, DE T. Miller). 
+
+Appalachian State ball, Q4, 3-3-IDHO23 (11:19) 17-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB J. Chow completes a 6 yard post to WR D. Hall (SS D. Barnhill). 
+
+Appalachian State ball, Q4, 1-10-IDHO17 (10:54) 17-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB J. Falcon runs left end for -3 yards (OLB C. Queen).
+
+Appalachian State ball, Q4, 2-13-IDHO20 (10:21) 17-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB C. Dixon runs right tackle for 1 yard (OOB).
+
+Appalachian State ball, Q4, 3-12-IDHO19 (10:11) 17-7
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB J. Chow completes a 4 yard screen to RB J. Falcon (ILB T. Franklin). 
+
+Appalachian State ball, Q4, 4-8-IDHO15 (09:50) 17-7
+Edward Moody converts the 33 yard field goal.
+
+Appalachian State ball, Q4, 1-10-APP35 (09:33) 20-7
+Edward Moody kicks 75 from Appalachian State 35 to end zone, Touchback.
+
+Idaho ball, Q4, 1-10-IDHO20 (09:14) 7-20
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+QB B. Palmer throws an incomplete pass to RB C. Marshall (CB R. Brown). B. Palmer made a bad 
+pass. CB R. Brown broke up the pass.
+
+Idaho ball, Q4, 2-10-IDHO20 (08:59) 7-20
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB C. Marshall runs left end for 4 yards (OOB).
+
+Idaho ball, Q4, 3-6-IDHO24 (08:44) 7-20
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB B. Palmer gets sacked for a 3 yard loss (DE T. Somers).  C G. Lee allowed the sack.
+
+Idaho ball, Q4, 4-9-IDHO21 (08:28) 7-20
+Keith Riggs Punts 38 yards to the Appalachian State 41 yard line, where Daniel Hall returns 
+it to Idaho 45 for a 14 yard return.
+
+Appalachian State ball, Q4, 1-10-IDHO45 (08:10) 20-7
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Chow completes a 8 yard dump off to WR J. Anderson (OOB).
+
+Appalachian State ball, Q4, 2-2-IDHO37 (07:54) 20-7
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+FB M. Delgado runs right guard for 1 yard (DT B. Walsh). 
+
+Appalachian State ball, Q4, 3-1-IDHO36 (07:23) 20-7
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB J. Chow completes a 8 yard in to WR F. Odom (CB B. Wylie, FS M. Perez). 
+
+Appalachian State ball, Q4, 1-10-IDHO28 (06:59) 20-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB C. Dixon runs left guard for -1 yards (OLB C. Queen). OG G. Carpenter missed a block that 
+hurt the play.
+
+Appalachian State ball, Q4, 2-11-IDHO29 (06:31) 20-7
+Offense: Short Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-TMan-R
+QB J. Chow completes a 10 yard hook to WR D. Hall (SS D. Barnhill). 
+
+Appalachian State ball, Q4, 3-1-IDHO19 (06:15) 20-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB J. Falcon runs right guard for 4 yards (CB D. Green). 
+
+Appalachian State ball, Q4, 1-10-IDHO15 (05:46) 20-7
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB J. Chow completes a 7 yard post to WR D. Hall (ILB S. Garcia, FS B. Schell). 
+
+Appalachian State ball, Q4, 2-3-IDHO8 (05:22) 20-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+RB C. Dixon runs right end for -3 yards (OLB R. Rice).
+
+Appalachian State ball, Q4, 3-6-IDHO11 (05:05) 20-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB J. Chow throws an incomplete pass to WR F. Odom.
+
+Appalachian State ball, Q4, 4-6-IDHO11 (04:45) 20-7
+Edward Moody has his 29 yard field goal blocked by James Wilson! The ball is recovered by 
+James Wilson (IDHO) at the IDHO 2. He returns it to Idaho 5 for 3 yards.
+
+Idaho ball, Q4, 1-10-IDHO20 (04:28) 7-20
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+B. Palmer has his 36 yard pass intercepted by R. Brown at the APP 44. He returns it 17 yards 
+to the Idaho 39. DT J. Anderson hurried the QB.
+
+Idaho ball, Q4, 1-10-IDHO20 (04:28) 7-20
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+OT Randy Ackerman (IDHO) was injured on the play (Head). It doesn't look too serious and he 
+should return.
+
+Appalachian State ball, Q4, 1-10-IDHO39 (04:00) 20-7
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,6,11-R
+RB J. Falcon runs left guard for 1 yard (ILB S. Garcia). 
+
+Appalachian State ball, Q4, 2-9-IDHO38 (03:29) 20-7
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B5,7
+QB J. Chow completes a 10 yard out to WR W. Smith (CB B. Wylie). 
+
+Appalachian State ball, Q4, 1-10-IDHO28 (03:08) 20-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB C. Dixon runs left tackle for 1 yard (OLB R. Rice).  OG G. Carpenter missed a block that 
+hurt the play.
+
+Appalachian State ball, Q4, 2-9-IDHO27 (02:42) 20-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB C. Dixon runs left tackle for 0 yards (ILB S. Garcia). 
+
+Appalachian State ball, Q4, 3-9-IDHO27 (02:09) 20-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB J. Falcon runs right tackle for -5 yards (OLB C. Queen).
+
+Appalachian State ball, Q4, 4-14-IDHO32 (01:49) 20-7
+John Lambert Punts 39 yards to the end zone, Touchback.
+
+Idaho ball, Q4, 1-10-IDHO20 (01:29) 7-20
+Offense: Medium Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB B. Palmer throws an incomplete pass to WR W. Mccord.
+
+Idaho ball, Q4, 2-10-IDHO20 (01:21) 7-20
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB B. Palmer throws an incomplete pass to WR A. Lusk (OLB P. Collins). WR A. Lusk dropped 
+the pass. OLB P. Collins broke up the pass.
+
+Idaho ball, Q4, 3-10-IDHO20 (01:14) 7-20
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB B. Palmer throws an incomplete pass to WR W. Mccord.
+
+Idaho ball, Q4, 4-10-IDHO20 (01:08) 7-20
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB B. Palmer throws an incomplete pass to WR W. Mccord (CB T. Bush). WR W. Mccord ran an incorrect 
+route. CB T. Bush broke up the pass.
+
+Appalachian State ball, Q4, 1-10-IDHO20 (01:02) 20-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB C. Dixon runs left guard for 8 yards (SS D. Barnhill, FS B. Schell).  FS M. Perez missed 
+a tackle.
+
+Idaho Timeout!
+
+Appalachian State ball, Q4, 2-2-IDHO12 (00:53) 20-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+FB R. Brown runs right guard for -2 yards (ILB T. Franklin).
+
+Idaho Timeout!
+
+Appalachian State ball, Q4, 3-4-IDHO14 (00:44) 20-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB J. Falcon runs right guard for -3 yards (DE C. Simon). C J. Cornett missed a block that 
+hurt the play.
+
+Idaho Timeout!
+
+Appalachian State ball, Q4, 4-7-IDHO17 (00:37) 20-7
+Edward Moody converts the 35 yard field goal.
+
+Appalachian State ball, Q4, 1-10-APP35 (00:30) 23-7
+Edward Moody kicks 66 from Appalachian State 35 to Idaho -1. Kevin Cooper to Idaho 13 for 
+a 14 yard return.
+
+Idaho ball, Q4, 1-10-IDHO13 (00:23) 7-23
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB B. Palmer completes a 8 yard post to WR J. Wise (OOB).
+
+Idaho ball, Q4, 2-2-IDHO21 (00:17) 7-23
+Offense: Long Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B4,7-L
+H. Wallace has his 48 yard pass intercepted by R. Brown at the APP 31. He returns it 0 yards 
+to the Appalachian State 31.
+

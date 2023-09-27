@@ -1,0 +1,932 @@
+Boston ball, Q1, 1-10-BC35 (15:00) 0-0
+Josh Gillette kicks 55 from Boston 35 to NC State 10. Samuel Gardiner to NC State 25 for a 
+15 yard return.
+
+NC State ball, Q1, 1-10-NCST25 (14:40) 0-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ-B6-Spy
+QB P. Pike completes a 8 yard cross to WR M. Acosta (OLB J. Hundley, CB P. Adams). 
+
+NC State ball, Q1, 2-2-NCST33 (14:17) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+RB M. Moore runs left guard for 4 yards (OLB J. Hundley, CB P. Adams). 
+
+NC State ball, Q1, 1-10-NCST37 (13:49) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB M. Moore runs left guard for 9 yards (FS R. Lujan, OLB R. Mendez).  OG C. Cunningham had 
+a key block on the run. CB P. Adams missed a tackle.
+
+NC State ball, Q1, 2-1-NCST46 (13:17) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+RB M. Moore runs right tackle for 8 yards (ILB J. Vidal).  FB R. Robinson had a key block 
+on the run. ILB R. Lugo was out of position on the play.
+
+NC State ball, Q1, 1-10-BC46 (12:50) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB P. Pike completes a 34 yard post to TE M. Ellison (OOB). OG C. Cunningham earned a pancake 
+on the play. CB M. Hubbard allowed the big play.
+
+NC State ball, Q1, 1-10-BC12 (12:32) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB P. Pike gets sacked for a 3 yard loss (SS C. Parker).  He fumbles the ball after a hit 
+by C. Parker. It's recovered by R. Robinson of NC State. OT R. Blackwell allowed the sack.
+
+NC State ball, Q1, 2-13-BC15 (12:14) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+RB J. Light runs right tackle for 3 yards (ILB J. Vidal). 
+
+NC State ball, Q1, 3-10-BC12 (11:43) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB M. Moore runs right end for 1 yard (OLB R. Mendez). 
+
+NC State ball, Q1, 4-9-BC11 (11:13) 0-0
+Thomas Vallejo converts the 29 yard field goal.
+
+NC State ball, Q1, 1-10-NCST35 (10:58) 3-0
+Thomas Vallejo kicks 63 from NC State 35 to Boston 2. James Farris to Boston 15 for a 13 yard 
+return.
+
+Boston ball, Q1, 1-10-BC15 (10:40) 0-3
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB K. Madsen gets sacked for a 5 yard loss (DT S. Rogers).  RB M. West allowed the sack.
+
+Boston ball, Q1, 1-10-BC15 (10:40) 0-3
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+OT Herbert Fernandez (BC) was injured on the play (Quadriceps). It doesn't look too serious 
+and he should return.
+
+Boston ball, Q1, 2-15-BC10 (10:25) 0-3
+Offense: Short Pass, Set: Wing T, Play: T-SE-playact-cor
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB K. Madsen completes a 5 yard post to RB M. West (OLB D. Henderson, SS D. Dejesus). 
+
+Boston ball, Q1, 3-10-BC15 (10:01) 0-3
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Madsen throws an incomplete pass to WR D. Lawson. WR D. Lawson dropped the pass.
+
+Boston ball, Q1, 4-10-BC15 (09:44) 0-3
+Josh Gillette Punts 42 yards to the NC State 43 yard line, where Samuel Gardiner returns it 
+to NC State 49 for a 6 yard return.
+
+NC State ball, Q1, 1-10-NCST49 (09:26) 3-0
+Offense: Long Pass, Set: I Form, Play: I-SE-streaks
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+QB P. Pike throws an incomplete pass to WR M. Acosta.
+
+NC State ball, Q1, 1-10-NCST49 (09:26) 3-0
+Offense: Long Pass, Set: I Form, Play: I-SE-streaks
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+C James Beverly (NCST) was injured on the play (Forearm). It doesn't look too serious and 
+he should return.
+
+NC State ball, Q1, 2-10-NCST49 (09:10) 3-0
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB M. Moore runs left end for 0 yards (ILB R. Lugo). 
+
+NC State ball, Q1, 3-10-NCST49 (08:37) 3-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,5,6,7,
+QB P. Pike completes a 11 yard hook to RB M. Moore (ILB R. Lugo).  CB M. Hubbard was out of 
+position on the play.
+
+NC State ball, Q1, 1-10-BC40 (08:15) 3-0
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ-B6-Spy
+QB P. Pike completes a 28 yard post to WR S. Gardiner (CB P. Adams). 
+
+NC State ball, Q1, 1-10-BC12 (07:51) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB J. Light runs right guard for 0 yards (ILB J. Vidal). 
+
+NC State ball, Q1, 2-10-BC12 (07:22) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB M. Moore runs left tackle for 10 yards (OLB J. Hundley).  M. Moore created the big run 
+with his own skills. OLB J. Hundley missed a tackle.
+
+NC State ball, Q1, 1-2-BC2 (06:55) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+RB M. Moore runs right tackle for 0 yards (SS C. Parker). 
+
+NC State ball, Q1, 2-2-BC2 (06:26) 3-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+RB M. Moore runs left guard for -3 yards (ILB J. Vidal). OT S. Mccormack missed a block that 
+hurt the play.
+
+NC State ball, Q1, 3-5-BC5 (05:59) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+RB M. Moore runs left guard for -1 yards (OLB R. Mendez). OT R. Blackwell missed a block that 
+hurt the play.
+
+NC State ball, Q1, 4-6-BC6 (05:28) 3-0
+Thomas Vallejo converts the 24 yard field goal.
+
+NC State ball, Q1, 1-10-NCST35 (05:01) 6-0
+Thomas Vallejo kicks 54 from NC State 35 to Boston 11. Randal Lujan to Boston 42 for a 31 
+yard return.
+
+Boston ball, Q1, 1-10-BC42 (04:54) 0-6
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB J. Farris runs left guard for 4 yards (OLB D. Henderson). 
+
+Boston ball, Q1, 2-6-BC46 (04:24) 0-6
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB K. Madsen completes a 1 yard hook to FB D. Gordon (SS A. Davis). 
+
+Boston ball, Q1, 3-5-BC47 (04:02) 0-6
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB K. Madsen completes a 8 yard dump off to RB J. Farris (FS J. Colbert, OLB R. Coates). 
+
+Boston ball, Q1, 1-10-NCST45 (03:40) 0-6
+Offense: Outside Run, Set: I Form Big, Play: IB-RB-power-RE
+Defense: Stop Run, Set: Dime, Play: Dime-pass-Man
+RB J. Farris runs right end for 1 yard (OLB D. Henderson).  TE J. Burke missed a block that 
+hurt the play.
+
+Boston ball, Q1, 2-9-NCST44 (03:12) 0-6
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+RB J. Farris runs left guard for 2 yards (SS D. Dejesus, ILB D. Castillo). 
+
+Boston ball, Q1, 3-7-NCST42 (02:43) 0-6
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-option-RE
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-L
+RB J. Farris runs right end for 10 yards (FS J. Colbert). 
+
+Boston ball, Q1, 1-10-NCST32 (02:12) 0-6
+Offense: Inside Run, Set: I Form Big, Play: IB-FB-straight-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-R
+FB D. Gordon runs left guard for 22 yards (ILB D. Castillo, OLB R. Coates).  OG D. Rodriquez 
+had a key block on the run.
+
+Boston ball, Q1, 1-10-NCST10 (01:41) 0-6
+Offense: Outside Run, Set: Wishbone, Play: WB-WB-option-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB K. Madsen scrambles out of the pocket and gets sacked for a 5 yard loss (DE L. Johnson). 
+ C J. Martinez missed a block that hurt the play. RB M. West allowed the sack.
+
+Boston ball, Q1, 2-15-NCST15 (01:13) 0-6
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB J. Farris runs left guard for 2 yards (CB D. Davis). 
+
+Boston ball, Q1, 3-13-NCST13 (00:40) 0-6
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB J. Farris runs left tackle for 8 yards (OLB R. Coates, SS A. Davis).  FS J. Colbert missed 
+a tackle.
+
+Boston ball, Q1, 4-5-NCST5 (00:12) 0-6
+David Lee converts the 23 yard field goal.
+
+Boston ball, Q2, 1-10-BC35 (15:00) 3-6
+CB Milton Rodriguez (NCST) was injured on the play (Knee). It doesn't look like he will return.
+
+Boston ball, Q2, 1-10-BC35 (15:00) 3-6
+Josh Gillette kicks 63 from Boston 35 to NC State 2. Nathan Torres to NC State 17 for a 15 
+yard return.
+
+NC State ball, Q2, 1-10-NCST17 (14:43) 6-3
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+FB R. Robinson runs left guard for 7 yards (FS R. Lujan). 
+
+NC State ball, Q2, 2-3-NCST24 (14:14) 6-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,6,11-R
+RB M. Moore runs right end for 17 yards (CB M. Hubbard, OLB J. Hundley).  OG C. Cunningham 
+had a key block on the run.
+
+NC State ball, Q2, 1-10-NCST41 (13:41) 6-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB M. Moore runs right tackle for -2 yards (SS C. Parker).
+
+NC State ball, Q2, 2-12-NCST39 (13:09) 6-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+QB P. Pike throws an incomplete pass to RB M. Moore (OLB R. Mendez). OLB R. Mendez broke up 
+the pass.
+
+NC State ball, Q2, 3-12-NCST39 (12:49) 6-3
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+False Start against OT Scott Mccormack on NC State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 17 at the NC State 34.
+
+NC State ball, Q2, 3-17-NCST34 (12:49) 6-3
+Offense: Medium Pass, Set: Double TE, Play: DTE-TE-posts
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB P. Pike throws an incomplete pass to WR S. Gardiner.
+
+NC State ball, Q2, 4-17-NCST34 (12:32) 6-3
+James Mack Punts 42 yards to the Boston 24 yard line, where Derrick Lawson returns it to Boston 
+42 for a 18 yard return.
+
+Boston ball, Q2, 1-10-BC42 (12:17) 3-6
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-straight-LT
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+RB J. Farris runs left end for 0 yards (DE L. Johnson).  J. Farris missed a hole that could 
+have resulted in a bigger gain.
+
+Boston ball, Q2, 2-10-BC42 (11:50) 3-6
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-option-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB J. Farris runs right tackle for 1 yard (OOB).
+
+Boston ball, Q2, 3-9-BC43 (11:36) 3-6
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB K. Madsen runs right tackle for 4 yards He fumbles the ball after a hit by R. Torres. It's 
+recovered by G. Harvey of NC State. He returns it 0 yards to the Boston 47.
+
+NC State ball, Q2, 1-10-BC47 (11:09) 6-3
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB M. Moore runs left end for 10 yards (OOB).
+
+NC State ball, Q2, 1-10-BC37 (10:58) 6-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB J. Light runs right guard for 0 yards (DE C. Womack). 
+
+NC State ball, Q2, 1-10-BC37 (10:58) 6-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+WR Matthew Acosta (NCST) was injured on the play (Foot). It doesn't look too serious and he 
+should return.
+
+NC State ball, Q2, 2-10-BC37 (10:44) 6-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB P. Pike completes a 7 yard post to WR M. Brown (FS C. Johnson). 
+
+NC State ball, Q2, 3-3-BC30 (10:20) 6-3
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB P. Pike gets sacked for a 2 yard loss (OLB R. Mendez).  OG C. Mchenry allowed the sack.
+
+NC State ball, Q2, 4-5-BC32 (10:00) 6-3
+Thomas Vallejo misses the 50 yard field goal. It will be Boston ball at the BC 32
+
+Boston ball, Q2, 1-10-BC32 (09:44) 3-6
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Pass, Set: 4-3, Play: 43-norm-TMan-L
+QB K. Madsen runs outside for 4 yards (OOB).
+
+Boston ball, Q2, 2-6-BC36 (09:32) 3-6
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-straight-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-pass-Man-B10
+RB J. Farris runs right guard for -2 yards (DE C. Jenkins).
+
+Boston ball, Q2, 3-8-BC34 (09:06) 3-6
+Offense: Short Pass, Set: Wing T, Play: T-SE-corner-WB-flat
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Madsen throws an incomplete pass to RB M. West (SS A. Davis). SS A. Davis broke up the 
+pass.
+
+Boston ball, Q2, 4-8-BC34 (08:50) 3-6
+Josh Gillette Punts 53 yards to the NC State 13 yard line, where it goes out of bounds.
+
+NC State ball, Q2, 1-10-NCST13 (08:31) 6-3
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+FB R. Robinson runs left guard for 10 yards (ILB R. Lugo). 
+
+NC State ball, Q2, 1-10-NCST23 (07:58) 6-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB M. Moore runs right guard for 3 yards (CB P. Adams, DE C. Womack). 
+
+NC State ball, Q2, 2-7-NCST26 (07:28) 6-3
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+QB P. Pike completes a 9 yard screen to RB J. Light (OOB).
+
+NC State ball, Q2, 1-10-NCST35 (07:14) 6-3
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-SZ-B6-Spy
+QB P. Pike completes a 6 yard out to WR S. Gardiner (SS B. Green, ILB J. Vidal). 
+
+Passer beyond Line of Scrimmage against QB Patrick Pike on NC State. The Penalty is for 5 
+yards, and a loss of down.
+The Defense will accept the penalty. It is now Second and 15 at the NC State 30.
+
+NC State ball, Q2, 2-15-NCST30 (07:03) 6-3
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB P. Pike runs left tackle for 4 yards (DT R. Jackson). 
+
+NC State ball, Q2, 3-11-NCST34 (06:32) 6-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+QB P. Pike throws an incomplete pass to WR M. Acosta (ILB R. Lugo). ILB R. Lugo broke up the 
+pass.
+
+NC State ball, Q2, 4-11-NCST34 (06:13) 6-3
+James Mack Punts 44 yards to the Boston 22 yard line, where Derrick Lawson returns it to Boston 
+33 for a 11 yard return.
+
+Boston ball, Q2, 1-10-BC33 (05:54) 3-6
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: 4-3, Play: 43-run-SZ
+QB K. Madsen throws an incomplete pass to FB D. Gordon.
+
+Boston ball, Q2, 2-10-BC33 (05:37) 3-6
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB J. Farris runs right end for 6 yards (OLB R. Coates). 
+
+Boston ball, Q2, 2-10-BC33 (05:37) 3-6
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+DE Gregory Harvey (NCST) was injured on the play (Spine). It doesn't look like he will return.
+
+Boston ball, Q2, 3-4-BC39 (05:20) 3-6
+Offense: Outside Run, Set: I Form Big, Play: IB-RB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB J. Farris runs right end for -1 yards (OLB D. Henderson).
+
+Boston ball, Q2, 4-5-BC38 (04:48) 3-6
+Josh Gillette Punts 42 yards to the NC State 20 yard line, where it goes out of bounds.
+
+NC State ball, Q2, 1-10-NCST20 (04:29) 6-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB P. Pike throws an incomplete pass to RB J. Light.
+
+NC State ball, Q2, 2-10-NCST20 (04:11) 6-3
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB J. Light runs left tackle for 4 yards (SS C. Parker). 
+
+NC State ball, Q2, 3-6-NCST24 (03:42) 6-3
+Offense: Short Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+QB P. Pike completes a 15 yard out to TE M. Ellison (CB M. Hubbard).  OG C. Cunningham earned 
+a pancake on the play. FS R. Lujan missed a tackle.
+
+NC State ball, Q2, 1-10-NCST39 (03:18) 6-3
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB J. Light runs right guard for -2 yards (OLB R. Mendez).
+
+NC State ball, Q2, 2-12-NCST37 (02:46) 6-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB J. Light runs left guard for -1 yards (SS C. Parker). FB R. Robinson missed a block that 
+hurt the play.
+
+NC State ball, Q2, 3-13-NCST36 (02:14) 6-3
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB P. Pike completes a 15 yard screen to RB M. Moore (CB P. Adams).  OT S. Mccormack earned 
+a pancake on the play. FS R. Lujan was out of position on the play.
+
+NC State ball, Q2, 1-10-BC49 (01:53) 6-3
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB P. Pike throws an incomplete pass to WR S. Gardiner (CB M. Hubbard). CB M. Hubbard broke 
+up the pass.
+
+NC State ball, Q2, 2-10-BC49 (01:34) 6-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB P. Pike completes a 10 yard hook to FB R. Robinson (FS C. Johnson). 
+
+NC State ball, Q2, 1-10-BC39 (01:11) 6-3
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB P. Pike completes a 12 yard hook to WR M. Acosta (SS C. Parker, CB L. Williams).  OG C. 
+Cunningham earned a pancake on the play. CB M. Hubbard missed a tackle.
+
+NC State Timeout!
+
+NC State ball, Q2, 1-10-BC27 (01:05) 6-3
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB P. Pike runs outside for 4 yards (FS R. Lujan). 
+
+NC State Timeout!
+
+NC State ball, Q2, 2-6-BC23 (00:57) 6-3
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB P. Pike completes a 23 yard hook to RB J. Light ****Touchdown!***** OT R. Blackwell earned 
+a pancake on the play. SS C. Parker missed a tackle.
+
+NC State ball, Q2, 1-0-BC0 (00:42) 12-3
+Thomas Vallejo converts the PAT.
+
+NC State ball, Q2, 1-10-NCST35 (00:42) 13-3
+Thomas Vallejo kicks 55 from NC State 35 to Boston 10. Randal Lujan to Boston 27 for a 17 
+yard return.
+
+Boston ball, Q2, 1-10-BC27 (00:36) 3-13
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB J. Farris runs left end for 1 yard (OLB R. Coates).  J. Farris missed a hole that could 
+have resulted in a bigger gain.
+
+NC State Timeout!
+
+Boston ball, Q2, 2-9-BC28 (00:28) 3-13
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB J. Farris runs right guard for 2 yards (CB R. Torres, CB D. Davis). 
+
+Boston ball, Q2, 3-7-BC30 (00:06) 3-13
+Offense: Inside Run, Set: Wing T, Play: T-HB-power-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+The QB takes a knee.
+
+NC State ball, Q3, 1-10-NCST35 (15:00) 13-3
+Thomas Vallejo kicks 47 from NC State 35 to Boston 18. James Farris to Boston 41 for a 23 
+yard return.
+
+Boston ball, Q3, 1-10-BC41 (14:44) 3-13
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB J. Farris runs right tackle for 6 yards (OLB R. Coates). 
+
+Boston ball, Q3, 2-4-BC47 (14:11) 3-13
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB J. Farris runs right end for 2 yards (OLB D. Henderson). 
+
+Boston ball, Q3, 3-2-BC49 (13:45) 3-13
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-tripoption-LE
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+QB K. Madsen runs left end for 4 yards (ILB D. Castillo). 
+
+Boston ball, Q3, 1-10-NCST47 (13:13) 3-13
+Offense: Short Pass, Set: I Form Big, Play: IB-FB-playact-flat
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB K. Madsen throws an incomplete pass to FB D. Gordon (CB R. Torres). FB D. Gordon dropped 
+the pass. CB R. Torres broke up the pass.
+
+Boston ball, Q3, 2-10-NCST47 (12:55) 3-13
+Offense: Outside Run, Set: Wing T, Play: T-HB-option-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB K. Madsen scrambles out of the pocket and gets sacked for a 4 yard loss (SS A. Davis). 
+ RB M. West allowed the sack.
+
+Boston ball, Q3, 3-14-BC49 (12:23) 3-13
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB K. Madsen completes a 4 yard post to RB M. West (SS D. Dejesus). 
+
+Holding against OG Edward Ricks on Boston. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Boston ball, Q3, 4-10-NCST47 (12:12) 3-13
+Josh Gillette Punts 33 yards to the NC State 14 yard line, where it goes out of bounds.
+
+NC State ball, Q3, 1-10-NCST14 (11:54) 13-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B5
+RB M. Moore runs left end for 3 yards (ILB J. Vidal, DE C. Womack). 
+
+NC State ball, Q3, 2-7-NCST17 (11:27) 13-3
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB P. Pike completes a 23 yard screen to RB M. Moore (OOB). OT R. Blackwell earned a pancake 
+on the play.
+
+Holding against CB Patrick Adams on Boston. The Penalty is for 10 yards, and an automatic 
+first down.
+The penalty will be declined.
+
+NC State ball, Q3, 1-10-NCST40 (11:13) 13-3
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+RB M. Moore runs right end for 10 yards (ILB J. Vidal, OLB J. Hundley). 
+
+NC State ball, Q3, 1-10-NCST50 (10:43) 13-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+RB M. Moore runs right tackle for 1 yard (FS R. Lujan). 
+
+NC State ball, Q3, 2-9-BC49 (10:11) 13-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB P. Pike completes a 7 yard hook to WR S. Gardiner (CB P. Adams). 
+
+NC State ball, Q3, 2-9-BC49 (10:11) 13-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+WR Matthew Acosta (NCST) was injured on the play (Elbow). It doesn't look like he will return.
+
+NC State ball, Q3, 3-2-BC42 (09:56) 13-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-run-SZ
+P. Pike has his 13 yard pass intercepted by R. Lujan at the BC 29. He returns it 10 yards 
+to the Boston 39. OLB J. Hundley hurried the QB.
+
+Boston ball, Q3, 1-10-BC39 (09:26) 3-13
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB J. Farris runs right guard for 5 yards (SS A. Davis, DT J. Smith). 
+
+Boston ball, Q3, 2-5-BC44 (09:00) 3-13
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-straight-LT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB J. Farris runs left end for 2 yards (ILB D. Castillo, FS J. Colbert). 
+
+Boston ball, Q3, 3-3-BC46 (08:29) 3-13
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB K. Madsen throws an incomplete pass to FB D. Gordon. DT J. Smith hurried the QB.
+
+Boston ball, Q3, 4-3-BC46 (08:12) 3-13
+Josh Gillette Punts 36 yards to the NC State 18 yard line, where Samuel Gardiner returns it 
+to NC State 29 for a 11 yard return.
+
+NC State ball, Q3, 1-10-NCST29 (07:52) 13-3
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+RB M. Moore runs left end for 2 yards (OOB).
+
+NC State ball, Q3, 2-8-NCST31 (07:39) 13-3
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB M. Moore runs left tackle for 5 yards (ILB J. Vidal, OLB R. Mendez). 
+
+NC State ball, Q3, 3-3-NCST36 (07:06) 13-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-B7,11-R
+RB M. Moore runs right guard for 5 yards (OLB R. Mendez). 
+
+NC State ball, Q3, 1-10-NCST41 (06:35) 13-3
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-Man
+QB P. Pike throws an incomplete pass to WR M. Brown.
+
+NC State ball, Q3, 2-10-NCST41 (06:18) 13-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+QB P. Pike completes a 11 yard post to TE M. Ellison (ILB J. Vidal).  He fumbles the ball 
+after a hit by J. Vidal. It's recovered by R. Mendez of Boston. He returns it 5 yards to the NC State 47.
+
+Boston ball, Q3, 1-10-NCST47 (05:55) 3-13
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-power-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+RB J. Farris runs left tackle for 1 yard (FS J. Colbert).  OT O. Jones missed a block that 
+hurt the play.
+
+Boston ball, Q3, 2-9-NCST46 (05:29) 3-13
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+RB J. Farris runs left guard for -3 yards (ILB D. Castillo). OT O. Jones missed a block that 
+hurt the play.
+
+Offsides against ILB David Castillo on NC State. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Second and 4 at the NC State 41.
+
+Boston ball, Q3, 2-4-NCST41 (05:19) 3-13
+Offense: Medium Pass, Set: I Form Big, Play: IB-SE-str-TE2-slant
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB K. Madsen throws an incomplete pass to WR D. Lawson.
+
+Boston ball, Q3, 3-4-NCST41 (05:00) 3-13
+Offense: Inside Run, Set: Wing T, Play: T-HB-power-RG
+Defense: Normal, Set: 4-3, Play: 43-norm-Man
+RB J. Farris runs right guard for 11 yards (FS J. Colbert, ILB D. Castillo).  OG D. Rodriquez 
+had a key block on the run.
+
+Boston ball, Q3, 1-10-NCST30 (04:28) 3-13
+Offense: Inside Run, Set: Wing T, Play: T-HB-power-RG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+RB J. Farris runs right guard for 4 yards (OLB D. Henderson, DE L. Johnson). 
+
+Boston ball, Q3, 2-6-NCST26 (03:59) 3-13
+Offense: Short Pass, Set: I Form Big, Play: IB-SE-str-TE2-slant
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Madsen gets sacked for a 2 yard loss (DE L. Johnson).  OT O. Jones allowed the sack.
+
+Boston ball, Q3, 2-6-NCST26 (03:59) 3-13
+Offense: Short Pass, Set: I Form Big, Play: IB-SE-str-TE2-slant
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+OT Herbert Fernandez (BC) was injured on the play (Forearm). It doesn't look like he will 
+return.
+
+Boston ball, Q3, 3-8-NCST28 (03:44) 3-13
+Offense: Medium Pass, Set: Flexbone, Play: FL-SE-optpass-corner
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB K. Madsen throws an incomplete pass to WR D. Engel. K. Madsen made a bad pass. DT S. Rogers 
+hurried the QB.
+
+Boston ball, Q3, 4-8-NCST28 (03:29) 3-13
+David Lee misses the 46 yard field goal. It will be NC State ball at the NCST 28
+
+NC State ball, Q3, 1-10-NCST28 (03:11) 13-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB P. Pike completes a 8 yard post to TE M. Ellison (OOB).
+
+NC State ball, Q3, 2-2-NCST36 (02:57) 13-3
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B4,7-L
+P. Pike has his 45 yard pass intercepted by J. Vidal at the BC 19. He returns it 0 yards to 
+the Boston 19. P. Pike made a bad pass.
+
+Boston ball, Q3, 1-10-BC19 (02:27) 3-13
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Stop Run, Set: Dime, Play: Dime-pass-Man-B5-L
+RB J. Farris runs left tackle for 10 yards (OLB R. Coates, OLB D. Henderson).  DE C. Jenkins 
+was out of position on the play.
+
+Boston ball, Q3, 1-10-BC29 (01:57) 3-13
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B8
+RB M. West runs right guard for 21 yards (ILB D. Castillo).  C J. Martinez had a key block 
+on the run.
+
+Boston ball, Q3, 1-10-BC50 (01:26) 3-13
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB M. West runs right end for 13 yards (FS J. Colbert).  C J. Martinez had a key block on 
+the run. DT S. Rogers was out of position on the play.
+
+Boston ball, Q3, 1-10-NCST37 (00:58) 3-13
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB K. Madsen completes a 8 yard dump off to RB M. West (OLB D. Henderson). 
+
+Boston ball, Q3, 2-2-NCST29 (00:35) 3-13
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB J. Farris runs left guard for -1 yards (CB D. Davis). OT O. Jones missed a block that hurt 
+the play.
+
+Boston ball, Q3, 3-3-NCST30 (00:06) 3-13
+Offense: Short Pass, Set: I Form Big, Play: IB-FB-screen
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB K. Madsen throws an incomplete pass to FB D. Gordon. FB D. Gordon ran an incorrect route. 
+DT J. Smith hurried the QB.
+
+Boston ball, Q4, 4-3-NCST30 (15:00) 3-13
+David Lee misses the 48 yard field goal. It will be NC State ball at the NCST 30
+
+NC State ball, Q4, 1-10-NCST30 (14:41) 13-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB M. Moore runs right guard for -2 yards (ILB J. Vidal). OG C. Mchenry missed a block that 
+hurt the play.
+
+NC State ball, Q4, 2-12-NCST28 (14:08) 13-3
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B5
+QB P. Pike throws an incomplete pass to WR S. Gardiner. WR S. Gardiner dropped the pass.
+
+NC State ball, Q4, 3-12-NCST28 (13:53) 13-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+QB P. Pike completes a 20 yard hook to WR S. Gardiner (OOB). CB M. Hubbard missed a tackle.
+
+NC State ball, Q4, 1-10-NCST48 (13:38) 13-3
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+WR M. Brown runs right end for 10 yards (OLB R. Mendez). 
+
+NC State ball, Q4, 1-10-BC42 (13:05) 13-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB J. Light runs right tackle for 24 yards (CB P. Adams, SS C. Parker).  CB M. Hubbard was 
+out of position on the play.
+
+NC State ball, Q4, 1-10-BC18 (12:32) 13-3
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB M. Moore runs left end for 11 yards (OLB J. Hundley).  OG C. Cunningham had a key block 
+on the run. DE F. Morgan missed a tackle.
+
+NC State ball, Q4, 1-7-BC7 (12:04) 13-3
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+QB P. Pike throws an incomplete pass to FB R. Robinson (CB P. Adams). P. Pike made a bad pass. 
+CB P. Adams broke up the pass.
+
+NC State ball, Q4, 2-7-BC7 (11:49) 13-3
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB P. Pike completes a 7 yard hook to RB J. Light ****Touchdown!*****
+
+NC State ball, Q4, 1-0-BC0 (11:28) 19-3
+Thomas Vallejo converts the PAT.
+
+NC State ball, Q4, 1-10-NCST35 (11:28) 20-3
+Thomas Vallejo kicks 55 from NC State 35 to Boston 10. Randal Lujan to Boston 35 for a 25 
+yard return.
+
+Boston ball, Q4, 1-10-BC35 (11:10) 3-20
+Offense: Outside Run, Set: Wishbone, Play: WB-WB-power-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB M. West runs right end for -1 yards (SS A. Davis). C J. Martinez missed a block that hurt 
+the play.
+
+Boston ball, Q4, 2-11-BC34 (10:39) 3-20
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Madsen gets sacked for a 2 yard loss (OLB D. Henderson).  RB M. West allowed the sack.
+
+Boston ball, Q4, 3-13-BC32 (10:20) 3-20
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB K. Madsen completes a 6 yard dump off to RB M. West (OLB R. Coates). 
+
+Boston ball, Q4, 4-7-BC38 (09:58) 3-20
+Josh Gillette Punts 41 yards to the NC State 21 yard line, where it gets downed.
+
+NC State ball, Q4, 1-10-NCST21 (09:41) 20-3
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+FB R. Robinson runs right end for 1 yard (SS C. Parker). 
+
+NC State ball, Q4, 2-9-NCST22 (09:09) 20-3
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+RB J. Light runs right end for 2 yards (OOB).
+
+NC State ball, Q4, 2-9-NCST22 (09:09) 20-3
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+ILB James Vidal (BC) was injured on the play (Foot). It doesn't look like he will return.
+
+NC State ball, Q4, 3-7-NCST24 (08:55) 20-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB P. Pike throws an incomplete pass to WR J. Gentry (OLB R. Mendez). OLB R. Mendez broke 
+up the pass.
+
+NC State ball, Q4, 4-7-NCST24 (08:40) 20-3
+James Mack Punts 36 yards to the Boston 40 yard line, where Derrick Lawson returns it to Boston 
+44 for a 4 yard return.
+
+Boston ball, Q4, 1-10-BC44 (08:21) 3-20
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB J. Farris runs right tackle for 10 yards (ILB D. Castillo, OLB D. Henderson).  OG E. Ricks 
+had a key block on the run. OLB R. Coates missed a tackle.
+
+Boston ball, Q4, 1-10-NCST46 (07:51) 3-20
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB J. Farris runs right guard for 0 yards He fumbles the ball after a hit by L. Johnson. It's 
+recovered by D. Castillo of NC State. He returns it 6 yards to the Boston 48.
+
+NC State ball, Q4, 1-10-BC48 (07:23) 20-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB M. Moore runs right guard for 6 yards (OLB J. Hundley). 
+
+NC State ball, Q4, 2-4-BC42 (06:50) 20-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-SZ-B5,6
+RB J. Light runs right tackle for 0 yards (OLB J. Hundley).  OT S. Mccormack missed a block 
+that hurt the play.
+
+NC State ball, Q4, 3-4-BC42 (06:19) 20-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB P. Pike completes a 4 yard post to TE M. Ellison (OLB R. Mendez, FS R. Lujan). 
+
+Pass Interference against SS Caleb Parker on Boston. The Penalty is for 4 yards, and an automatic 
+first down.
+The penalty will be declined.
+
+NC State ball, Q4, 1-10-BC38 (06:06) 20-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB M. Moore runs right guard for 0 yards (OLB J. Hundley). 
+
+NC State ball, Q4, 2-10-BC38 (05:34) 20-3
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB P. Pike throws an incomplete pass to RB M. Moore.
+
+NC State ball, Q4, 3-10-BC38 (05:17) 20-3
+Offense: Short Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB P. Pike completes a 16 yard out to TE M. Ellison (CB P. Adams). 
+
+NC State ball, Q4, 1-10-BC22 (04:53) 20-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB J. Light runs left guard for 1 yard (OLB J. Hundley). 
+
+NC State ball, Q4, 2-9-BC21 (04:21) 20-3
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-straight-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-norm-TMan
+RB J. Light runs right guard for 21 yards ****Touchdown!***** OG C. Cunningham had a key block 
+on the run. CB L. Williams was out of position on the play.
+
+NC State ball, Q4, 1-0-BC0 (03:48) 26-3
+Thomas Vallejo converts the PAT.
+
+NC State ball, Q4, 1-10-NCST35 (03:48) 27-3
+Thomas Vallejo kicks 47 from NC State 35 to Boston 18. John Evans to Boston 26 for a 8 yard 
+return.
+
+Boston ball, Q4, 1-10-BC26 (03:29) 3-27
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+QB K. Madsen completes a 14 yard dump off to RB J. Farris (OOB). OG D. Rodriquez earned a 
+pancake on the play.
+
+Boston ball, Q4, 1-10-BC40 (03:13) 3-27
+Offense: Medium Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+QB K. Madsen throws an incomplete pass to WR D. Engel. DE C. Jenkins hurried the QB.
+
+Boston ball, Q4, 2-10-BC40 (02:57) 3-27
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Pass, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB K. Madsen completes a 14 yard post to TE D. Stephens (OLB K. Dunn).  OLB K. Dunn was out 
+of position on the play.
+
+Boston ball, Q4, 1-10-NCST46 (02:29) 3-27
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB K. Madsen completes a 6 yard cross to WR D. Lawson (FS J. Molina, SS A. Davis). 
+
+Boston ball, Q4, 2-4-NCST40 (02:05) 3-27
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ-B6
+QB K. Madsen gets sacked for a 3 yard loss (DT J. Smith).  RB J. Kim allowed the sack.
+
+Boston ball, Q4, 3-7-NCST43 (01:54) 3-27
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB K. Madsen completes a 39 yard streak to RB M. West (OOB). OG E. Ricks earned a pancake 
+on the play. CB D. Davis allowed the big play.
+
+Boston ball, Q4, 1-4-NCST4 (01:36) 3-27
+Offense: Short Pass, Set: Wing T, Play: T-SE-playact-cor
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB K. Madsen completes a 2 yard in to TE D. Stephens (OLB R. Coates, FS J. Molina). 
+
+Boston ball, Q4, 2-2-NCST2 (01:13) 3-27
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB K. Madsen completes a 2 yard dump off to FB D. Gordon ****Touchdown!*****
+
+Boston ball, Q4, 1-0-NCST0 (01:02) 9-27
+Offense: Short Pass, Set: Wing T, Play: T-SE-playact-cor
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB K. Madsen throws an incomplete pass to WR D. Lawson.
+
+Boston ball, Q4, 1-10-BC35 (01:02) 9-27
+Josh Gillette Lines up for the onside kick! The opponent has their hands team out there. The 
+kick goes 15 yards and bounces around...[B] The Return Team Holds on to it. Richard Robinson ends up with it on the Boston 50.
+
+NC State ball, Q4, 1-10-BC50 (00:54) 27-9
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB J. Light runs left guard for 2 yards (CB P. Adams). 
+
+Boston Timeout!
+
+NC State ball, Q4, 2-8-BC48 (00:46) 27-9
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB M. Moore runs right tackle for 7 yards (FS R. Lujan, OLB J. Hundley).  DT K. Hammond missed 
+a tackle.
+
+Boston Timeout!
+
+NC State ball, Q4, 3-1-BC41 (00:38) 27-9
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB M. Moore runs left end for 6 yards (OOB).
+
+Boston Timeout!
+
+NC State ball, Q4, 1-10-BC35 (00:28) 27-9
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+The QB takes a knee.
+
+NC State ball, Q4, 2-12-BC37 (00:20) 27-9
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+The QB takes a knee.
+

@@ -1,0 +1,1010 @@
+Colorado ball, Q1, 1-10-COL35 (15:00) 0-0
+Roger Garcia kicks 73 from Colorado 35 to end zone, Touchback.
+
+Arizona State ball, Q1, 1-10-ASU20 (14:43) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB J. Perry completes a 4 yard hook to WR S. Brown (SS D. Allen, ILB W. Clark). 
+
+Arizona State ball, Q1, 2-6-ASU24 (14:16) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-QB-draw-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB J. Perry runs right guard for 9 yards (OLB J. Carlson, OLB G. Black). 
+
+Arizona State ball, Q1, 1-10-ASU33 (13:48) 0-0
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-streaks
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB J. Perry throws an incomplete pass to WR G. Epps (SS D. Allen). OLB G. Black hurried the 
+QB. SS D. Allen broke up the pass.
+
+Arizona State ball, Q1, 2-10-ASU33 (13:33) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB T. Covington runs right tackle for 6 yards (CB R. Peterson). 
+
+Arizona State ball, Q1, 3-4-ASU39 (13:04) 0-0
+Offense: Short Pass, Set: Trips, Play: TR-TE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB J. Perry completes a 5 yard in to WR D. Guillen (OOB).
+
+Arizona State ball, Q1, 1-10-ASU44 (12:48) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-QB-draw-C
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB J. Perry runs right guard for 0 yards (SS D. Allen). 
+
+Arizona State ball, Q1, 2-10-ASU44 (12:16) 0-0
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB T. Covington runs left guard for -1 yards (DT C. Lewis).
+
+Arizona State ball, Q1, 3-11-ASU43 (11:47) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB T. Covington runs right tackle for 1 yard (ILB W. Clark). 
+
+Arizona State ball, Q1, 4-10-ASU44 (11:21) 0-0
+Daniel Taylor Punts 53 yards to the Colorado 3 yard line, where it gets downed.
+
+Colorado ball, Q1, 1-10-COL3 (11:02) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB T. Roberts runs right guard for 5 yards (ILB T. Burris). 
+
+Colorado ball, Q1, 1-10-COL3 (11:02) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+WR Warren Romero (COL) was injured on the play (Lower Back). It doesn't look like he will 
+return.
+
+Colorado ball, Q1, 2-5-COL8 (10:45) 0-0
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB T. Roberts runs left tackle for 3 yards (ILB T. Burris). 
+
+Colorado ball, Q1, 3-2-COL11 (10:12) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB T. Roberts runs right tackle for 1 yard (DE S. Turner).  C L. Mcgovern missed a block that 
+hurt the play.
+
+Colorado ball, Q1, 4-1-COL12 (09:44) 0-0
+Henry Bartlett Punts 38 yards to the Arizona State 50 yard line,
+
+Arizona State ball, Q1, 1-10-ASU50 (09:25) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB T. Covington runs left tackle for 10 yards (OLB J. Carlson).  T. Covington created the 
+big run with his own skills. FS P. Lightfoot missed a tackle.
+
+Arizona State ball, Q1, 1-10-COL40 (08:57) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB T. Covington runs left tackle for 0 yards (OLB J. Carlson).  OG C. Babcock missed a block 
+that hurt the play.
+
+Arizona State ball, Q1, 2-10-COL40 (08:26) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB J. Perry throws an incomplete pass to WR G. Epps.
+
+Arizona State ball, Q1, 3-10-COL40 (08:11) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB J. Perry throws an incomplete pass to RB T. Covington.
+
+Arizona State ball, Q1, 4-10-COL40 (07:55) 0-0
+Daniel Taylor Punts 40 yards to the end zone, Touchback.
+
+Colorado ball, Q1, 1-10-COL20 (07:35) 0-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB T. Roberts runs left end for 3 yards (FS J. Rodgers, DE K. Rogers). 
+
+Colorado ball, Q1, 2-7-COL23 (07:18) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB M. England gets sacked for a 5 yard loss (DT C. Smith).  OT J. Henry allowed the sack.
+
+Colorado ball, Q1, 2-7-COL23 (07:18) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+WR Andy Campbell (COL) was injured on the play (Sternum). It doesn't look like he will return.
+
+Colorado ball, Q1, 3-12-COL18 (07:01) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB T. Roberts runs right tackle for -3 yards (ILB M. Walsh).
+
+Colorado ball, Q1, 4-15-COL15 (06:30) 0-0
+Henry Bartlett Punts 38 yards to the Arizona State 47 yard line, where Mark Sowers returns 
+it to Colorado 42 for a 11 yard return.
+
+Arizona State ball, Q1, 1-10-COL42 (06:15) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB J. Perry completes a 14 yard cross to WR D. Guillen (SS D. Allen).  D. Guillen made a great 
+catch. CB J. Phillips was out of position on the play.
+
+Arizona State ball, Q1, 1-10-COL28 (05:51) 0-0
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB T. Covington runs right guard for 5 yards (ILB M. Simpson). 
+
+Arizona State ball, Q1, 1-10-COL28 (05:51) 0-0
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+C James Mclaughlin (ASU) was injured on the play (Ear). It doesn't look too serious and he 
+should return.
+
+Arizona State ball, Q1, 2-5-COL23 (05:38) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB J. Perry completes a 14 yard hook to WR G. Epps (CB R. Peterson, CB J. Phillips).  J. Perry 
+with the great pass.
+
+Arizona State ball, Q1, 1-9-COL9 (05:11) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB J. Perry scrambles out of the pocket and gets sacked for a 4 yard loss (OLB G. Black). 
+ OG C. Babcock allowed the sack.
+
+Arizona State ball, Q1, 2-13-COL13 (04:42) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB T. Covington runs right guard for 7 yards (ILB W. Clark, CB R. Peterson).  OT J. Thompson 
+had a key block on the run. SS D. Allen missed a tackle.
+
+Arizona State ball, Q1, 3-6-COL6 (04:11) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+RB T. Covington runs right end for -2 yards (OLB G. Black). OT J. Thompson missed a block 
+that hurt the play.
+
+Arizona State ball, Q1, 4-8-COL8 (03:43) 0-0
+Oscar Mitchell converts the 26 yard field goal.
+
+Arizona State ball, Q1, 1-10-ASU35 (03:23) 3-0
+Oscar Mitchell kicks 75 from Arizona State 35 to end zone, Touchback.
+
+Colorado ball, Q1, 1-10-COL20 (03:03) 0-3
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB T. Roberts runs left tackle for -2 yards (ILB T. Burris). OT J. Henry missed a block that 
+hurt the play.
+
+Colorado ball, Q1, 2-12-COL18 (02:33) 0-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB T. Roberts runs right tackle for 9 yards (FS J. Rodgers).  CB J. Bivens was out of position 
+on the play.
+
+Colorado ball, Q1, 3-3-COL27 (02:07) 0-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB M. England throws an incomplete pass to WR J. Pool.
+
+Colorado ball, Q1, 4-3-COL27 (01:52) 0-3
+Henry Bartlett Punts 64 yards to the Arizona State 9 yard line, where it gets downed.
+
+Arizona State ball, Q1, 1-10-ASU9 (01:34) 3-0
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB J. Perry completes a 0 yard in to WR G. Epps (OOB).
+
+Arizona State ball, Q1, 2-10-ASU9 (01:19) 3-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB J. Perry completes a 45 yard hook to WR S. Brown (CB J. Phillips).  CB J. Phillips allowed 
+the big play.
+
+Arizona State ball, Q1, 1-10-COL46 (00:51) 3-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+QB J. Perry completes a 9 yard post to TE A. Jackson (CB J. Phillips). 
+
+Arizona State ball, Q1, 2-1-COL37 (00:23) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+RB T. Covington runs right guard for 4 yards (ILB M. Simpson). 
+
+Arizona State ball, Q2, 1-10-COL33 (15:00) 3-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB K. Walker runs right tackle for 5 yards (OLB J. Carlson, CB J. Phillips). 
+
+Arizona State ball, Q2, 2-5-COL28 (14:31) 3-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+QB J. Perry throws an incomplete pass to WR G. Epps.
+
+Arizona State ball, Q2, 3-5-COL28 (14:13) 3-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB J. Perry completes a 7 yard out to WR D. Guillen (OLB J. Carlson, CB G. Martin). 
+
+Arizona State ball, Q2, 1-10-COL21 (13:51) 3-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB T. Covington runs left tackle for 1 yard (OLB J. Carlson).  T. Covington missed a hole 
+that could have resulted in a bigger gain.
+
+Arizona State ball, Q2, 2-9-COL20 (13:22) 3-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB J. Perry completes a 10 yard hook to RB T. Covington (OOB).
+
+Arizona State ball, Q2, 2-9-COL20 (13:22) 3-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB Tyrone Covington (ASU) was injured on the play (Groin). It doesn't look too serious and 
+he should return.
+
+Arizona State ball, Q2, 1-10-COL10 (13:09) 3-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB T. Covington runs right guard for -1 yards (FS P. Lightfoot).
+
+Arizona State ball, Q2, 2-11-COL11 (12:43) 3-0
+Offense: Short Pass, Set: Trips, Play: TR-SE-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB J. Perry completes a 1 yard screen to WR S. Brown (OOB).
+
+Holding against C James Mclaughlin on Arizona State. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and Goal at the Colorado 21.
+
+Arizona State ball, Q2, 2-21-COL21 (12:29) 3-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB J. Perry completes a 3 yard streak to WR S. Brown (SS D. Allen). 
+
+Arizona State ball, Q2, 3-18-COL18 (12:02) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB T. Covington runs right tackle for 4 yards (SS M. Bowles, SS D. Allen). 
+
+Arizona State ball, Q2, 4-14-COL14 (11:30) 3-0
+Oscar Mitchell has his 32 yard field goal blocked by Efren Little! The ball is recovered by 
+John Jenkins (COL) at the COL 8
+
+Colorado ball, Q2, 1-10-COL20 (11:11) 0-3
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB M. England completes a 12 yard in to WR G. Berry (SS J. Garza).  OG B. Tyson earned a pancake 
+on the play.
+
+Colorado ball, Q2, 1-10-COL32 (10:50) 0-3
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+QB M. England completes a 2 yard out to WR J. Pool (ILB T. Burris, SS J. Welch). 
+
+Colorado ball, Q2, 2-8-COL34 (10:27) 0-3
+Offense: Outside Run, Set: Quads, Play: Q-HB-power-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB T. Roberts runs right end for -4 yards (ILB T. Burris).
+
+Colorado ball, Q2, 3-12-COL30 (09:59) 0-3
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+QB M. England throws an incomplete pass to WR R. Ellison. DE S. Turner hurried the QB.
+
+Colorado ball, Q2, 4-12-COL30 (09:40) 0-3
+Henry Bartlett Punts 41 yards to the Arizona State 29 yard line, where Mark Sowers returns 
+it to Arizona State 36 for a 7 yard return.
+
+Arizona State ball, Q2, 1-10-ASU36 (09:25) 3-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB T. Covington runs left tackle for 2 yards (FS P. Lightfoot, ILB W. Clark). 
+
+Arizona State ball, Q2, 2-8-ASU38 (08:59) 3-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB T. Covington runs left guard for 5 yards (CB G. Martin). 
+
+Arizona State ball, Q2, 2-8-ASU38 (08:59) 3-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+DE Robert Kelly (COL) was injured on the play (Lower Back). It doesn't look like he will return.
+
+Arizona State ball, Q2, 3-3-ASU43 (08:43) 3-0
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB J. Perry throws an incomplete pass to WR G. Epps (CB R. Peterson). CB R. Peterson broke 
+up the pass.
+
+Holding against OG Craig Babcock on Arizona State. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Arizona State ball, Q2, 4-3-ASU43 (08:29) 3-0
+Daniel Taylor Punts 44 yards to the Colorado 13 yard line,
+
+Colorado ball, Q2, 1-10-COL13 (08:13) 0-3
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+QB M. England completes a 7 yard hook to WR J. Pool (OLB G. Lyons). 
+
+Holding against OG Alex Skinner on Colorado. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 16 at the Colorado 7.
+
+Colorado ball, Q2, 1-16-COL7 (08:03) 0-3
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB T. Roberts runs left end for -3 yards (ILB M. Walsh).
+
+Colorado ball, Q2, 2-19-COL4 (07:37) 0-3
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB M. England throws an incomplete pass to WR J. Pool (CB G. Fleming). CB G. Fleming broke 
+up the pass.
+
+Colorado ball, Q2, 3-19-COL4 (07:17) 0-3
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB M. England throws an incomplete pass to WR J. Pool. WR J. Pool dropped the pass. DE K. 
+Rogers hurried the QB.
+
+Colorado ball, Q2, 4-19-COL4 (06:59) 0-3
+Henry Bartlett Punts 52 yards to the Arizona State 44 yard line, where Mark Sowers returns 
+it to Colorado 39 for a 17 yard return.
+
+Tripping against TE Thomas Bean on Colorado. The Penalty is for 15 yards.
+The Offense will accept the penalty. It is now First and 10 at the Colorado 24.
+
+Arizona State ball, Q2, 1-10-COL24 (06:46) 3-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB K. Walker runs right guard for 1 yard (ILB W. Clark).  OT J. Thompson missed a block that 
+hurt the play.
+
+Arizona State ball, Q2, 2-9-COL23 (06:17) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,7,11
+RB T. Covington runs left guard for 9 yards (ILB W. Clark, CB R. Peterson).  OG C. Babcock 
+had a key block on the run.
+
+Arizona State ball, Q2, 1-10-COL14 (05:44) 3-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB T. Covington runs right guard for 4 yards (SS M. Bowles, FS P. Lightfoot). 
+
+Arizona State ball, Q2, 2-6-COL10 (05:17) 3-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB T. Covington runs left end for 3 yards (ILB W. Clark). 
+
+Arizona State ball, Q2, 3-3-COL7 (04:47) 3-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+QB J. Perry completes a 7 yard hook to WR G. Epps ****Touchdown!*****
+
+Arizona State ball, Q2, 1-0-COL0 (04:26) 9-0
+Oscar Mitchell converts the PAT.
+
+Oscar Mitchell kicks the ball out of bounds! Penalty against Arizona State, the ball will 
+be spotted at the 40 yardline.
+Colorado ball, Q2, 1-10-COL40 (04:15) 0-10
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB T. Roberts runs right guard for 8 yards (SS J. Garza). 
+
+Colorado ball, Q2, 2-2-COL48 (03:42) 0-10
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+RB T. Roberts runs right guard for 1 yard (OLB T. Crawford). 
+
+Colorado ball, Q2, 3-1-COL49 (03:12) 0-10
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB T. Roberts runs left guard for 1 yard (SS J. Welch).  T. Roberts missed a hole that could 
+have resulted in a bigger gain.
+
+Colorado ball, Q2, 1-10-COL50 (02:42) 0-10
+Offense: Outside Run, Set: Quads, Play: Q-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB T. Roberts runs right end for 11 yards (SS J. Garza, FS J. Rodgers).  CB J. Bivens missed 
+a tackle.
+
+Colorado ball, Q2, 1-10-ASU39 (02:11) 0-10
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB M. England throws an incomplete pass to WR J. Pool (ILB M. Walsh). WR J. Pool dropped the 
+pass. ILB M. Walsh broke up the pass.
+
+Colorado ball, Q2, 2-10-ASU39 (01:55) 0-10
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB T. Roberts runs right tackle for 2 yards He fumbles the ball after a hit by C. Smith. It's 
+recovered by J. Hill of Arizona State. He returns it 25 yards to the Colorado 38.
+
+Arizona State ball, Q2, 1-10-COL38 (01:28) 10-0
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+QB J. Perry completes a 7 yard in to WR G. Epps (FS P. Lightfoot, CB J. Phillips). 
+
+Arizona State ball, Q2, 1-10-COL38 (01:28) 10-0
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+CB Joseph Phillips (COL) was injured on the play (OK). It doesn't look like he will return.
+
+Arizona State ball, Q2, 2-3-COL31 (01:11) 10-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB J. Perry completes a 12 yard screen to RB T. Covington (OLB G. Black).  OT M. Dawson earned 
+a pancake on the play. SS D. Allen missed a tackle.
+
+Arizona State Timeout!
+
+Arizona State ball, Q2, 1-10-COL19 (01:05) 10-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB J. Perry completes a 3 yard in to WR G. Epps (SS M. Bowles). 
+
+Arizona State Timeout!
+
+Arizona State ball, Q2, 2-7-COL16 (00:58) 10-0
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB J. Perry completes a 14 yard post to WR S. Brown (OOB).
+
+Arizona State ball, Q2, 1-2-COL2 (00:50) 10-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+QB J. Perry completes a 2 yard streak to RB T. Covington ****Touchdown!*****
+
+Arizona State ball, Q2, 1-0-COL0 (00:36) 16-0
+Oscar Mitchell converts the PAT.
+
+Arizona State ball, Q2, 1-10-ASU35 (00:36) 17-0
+Oscar Mitchell kicks 73 from Arizona State 35 to end zone, Touchback.
+
+Colorado ball, Q2, 1-10-COL20 (00:28) 0-17
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+RB T. Roberts runs right end for -1 yards (CB G. Fleming). C L. Mcgovern missed a block that 
+hurt the play.
+
+Arizona State Timeout!
+
+Colorado ball, Q2, 2-11-COL19 (00:19) 0-17
+Offense: Inside Run, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+The QB takes a knee.
+
+Arizona State ball, Q3, 1-10-ASU35 (15:00) 17-0
+Oscar Mitchell kicks 75 from Arizona State 35 to end zone, Touchback.
+
+Colorado ball, Q3, 1-10-COL20 (14:44) 0-17
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB M. England runs outside for 7 yards (FS J. Rodgers).  ILB T. Burris hurried the QB.
+
+Colorado ball, Q3, 1-10-COL20 (14:44) 0-17
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+DT Clarence Smith (ASU) was injured on the play (Foot). It doesn't look like he will return.
+
+Colorado ball, Q3, 2-3-COL27 (14:29) 0-17
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB M. England completes a 20 yard post to WR R. Ellison (ILB M. Walsh).  OG A. Skinner earned 
+a pancake on the play.
+
+Colorado ball, Q3, 1-10-COL47 (14:02) 0-17
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB M. England scrambles out of the pocket and gets sacked for a 2 yard loss (DT J. Hill). 
+ C L. Mcgovern allowed the sack.
+
+Colorado ball, Q3, 2-12-COL45 (13:31) 0-17
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB M. England throws an incomplete pass to WR R. Ellison.
+
+Holding against CB John Bivens on Arizona State. The Penalty is for 10 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Arizona State 45.
+
+Colorado ball, Q3, 1-10-ASU45 (13:16) 0-17
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB M. England throws an incomplete pass to WR R. Ellison (CB G. Fleming). CB G. Fleming broke 
+up the pass.
+
+Colorado ball, Q3, 2-10-ASU45 (12:58) 0-17
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB W. Mann runs right guard for 1 yard (ILB T. Burris). 
+
+Colorado ball, Q3, 3-9-ASU44 (12:27) 0-17
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB M. England throws an incomplete pass to WR J. Pool.
+
+Colorado ball, Q3, 4-9-ASU44 (12:12) 0-17
+Henry Bartlett Punts 38 yards to the Arizona State 6 yard line, where it goes out of bounds.
+
+Arizona State ball, Q3, 1-10-ASU6 (11:57) 17-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB J. Perry completes a 13 yard screen to RB T. Covington (ILB W. Clark). 
+
+Arizona State ball, Q3, 1-10-ASU19 (11:36) 17-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB T. Covington runs left guard for 5 yards (OLB J. Carlson). 
+
+Arizona State ball, Q3, 2-5-ASU24 (11:09) 17-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB T. Covington runs left end for -2 yards (ILB M. Simpson). C J. Mclaughlin missed a block 
+that hurt the play.
+
+Arizona State ball, Q3, 3-7-ASU22 (10:43) 17-0
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-slotrun-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+WR S. Brown runs right end for 13 yards (SS D. Allen).  OT M. Dawson had a key block on the 
+run. CB C. Finley missed a tackle.
+
+Arizona State ball, Q3, 3-7-ASU22 (10:43) 17-0
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-slotrun-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+DE Harvey Pepper (COL) was injured on the play (Ankle). It doesn't look too serious and he 
+should return.
+
+Arizona State ball, Q3, 1-10-ASU35 (10:29) 17-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB J. Perry throws an incomplete pass to WR D. Guillen. WR D. Guillen ran an incorrect route.
+
+Roughing the Passer against SS Douglas Allen on Colorado. The Penalty is for 15 yards, and 
+an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Arizona State 50.
+
+Arizona State ball, Q3, 1-10-ASU50 (10:17) 17-0
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB J. Perry scrambles out of the pocket and gets sacked for a 4 yard loss (DE S. Barber). 
+ OT J. Thompson missed a block that hurt the play. C J. Mclaughlin allowed the sack.
+
+Arizona State ball, Q3, 2-14-ASU46 (09:49) 17-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB J. Perry throws an incomplete pass to RB T. Covington. RB T. Covington dropped the pass. 
+DE S. Barber hurried the QB.
+
+Arizona State ball, Q3, 3-14-ASU46 (09:31) 17-0
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB J. Perry throws an incomplete pass to WR G. Epps (CB C. Finley). CB C. Finley broke up 
+the pass.
+
+Arizona State ball, Q3, 4-14-ASU46 (09:13) 17-0
+Daniel Taylor Punts 51 yards to the Colorado 3 yard line, where it gets downed.
+
+Colorado ball, Q3, 1-10-COL3 (08:57) 0-17
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB W. Mann runs left guard for -1 yards (DE S. Turner). OG B. Tyson missed a block that hurt 
+the play.
+
+Colorado ball, Q3, 2-11-COL2 (08:26) 0-17
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+RB T. Roberts runs left end for 2 yards (OLB G. Lyons). 
+
+Colorado ball, Q3, 2-11-COL2 (08:26) 0-17
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+CB Guy Fleming (ASU) was injured on the play (Finger). It doesn't look too serious and he 
+should return.
+
+Colorado ball, Q3, 3-9-COL4 (08:09) 0-17
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB M. England completes a 9 yard hook to WR R. Ellison (FS J. Rodgers). 
+
+Colorado ball, Q3, 1-10-COL13 (07:45) 0-17
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB T. Roberts runs left end for -3 yards (OLB T. Crawford). OT J. Henry missed a block that 
+hurt the play.
+
+Colorado ball, Q3, 2-13-COL10 (07:17) 0-17
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB M. England completes a 9 yard hook to WR J. Pool (OOB).
+
+Colorado ball, Q3, 2-13-COL10 (07:17) 0-17
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+WR George Berry (COL) was injured on the play (Hamstring). It doesn't look like he will return.
+
+Colorado ball, Q3, 3-4-COL19 (07:04) 0-17
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB T. Roberts runs left tackle for 8 yards (OOB). T. Roberts created the big run with his 
+own skills. CB J. Bivens missed a tackle.
+
+Colorado ball, Q3, 1-10-COL27 (06:47) 0-17
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+QB M. England gets sacked for a 3 yard loss (DT J. Hill).  OT L. Garcia allowed the sack.
+
+Colorado ball, Q3, 1-10-COL27 (06:47) 0-17
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+OT Larry Garcia (COL) was injured on the play (Knee). It doesn't look like he will return.
+
+Colorado ball, Q3, 2-13-COL24 (06:28) 0-17
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+QB M. England completes a 12 yard in to WR W. Curtis (FS J. Rodgers).  OT J. Henry earned 
+a pancake on the play. CB G. Fleming missed a tackle.
+
+Ineligible Receiver Downfield against C Larry Mcgovern on Colorado. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 18 at the Colorado 19.
+
+Colorado ball, Q3, 2-18-COL19 (06:15) 0-17
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB T. Roberts runs left guard for -1 yards (OLB T. Crawford).
+
+Colorado ball, Q3, 2-18-COL19 (06:15) 0-17
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+ILB Theodore Burris (ASU) was injured on the play (Shoulder). It doesn't look too serious 
+and he should return.
+
+Colorado ball, Q3, 3-19-COL18 (05:59) 0-17
+Offense: Short Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB M. England throws an incomplete pass to WR W. Curtis. WR W. Curtis ran an incorrect route.
+
+Colorado ball, Q3, 4-19-COL18 (05:39) 0-17
+Henry Bartlett Punts 41 yards to the Arizona State 41 yard line, where Mark Sowers returns 
+it to Arizona State 43 for a 2 yard return.
+
+Arizona State ball, Q3, 1-10-ASU43 (05:20) 17-0
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-posts
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B5,7
+QB J. Perry throws an incomplete pass to WR D. Guillen.
+
+Arizona State ball, Q3, 2-10-ASU43 (05:05) 17-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB J. Perry throws an incomplete pass to WR D. Guillen (CB R. Peterson). CB R. Peterson broke 
+up the pass.
+
+Holding against FS Patrick Lightfoot on Colorado. The Penalty is for 10 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Colorado 47.
+
+Arizona State ball, Q3, 1-10-COL47 (04:51) 17-0
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB T. Covington runs left tackle for 0 yards (FS P. Lightfoot). 
+
+Arizona State ball, Q3, 2-10-COL47 (04:24) 17-0
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+QB J. Perry runs left tackle for 11 yards (SS D. Allen).  OG T. Wheeler had a key block on 
+the run. DE S. Barber was out of position on the play.
+
+Arizona State ball, Q3, 1-10-COL36 (03:53) 17-0
+Offense: Short Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB J. Perry gets sacked for a 1 yard loss (DT C. Lewis).  C J. Mclaughlin allowed the sack.
+
+Arizona State ball, Q3, 2-11-COL37 (03:35) 17-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-SZ-B5,6
+RB T. Covington runs left tackle for 8 yards (ILB M. Simpson).  T. Covington created the big 
+run with his own skills. CB G. Martin missed a tackle.
+
+Arizona State ball, Q3, 3-3-COL29 (03:07) 17-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-SZ-B6-Spy
+QB J. Perry completes a 10 yard out to WR D. Guillen (SS M. Bowles). 
+
+Arizona State ball, Q3, 1-10-COL19 (02:44) 17-0
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B11
+QB J. Perry completes a 8 yard screen to RB K. Walker (ILB W. Clark). 
+
+Arizona State ball, Q3, 2-2-COL11 (02:22) 17-0
+Offense: Outside Run, Set: Quads, Play: Q-HB-counter-RT
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB T. Covington runs right end for 2 yards (FS P. Lightfoot). 
+
+Arizona State ball, Q3, 1-9-COL9 (01:56) 17-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,7,11
+RB K. Walker runs right tackle for 7 yards (ILB M. Simpson, CB R. Peterson).  DT V. Cleveland 
+missed a tackle.
+
+Arizona State ball, Q3, 2-2-COL2 (01:42) 17-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+RB T. Covington runs left end for 2 yards ****Touchdown!*****
+
+Arizona State ball, Q3, 1-0-COL0 (01:16) 23-0
+Oscar Mitchell converts the PAT.
+
+Arizona State ball, Q3, 1-10-ASU35 (01:16) 24-0
+Oscar Mitchell kicks 67 from Arizona State 35 to Colorado -2. Jaime Pool to Colorado 21 for 
+a 23 yard return.
+
+Colorado ball, Q3, 1-10-COL21 (00:59) 0-24
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB T. Roberts runs right end for 2 yards (SS J. Welch, DT J. Hill). 
+
+Colorado ball, Q3, 2-8-COL23 (00:28) 0-24
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB M. England completes a 12 yard hook to WR J. Pool (OOB). J. Pool made a great catch.
+
+Colorado ball, Q3, 1-10-COL35 (00:12) 0-24
+Offense: Outside Run, Set: Quads, Play: Q-HB-counter-RT
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB W. Mann runs right end for -1 yards (ILB T. Burris).
+
+Colorado ball, Q4, 2-11-COL34 (15:00) 0-24
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Pass, Set: 4-4, Play: 44-run-Man-B6,7
+QB M. England throws an incomplete pass to WR R. Ellison. OLB T. Crawford hurried the QB.
+
+Colorado ball, Q4, 3-11-COL34 (14:43) 0-24
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+M. England has his 12 yard pass intercepted by L. Smith at the COL 46. He returns it 10 yards 
+to the Colorado 36. DE S. Turner hurried the QB.
+
+Arizona State ball, Q4, 1-10-COL36 (14:16) 24-0
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+FB F. Romero runs right tackle for 1 yard (OOB). C J. Mclaughlin missed a block that hurt 
+the play.
+
+Arizona State ball, Q4, 2-9-COL35 (13:58) 24-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB J. Perry completes a 13 yard hook to RB T. Covington (SS D. Allen, FS P. Lightfoot). 
+
+Arizona State ball, Q4, 1-10-COL22 (13:34) 24-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB T. Covington runs left guard for 1 yard (OLB J. Carlson). 
+
+Arizona State ball, Q4, 2-9-COL21 (13:08) 24-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+J. Perry has his 5 yard pass intercepted by P. Lightfoot at the COL 16. He returns it 4 yards 
+to the Colorado 20.
+
+Colorado ball, Q4, 1-10-COL20 (12:43) 0-24
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB M. England runs outside for 3 yards (ILB M. Walsh, CB J. Bivens).  DE K. Rogers hurried 
+the QB.
+
+Colorado ball, Q4, 2-7-COL23 (12:26) 0-24
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB T. Roberts runs left end for 1 yard (OOB). OG B. Tyson missed a block that hurt the play.
+
+Colorado ball, Q4, 3-6-COL24 (12:12) 0-24
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+False Start against OT Randolph Hall on Colorado. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 11 at the Colorado 19.
+
+Colorado ball, Q4, 3-11-COL19 (12:12) 0-24
+Offense: Short Pass, Set: Trips, Play: TR-TE-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB M. England completes a 11 yard screen to TE T. Bean (OOB). C L. Mcgovern earned a pancake 
+on the play. SS J. Garza was out of position on the play.
+
+Colorado ball, Q4, 1-10-COL30 (11:56) 0-24
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB T. Roberts runs left guard for 1 yard (ILB T. Burris).  OT R. Hall missed a block that 
+hurt the play.
+
+Colorado ball, Q4, 2-9-COL31 (11:26) 0-24
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB M. England completes a 7 yard in to TE T. Bean (OOB).
+
+Colorado ball, Q4, 3-2-COL38 (11:09) 0-24
+Offense: Inside Run, Set: Shotgun, Play: SG-QB-draw-C
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6
+QB M. England runs right guard for 3 yards (ILB M. Walsh). 
+
+Colorado ball, Q4, 1-10-COL41 (10:40) 0-24
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB T. Roberts runs left tackle for 8 yards (ILB M. Walsh).  OG A. Skinner had a key block 
+on the run.
+
+Colorado ball, Q4, 2-2-COL49 (10:11) 0-24
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+RB T. Roberts runs right guard for 1 yard (DT J. Hill).  OT R. Hall missed a block that hurt 
+the play.
+
+Colorado ball, Q4, 3-1-COL50 (09:43) 0-24
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB M. England gets sacked for a 2 yard loss (ILB M. Walsh).  OG B. Tyson allowed the sack.
+
+Colorado ball, Q4, 4-3-COL48 (09:24) 0-24
+Henry Bartlett Punts 43 yards to the Arizona State 9 yard line, where it gets downed.
+
+Arizona State ball, Q4, 1-10-ASU9 (09:08) 24-0
+Offense: Outside Run, Set: Quads, Play: Q-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB K. Walker runs right tackle for 3 yards (FS P. Lightfoot). 
+
+Arizona State ball, Q4, 2-7-ASU12 (08:38) 24-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB T. Covington runs left tackle for 8 yards (OOB). T. Covington created the big run with 
+his own skills.
+
+Arizona State ball, Q4, 1-10-ASU20 (08:24) 24-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB T. Covington runs right end for 2 yards (SS M. Bowles, DT C. Lewis). 
+
+Arizona State ball, Q4, 2-8-ASU22 (07:53) 24-0
+Offense: Long Pass, Set: Trips, Play: TR-SE-rollout-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB J. Perry gets sacked for a 4 yard loss (SS M. Bowles).  He fumbles the ball after a hit 
+by M. Bowles. It's recovered by H. Pepper of Colorado. He returns it 18 yards for the touchdown! OT M. Dawson allowed the sack.
+
+Arizona State ball, Q4, 2-8-ASU22 (07:53) 24-0
+Offense: Long Pass, Set: Trips, Play: TR-SE-rollout-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+WR Scott Brown (ASU) was injured on the play (Pelvis/Hip). It doesn't look like he will return.
+
+Colorado ball, Q4, 1-0-ASU0 (07:35) 6-24
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB M. England completes a 2 yard out to WR J. Pool (CB G. Fleming, CB J. Bivens). 
+
+Colorado ball, Q4, 1-10-COL35 (07:35) 6-24
+Roger Garcia kicks 66 from Colorado 35 to Arizona State -1. Kenneth Walker to Arizona State 
+19 for a 20 yard return.
+
+Arizona State ball, Q4, 1-10-ASU19 (07:17) 24-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB T. Covington runs right guard for -2 yards (SS M. Bowles). OG C. Babcock missed a block 
+that hurt the play.
+
+Arizona State ball, Q4, 1-10-ASU19 (07:17) 24-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+CB Gerardo Martin (COL) was injured on the play (Kidney). It doesn't look like he will return.
+
+Arizona State ball, Q4, 2-12-ASU17 (07:02) 24-6
+Offense: Outside Run, Set: Quads, Play: Q-HB-toss-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B5
+RB T. Covington runs left end for 1 yard (FS P. Lightfoot). 
+
+Arizona State ball, Q4, 3-11-ASU18 (06:36) 24-6
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB J. Perry completes a 17 yard streak to WR D. Guillen (SS D. Allen).  SS D. Allen missed 
+a tackle.
+
+Arizona State ball, Q4, 3-11-ASU18 (06:36) 24-6
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB Tyrone Covington (ASU) was injured on the play (Ankle). It doesn't look too serious and 
+he should return.
+
+Arizona State ball, Q4, 1-10-ASU35 (06:22) 24-6
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB K. Walker runs left tackle for 6 yards (OLB J. Carlson). 
+
+Arizona State ball, Q4, 2-4-ASU41 (05:54) 24-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB K. Walker runs left guard for 14 yards (FS P. Lightfoot).  OG T. Wheeler had a key block 
+on the run. SS D. Allen missed a tackle.
+
+Arizona State ball, Q4, 1-10-COL45 (05:27) 24-6
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB T. Covington runs right end for -3 yards (DE S. Barber).
+
+Arizona State ball, Q4, 2-13-COL48 (04:56) 24-6
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB J. Perry completes a 12 yard screen to RB K. Walker (ILB M. Simpson).  K. Walker made a 
+great catch.
+
+Arizona State ball, Q4, 3-1-COL36 (04:33) 24-6
+Offense: Inside Run, Set: Shotgun, Play: SG-QB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB J. Perry runs right guard for 6 yards (CB C. Finley). 
+
+Arizona State ball, Q4, 1-10-COL30 (04:02) 24-6
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+FB F. Romero runs left guard for 0 yards (ILB M. Simpson).  OT J. Thompson missed a block 
+that hurt the play.
+
+Arizona State ball, Q4, 2-10-COL30 (03:32) 24-6
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+RB T. Covington runs left end for 7 yards (ILB W. Clark).  OT M. Dawson had a key block on 
+the run.
+
+Arizona State ball, Q4, 3-3-COL23 (02:59) 24-6
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB T. Covington runs right end for 8 yards (FS P. Lightfoot, OLB G. Black).  DE S. Barber 
+was out of position on the play.
+
+Arizona State ball, Q4, 1-10-COL15 (02:29) 24-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+RB T. Covington runs right guard for 2 yards (ILB W. Clark, FS P. Lightfoot). 
+
+Arizona State ball, Q4, 2-8-COL13 (01:58) 24-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB T. Covington runs right guard for 3 yards (SS M. Bowles). 
+
+Arizona State ball, Q4, 3-5-COL10 (01:25) 24-6
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB T. Covington runs left end for 0 yards (OLB J. Carlson).  C J. Mclaughlin missed a block 
+that hurt the play.
+
+Arizona State ball, Q4, 4-5-COL10 (00:54) 24-6
+Oscar Mitchell has his 28 yard field goal blocked by William Mann! The ball is recovered by 
+Efren Little (COL) at the COL 5. He returns it 95 yards for a touchdown!
+
+Colorado ball, Q4, 1-10-COL5 (00:46) 12-24
+Roger Garcia converts the PAT.
+
+Colorado ball, Q4, 1-10-COL35 (00:46) 13-24
+Roger Garcia Lines up for the onside kick! The opponent has their hands team out there. The 
+kick goes 20 yards and bounces around...[B] The Kicking Team Recovers! John Castillo ends up with it on the Arizona State 45.
+
+Colorado ball, Q4, 1-10-ASU45 (00:40) 13-24
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+QB M. England throws an incomplete pass to WR W. Curtis (ILB T. Burris). OLB T. Crawford hurried 
+the QB. ILB T. Burris broke up the pass.
+
+Colorado ball, Q4, 2-10-ASU45 (00:34) 13-24
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB M. England gets sacked for a 3 yard loss (DE K. Rogers).  OT R. Hall allowed the sack.
+
+Colorado ball, Q4, 3-13-ASU48 (00:27) 13-24
+Offense: Medium Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB M. England completes a 16 yard out to WR R. Ellison (SS J. Welch, SS J. Garza). 
+
+Colorado Timeout!
+
+Colorado ball, Q4, 1-10-ASU32 (00:21) 13-24
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+QB M. England completes a 8 yard cross to WR J. Pool (ILB M. Walsh).  He fumbles the ball 
+after a hit by M. Walsh. It's recovered by T. Burris of Arizona State. He returns it 0 yards to the Arizona State 24.
+
+Colorado Timeout!
+
+Arizona State ball, Q4, 1-10-ASU24 (00:09) 24-13
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+The QB takes a knee.
+

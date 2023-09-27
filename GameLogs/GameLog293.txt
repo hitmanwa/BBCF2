@@ -1,0 +1,961 @@
+Wake Forest ball, Q1, 1-10-WAKE35 (15:00) 0-0
+Daniel Adkins kicks 75 from Wake Forest 35 to end zone, Touchback.
+
+Georgia Tech ball, Q1, 1-10-GATC20 (14:43) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB A. Bell runs right guard for 5 yards (CB S. Williams, SS F. Cunningham). 
+
+Georgia Tech ball, Q1, 2-5-GATC25 (14:17) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB G. Kelley completes a 2 yard out to WR L. Lewis (OLB W. Ashley). 
+
+Georgia Tech ball, Q1, 3-3-GATC27 (13:53) 0-0
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+QB G. Kelley completes a 10 yard post to WR L. Scott (FS R. Peebles). 
+
+Georgia Tech ball, Q1, 1-10-GATC37 (13:27) 0-0
+Offense: Outside Run, Set: I Form, Play: I-HB-toss-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB A. Bell runs right end for 3 yards (ILB R. Smith). 
+
+Georgia Tech ball, Q1, 2-7-GATC40 (12:59) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+FB B. Thompson runs left tackle for 3 yards (SS F. Cunningham, DE D. Gamble). 
+
+Georgia Tech ball, Q1, 3-4-GATC43 (12:29) 0-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB G. Kelley completes a 10 yard cross to WR S. Westbrook (OOB).
+
+Georgia Tech ball, Q1, 1-10-WAKE47 (12:16) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB G. Kelley completes a 33 yard hook to WR S. Westbrook (SS F. Cunningham, ILB R. Smith). 
+ ILB M. Ashton allowed the big play.
+
+Georgia Tech ball, Q1, 1-10-WAKE14 (11:53) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+RB A. Bell runs left guard for 8 yards (SS F. Cunningham, OLB W. Ashley). 
+
+Georgia Tech ball, Q1, 2-2-WAKE6 (11:27) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+RB A. Bell runs right guard for 6 yards ****Touchdown!*****
+
+Georgia Tech ball, Q1, 1-0-WAKE0 (11:00) 6-0
+Harry Spears converts the PAT.
+
+Georgia Tech ball, Q1, 1-10-GATC35 (11:00) 7-0
+Harry Spears kicks 67 from Georgia Tech 35 to Wake Forest -2. Samuel Williams to Wake Forest 
+19 for a 21 yard return.
+
+Wake Forest ball, Q1, 1-10-WAKE19 (10:42) 0-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB M. Young runs left tackle for 0 yards (OLB B. Strickland).  M. Young missed a hole that 
+could have resulted in a bigger gain.
+
+Wake Forest ball, Q1, 2-10-WAKE19 (10:12) 0-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB D. Johnson throws an incomplete pass to WR J. Green.
+
+Wake Forest ball, Q1, 3-10-WAKE19 (09:53) 0-7
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB D. Johnson completes a 14 yard out to WR R. Drake (FS W. Hudson, OLB D. Shaffer).  C L. 
+Bradley earned a pancake on the play. CB J. Hunt was out of position on the play.
+
+Wake Forest ball, Q1, 1-10-WAKE33 (09:29) 0-7
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB D. Johnson throws an incomplete pass to WR J. Green.
+
+Wake Forest ball, Q1, 2-10-WAKE33 (09:13) 0-7
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-HBfake-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+WR R. Drake runs right end for 2 yards (CB C. King). 
+
+Wake Forest ball, Q1, 3-8-WAKE35 (08:42) 0-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB R. Johnson runs left guard for 3 yards (SS A. Lee, FS C. Sparks). 
+
+Wake Forest ball, Q1, 4-5-WAKE38 (08:16) 0-7
+Alex Williams Punts 44 yards to the Georgia Tech 18 yard line, where Chris King returns it 
+82 yards for a touchdown!
+
+Georgia Tech ball, Q1, 1-5-WAKE5 (08:00) 13-0
+Harry Spears converts the PAT.
+
+Georgia Tech ball, Q1, 1-10-GATC35 (08:00) 14-0
+Harry Spears kicks 67 from Georgia Tech 35 to Wake Forest -2. Samuel Williams to Wake Forest 
+9 for a 11 yard return.
+
+Wake Forest ball, Q1, 1-10-WAKE9 (07:45) 0-14
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+QB D. Johnson throws an incomplete pass to WR R. Drake (SS A. Lee). SS A. Lee broke up the 
+pass.
+
+Holding against ILB Harry Adams on Georgia Tech. The Penalty is for 10 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Wake Forest 19.
+
+Wake Forest ball, Q1, 1-10-WAKE19 (07:32) 0-14
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+RB R. Johnson runs left guard for 3 yards (FS C. Sparks, CB C. King). 
+
+Wake Forest ball, Q1, 2-7-WAKE22 (06:59) 0-14
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B5,6,8
+QB D. Johnson completes a 6 yard dump off to WR J. Green (OLB B. Strickland). 
+
+Wake Forest ball, Q1, 3-1-WAKE28 (06:37) 0-14
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-MZ-B4,5,6,8,
+QB A. Brown runs outside for 8 yards (OOB).
+
+Wake Forest ball, Q1, 1-10-WAKE36 (06:24) 0-14
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB D. Johnson completes a 0 yard dump off to WR J. Green (SS A. Lee). 
+
+Wake Forest ball, Q1, 2-10-WAKE36 (06:01) 0-14
+Offense: Outside Run, Set: Trips, Play: TR-WR-endaround-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4,5,6
+WR R. Drake runs right end for 2 yards (DE S. Mills). 
+
+Wake Forest ball, Q1, 3-8-WAKE38 (05:33) 0-14
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB D. Johnson throws an incomplete pass to WR G. Potts.
+
+Wake Forest ball, Q1, 4-8-WAKE38 (05:14) 0-14
+Alex Williams Punts 57 yards to the Georgia Tech 5 yard line, where it gets downed.
+
+Georgia Tech ball, Q1, 1-10-GATC5 (04:55) 14-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB G. Kelley completes a 4 yard hook to RB A. Bell (FS A. Johnston). 
+
+Georgia Tech ball, Q1, 2-6-GATC9 (04:32) 14-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+RB A. Bell runs right tackle for 12 yards (OLB W. Ashley).  A. Bell created the big run with 
+his own skills. SS F. Cunningham was out of position on the play.
+
+Georgia Tech ball, Q1, 1-10-GATC21 (04:02) 14-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB A. Bell runs right guard for 4 yards (OLB J. Chavez, DT R. Owens). 
+
+Georgia Tech ball, Q1, 2-6-GATC25 (03:30) 14-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB A. Bell runs right guard for 2 yards (DE H. Hudson). 
+
+Georgia Tech ball, Q1, 3-4-GATC27 (02:59) 14-0
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B11
+QB G. Kelley runs outside for 5 yards (FS A. Johnston, CB J. Brady). 
+
+Georgia Tech ball, Q1, 1-10-GATC32 (02:43) 14-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-TMan-R
+QB G. Kelley completes a 2 yard out to WR L. Scott (OOB).
+
+Georgia Tech ball, Q1, 2-8-GATC34 (02:26) 14-0
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB G. Kelley completes a 11 yard hook to RB A. Bell (CB S. Williams).  G. Kelley with the 
+great pass.
+
+Holding against OG Sammy Rogers on Georgia Tech. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 18 at the Georgia Tech 24.
+
+Georgia Tech ball, Q1, 2-18-GATC24 (02:15) 14-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB A. Bell runs right guard for 9 yards (SS F. Cunningham).  CB S. Williams missed a tackle.
+
+Georgia Tech ball, Q1, 3-9-GATC33 (01:49) 14-0
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+QB G. Kelley throws an incomplete pass to WR L. Lewis. G. Kelley made a bad pass. DE G. Joseph 
+hurried the QB.
+
+Georgia Tech ball, Q1, 4-9-GATC33 (01:34) 14-0
+Enrique Sandoval Punts 38 yards to the Wake Forest 29 yard line, where Johnny Mendoza returns 
+it to Wake Forest 40 for a 11 yard return.
+
+Wake Forest ball, Q1, 1-10-WAKE40 (01:19) 0-14
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+RB R. Johnson runs right end for -5 yards (DE J. Martinez). R. Johnson missed a hole that 
+could have resulted in a bigger gain.
+
+Wake Forest ball, Q1, 2-15-WAKE35 (00:50) 0-14
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB D. Johnson throws an incomplete pass to WR R. Drake.
+
+Wake Forest ball, Q1, 3-15-WAKE35 (00:30) 0-14
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Johnson completes a 1 yard out to WR R. Drake (DT C. Black).  He fumbles the ball after 
+a hit by C. Black. It's recovered by S. Mills of Georgia Tech. He returns it 36 yards for the touchdown!
+
+Georgia Tech ball, Q1, 1-0-WAKE0 (00:06) 20-0
+Harry Spears converts the PAT.
+
+Georgia Tech ball, Q1, 1-10-GATC35 (00:06) 21-0
+Harry Spears kicks 55 from Georgia Tech 35 to Wake Forest 10. Samuel Williams to Wake Forest 
+25 for a 15 yard return.
+
+Wake Forest ball, Q2, 1-10-WAKE25 (15:00) 0-21
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+D. Johnson has his 27 yard pass intercepted by J. Hunt at the GATC 48. He returns it 0 yards 
+to the Georgia Tech 48.
+
+Georgia Tech ball, Q2, 1-10-GATC48 (14:30) 21-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+QB G. Kelley completes a 13 yard out to WR S. Westbrook (OOB).
+
+Georgia Tech ball, Q2, 1-10-WAKE39 (14:19) 21-0
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+RB A. Bell runs right end for 3 yards (OOB).
+
+Georgia Tech ball, Q2, 2-7-WAKE36 (14:04) 21-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB A. Bell runs left tackle for 5 yards (OLB J. Chavez, ILB M. Ashton). 
+
+Georgia Tech ball, Q2, 3-2-WAKE31 (13:35) 21-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+False Start against OT Douglas Buck on Georgia Tech. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 7 at the Wake Forest 36.
+
+Georgia Tech ball, Q2, 3-7-WAKE36 (13:35) 21-0
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB G. Kelley throws an incomplete pass to RB A. Bell. RB A. Bell ran an incorrect route.
+
+Georgia Tech ball, Q2, 4-7-WAKE36 (13:15) 21-0
+Harry Spears misses the 54 yard field goal. It will be Wake Forest ball at the WAKE 36
+
+Wake Forest ball, Q2, 1-10-WAKE36 (12:57) 0-21
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-posts
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB D. Johnson completes a 14 yard in to WR J. Green (OOB). OG L. Goad earned a pancake on 
+the play. SS A. Lee was out of position on the play.
+
+Wake Forest ball, Q2, 1-10-WAKE50 (12:39) 0-21
+Offense: Medium Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB D. Johnson completes a 34 yard streak to WR R. Drake (OLB D. Shaffer, SS A. Lee).  OG L. 
+Goad earned a pancake on the play. FS W. Hudson allowed the big play.
+
+Wake Forest ball, Q2, 1-10-GATC16 (12:16) 0-21
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-HBfake-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+WR J. Green runs right end for 1 yard (FS C. Sparks). 
+
+Wake Forest ball, Q2, 2-9-GATC15 (11:49) 0-21
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB M. Young runs left end for 12 yards (ILB H. Adams).  OG E. Farley had a key block on the 
+run.
+
+Wake Forest ball, Q2, 1-3-GATC3 (11:19) 0-21
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+QB D. Johnson completes a 3 yard hook to WR R. Drake ****Touchdown!*****
+
+Wake Forest ball, Q2, 1-0-GATC0 (11:05) 6-21
+Rudy Rodriguez converts the PAT.
+
+Wake Forest ball, Q2, 1-10-WAKE35 (11:05) 7-21
+Daniel Adkins kicks 55 from Wake Forest 35 to Georgia Tech 10. Chris King to Wake Forest 45 
+for a 45 yard return.
+
+Georgia Tech ball, Q2, 1-10-WAKE45 (10:48) 21-7
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+RB A. Bell runs left end for 1 yard (ILB R. Smith). 
+
+Georgia Tech ball, Q2, 2-9-WAKE44 (10:20) 21-7
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB G. Kelley completes a 6 yard dump off to FB B. Thompson (OOB).
+
+Georgia Tech ball, Q2, 3-3-WAKE38 (10:03) 21-7
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB G. Kelley completes a 6 yard hook to WR S. Westbrook (SS F. Cunningham). 
+
+Georgia Tech ball, Q2, 1-10-WAKE32 (09:42) 21-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB A. Bell runs right guard for 0 yards (FS A. Johnston).  OT B. Hatfield missed a block that 
+hurt the play.
+
+Georgia Tech ball, Q2, 2-10-WAKE32 (09:10) 21-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB A. Bell runs right tackle for 2 yards (ILB R. Smith, SS F. Cunningham). 
+
+Georgia Tech ball, Q2, 3-8-WAKE30 (08:44) 21-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB G. Kelley throws an incomplete pass to WR L. Scott.
+
+Georgia Tech ball, Q2, 4-8-WAKE30 (08:28) 21-7
+Harry Spears converts the 48 yard field goal.
+
+Georgia Tech ball, Q2, 1-10-GATC35 (08:11) 24-7
+Harry Spears kicks 66 from Georgia Tech 35 to Wake Forest -1. Samuel Williams to Wake Forest 
+22 for a 23 yard return.
+
+Wake Forest ball, Q2, 1-10-WAKE22 (07:55) 7-24
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+RB M. Young runs right tackle for 23 yards (OOB). CB J. Hunt missed a tackle.
+
+Wake Forest ball, Q2, 1-10-WAKE45 (07:43) 7-24
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB M. Young runs right tackle for 6 yards (FS C. Sparks). 
+
+Wake Forest ball, Q2, 2-4-GATC49 (07:01) 7-24
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB M. Young runs right end for -4 yards (CB C. King). OG E. Farley missed a block that hurt 
+the play.
+
+Wake Forest ball, Q2, 3-8-WAKE47 (06:39) 7-24
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB D. Johnson throws an incomplete pass to WR T. Scott.
+
+Wake Forest ball, Q2, 4-8-WAKE47 (06:20) 7-24
+Alex Williams Punts 33 yards to the Georgia Tech 20 yard line, where Chris King returns it 
+80 yards for a touchdown!
+
+Georgia Tech ball, Q2, 1-5-WAKE5 (06:04) 30-7
+Harry Spears converts the PAT.
+
+Georgia Tech ball, Q2, 1-10-GATC35 (06:04) 31-7
+Harry Spears kicks 66 from Georgia Tech 35 to Wake Forest -1. Samuel Williams to Wake Forest 
+15 for a 16 yard return. He fumbles the ball after a hit by D. Deal. It's recovered by W. Rose of Wake Forest.
+
+Wake Forest ball, Q2, 1-10-WAKE15 (05:47) 7-31
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Johnson throws an incomplete pass to WR J. Green (CB C. King). WR J. Green ran an incorrect 
+route. CB C. King broke up the pass.
+
+Wake Forest ball, Q2, 2-10-WAKE15 (05:28) 7-31
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB M. Young runs left end for 6 yards (FS C. Sparks). 
+
+Wake Forest ball, Q2, 3-4-WAKE21 (05:02) 7-31
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB R. Johnson runs left guard for 4 yards (ILB H. Adams, FS W. Hudson). 
+
+Wake Forest ball, Q2, 3-4-WAKE21 (05:02) 7-31
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+CB Jeff Hunt (GATC) was injured on the play (Finger). It doesn't look too serious and he should 
+return.
+
+Wake Forest ball, Q2, 1-10-WAKE25 (04:47) 7-31
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Johnson throws an incomplete pass to WR R. Drake. WR R. Drake dropped the pass. OLB 
+B. Strickland hurried the QB.
+
+Wake Forest ball, Q2, 2-10-WAKE25 (04:27) 7-31
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB M. Young runs left end for 3 yards (OLB D. Shaffer, DE S. Mills). 
+
+Wake Forest ball, Q2, 3-7-WAKE28 (03:59) 7-31
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB D. Johnson throws an incomplete pass to TE W. Rose.
+
+Wake Forest ball, Q2, 4-7-WAKE28 (03:39) 7-31
+Alex Williams Punts 49 yards to the Georgia Tech 23 yard line, where it goes out of bounds.
+
+Georgia Tech ball, Q2, 1-10-GATC23 (03:22) 31-7
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB G. Kelley completes a 4 yard screen to TE C. Hawkins (ILB R. Smith). 
+
+Georgia Tech ball, Q2, 2-6-GATC27 (03:01) 31-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB A. Bell runs right guard for 2 yards (SS F. Cunningham). 
+
+Georgia Tech ball, Q2, 3-4-GATC29 (02:34) 31-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB G. Kelley throws an incomplete pass to WR L. Scott.
+
+Georgia Tech ball, Q2, 4-4-GATC29 (02:18) 31-7
+Enrique Sandoval Punts 42 yards to the Wake Forest 29 yard line, where Johnny Mendoza returns 
+it to Wake Forest 29 for a 0 yard return.
+
+Wake Forest ball, Q2, 1-10-WAKE29 (02:00) 7-31
+Offense: Inside Run, Set: Shotgun, Play: SG-QB-draw-C
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-Spy
+QB D. Johnson scrambles out of the pocket and gets sacked for a 2 yard loss (DT C. Black). 
+ OG L. Goad missed a block that hurt the play. OT M. Burney allowed the sack.
+
+Wake Forest ball, Q2, 2-12-WAKE27 (01:31) 7-31
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB D. Johnson completes a 9 yard dump off to WR G. Potts (SS R. Tracy, OLB D. Shaffer). 
+
+Wake Forest ball, Q2, 3-3-WAKE36 (01:08) 7-31
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4,5,6
+QB D. Johnson completes a 3 yard cross to WR J. Green (OLB B. Strickland, ILB H. Adams). 
+
+Ineligible Receiver Downfield against OT David Petty on Wake Forest. The Penalty is for 5 
+yards.
+The Defense will accept the penalty. It is now Third and 8 at the Wake Forest 31.
+
+Wake Forest ball, Q2, 3-8-WAKE31 (00:57) 7-31
+Offense: Short Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+QB D. Johnson completes a 9 yard post to WR J. Green (OLB D. Shaffer, FS W. Hudson). 
+
+Wake Forest ball, Q2, 3-8-WAKE31 (00:57) 7-31
+Offense: Short Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+WR George Potts (WAKE) was injured on the play (Ankle). It doesn't look too serious and he 
+should return.
+
+Wake Forest ball, Q2, 1-10-WAKE40 (00:41) 7-31
+Offense: Short Pass, Set: Trips, Play: TR-TE-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB D. Johnson completes a 49 yard screen to TE W. Rose (ILB H. Adams, SS R. Tracy).  D. Johnson 
+with the great pass. CB C. King allowed the big play.
+
+Wake Forest Timeout!
+
+Wake Forest ball, Q2, 1-10-GATC11 (00:33) 7-31
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Johnson completes a 11 yard screen to RB M. Young ****Touchdown!***** D. Johnson with 
+the great pass.
+
+Wake Forest ball, Q2, 1-0-GATC0 (00:18) 13-31
+Rudy Rodriguez converts the PAT.
+
+Wake Forest ball, Q2, 1-10-WAKE35 (00:18) 14-31
+Daniel Adkins kicks 47 from Wake Forest 35 to Georgia Tech 18. Jamey Mcdonald to Georgia Tech 
+27 for a 9 yard return.
+
+Wake Forest Timeout!
+
+Georgia Tech ball, Q2, 1-10-GATC27 (00:11) 31-14
+Offense: Inside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+The QB takes a knee.
+
+Georgia Tech ball, Q2, 2-11-GATC26 (00:04) 31-14
+Offense: Inside Run, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+The QB takes a knee.
+
+Georgia Tech ball, Q3, 1-10-GATC35 (15:00) 31-14
+Harry Spears kicks 47 from Georgia Tech 35 to Wake Forest 18. Kevin Robinson to Wake Forest 
+43 for a 25 yard return.
+
+Wake Forest ball, Q3, 1-10-WAKE43 (14:45) 14-31
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+QB D. Johnson completes a 11 yard hook to WR J. Green (FS W. Hudson, FS C. Sparks). 
+
+Wake Forest ball, Q3, 1-10-GATC46 (14:22) 14-31
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB M. Young runs left tackle for 1 yard (DE S. Mills).  OG L. Goad missed a block that hurt 
+the play.
+
+Wake Forest ball, Q3, 2-9-GATC45 (13:55) 14-31
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+RB M. Young runs left tackle for 9 yards (ILB H. Adams). 
+
+Wake Forest ball, Q3, 1-10-GATC36 (13:39) 14-31
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B5,6,8
+RB M. Young runs right end for -4 yards (SS A. Lee).
+
+Wake Forest ball, Q3, 2-14-GATC40 (13:11) 14-31
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB D. Johnson completes a 6 yard dump off to WR J. Green (OOB).
+
+Wake Forest ball, Q3, 3-8-GATC34 (12:58) 14-31
+Offense: Medium Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+QB D. Johnson gets sacked for a 3 yard loss (SS A. Lee).  OT M. Burney allowed the sack.
+
+Wake Forest ball, Q3, 4-11-GATC37 (12:39) 14-31
+Alex Williams Punts 37 yards to the end zone, Touchback.
+
+Georgia Tech ball, Q3, 1-10-GATC20 (12:19) 31-14
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB G. Kelley completes a 28 yard corner to WR L. Scott (ILB M. Ashton).  ILB M. Ashton allowed 
+the big play.
+
+Pass Interference against CB Samuel Williams on Wake Forest. The Penalty is for 15 yards, 
+and an automatic first down.
+The penalty will be declined.
+
+Georgia Tech ball, Q3, 1-10-GATC48 (12:04) 31-14
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-TMan-R
+QB G. Kelley throws an incomplete pass to WR L. Scott (CB S. Williams). CB S. Williams broke 
+up the pass.
+
+Georgia Tech ball, Q3, 2-10-GATC48 (11:48) 31-14
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB A. Bell runs right guard for 1 yard (FS R. Peebles).  C W. Mccabe missed a block that hurt 
+the play.
+
+Georgia Tech ball, Q3, 3-9-GATC49 (11:15) 31-14
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+RB A. Bell runs right end for 12 yards (OLB J. Chavez, CB S. Williams).  OT D. Buck had a 
+key block on the run. ILB M. Ashton missed a tackle.
+
+Georgia Tech ball, Q3, 1-10-WAKE39 (10:49) 31-14
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB G. Kelley completes a 23 yard post to WR L. Lewis (OLB J. Chavez).  OT D. Buck earned a 
+pancake on the play.
+
+Georgia Tech ball, Q3, 1-10-WAKE16 (10:26) 31-14
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-straight-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB A. Bell runs right tackle for -2 yards (DT R. Owens). OG S. Rogers missed a block that 
+hurt the play.
+
+Offsides against DT Richard Owens on Wake Forest. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 5 at the Wake Forest 11.
+
+Georgia Tech ball, Q3, 1-5-WAKE11 (10:13) 31-14
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB A. Bell runs right end for 11 yards ****Touchdown!*****
+
+Georgia Tech ball, Q3, 1-0-WAKE0 (09:47) 37-14
+Harry Spears converts the PAT.
+
+Georgia Tech ball, Q3, 1-10-GATC35 (09:47) 38-14
+Harry Spears kicks 67 from Georgia Tech 35 to Wake Forest -2. Samuel Williams to Wake Forest 
+21 for a 23 yard return.
+
+Wake Forest ball, Q3, 1-10-WAKE21 (09:30) 14-38
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB R. Johnson runs left guard for -2 yards (OLB D. Shaffer). C L. Bradley missed a block that 
+hurt the play.
+
+Wake Forest ball, Q3, 2-12-WAKE19 (09:15) 14-38
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+QB D. Johnson completes a 34 yard hook to WR R. Drake (SS A. Lee).  OG E. Farley earned a 
+pancake on the play. CB J. Hunt allowed the big play.
+
+Wake Forest ball, Q3, 1-10-GATC47 (08:52) 14-38
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB R. Johnson runs right guard for 6 yards (FS C. Sparks). 
+
+Grabbing Face Mask against SS Albert Lee on Georgia Tech. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Georgia Tech 36.
+
+Wake Forest ball, Q3, 1-10-GATC36 (08:42) 14-38
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB R. Johnson runs left end for 5 yards (DE S. Mills). 
+
+Wake Forest ball, Q3, 2-5-GATC31 (08:09) 14-38
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+D. Johnson has his 27 yard pass intercepted by H. Adams at the GATC 4. He returns it -1 yards 
+to the Georgia Tech 3. DE S. Mills hurried the QB.
+
+Georgia Tech ball, Q3, 1-10-GATC3 (07:40) 38-14
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB G. Kelley completes a 6 yard screen to RB A. Bell (ILB M. Ashton). 
+
+Georgia Tech ball, Q3, 2-4-GATC9 (07:19) 38-14
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+FB B. Thompson runs left tackle for 29 yards (OOB).
+
+Georgia Tech ball, Q3, 1-10-GATC38 (07:02) 38-14
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ-B6-Spy
+G. Kelley has his 14 yard pass intercepted by R. Peebles at the WAKE 48. He returns it 19 
+yards to the Georgia Tech 33.
+
+Wake Forest ball, Q3, 1-10-GATC33 (06:30) 14-38
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Johnson completes a 7 yard out to WR R. Drake (FS C. Sparks). 
+
+Wake Forest ball, Q3, 2-3-GATC26 (06:06) 14-38
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-MZ-B7,9
+RB M. Young runs right guard for 15 yards (FS W. Hudson, OLB D. Shaffer). 
+
+Wake Forest ball, Q3, 1-10-GATC11 (05:35) 14-38
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB R. Johnson runs left end for 2 yards (OLB D. Shaffer). 
+
+Wake Forest ball, Q3, 2-8-GATC9 (05:08) 14-38
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B5,6,8
+RB M. Young runs right guard for -2 yards (SS A. Lee). OG E. Farley missed a block that hurt 
+the play.
+
+Wake Forest ball, Q3, 3-10-GATC11 (04:40) 14-38
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB D. Johnson completes a 7 yard dump off to WR G. Potts (ILB H. Adams). 
+
+Wake Forest ball, Q3, 4-3-GATC4 (04:16) 14-38
+Rudy Rodriguez has his 22 yard field goal blocked by Leslie Lewis! The ball is recovered by 
+Bobby Thompson (GATC) at the GATC 1. He returns it to Georgia Tech 7 for 6 yards.
+
+Georgia Tech ball, Q3, 1-10-GATC20 (03:57) 38-14
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB A. Bell runs right tackle for 4 yards (DT R. Owens, ILB M. Ashton). 
+
+Georgia Tech ball, Q3, 2-6-GATC24 (03:25) 38-14
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB G. Kelley gets sacked for a 3 yard loss (DE D. Gamble).  TE C. Hawkins allowed the sack.
+
+Georgia Tech ball, Q3, 3-9-GATC21 (03:06) 38-14
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,6,11-R
+QB G. Kelley throws an incomplete pass to WR L. Scott (CB S. Williams). CB S. Williams broke 
+up the pass.
+
+Georgia Tech ball, Q3, 4-9-GATC21 (02:50) 38-14
+Enrique Sandoval Punts 41 yards to the Wake Forest 38 yard line, where Johnny Mendoza returns 
+it to Wake Forest 44 for a 6 yard return.
+
+Wake Forest ball, Q3, 1-10-WAKE44 (02:30) 14-38
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB R. Johnson runs right end for -1 yards (DE S. Mills).
+
+Wake Forest ball, Q3, 2-11-WAKE43 (02:00) 14-38
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-out-WR3-curl
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+QB D. Johnson throws an incomplete pass to WR G. Potts (CB C. King). CB C. King broke up the 
+pass.
+
+Wake Forest ball, Q3, 3-11-WAKE43 (01:43) 14-38
+Offense: Short Pass, Set: Trips, Play: TR-SE-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Johnson completes a 6 yard screen to WR R. Drake (OOB).
+
+Wake Forest ball, Q3, 4-5-WAKE49 (01:26) 14-38
+Alex Williams Punts 37 yards to the Georgia Tech 14 yard line, where it goes out of bounds.
+
+Georgia Tech ball, Q3, 1-10-GATC14 (01:07) 38-14
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB A. Bell runs left end for 0 yards (OOB). TE C. Hawkins missed a block that hurt the play.
+
+Georgia Tech ball, Q3, 2-10-GATC14 (00:56) 38-14
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB A. Bell runs left guard for 1 yard (DE G. Joseph).  OT B. Hatfield missed a block that 
+hurt the play.
+
+Georgia Tech ball, Q3, 3-9-GATC15 (00:24) 38-14
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,6,11-R
+FB B. Thompson runs right tackle for 24 yards (ILB R. Smith).  A. Bell created the big run 
+with his own skills.
+
+Georgia Tech ball, Q4, 1-10-GATC39 (15:00) 38-14
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB A. Bell runs left tackle for -2 yards (ILB R. Smith).
+
+Georgia Tech ball, Q4, 2-12-GATC37 (14:33) 38-14
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB A. Bell runs left tackle for 15 yards (OLB W. Ashley).  OT B. Hatfield had a key block 
+on the run.
+
+Georgia Tech ball, Q4, 1-10-WAKE48 (14:06) 38-14
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB A. Bell runs right guard for 4 yards (OLB J. Chavez). 
+
+Georgia Tech ball, Q4, 2-6-WAKE44 (13:35) 38-14
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-power-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+False Start against OG James Isom on Georgia Tech. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 11 at the Wake Forest 49.
+
+Georgia Tech ball, Q4, 2-11-WAKE49 (13:35) 38-14
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+WR S. Westbrook runs right tackle for 4 yards (FS A. Johnston, OLB J. Chavez). 
+
+Georgia Tech ball, Q4, 3-7-WAKE45 (13:04) 38-14
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+QB G. Kelley completes a 9 yard post to WR S. Westbrook (OLB W. Ashley, FS R. Peebles). 
+
+Georgia Tech ball, Q4, 1-10-WAKE36 (12:39) 38-14
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB A. Bell runs right tackle for 7 yards (FS A. Johnston).  OG J. Isom had a key block on 
+the run. DE D. Gamble was out of position on the play.
+
+Georgia Tech ball, Q4, 2-3-WAKE29 (12:07) 38-14
+Offense: Outside Run, Set: I Form, Play: I-HB-toss-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB A. Bell runs right end for 5 yards (OLB J. Chavez, CB J. Brady). 
+
+Georgia Tech ball, Q4, 1-10-WAKE24 (11:37) 38-14
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB A. Bell runs left guard for 1 yard (FS A. Johnston). 
+
+Georgia Tech ball, Q4, 1-10-WAKE24 (11:37) 38-14
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+SS Fredrick Cunningham (WAKE) was injured on the play (Shoulder). It doesn't look too serious 
+and he should return.
+
+Georgia Tech ball, Q4, 2-9-WAKE23 (11:23) 38-14
+Offense: Medium Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB G. Kelley throws an incomplete pass to WR L. Scott.
+
+Georgia Tech ball, Q4, 3-9-WAKE23 (11:04) 38-14
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB G. Kelley completes a 10 yard corner to WR L. Scott (OOB).
+
+Georgia Tech ball, Q4, 1-10-WAKE13 (10:52) 38-14
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB G. Kelley completes a 13 yard hook to WR S. Westbrook ****Touchdown!***** OG S. Rogers 
+earned a pancake on the play. CB S. Williams missed a tackle.
+
+Georgia Tech ball, Q4, 1-0-WAKE0 (10:29) 44-14
+Harry Spears converts the PAT.
+
+Georgia Tech ball, Q4, 1-10-GATC35 (10:29) 45-14
+Harry Spears kicks 55 from Georgia Tech 35 to Wake Forest 10. Samuel Williams to Wake Forest 
+27 for a 17 yard return.
+
+Wake Forest ball, Q4, 1-10-WAKE27 (10:11) 14-45
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ-B7,8
+RB R. Johnson runs right guard for -2 yards (ILB H. Adams).
+
+Wake Forest ball, Q4, 2-12-WAKE25 (09:43) 14-45
+Offense: Long Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB D. Johnson throws an incomplete pass to WR J. Green. DT C. Black hurried the QB.
+
+Wake Forest ball, Q4, 3-12-WAKE25 (09:23) 14-45
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB R. Johnson runs right guard for 2 yards (SS A. Lee). 
+
+Wake Forest ball, Q4, 4-10-WAKE27 (08:50) 14-45
+Alex Williams Punts 43 yards to the Georgia Tech 30 yard line, where it gets downed.
+
+Georgia Tech ball, Q4, 1-10-GATC30 (08:35) 45-14
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB A. Bell runs left end for 14 yards (ILB M. Ashton, CB S. Williams).  OT B. Hatfield had 
+a key block on the run.
+
+Georgia Tech ball, Q4, 1-10-GATC44 (08:03) 45-14
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+RB A. Bell runs left tackle for 1 yard (ILB R. Smith). 
+
+Georgia Tech ball, Q4, 2-9-GATC45 (07:34) 45-14
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+QB G. Kelley throws an incomplete pass to WR L. Scott. WR L. Scott ran an incorrect route.
+
+Holding against C William Mccabe on Georgia Tech. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 19 at the Georgia Tech 35.
+
+Georgia Tech ball, Q4, 2-19-GATC35 (07:20) 45-14
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB G. Kelley completes a 10 yard corner to WR L. Scott (OLB J. Chavez). 
+
+Georgia Tech ball, Q4, 3-9-GATC45 (06:56) 45-14
+Offense: Short Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB G. Kelley throws an incomplete pass to WR L. Lewis. OLB J. Chavez hurried the QB.
+
+Georgia Tech ball, Q4, 4-9-GATC45 (06:39) 45-14
+Enrique Sandoval Punts 31 yards to the Wake Forest 24 yard line, where it goes out of bounds.
+
+Wake Forest ball, Q4, 1-10-WAKE24 (06:24) 14-45
+Offense: Long Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Johnson completes a 33 yard post to WR R. Drake (OLB D. Shaffer).  C L. Bradley earned 
+a pancake on the play. OLB D. Shaffer allowed the big play.
+
+Holding against CB Jeff Hunt on Georgia Tech. The Penalty is for 10 yards, and an automatic 
+first down.
+The penalty will be declined.
+
+Wake Forest ball, Q4, 1-10-GATC43 (06:01) 14-45
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB D. Johnson throws an incomplete pass to WR T. Scott. DE J. Martinez hurried the QB.
+
+Wake Forest ball, Q4, 2-10-GATC43 (05:54) 14-45
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+QB D. Johnson completes a 8 yard hook to WR J. Green (OOB).
+
+Wake Forest ball, Q4, 3-2-GATC35 (05:43) 14-45
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB R. Johnson runs left guard for -1 yards (FS C. Sparks).
+
+Wake Forest ball, Q4, 4-3-GATC36 (05:15) 14-45
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+RB R. Johnson runs right guard for 5 yards (OLB B. Strickland, FS C. Sparks). 
+
+Wake Forest ball, Q4, 1-10-GATC31 (04:42) 14-45
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-norm-MZ-B10
+QB A. Brown runs outside for 18 yards (SS R. Tracy, CB J. Hunt).  DE J. Martinez hurried the 
+QB.
+
+Wake Forest ball, Q4, 1-10-GATC13 (04:21) 14-45
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+QB D. Johnson throws an incomplete pass to WR J. Green.
+
+Wake Forest ball, Q4, 2-10-GATC13 (04:02) 14-45
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB R. Johnson runs left end for 1 yard (ILB H. Adams).  OT D. Petty missed a block that hurt 
+the play.
+
+Wake Forest ball, Q4, 3-9-GATC12 (03:29) 14-45
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-Man-B11
+QB D. Johnson throws an incomplete pass to WR G. Potts (ILB H. Adams). ILB H. Adams broke 
+up the pass.
+
+Wake Forest ball, Q4, 4-9-GATC12 (03:13) 14-45
+Rudy Rodriguez converts the 30 yard field goal.
+
+Wake Forest ball, Q4, 1-10-WAKE35 (02:58) 17-45
+Daniel Adkins Lines up for the onside kick! The opponent has their hands team out there. The 
+kick goes 18 yards and bounces around...[B] The Return Team Holds on to it. Jamey Mcdonald ends up with it on the Georgia Tech 47.
+
+Georgia Tech ball, Q4, 1-10-GATC47 (02:38) 45-17
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB J. Pugh runs right end for 11 yards (OLB J. Chavez). 
+
+Georgia Tech ball, Q4, 1-10-WAKE42 (02:06) 45-17
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+RB J. Pugh runs right tackle for -2 yards (ILB R. Smith). FB D. Carroll missed a block that 
+hurt the play.
+
+Georgia Tech ball, Q4, 2-12-WAKE44 (01:50) 45-17
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB A. Bell runs right tackle for 4 yards (ILB M. Ashton, FS A. Johnston). 
+
+Georgia Tech ball, Q4, 3-8-WAKE40 (01:19) 45-17
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB A. Bell runs right guard for 1 yard (OLB W. Ashley).  C W. Mccabe missed a block that hurt 
+the play.
+
+Wake Forest Timeout!
+
+Georgia Tech ball, Q4, 4-7-WAKE39 (01:11) 45-17
+Harry Spears misses the 57 yard field goal. It will be Wake Forest ball at the WAKE 39
+
+Wake Forest ball, Q4, 1-10-WAKE39 (01:04) 17-45
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB A. Brown throws an incomplete pass to RB R. Johnson.
+
+Wake Forest ball, Q4, 1-10-WAKE39 (01:04) 17-45
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+OG Edward Farley (WAKE) was injured on the play (Lower Back). It doesn't look like he will 
+return.
+
+Wake Forest ball, Q4, 2-10-WAKE39 (00:58) 17-45
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-in-WR4-up
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB A. Brown completes a 61 yard in to WR G. Potts ****Touchdown!***** C L. Bradley earned 
+a pancake on the play. OLB D. Shaffer allowed the big play.
+
+Wake Forest ball, Q4, 1-0-GATC0 (00:44) 23-45
+Rudy Rodriguez converts the PAT.
+
+Wake Forest ball, Q4, 1-10-WAKE35 (00:44) 24-45
+Daniel Adkins Lines up for the onside kick! The opponent has their hands team out there. The 
+kick goes 15 yards and bounces around...[B] The Return Team Holds on to it. William Dejesus ends up with it on the Wake Forest 50.
+
+Georgia Tech ball, Q4, 1-10-WAKE50 (00:37) 45-24
+Offense: Inside Run, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+The QB takes a knee.
+
+Wake Forest Timeout!
+
+Georgia Tech ball, Q4, 2-11-GATC49 (00:06) 45-24
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+The QB takes a knee.
+

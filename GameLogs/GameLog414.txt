@@ -1,0 +1,999 @@
+Michigan State ball, Q1, 1-10-MIST35 (15:00) 0-0
+Joshua Crook kicks 54 from Michigan State 35 to Wisconsin 11. Dane Walters to Wisconsin 36 
+for a 25 yard return.
+
+Wisconsin ball, Q1, 1-10-WIS36 (14:41) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Normal, Set: 4-3, Play: 43-norm-Man
+QB D. Petty completes a 4 yard screen to RB R. Sandoval (ILB C. Garrison, SS S. Pickering). 
+
+Wisconsin ball, Q1, 2-6-WIS40 (14:19) 0-0
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB J. Hinds runs right end for -1 yards (SS S. Pickering). TE K. Knight missed a block that 
+hurt the play.
+
+Wisconsin ball, Q1, 3-7-WIS39 (13:48) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB J. Hinds runs right end for 1 yard (CB D. Porter). 
+
+Wisconsin ball, Q1, 4-6-WIS40 (13:21) 0-0
+Arthur Miller Punts 54 yards to the Michigan State 6 yard line, where it gets downed.
+
+Michigan State ball, Q1, 1-10-MIST6 (13:06) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+QB D. Gantt completes a 11 yard hook to WR M. Cook (ILB J. Lugo, FS C. Henry).  OG C. Washington 
+earned a pancake on the play.
+
+Michigan State ball, Q1, 1-10-MIST17 (12:44) 0-0
+Offense: Short Pass, Set: Trips, Play: TR-SE-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Gantt completes a 2 yard screen to WR F. Wood (FS W. Underwood, SS G. Deal). 
+
+Michigan State ball, Q1, 2-8-MIST19 (12:20) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+QB D. Gantt completes a 19 yard in to WR M. Cook (OOB). D. Gantt with the great pass. OT D. 
+Jones earned a pancake on the play. SS S. Sears missed a tackle.
+
+Michigan State ball, Q1, 1-10-MIST38 (12:10) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB D. Terry runs right end for -1 yards (ILB J. Lugo). TE S. Michael missed a block that hurt 
+the play.
+
+Michigan State ball, Q1, 2-11-MIST37 (11:39) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB D. Terry runs right end for 1 yard (OOB).
+
+Michigan State ball, Q1, 3-10-MIST38 (11:27) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB D. Terry runs right guard for 2 yards (CB T. Franz, FS W. Underwood). 
+
+Michigan State ball, Q1, 4-8-MIST40 (10:54) 0-0
+Victor Newton Punts 44 yards to the Wisconsin 16 yard line,
+
+Wisconsin ball, Q1, 1-10-WIS16 (10:36) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB R. Sandoval runs right tackle for 15 yards (FS D. Hensley).  R. Sandoval created the big 
+run with his own skills. OLB R. Lucas missed a tackle.
+
+Wisconsin ball, Q1, 1-10-WIS31 (10:10) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB D. Petty completes a 2 yard hook to RB J. Hinds (OOB).
+
+Wisconsin ball, Q1, 2-8-WIS33 (09:58) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+RB R. Sandoval runs left end for 8 yards (FS D. Hensley, ILB C. Garrison).  DE B. Langford 
+was out of position on the play.
+
+Wisconsin ball, Q1, 1-10-WIS41 (09:29) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB D. Petty throws an incomplete pass to WR D. Ramos.
+
+Wisconsin ball, Q1, 2-10-WIS41 (09:09) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB D. Petty throws an incomplete pass to RB R. Sandoval.
+
+Wisconsin ball, Q1, 3-10-WIS41 (08:52) 0-0
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB D. Petty throws an incomplete pass to WR D. Walters.
+
+Wisconsin ball, Q1, 4-10-WIS41 (08:32) 0-0
+Arthur Miller Punts 38 yards to the Michigan State 21 yard line, where Michael Perez returns 
+it to Michigan State 29 for a 8 yard return.
+
+Michigan State ball, Q1, 1-10-MIST29 (08:15) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB D. Terry runs right guard for 4 yards (CB T. Franz). 
+
+Michigan State ball, Q1, 2-6-MIST33 (07:43) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB D. Terry runs right end for -1 yards (CB T. Franz). OT R. Kerr missed a block that hurt 
+the play.
+
+Michigan State ball, Q1, 3-7-MIST32 (07:16) 0-0
+Offense: Medium Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Stop Pass, Set: 3-3-5, Play: 335-norm-MZ
+QB D. Gantt throws an incomplete pass to WR F. Wood.
+
+Michigan State ball, Q1, 4-7-MIST32 (06:56) 0-0
+Victor Newton Punts 44 yards to the Wisconsin 24 yard line,
+
+Wisconsin ball, Q1, 1-10-WIS24 (06:39) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB R. Sandoval runs right guard for 5 yards (ILB D. Dill). 
+
+Wisconsin ball, Q1, 2-5-WIS29 (06:08) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB D. Petty completes a 15 yard out-and-up to TE K. Knight (FS D. Hensley, SS S. Pickering). 
+ FS S. Cruz was out of position on the play.
+
+Wisconsin ball, Q1, 2-5-WIS29 (06:08) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+OG William Dobbins (WIS) was injured on the play (Face). It doesn't look too serious and he 
+should return.
+
+Wisconsin ball, Q1, 1-10-WIS44 (05:54) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB R. Sandoval runs left guard for 2 yards (FS S. Cruz). 
+
+Wisconsin ball, Q1, 2-8-WIS46 (05:25) 0-0
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB R. Sandoval runs left tackle for 2 yards (FS S. Cruz, DE B. Langford). 
+
+Wisconsin ball, Q1, 3-6-WIS48 (04:58) 0-0
+Offense: Long Pass, Set: I Form, Play: I-SE-streaks
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB D. Petty completes a 30 yard streak to WR D. Ramos (FS S. Cruz).  ILB C. Garrison allowed 
+the big play.
+
+Wisconsin ball, Q1, 1-10-MIST22 (04:29) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Petty throws an incomplete pass to FB P. Allen. DT T. Young hurried the QB.
+
+Wisconsin ball, Q1, 2-10-MIST22 (04:01) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Petty gets sacked for a 5 yard loss (DE B. Langford).  TE K. Knight allowed the sack.
+
+Wisconsin ball, Q1, 3-15-MIST27 (03:55) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB D. Petty completes a 15 yard hook to WR D. Walters (ILB D. Dill, CB K. Irwin).  D. Petty 
+with the great pass. FS S. Cruz was out of position on the play.
+
+Wisconsin ball, Q1, 1-10-MIST12 (03:29) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB J. Hinds runs left tackle for -1 yards (DT T. Young).
+
+Wisconsin ball, Q1, 1-10-MIST12 (03:29) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+DE Bradley Langford (MIST) was injured on the play (Eye). It doesn't look like he will return.
+
+Wisconsin ball, Q1, 2-11-MIST13 (03:15) 0-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+RB J. Hinds runs left end for 7 yards (OLB R. Lucas, OLB M. Wolff).  DT T. Young was out of 
+position on the play.
+
+Wisconsin ball, Q1, 2-11-MIST13 (03:15) 0-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+CB David Porter (MIST) was injured on the play (OK). It doesn't look like he will return.
+
+Wisconsin ball, Q1, 3-4-MIST6 (02:59) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+RB J. Hinds runs right guard for 2 yards (SS S. Pickering). 
+
+Wisconsin ball, Q1, 4-2-MIST4 (02:29) 0-0
+David Marshall converts the 22 yard field goal.
+
+Wisconsin ball, Q1, 1-10-WIS35 (02:11) 3-0
+David Marshall kicks 67 from Wisconsin 35 to Michigan State -2. Kevin Irwin to Michigan State 
+21 for a 23 yard return.
+
+Michigan State ball, Q1, 1-10-MIST21 (01:56) 0-3
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Gantt completes a 16 yard dump off to WR E. Simms (OOB). CB W. Cox was out of position 
+on the play.
+
+Pass Interference against SS Steven Small on Wisconsin. The Penalty is for 15 yards, and an 
+automatic first down.
+Michigan State ball, Q1, 1-10-MIST21 (01:56) 0-3
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+CB Wayne Cox (WIS) was injured on the play (Patella). It doesn't look like he will return.
+
+The penalty will be declined.
+
+Michigan State ball, Q1, 1-10-MIST37 (01:45) 0-3
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+QB D. Gantt throws an incomplete pass to WR F. Wood.
+
+Michigan State ball, Q1, 2-10-MIST37 (01:28) 0-3
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB D. Gantt completes a 18 yard hook to WR A. Hoffman (FS C. Henry, FS W. Underwood).  D. 
+Gantt with the great pass.
+
+Michigan State ball, Q1, 1-10-WIS45 (01:04) 0-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB D. Terry runs left guard for 11 yards (ILB J. Lugo).  OT R. Kerr had a key block on the run.
+
+Michigan State ball, Q1, 1-10-WIS34 (00:51) 0-3
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-MZ-B7,9
+QB D. Gantt throws an incomplete pass to WR A. Hoffman (OLB H. Hood). WR A. Hoffman dropped 
+the pass. DT D. Farr hurried the QB. OLB H. Hood broke up the pass.
+
+Michigan State ball, Q1, 2-10-WIS34 (00:35) 0-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB D. Gantt completes a 34 yard in to WR A. Hoffman ****Touchdown!*****
+
+Michigan State ball, Q1, 1-0-WIS0 (00:11) 6-3
+Joshua Crook converts the PAT.
+
+Michigan State ball, Q1, 1-10-MIST35 (00:11) 7-3
+Joshua Crook kicks 63 from Michigan State 35 to Wisconsin 2. David Ramos to Wisconsin 13 for 
+a 11 yard return.
+
+Wisconsin ball, Q2, 1-10-WIS13 (15:00) 3-7
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+FB P. Allen runs left tackle for 3 yards (FS D. Hensley). 
+
+Wisconsin ball, Q2, 2-7-WIS16 (14:31) 3-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+RB J. Hinds runs right end for 9 yards (OOB). DE J. Miller missed a tackle.
+
+Wisconsin ball, Q2, 1-10-WIS25 (14:20) 3-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+RB R. Sandoval runs left end for 17 yards (OLB R. Lucas).  FS D. Hensley was out of position 
+on the play.
+
+Wisconsin ball, Q2, 1-10-WIS42 (13:50) 3-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-L
+RB J. Hinds runs right tackle for 5 yards (OLB M. Wolff). 
+
+Wisconsin ball, Q2, 1-10-WIS42 (13:50) 3-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-L
+DE Jeffery Miller (MIST) was injured on the play (Head). It doesn't look too serious and he 
+should return.
+
+Wisconsin ball, Q2, 2-5-WIS47 (13:35) 3-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+QB D. Petty throws an incomplete pass to WR D. Ramos (SS S. Pickering). WR D. Ramos dropped 
+the pass. SS S. Pickering broke up the pass.
+
+Wisconsin ball, Q2, 3-5-WIS47 (13:16) 3-7
+Offense: Long Pass, Set: I Form, Play: I-SE-streaks
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB D. Petty throws an incomplete pass to WR D. Ramos (FS D. Hensley). FS D. Hensley broke 
+up the pass.
+
+Wisconsin ball, Q2, 4-5-WIS47 (13:01) 3-7
+Arthur Miller Punts 33 yards to the Michigan State 20 yard line, where it goes out of bounds.
+
+Michigan State ball, Q2, 1-10-MIST20 (12:41) 7-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+RB D. Terry runs left end for 0 yards (OOB).
+
+Michigan State ball, Q2, 2-10-MIST20 (12:23) 7-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB D. Terry runs right tackle for 18 yards (SS S. Small).  OG C. Clemons had a key block on 
+the run. CB T. Franz missed a tackle.
+
+Michigan State ball, Q2, 1-10-MIST38 (11:55) 7-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB D. Terry runs left end for 4 yards He fumbles the ball after a hit by W. Underwood. It's 
+recovered by S. Small of Wisconsin. He returns it 0 yards to the Michigan State 42.
+
+Wisconsin ball, Q2, 1-10-MIST42 (11:24) 3-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB J. Hinds runs right guard for 9 yards (OLB R. Lucas).  DE J. Miller was out of position 
+on the play.
+
+Wisconsin ball, Q2, 2-1-MIST33 (10:57) 3-7
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB J. Hinds runs left tackle for 3 yards He fumbles the ball after a hit by R. Lucas. It's 
+recovered by C. Garrison of Michigan State. He returns it 4 yards to the Michigan State 34.
+
+Michigan State ball, Q2, 1-10-MIST34 (10:27) 7-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB D. Terry runs right tackle for 4 yards (ILB J. Lugo). 
+
+Michigan State ball, Q2, 2-6-MIST38 (09:59) 7-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB D. Terry runs right guard for 5 yards (DE M. Marshall, SS G. Deal). 
+
+Michigan State ball, Q2, 3-1-MIST43 (09:32) 7-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Gantt completes a 44 yard post to WR M. Cook (FS W. Underwood, SS G. Deal).  D. Gantt 
+with the great pass. OG C. Washington earned a pancake on the play.
+
+Holding against OG Christopher Washington on Michigan State. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Third and 11 at the Michigan State 33.
+
+Michigan State ball, Q2, 3-11-MIST33 (09:21) 7-3
+Offense: Short Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+QB D. Gantt completes a 12 yard post to WR M. Cook (OLB G. Witt, CB T. Franz).  OG C. Washington 
+earned a pancake on the play.
+
+Michigan State ball, Q2, 1-10-MIST45 (08:58) 7-3
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB D. Terry runs left tackle for 1 yard (SS S. Small). 
+
+Michigan State ball, Q2, 2-9-MIST46 (08:29) 7-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+RB M. Mack runs left end for -2 yards (OLB G. Witt).
+
+Michigan State ball, Q2, 3-11-MIST44 (07:59) 7-3
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB D. Gantt completes a 13 yard out to WR F. Wood (SS S. Small).  F. Wood made a great catch. 
+FS W. Underwood missed a tackle.
+
+Holding against OG Christopher Washington on Michigan State. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Third and 21 at the Michigan State 34.
+
+Michigan State ball, Q2, 3-21-MIST34 (07:45) 7-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB D. Gantt completes a 26 yard hook to WR A. Hoffman (OLB H. Hood, SS G. Deal).  A. Hoffman 
+made a great catch. CB A. Cook allowed the big play.
+
+Michigan State ball, Q2, 1-10-WIS40 (07:20) 7-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB D. Terry runs right guard for 4 yards (SS S. Small). 
+
+Michigan State ball, Q2, 2-6-WIS36 (06:53) 7-3
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB D. Terry runs left end for 1 yard (SS S. Small). 
+
+Michigan State ball, Q2, 3-5-WIS35 (06:25) 7-3
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-TMan
+QB D. Gantt completes a 8 yard hook to WR F. Wood (OOB).
+
+Michigan State ball, Q2, 3-5-WIS35 (06:25) 7-3
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-TMan
+FS William Underwood (WIS) was injured on the play (Eye). It doesn't look like he will return.
+
+Michigan State ball, Q2, 1-10-WIS27 (06:07) 7-3
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Gantt completes a 6 yard dump off to TE S. Michael (OLB G. Witt, SS S. Small). 
+
+Michigan State ball, Q2, 2-4-WIS21 (05:44) 7-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+RB D. Terry runs right guard for 15 yards (FS J. Polk, OLB G. Burch).  OG C. Clemons had a 
+key block on the run. OLB G. Witt missed a tackle.
+
+Michigan State ball, Q2, 1-6-WIS6 (05:12) 7-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+RB D. Terry runs left end for 0 yards (OLB H. Hood). 
+
+Michigan State ball, Q2, 2-6-WIS6 (04:41) 7-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB D. Terry runs left guard for 2 yards (OLB H. Hood, CB A. Cook). 
+
+Michigan State ball, Q2, 3-4-WIS4 (04:01) 7-3
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+QB D. Gantt gets sacked for a 1 yard loss (DT J. Webster).  OT R. Kerr allowed the sack.
+
+Michigan State ball, Q2, 4-5-WIS5 (03:52) 7-3
+Joshua Crook converts the 23 yard field goal.
+
+Holding against OG Ronald Macdonald on Wisconsin. The Penalty is for 2 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and Goal at the Wisconsin 3.
+
+Michigan State ball, Q2, 1-3-WIS3 (03:42) 7-3
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+RB M. Mack runs left guard for 1 yard (CB T. Franz).  M. Mack missed a hole that could have 
+resulted in a bigger gain.
+
+Michigan State ball, Q2, 2-2-WIS2 (03:09) 7-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+RB D. Terry runs right end for 2 yards ****Touchdown!*****
+
+Michigan State ball, Q2, 2-2-WIS2 (03:09) 7-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+CB Tom Franz (WIS) was injured on the play (Knee). It doesn't look like he will return.
+
+Michigan State ball, Q2, 1-0-WIS0 (02:54) 13-3
+Joshua Crook converts the PAT.
+
+Michigan State ball, Q2, 1-10-MIST35 (02:54) 14-3
+Joshua Crook kicks 67 from Michigan State 35 to Wisconsin -2. Dane Walters to Wisconsin 26 
+for a 28 yard return.
+
+Wisconsin ball, Q2, 1-10-WIS26 (02:34) 3-14
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+QB D. Petty completes a 14 yard corner to WR D. Ramos (SS S. Pickering). 
+
+Wisconsin ball, Q2, 1-10-WIS40 (02:10) 3-14
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB J. Hinds runs left guard for 3 yards (ILB D. Dill, SS S. Pickering). 
+
+Wisconsin ball, Q2, 2-7-WIS43 (01:51) 3-14
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB J. Hinds runs right guard for 2 yards (FS D. Hensley). 
+
+Wisconsin ball, Q2, 3-5-WIS45 (01:18) 3-14
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Petty throws an incomplete pass to WR D. Ramos.
+
+Wisconsin ball, Q2, 4-5-WIS45 (01:01) 3-14
+Arthur Miller Punts 46 yards to the Michigan State 9 yard line, where it gets downed.
+
+Michigan State ball, Q2, 1-10-MIST9 (01:02) 14-3
+Offense: Short Pass, Set: Trips, Play: TR-FL-in-SE-post
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B5,6,8
+QB D. Gantt completes a 15 yard hook to WR M. Cook (OLB G. Witt).  OT D. Jones earned a pancake 
+on the play.
+
+Michigan State ball, Q2, 1-10-MIST24 (00:35) 14-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-MZ-B7,9
+RB D. Terry runs left guard for 26 yards (OLB G. Witt).  CB J. Hansen missed a tackle.
+
+Michigan State ball, Q2, 1-10-MIST50 (00:06) 14-3
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: 3-3-5, Play: 335-run-Man-B8,10
+QB D. Gantt completes a 10 yard cross to WR F. Wood (FS C. Henry, SS S. Small). 
+
+Michigan State Timeout!
+
+Wisconsin ball, Q3, 1-10-WIS35 (15:00) 3-14
+David Marshall kicks 54 from Wisconsin 35 to Michigan State 11. Kevin Irwin to Michigan State 
+28 for a 17 yard return.
+
+Michigan State ball, Q3, 1-10-MIST28 (14:40) 14-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-MZ-B4,5,6,8,
+RB D. Terry runs left tackle for -3 yards (ILB J. Lugo). OT R. Kerr missed a block that hurt 
+the play.
+
+Michigan State ball, Q3, 2-13-MIST25 (14:07) 14-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB M. Mack runs left guard for 3 yards (SS S. Small). 
+
+Michigan State ball, Q3, 3-10-MIST28 (13:36) 14-3
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB D. Gantt completes a 21 yard cross to WR A. Hoffman (OOB). OG C. Washington earned a pancake 
+on the play.
+
+Michigan State ball, Q3, 1-10-MIST49 (13:18) 14-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB D. Terry runs right tackle for 9 yards (ILB J. Lugo). 
+
+Michigan State ball, Q3, 2-1-WIS42 (12:52) 14-3
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB D. Gantt throws an incomplete pass to WR A. Hoffman. WR A. Hoffman ran an incorrect route.
+
+Holding against CB Jeff Hansen on Wisconsin. The Penalty is for 10 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Wisconsin 32.
+
+Michigan State ball, Q3, 1-10-WIS32 (12:41) 14-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4,5,6
+QB D. Gantt throws an incomplete pass to WR M. Cook. OLB G. Witt hurried the QB.
+
+Michigan State ball, Q3, 2-10-WIS32 (12:26) 14-3
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB M. Mack runs left tackle for 17 yards (OLB H. Hood, CB J. Hansen).  SS S. Sears was out 
+of position on the play.
+
+Michigan State ball, Q3, 1-10-WIS15 (11:56) 14-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB D. Terry runs right guard for 7 yards (OLB G. Witt).  OG C. Clemons had a key block on 
+the run.
+
+Michigan State ball, Q3, 2-3-WIS8 (11:27) 14-3
+Offense: Outside Run, Set: Quads, Play: Q-HB-toss-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB D. Terry runs left end for -5 yards (SS G. Deal).
+
+Michigan State ball, Q3, 3-8-WIS13 (10:55) 14-3
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 3-3-5, Play: 335-norm-MZ-B10
+QB D. Gantt completes a 8 yard out to WR M. Cook (OLB G. Witt, OLB H. Hood). 
+
+Michigan State ball, Q3, 1-5-WIS5 (10:32) 14-3
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+RB M. Mack runs left guard for 5 yards ****Touchdown!*****
+
+Michigan State ball, Q3, 1-0-WIS0 (10:02) 20-3
+Joshua Crook converts the PAT.
+
+Michigan State ball, Q3, 1-10-MIST35 (10:02) 21-3
+Joshua Crook kicks 47 from Michigan State 35 to Wisconsin 18. David Ramos to Wisconsin 43 
+for a 25 yard return.
+
+Wisconsin ball, Q3, 1-10-WIS43 (09:46) 3-21
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Pass, Set: 4-3, Play: 43-norm-TMan-R
+QB D. Petty completes a 23 yard streak to WR D. Walters (ILB C. Garrison).  OG L. Davis earned 
+a pancake on the play. FS S. Cruz missed a tackle.
+
+Holding against OT Paul Bush on Wisconsin. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Wisconsin 33.
+
+Wisconsin ball, Q3, 1-20-WIS33 (09:34) 3-21
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB D. Petty throws an incomplete pass to WR D. Ramos.
+
+Wisconsin ball, Q3, 2-20-WIS33 (09:17) 3-21
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB D. Petty throws an incomplete pass to WR D. Walters.
+
+Wisconsin ball, Q3, 3-20-WIS33 (08:59) 3-21
+Offense: Long Pass, Set: I Form, Play: I-SE-streaks
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Petty throws an incomplete pass to WR D. Walters. D. Petty made a bad pass.
+
+Wisconsin ball, Q3, 4-20-WIS33 (08:41) 3-21
+Arthur Miller Punts 43 yards to the Michigan State 24 yard line, where Michael Perez returns 
+it to Michigan State 33 for a 9 yard return.
+
+Michigan State ball, Q3, 1-10-MIST33 (08:21) 21-3
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: 3-3-5, Play: 335-norm-Man
+QB D. Gantt throws an incomplete pass to WR M. Cook.
+
+Michigan State ball, Q3, 2-10-MIST33 (08:04) 21-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+RB M. Mack runs right end for 8 yards (OLB G. Witt, FS C. Henry).  FS C. Henry missed a tackle.
+
+Michigan State ball, Q3, 3-2-MIST41 (07:38) 21-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-MZ-B4,5,6,8,
+RB D. Terry runs right guard for 1 yard (OLB H. Hood). 
+
+Michigan State ball, Q3, 4-1-MIST42 (07:09) 21-3
+Victor Newton Punts 38 yards to the Wisconsin 20 yard line, where it goes out of bounds.
+
+Wisconsin ball, Q3, 1-10-WIS20 (06:53) 3-21
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB D. Petty completes a 15 yard post to WR F. Tilton (CB K. Irwin).  D. Petty with the great 
+pass.
+
+Holding against OT Branden Bass on Wisconsin. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Wisconsin 10.
+
+Wisconsin ball, Q3, 1-20-WIS10 (06:43) 3-21
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ
+RB R. Sandoval runs right guard for 3 yards (CB K. Irwin, DT S. Nash). 
+
+Wisconsin ball, Q3, 2-17-WIS13 (06:11) 3-21
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan
+RB R. Sandoval runs right guard for 1 yard (OLB R. Lucas). 
+
+Wisconsin ball, Q3, 3-16-WIS14 (05:41) 3-21
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+RB J. Hinds runs right end for 19 yards (OOB). C A. Jones had a key block on the run. FS S. 
+Weiss missed a tackle.
+
+Wisconsin ball, Q3, 1-10-WIS33 (05:30) 3-21
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB J. Hinds runs right guard for 1 yard (ILB D. Dill).  TE K. Knight missed a block that hurt 
+the play.
+
+Wisconsin ball, Q3, 2-9-WIS34 (04:57) 3-21
+Offense: Outside Run, Set: I Form, Play: I-HB-toss-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB R. Sandoval runs right end for -1 yards (OLB R. Lucas). C A. Jones missed a block that 
+hurt the play.
+
+Wisconsin ball, Q3, 3-10-WIS33 (04:24) 3-21
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-Man
+QB D. Petty throws an incomplete pass to WR D. Ramos.
+
+Wisconsin ball, Q3, 4-10-WIS33 (04:06) 3-21
+Arthur Miller Punts 45 yards to the Michigan State 22 yard line,
+
+Michigan State ball, Q3, 1-10-MIST22 (03:50) 21-3
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B5,6,8
+QB D. Gantt throws an incomplete pass to WR F. Wood.
+
+Michigan State ball, Q3, 2-10-MIST22 (03:30) 21-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB D. Terry runs right tackle for 12 yards (FS C. Henry).  OG C. Washington had a key block 
+on the run.
+
+Michigan State ball, Q3, 1-10-MIST34 (03:02) 21-3
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: 3-3-5, Play: 335-run-Man-B5,6,8
+False Start against OT Danny Jones on Michigan State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Michigan State 29.
+
+Michigan State ball, Q3, 1-15-MIST29 (03:02) 21-3
+Offense: Short Pass, Set: Trips, Play: TR-TE-playact-corner
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+QB D. Gantt completes a 9 yard in to WR F. Wood (OOB).
+
+Michigan State ball, Q3, 2-6-MIST38 (02:50) 21-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB M. Mack runs right end for 4 yards (OOB).
+
+Michigan State ball, Q3, 3-2-MIST42 (02:35) 21-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB D. Gantt throws an incomplete pass to WR M. Cook.
+
+Michigan State ball, Q3, 4-2-MIST42 (02:20) 21-3
+Victor Newton Punts 51 yards to the Wisconsin 7 yard line, where it goes out of bounds.
+
+Wisconsin ball, Q3, 1-10-WIS7 (02:02) 3-21
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+QB D. Petty completes a 24 yard streak to WR D. Walters (ILB C. Garrison).  CB C. Koenig missed 
+a tackle.
+
+Wisconsin ball, Q3, 1-10-WIS31 (01:37) 3-21
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB D. Petty completes a 4 yard out to WR D. Walters (CB K. Irwin). 
+
+Wisconsin ball, Q3, 2-6-WIS35 (01:13) 3-21
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B5
+RB R. Sandoval runs right end for 4 yards (OOB).
+
+Wisconsin ball, Q3, 3-2-WIS39 (00:57) 3-21
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B8
+QB D. Petty completes a 10 yard screen to RB J. Hinds (FS D. Hensley, OLB R. Lucas). 
+
+Wisconsin ball, Q3, 1-10-WIS49 (00:36) 3-21
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+RB R. Sandoval runs left guard for 7 yards (OLB M. Wolff, OLB R. Lucas). 
+
+Wisconsin ball, Q3, 2-3-MIST44 (00:10) 3-21
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+RB J. Hinds runs left tackle for 6 yards (FS S. Cruz). 
+
+Illegal Motion against RB Jason Hinds on Wisconsin. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 8 at the Michigan State 49.
+
+Wisconsin ball, Q4, 2-8-MIST49 (15:00) 3-21
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB D. Petty throws an incomplete pass to WR D. Walters. DT S. Nash hurried the QB.
+
+Wisconsin ball, Q4, 3-8-MIST49 (14:41) 3-21
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ-B6
+QB D. Petty completes a 5 yard out to WR F. Tilton (OLB M. Wolff). 
+
+Wisconsin ball, Q4, 4-3-MIST44 (14:17) 3-21
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB R. Sandoval runs right tackle for -1 yards (OLB R. Lucas).
+
+Michigan State ball, Q4, 1-10-MIST45 (13:47) 21-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+RB D. Terry runs right guard for -1 yards (SS S. Small).
+
+Michigan State ball, Q4, 2-11-MIST44 (13:16) 21-3
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-Spy
+QB D. Gantt completes a 3 yard in to WR M. Cook (OOB).
+
+Holding against FS Christopher Henry on Wisconsin. The Penalty is for 10 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Wisconsin 46.
+
+Michigan State ball, Q4, 1-10-WIS46 (13:03) 21-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB M. Mack runs left guard for 12 yards (ILB J. Lugo, OLB G. Witt).  OG C. Clemons had a key 
+block on the run. DE M. Kay missed a tackle.
+
+Michigan State ball, Q4, 1-10-WIS34 (12:30) 21-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB D. Gantt completes a 26 yard post to WR M. Cook (OOB). M. Cook made a great catch. OG C. 
+Washington earned a pancake on the play. ILB J. Lugo allowed the big play.
+
+Michigan State ball, Q4, 1-8-WIS8 (12:14) 21-3
+Offense: Outside Run, Set: Quads, Play: Q-HB-toss-LE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB D. Terry runs left tackle for 4 yards (CB J. Hansen). 
+
+Tripping against Michigan State. The Penalty is for 15 yards.
+The Defense will accept the penalty. It is now First and Goal at the Wisconsin 23.
+
+Michigan State ball, Q4, 1-23-WIS23 (11:59) 21-3
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB D. Gantt gets sacked for a 3 yard loss (ILB J. Lugo).  C M. Pollard allowed the sack.
+
+Michigan State ball, Q4, 2-26-WIS26 (11:44) 21-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB D. Gantt completes a 9 yard streak to WR M. Cook (OOB).
+
+Michigan State ball, Q4, 3-17-WIS17 (11:33) 21-3
+Offense: Medium Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB D. Gantt gets sacked for a 11 yard loss (DT D. Farr).  OG C. Clemons allowed the sack.
+
+Michigan State ball, Q4, 3-17-WIS17 (11:33) 21-3
+Offense: Medium Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+SS Samuel Sears (WIS) was injured on the play (Teeth). It doesn't look too serious and he 
+should return.
+
+Michigan State ball, Q4, 4-28-WIS28 (11:16) 21-3
+Joshua Crook converts the 46 yard field goal.
+
+Michigan State ball, Q4, 1-10-MIST35 (10:58) 24-3
+Joshua Crook kicks 47 from Michigan State 35 to Wisconsin 18. David Ramos to Michigan State 
+37 for a 45 yard return.
+
+Wisconsin ball, Q4, 1-10-MIST37 (10:42) 3-24
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB R. Sandoval runs right guard for 1 yard (ILB D. Dill). 
+
+Wisconsin ball, Q4, 1-10-MIST37 (10:42) 3-24
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+DE Jeffery Miller (MIST) was injured on the play (Toe). It doesn't look like he will return.
+
+Wisconsin ball, Q4, 2-9-MIST36 (10:25) 3-24
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB D. Petty completes a 15 yard out to WR D. Walters (FS D. Hensley, ILB C. Garrison).  ILB 
+C. Garrison was out of position on the play.
+
+Wisconsin ball, Q4, 1-10-MIST21 (10:01) 3-24
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Petty throws an incomplete pass to TE K. Knight (CB K. Irwin). DT S. Nash hurried the 
+QB. CB K. Irwin broke up the pass.
+
+Wisconsin ball, Q4, 2-10-MIST21 (09:45) 3-24
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-Man
+RB J. Hinds runs left guard for 7 yards (ILB C. Garrison).  FB P. Allen had a key block on 
+the run.
+
+Wisconsin ball, Q4, 3-3-MIST14 (09:17) 3-24
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+QB D. Petty gets sacked for a 5 yard loss (OLB R. Lucas).  TE K. Knight allowed the sack.
+
+Wisconsin ball, Q4, 4-8-MIST19 (08:49) 3-24
+David Marshall converts the 37 yard field goal.
+
+Wisconsin ball, Q4, 1-10-WIS35 (08:31) 6-24
+David Marshall kicks 75 from Wisconsin 35 to end zone, Touchback.
+
+Michigan State ball, Q4, 1-10-MIST20 (08:12) 24-6
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB M. Mack runs left guard for -2 yards (OLB H. Hood). TE S. Michael missed a block that hurt 
+the play.
+
+Michigan State ball, Q4, 2-12-MIST18 (07:43) 24-6
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+D. Gantt has his 15 yard pass intercepted by J. Lugo at the MIST 33. He returns it 4 yards 
+to the Michigan State 29. D. Gantt made a bad pass.
+
+Wisconsin ball, Q4, 1-10-MIST29 (07:11) 6-24
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+RB R. Sandoval runs right guard for 2 yards (ILB C. Garrison). 
+
+Wisconsin ball, Q4, 2-8-MIST27 (06:44) 6-24
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan
+RB R. Sandoval runs right end for 1 yard (OLB M. Wolff). 
+
+Wisconsin ball, Q4, 2-8-MIST27 (06:44) 6-24
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan
+WR Dane Walters (WIS) was injured on the play (OK). It doesn't look like he will return.
+
+Wisconsin ball, Q4, 3-7-MIST26 (06:27) 6-24
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB D. Petty completes a 16 yard corner to WR D. Ramos (CB C. Koenig, FS S. Cruz).  OT P. Bush 
+earned a pancake on the play.
+
+Wisconsin ball, Q4, 1-10-MIST10 (06:02) 6-24
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB D. Petty completes a 10 yard hook to WR D. Ramos ****Touchdown!*****
+
+Wisconsin ball, Q4, 1-0-MIST0 (05:38) 12-24
+David Marshall converts the PAT.
+
+Wisconsin ball, Q4, 1-10-WIS35 (05:38) 13-24
+David Marshall kicks 67 from Wisconsin 35 to Michigan State -2. Kevin Irwin to Michigan State 
+26 for a 28 yard return.
+
+Michigan State ball, Q4, 1-10-MIST26 (05:21) 24-13
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB D. Gantt completes a 12 yard dump off to WR M. Cook (OOB). D. Gantt with the great pass. 
+CB A. Cook missed a tackle.
+
+Pass Interference against SS Steven Small on Wisconsin. The Penalty is for 12 yards, and an 
+automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Michigan State 38.
+
+Michigan State ball, Q4, 1-10-MIST38 (05:08) 24-13
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+QB D. Gantt completes a 4 yard screen to RB D. Terry (DT J. Webster).  He fumbles the ball 
+after a hit by J. Webster. It's recovered by C. Washington of Michigan State.
+
+Michigan State ball, Q4, 2-6-MIST42 (04:46) 24-13
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB D. Gantt completes a 36 yard cross to WR A. Hoffman (SS G. Deal).  D. Gantt with the great 
+pass. OG C. Washington earned a pancake on the play. FS C. Henry allowed the big play.
+
+Michigan State ball, Q4, 1-10-WIS22 (04:18) 24-13
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB D. Terry runs left guard for 1 yard (DT D. Farr). 
+
+Michigan State ball, Q4, 2-9-WIS21 (03:48) 24-13
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB D. Gantt completes a 10 yard screen to RB M. Mack (ILB J. Lugo). 
+
+Michigan State ball, Q4, 1-10-WIS11 (03:25) 24-13
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB D. Terry runs right tackle for 4 yards (CB A. Cook). 
+
+Michigan State ball, Q4, 1-10-WIS11 (03:25) 24-13
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+OT Danny Jones (MIST) was injured on the play (Head). It doesn't look like he will return.
+
+Michigan State ball, Q4, 2-6-WIS7 (03:08) 24-13
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+RB M. Mack runs right guard for 1 yard (SS S. Small). 
+
+Michigan State ball, Q4, 3-5-WIS6 (02:53) 24-13
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+RB D. Terry runs left end for 2 yards (OOB).
+
+Michigan State ball, Q4, 4-3-WIS4 (02:35) 24-13
+Joshua Crook converts the 22 yard field goal.
+
+Michigan State ball, Q4, 1-10-MIST35 (02:15) 27-13
+Joshua Crook kicks 55 from Michigan State 35 to Wisconsin 10. David Ramos to Wisconsin 21 
+for a 11 yard return.
+
+Wisconsin ball, Q4, 1-10-WIS21 (01:55) 13-27
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB D. Petty completes a 0 yard screen to RB J. Hinds (ILB C. Garrison). 
+
+Wisconsin ball, Q4, 2-10-WIS21 (01:32) 13-27
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-R
+QB D. Petty throws an incomplete pass to WR F. Tilton.
+
+Wisconsin ball, Q4, 3-10-WIS21 (01:13) 13-27
+Offense: Medium Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Normal, Set: 4-3, Play: 43-norm-Man
+QB D. Petty completes a 25 yard in to RB J. Hinds (OLB M. Wolff, CB C. Koenig).  D. Petty 
+with the great pass. OT P. Bush earned a pancake on the play. CB C. Koenig missed a tackle.
+
+Pass Interference against CB Kevin Irwin on Michigan State. The Penalty is for 15 yards, and 
+an automatic first down.
+The penalty will be declined.
+
+Wisconsin ball, Q4, 1-10-WIS46 (00:58) 13-27
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Petty throws an incomplete pass to WR F. Tilton. WR F. Tilton dropped the pass.
+
+Wisconsin ball, Q4, 2-10-WIS46 (00:52) 13-27
+Offense: Short Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB D. Petty throws an incomplete pass to RB R. Sandoval. RB R. Sandoval ran an incorrect route.
+
+Holding against TE Kenneth Knight on Wisconsin. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 20 at the Wisconsin 36.
+
+Wisconsin ball, Q4, 2-20-WIS36 (00:39) 13-27
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-streak-SE-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Petty throws an incomplete pass to WR F. Tilton (CB K. Irwin). CB K. Irwin broke up 
+the pass.
+
+Wisconsin ball, Q4, 3-20-WIS36 (00:31) 13-27
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB D. Petty throws an incomplete pass to WR D. Ramos (CB K. Irwin). CB K. Irwin broke up the 
+pass.
+
+Wisconsin ball, Q4, 3-20-WIS36 (00:31) 13-27
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB Jason Hinds (WIS) was injured on the play (Eye). It doesn't look too serious and he should 
+return.
+
+Wisconsin ball, Q4, 4-20-WIS36 (00:23) 13-27
+Offense: Long Pass, Set: Pro Set, Play: PS-TE-streak-SE-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B8
+QB D. Petty throws an incomplete pass to TE K. Knight (SS S. Pickering). SS S. Pickering broke 
+up the pass.
+
+Michigan State ball, Q4, 1-10-WIS36 (00:15) 27-13
+Offense: Inside Run, Set: Trips, Play: TR-TE-playact-corner
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+The QB takes a knee.
+

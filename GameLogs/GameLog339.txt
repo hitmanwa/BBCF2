@@ -1,0 +1,978 @@
+Boston ball, Q1, 1-10-BC35 (15:00) 0-0
+Josh Gillette kicks 67 from Boston 35 to Louisville -2. James Dennis to Louisville 16 for 
+a 18 yard return.
+
+Louisville ball, Q1, 1-10-LOU16 (14:43) 0-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB R. Dailey runs left tackle for 50 yards (OOB). SS B. Green was out of position on the play.
+
+Louisville ball, Q1, 1-10-BC34 (14:25) 0-0
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB C. Moore runs right end for -1 yards (OLB R. Mendez). OT K. Morrison missed a block that 
+hurt the play.
+
+Louisville ball, Q1, 2-11-BC35 (13:52) 0-0
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB C. Moore runs right end for 9 yards (SS B. Green, ILB J. Vidal).  DT R. Jackson missed 
+a tackle.
+
+Louisville ball, Q1, 3-2-BC26 (13:24) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB M. Swain completes a 10 yard hook to WR D. Wright (OOB).
+
+Louisville ball, Q1, 1-10-BC16 (13:13) 0-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB C. Moore runs right end for 1 yard (ILB J. Vidal).  TE F. Harrison missed a block that 
+hurt the play.
+
+Louisville ball, Q1, 2-9-BC15 (12:47) 0-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB M. Swain completes a 1 yard cross to WR J. Dennis (FS R. Lujan). 
+
+Louisville ball, Q1, 3-8-BC14 (12:23) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB M. Swain completes a 2 yard dump off to RB R. Dailey (OOB).
+
+Louisville ball, Q1, 4-6-BC12 (12:07) 0-0
+Kendrick Nelson converts the 30 yard field goal.
+
+Louisville ball, Q1, 1-10-LOU35 (11:49) 3-0
+Kendrick Nelson kicks 66 from Louisville 35 to Boston -1. Randal Lujan to Boston 17 for a 
+18 yard return.
+
+Boston ball, Q1, 1-10-BC17 (11:30) 0-3
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-straight-RG
+Defense: Normal, Set: 4-3, Play: 43-norm-DZ-B5,7
+RB J. Farris runs right guard for 6 yards (OLB R. Ward). 
+
+Boston ball, Q1, 2-4-BC23 (11:03) 0-3
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+RB J. Farris runs left guard for 8 yards (FS L. Crawford).  CB R. Council missed a tackle.
+
+Boston ball, Q1, 1-10-BC31 (10:31) 0-3
+Offense: Inside Run, Set: Wing T, Play: T-HB-power-RG
+Defense: Normal, Set: 4-3, Play: 43-norm-Man
+RB J. Farris runs right guard for 11 yards (SS T. Allen). 
+
+Boston ball, Q1, 1-10-BC42 (10:02) 0-3
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB J. Farris runs right guard for 12 yards (SS T. Allen).  OG D. Rodriquez had a key block 
+on the run.
+
+Boston ball, Q1, 1-10-LOU46 (09:35) 0-3
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-power-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB J. Farris runs left end for 2 yards (ILB F. Reynolds, SS C. Braun). 
+
+Boston ball, Q1, 2-8-LOU44 (09:05) 0-3
+Offense: Medium Pass, Set: Flexbone, Play: FL-FL-playact-out
+Defense: Normal, Set: 4-3, Play: 43-norm-Man
+QB K. Madsen throws an incomplete pass to WR D. Lawson.
+
+Boston ball, Q1, 3-8-LOU44 (08:48) 0-3
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-option-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB J. Farris runs right end for 5 yards (SS C. Braun). 
+
+Boston ball, Q1, 4-3-LOU39 (08:17) 0-3
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Run, Set: 4-3, Play: 43-run-M-B7-R
+QB K. Madsen throws an incomplete pass to RB M. West. RB M. West dropped the pass.
+
+Boston ball, Q1, 4-3-LOU39 (08:17) 0-3
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Run, Set: 4-3, Play: 43-run-M-B7-R
+OLB Richard Ward (LOU) was injured on the play (Sternum). It doesn't look too serious and 
+he should return.
+
+Louisville ball, Q1, 1-10-LOU39 (07:57) 3-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB R. Dailey runs left end for 1 yard (FS R. Lujan).  OG L. Barger missed a block that hurt 
+the play.
+
+Louisville ball, Q1, 1-10-LOU39 (07:57) 3-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+DT Ruben Jackson (BC) was injured on the play (Shoulder). It doesn't look too serious and 
+he should return.
+
+Louisville ball, Q1, 2-9-LOU40 (07:42) 3-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB R. Dailey runs right guard for 10 yards (SS B. Green). 
+
+Louisville ball, Q1, 1-10-LOU50 (07:14) 3-0
+Offense: Short Pass, Set: Weak, Play: WK-FL-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB M. Swain completes a 17 yard screen to WR D. Wright (OLB J. Hundley).  OG A. Morales earned 
+a pancake on the play.
+
+Louisville ball, Q1, 1-10-BC33 (06:53) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB R. Dailey runs left guard for 2 yards (OLB R. Mendez). 
+
+Louisville ball, Q1, 2-8-BC31 (06:24) 3-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+RB R. Dailey runs right guard for 2 yards (OLB J. Hundley). 
+
+Louisville ball, Q1, 3-6-BC29 (05:56) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB R. Dailey runs right guard for 6 yards (ILB J. Vidal). 
+
+Louisville ball, Q1, 1-10-BC23 (05:28) 3-0
+Offense: Medium Pass, Set: Weak, Play: WK-FL-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB M. Swain completes a 3 yard in to TE F. Harrison (FS C. Johnson, FS R. Lujan). 
+
+Louisville ball, Q1, 2-7-BC20 (05:04) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB C. Moore runs left tackle for 3 yards (CB M. Hubbard). 
+
+Louisville ball, Q1, 3-4-BC17 (04:37) 3-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB R. Dailey runs right end for 4 yards He fumbles the ball after a hit by M. Hubbard. It's 
+recovered by M. Hubbard of Boston. He returns it 0 yards to the Boston 13.
+
+Boston ball, Q1, 1-10-BC13 (04:07) 0-3
+Offense: Inside Run, Set: I Form Big, Play: IB-FB-straight-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+FB D. Gordon runs left guard for 7 yards (FS L. Crawford).  CB K. Kendall missed a tackle.
+
+Boston ball, Q1, 2-3-BC20 (03:34) 0-3
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB J. Farris runs right guard for -3 yards (DE E. Wallace). TE J. Burke missed a block that 
+hurt the play.
+
+Louisville ball, Q1, 1-10-BC16 (03:06) 3-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB R. Dailey runs left guard for -1 yards (ILB J. Vidal).
+
+Grabbing Face Mask against ILB James Vidal on Boston. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Second and 6 at the Boston 12.
+
+Louisville ball, Q1, 2-6-BC12 (02:52) 3-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB C. Moore runs left end for -4 yards (FS R. Lujan).
+
+Louisville ball, Q1, 3-10-BC16 (02:22) 3-0
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+False Start against OG Larry Barger on Louisville. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 15 at the Boston 21.
+
+Louisville ball, Q1, 3-15-BC21 (02:22) 3-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B5
+RB R. Dailey runs right end for 8 yards (SS B. Green, ILB R. Lugo).  SS B. Green missed a 
+tackle.
+
+Louisville ball, Q1, 4-7-BC13 (01:56) 3-0
+Kendrick Nelson converts the 31 yard field goal.
+
+Louisville ball, Q1, 1-10-LOU35 (01:37) 6-0
+Kendrick Nelson kicks 67 from Louisville 35 to Boston -2. Randal Lujan to Boston 31 for a 
+33 yard return.
+
+Boston ball, Q1, 1-10-BC31 (01:22) 0-6
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-power-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB J. Farris runs left end for 2 yards (OOB).
+
+Boston ball, Q1, 2-8-BC33 (01:08) 0-6
+Offense: Inside Run, Set: Wing T, Play: T-HB-power-RG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+RB J. Farris runs right guard for 1 yard (DE M. Patterson).  OG J. Hudson missed a block that 
+hurt the play.
+
+Boston ball, Q1, 3-7-BC34 (00:35) 0-6
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB J. Farris runs right tackle for -3 yards (FS L. Crawford).
+
+Offsides against DT Douglas Aleman on Louisville. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Third and 2 at the Boston 39.
+
+Boston ball, Q1, 3-2-BC39 (00:20) 0-6
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB J. Farris runs right guard for 0 yards (OLB B. Olsen).  OT O. Jones missed a block that 
+hurt the play.
+
+Boston ball, Q2, 4-2-BC39 (15:00) 0-6
+Josh Gillette Punts 54 yards to the Louisville 7 yard line, where it gets downed.
+
+Louisville ball, Q2, 1-10-LOU7 (14:40) 6-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB R. Dailey runs right guard for 7 yards (CB L. Williams). 
+
+Louisville ball, Q2, 2-3-LOU14 (14:14) 6-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,7,11
+RB C. Moore runs right guard for 4 yards (DT R. Jackson, ILB R. Lugo). 
+
+Louisville ball, Q2, 1-10-LOU18 (13:47) 6-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB M. Swain throws an incomplete pass to WR D. Wright (SS B. Green). SS B. Green broke up 
+the pass.
+
+Louisville ball, Q2, 2-10-LOU18 (13:27) 6-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB M. Swain completes a 15 yard streak to TE F. Harrison (OLB J. Hundley, CB P. Adams).  M. 
+Swain with the great pass. CB P. Adams was out of position on the play.
+
+Louisville ball, Q2, 1-10-LOU33 (13:02) 6-0
+Offense: Outside Run, Set: Quads, Play: Q-HB-counter-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB C. Moore runs right end for 15 yards (OLB J. Hundley, CB L. Williams).  C E. York had a 
+key block on the run. CB P. Adams missed a tackle.
+
+Louisville ball, Q2, 1-10-LOU48 (12:31) 6-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+RB R. Dailey runs left tackle for -5 yards (OLB R. Mendez).
+
+Louisville ball, Q2, 2-15-LOU43 (12:04) 6-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB M. Swain completes a 21 yard in to WR D. Wright (CB L. Williams).  FS R. Lujan was out 
+of position on the play.
+
+Louisville ball, Q2, 1-10-BC36 (11:40) 6-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B11
+RB R. Dailey runs right guard for 21 yards (OLB J. Hundley).  C E. York had a key block on 
+the run.
+
+Louisville ball, Q2, 1-10-BC15 (11:10) 6-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB R. Dailey runs right guard for 0 yards (DT K. Hammond). 
+
+Offsides against DE Christopher Reid on Boston. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 5 at the Boston 10.
+
+Louisville ball, Q2, 1-5-BC10 (10:57) 6-0
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB M. Swain completes a 10 yard hook to WR J. Dennis ****Touchdown!*****
+
+Louisville ball, Q2, 1-0-BC0 (10:42) 12-0
+Kendrick Nelson converts the PAT.
+
+Louisville ball, Q2, 1-10-LOU35 (10:42) 13-0
+Kendrick Nelson kicks 66 from Louisville 35 to Boston -1. Randal Lujan to Louisville 15 for 
+a 86 yard return.
+
+Boston ball, Q2, 1-10-LOU15 (10:26) 0-13
+Offense: Short Pass, Set: Wing T, Play: T-SE-playact-cor
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+QB K. Madsen completes a 8 yard corner to WR D. Engel (FS L. Crawford, SS C. Braun). 
+
+Boston ball, Q2, 2-2-LOU7 (10:04) 0-13
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-option-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+RB J. Farris runs right end for 1 yard (OLB R. Ward).  TE D. Stephens missed a block that 
+hurt the play.
+
+Boston ball, Q2, 2-2-LOU7 (10:04) 0-13
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-option-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+OT Odis Jones (BC) was injured on the play (Ear). It doesn't look too serious and he should 
+return.
+
+Boston ball, Q2, 3-1-LOU6 (09:49) 0-13
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+RB J. Farris runs right guard for -2 yards (ILB F. Reynolds). OG J. Hudson missed a block 
+that hurt the play.
+
+Boston ball, Q2, 4-3-LOU8 (09:19) 0-13
+David Lee converts the 26 yard field goal.
+
+Boston ball, Q2, 1-10-BC35 (09:00) 3-13
+Josh Gillette kicks 75 from Boston 35 to end zone, Touchback.
+
+Louisville ball, Q2, 1-10-LOU20 (08:40) 13-3
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+FB D. Stewart runs left guard for 4 yards (SS B. Green, FS C. Johnson). 
+
+Louisville ball, Q2, 2-6-LOU24 (08:09) 13-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB C. Moore runs right end for 5 yards (ILB J. Vidal). 
+
+Louisville ball, Q2, 3-1-LOU29 (07:42) 13-3
+Offense: Short Pass, Set: Weak, Play: WK-FL-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB M. Swain completes a 7 yard screen to WR D. Wright (CB P. Adams). 
+
+Holding against OG Aaron Morales on Louisville. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Third and 11 at the Louisville 19.
+
+Louisville ball, Q2, 3-11-LOU19 (07:31) 13-3
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB M. Swain completes a 15 yard screen to RB R. Dailey (CB P. Adams).  OG A. Morales earned 
+a pancake on the play.
+
+Louisville ball, Q2, 1-10-LOU34 (07:09) 13-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB M. Swain throws an incomplete pass to WR K. Johnson. WR K. Johnson ran an incorrect route.
+
+Louisville ball, Q2, 2-10-LOU34 (06:49) 13-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB M. Swain throws an incomplete pass to WR K. Johnson. WR K. Johnson ran an incorrect route.
+
+Louisville ball, Q2, 3-10-LOU34 (06:29) 13-3
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB M. Swain completes a 7 yard out to WR J. Dennis (SS B. Green).  He fumbles the ball after 
+a hit by B. Green. It's recovered by F. Morgan of Boston. He returns it 2 yards to the Louisville 39.
+
+Boston ball, Q2, 1-10-LOU39 (06:08) 3-13
+Offense: Medium Pass, Set: Wishbone, Play: WB-HB-streaks
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB K. Madsen throws an incomplete pass to WR D. Engel. DT G. Shepard hurried the QB.
+
+Boston ball, Q2, 2-10-LOU39 (05:49) 3-13
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Stop Run, Set: 4-3, Play: 43-run-SZ-B5
+RB J. Farris runs right end for -2 yards (DE E. Wallace).
+
+Boston ball, Q2, 3-12-LOU41 (05:19) 3-13
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man
+QB K. Madsen completes a 15 yard post to WR D. Engel (FS L. Crawford).  D. Engel made a great 
+catch. FS L. Crawford was out of position on the play.
+
+Boston ball, Q2, 1-10-LOU26 (04:52) 3-13
+Offense: Inside Run, Set: Flexbone, Play: FL-WB-trap-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB C. Cooper runs left guard for 1 yard (OLB B. Olsen).  OT H. Fernandez missed a block that 
+hurt the play.
+
+Boston ball, Q2, 2-9-LOU25 (04:23) 3-13
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-straight-LT
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-R
+RB J. Farris runs left tackle for -1 yards (FS L. Crawford).
+
+Boston ball, Q2, 3-10-LOU26 (03:53) 3-13
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+RB J. Farris runs right end for -1 yards (OLB R. Ward).
+
+Boston ball, Q2, 4-11-LOU27 (03:27) 3-13
+David Lee converts the 45 yard field goal.
+
+Boston ball, Q2, 1-10-BC35 (03:09) 6-13
+Josh Gillette kicks 67 from Boston 35 to Louisville -2. James Dennis to Louisville 25 for 
+a 27 yard return.
+
+Louisville ball, Q2, 1-10-LOU25 (02:53) 13-6
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+FB D. Stewart runs left guard for 4 yards (CB M. Hubbard, ILB R. Lugo). 
+
+Louisville ball, Q2, 2-6-LOU29 (02:23) 13-6
+Offense: Long Pass, Set: Quads, Play: Q-WR3-in-WR4-up
+Defense: Stop Pass, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB M. Swain throws an incomplete pass to WR J. Dennis.
+
+Louisville ball, Q2, 3-6-LOU29 (02:03) 13-6
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+RB R. Dailey runs left tackle for 8 yards (OOB). OT K. Morrison had a key block on the run.
+
+Louisville ball, Q2, 1-10-LOU37 (01:51) 13-6
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ
+RB C. Moore runs left guard for 3 yards (DT R. Jackson). 
+
+Louisville ball, Q2, 2-7-LOU40 (01:20) 13-6
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB M. Swain completes a 11 yard out to WR D. Wright (CB P. Adams, ILB R. Lugo). 
+
+Louisville ball, Q2, 1-10-BC49 (00:56) 13-6
+Offense: Medium Pass, Set: Weak, Play: WK-SE-streaks
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB M. Swain completes a 9 yard in to WR K. Johnson (OOB).
+
+Louisville ball, Q2, 2-1-BC40 (00:48) 13-6
+Offense: Medium Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB M. Swain throws an incomplete pass to WR J. Dennis. WR J. Dennis dropped the pass.
+
+Louisville ball, Q2, 3-1-BC40 (00:42) 13-6
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB M. Swain completes a 36 yard out-and-up to TE F. Harrison (OLB D. Willard).  C E. York 
+earned a pancake on the play. FS R. Lujan allowed the big play.
+
+Pass Interference against FS Randal Lujan on Boston. The Penalty is for 15 yards, and an automatic 
+first down.
+The penalty will be declined.
+
+Louisville ball, Q2, 1-4-BC4 (00:31) 13-6
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+QB M. Swain throws an incomplete pass to RB C. Moore.
+
+Louisville ball, Q2, 2-4-BC4 (00:24) 13-6
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+QB M. Swain completes a 4 yard dump off to TE F. Harrison ****Touchdown!*****
+
+Louisville ball, Q2, 1-0-BC0 (00:14) 19-6
+Kendrick Nelson converts the PAT.
+
+Louisville ball, Q2, 1-10-LOU35 (00:14) 20-6
+Kendrick Nelson kicks 55 from Louisville 35 to Boston 10. Randal Lujan to Boston 49 for a 
+39 yard return.
+
+Boston ball, Q2, 1-10-BC49 (00:07) 6-20
+Offense: Medium Pass, Set: Wishbone, Play: WB-HB-streaks
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB K. Madsen completes a 4 yard streak to RB C. Cooper (OLB B. Olsen). 
+
+Boston Timeout!
+
+Louisville ball, Q3, 1-10-LOU35 (15:00) 20-6
+Kendrick Nelson kicks 66 from Louisville 35 to Boston -1. Randal Lujan to Boston 17 for a 
+18 yard return.
+
+Boston ball, Q3, 1-10-BC17 (14:43) 6-20
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+False Start against OG Joaquin Hudson on Boston. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Boston 12.
+
+Boston ball, Q3, 1-15-BC12 (14:43) 6-20
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB K. Madsen throws an incomplete pass to FB D. Gordon (CB K. Kendall). CB K. Kendall broke 
+up the pass.
+
+Boston ball, Q3, 2-15-BC12 (14:28) 6-20
+Offense: Medium Pass, Set: I Form Big, Play: IB-SE-post-TE-out
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB K. Madsen completes a 42 yard post to WR D. Engel (ILB F. Reynolds).  CB K. Kendall allowed 
+the big play.
+
+Boston ball, Q3, 1-10-LOU46 (14:00) 6-20
+Offense: Outside Run, Set: Flexbone, Play: FL-QB-option-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+QB K. Madsen scrambles out of the pocket and gets sacked for a 6 yard loss (DT D. Aleman). 
+ RB M. West allowed the sack.
+
+Boston ball, Q3, 2-16-BC48 (13:31) 6-20
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-option-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB J. Farris runs right end for 2 yards (FS L. Crawford, FS C. Mitchell). 
+
+Boston ball, Q3, 3-14-BC50 (12:58) 6-20
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+QB K. Madsen throws an incomplete pass to WR D. Engel. WR D. Engel ran an incorrect route.
+
+Boston ball, Q3, 4-14-BC50 (12:39) 6-20
+Josh Gillette Punts 32 yards to the Louisville 18 yard line, where it goes out of bounds.
+
+Louisville ball, Q3, 1-10-LOU18 (12:21) 20-6
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB R. Dailey runs right guard for 0 yards (DE F. Morgan). 
+
+Louisville ball, Q3, 2-10-LOU18 (11:55) 20-6
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB R. Dailey runs right end for 2 yards (OLB J. Hundley). 
+
+Louisville ball, Q3, 3-8-LOU20 (11:29) 20-6
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+RB R. Dailey runs right guard for -1 yards (ILB R. Lugo). FB D. Stewart missed a block that 
+hurt the play.
+
+Louisville ball, Q3, 4-9-LOU19 (10:59) 20-6
+Michael Martinez Punts 43 yards to the Boston 38 yard line, where Derrick Lawson returns it 
+to Louisville 44 for a 18 yard return.
+
+Boston ball, Q3, 1-10-LOU44 (10:39) 6-20
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB K. Madsen throws an incomplete pass to WR D. Engel (CB K. Kendall). CB K. Kendall broke 
+up the pass.
+
+Boston ball, Q3, 1-10-LOU44 (10:39) 6-20
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+SS Chris Braun (LOU) was injured on the play (OK). It doesn't look like he will return.
+
+Boston ball, Q3, 2-10-LOU44 (10:22) 6-20
+Offense: Short Pass, Set: Wing T, Play: T-SE-playact-cor
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+QB K. Madsen throws an incomplete pass to WR D. Engel (SS T. Allen). SS T. Allen broke up 
+the pass.
+
+Boston ball, Q3, 3-10-LOU44 (10:05) 6-20
+Offense: Outside Run, Set: Flexbone, Play: FL-QB-option-LE
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-R
+QB K. Madsen scrambles out of the pocket and gets sacked for a 3 yard loss (DT D. Aleman). 
+ OG D. Rodriquez missed a block that hurt the play. RB C. Cooper allowed the sack.
+
+Boston ball, Q3, 3-10-LOU44 (10:05) 6-20
+Offense: Outside Run, Set: Flexbone, Play: FL-QB-option-LE
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-R
+OLB Richard Ward (LOU) was injured on the play (Eye). It doesn't look like he will return.
+
+Boston ball, Q3, 4-13-LOU47 (09:52) 6-20
+Josh Gillette Punts 24 yards to the Louisville 23 yard line, where Bryan London returns it 
+to Louisville 25 for a 2 yard return.
+
+Louisville ball, Q3, 1-10-LOU25 (09:37) 20-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB C. Moore runs left guard for 7 yards (FS C. Johnson).  C E. York had a key block on the 
+run. FS C. Johnson missed a tackle.
+
+Louisville ball, Q3, 2-3-LOU32 (09:04) 20-6
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB M. Swain throws an incomplete pass to TE F. Harrison.
+
+Holding against OT Craig Thomas on Louisville. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 13 at the Louisville 22.
+
+Louisville ball, Q3, 2-13-LOU22 (08:53) 20-6
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+QB M. Swain completes a 78 yard streak to WR J. Dennis ****Touchdown!*****
+
+Louisville ball, Q3, 1-0-BC0 (08:43) 26-6
+Kendrick Nelson converts the PAT.
+
+Louisville ball, Q3, 1-10-LOU35 (08:43) 27-6
+Kendrick Nelson kicks 67 from Louisville 35 to Boston -2. Randal Lujan to Boston 33 for a 
+35 yard return.
+
+Grabbing Face Mask against TE Don Williams on Louisville. The Penalty is for 15 yards, and 
+an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Boston 48.
+
+Boston ball, Q3, 1-10-BC48 (08:33) 6-27
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-straight-LT
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB J. Farris runs left end for 1 yard (FS L. Crawford). 
+
+Boston ball, Q3, 2-9-BC49 (08:00) 6-27
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+QB K. Madsen completes a 7 yard hook to TE D. Stephens (OOB).
+
+Boston ball, Q3, 3-2-LOU44 (07:42) 6-27
+Offense: Outside Run, Set: Wing T, Play: T-HB-option-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB J. Farris runs right end for -1 yards (FS L. Crawford). OT H. Fernandez missed a block 
+that hurt the play.
+
+Boston ball, Q3, 4-3-LOU45 (07:01) 6-27
+Offense: Short Pass, Set: Wing T, Play: T-TE-out-SE-slant
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB K. Madsen throws an incomplete pass to RB C. Cooper.
+
+Louisville ball, Q3, 1-10-LOU45 (06:54) 27-6
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB C. Moore runs right tackle for 3 yards (OLB R. Mendez, DE F. Morgan). 
+
+Louisville ball, Q3, 2-7-LOU48 (06:25) 27-6
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB R. Dailey runs right guard for -1 yards (CB P. Adams).
+
+Louisville ball, Q3, 3-8-LOU47 (05:56) 27-6
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB M. Swain throws an incomplete pass to TE F. Harrison.
+
+Louisville ball, Q3, 4-8-LOU47 (05:41) 27-6
+Michael Martinez Punts 46 yards to the Boston 7 yard line, where it goes out of bounds.
+
+Boston ball, Q3, 1-10-BC7 (05:23) 6-27
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB J. Farris runs left tackle for 1 yard (ILB F. Reynolds).  OG D. Rodriquez missed a block 
+that hurt the play.
+
+Boston ball, Q3, 2-9-BC8 (04:56) 6-27
+Offense: Short Pass, Set: I Form Big, Play: IB-FB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB K. Madsen throws an incomplete pass to FB D. Gordon. FB D. Gordon dropped the pass.
+
+Boston ball, Q3, 3-9-BC8 (04:39) 6-27
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Madsen completes a 7 yard post to WR D. Engel (OOB).
+
+Boston ball, Q3, 4-2-BC15 (04:29) 6-27
+Josh Gillette Punts 57 yards to the Louisville 28 yard line, where Bryan London returns it 
+to Louisville 42 for a 14 yard return.
+
+Louisville ball, Q3, 1-10-LOU42 (04:01) 27-6
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB R. Dailey runs left tackle for 9 yards (FS R. Lujan, OLB R. Mendez). 
+
+Louisville ball, Q3, 2-1-BC49 (03:38) 27-6
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB R. Dailey runs right guard for -3 yards (FS R. Lujan). OT C. Thomas missed a block that 
+hurt the play.
+
+Louisville ball, Q3, 3-4-LOU48 (03:06) 27-6
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B5
+QB M. Swain gets sacked for a 3 yard loss (DE C. Womack).  OT C. Thomas allowed the sack.
+
+Holding against FS Curtis Johnson on Boston. The Penalty is for 10 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Boston 42.
+
+Louisville ball, Q3, 1-10-BC42 (02:56) 27-6
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB R. Dailey runs left guard for 9 yards (OLB R. Mendez).  OG A. Morales had a key block on 
+the run. SS B. Green was out of position on the play.
+
+Louisville ball, Q3, 2-1-BC33 (02:26) 27-6
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+RB R. Dailey runs left tackle for 23 yards (OLB J. Hundley, ILB R. Lugo). 
+
+Louisville ball, Q3, 1-10-BC10 (01:57) 27-6
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB M. Swain completes a 10 yard out to WR J. Dennis ****Touchdown!*****
+
+Louisville ball, Q3, 1-0-BC0 (01:33) 33-6
+Kendrick Nelson converts the PAT.
+
+Louisville ball, Q3, 1-10-LOU35 (01:33) 34-6
+Kendrick Nelson kicks 55 from Louisville 35 to Boston 10. Randal Lujan to Louisville 45 for 
+a 45 yard return.
+
+Boston ball, Q3, 1-10-LOU45 (01:16) 6-34
+Offense: Outside Run, Set: Flexbone, Play: FL-QB-option-LE
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B5,7
+QB K. Madsen scrambles out of the pocket and gets sacked for a 1 yard loss (DT D. Aleman). 
+ OT O. Jones missed a block that hurt the play. RB C. Cooper allowed the sack.
+
+Boston ball, Q3, 2-11-LOU46 (01:04) 6-34
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB J. Farris runs right tackle for 4 yards (ILB F. Reynolds). 
+
+Boston ball, Q3, 3-7-LOU42 (00:32) 6-34
+Offense: Medium Pass, Set: Flexbone, Play: FL-SE-optpass-corner
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB K. Madsen throws an incomplete pass to WR D. Engel.
+
+Boston ball, Q3, 4-7-LOU42 (00:12) 6-34
+Josh Gillette Punts 42 yards to the end zone, Touchback.
+
+Louisville ball, Q4, 1-10-LOU20 (15:00) 34-6
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB C. Moore runs right tackle for 1 yard (ILB R. Lugo).  FB D. Stewart missed a block that 
+hurt the play.
+
+Louisville ball, Q4, 2-9-LOU21 (14:28) 34-6
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB M. Swain completes a 32 yard corner to WR D. Wright (OOB). M. Swain with the great pass. 
+OT K. Morrison earned a pancake on the play. ILB R. Lugo allowed the big play.
+
+Louisville ball, Q4, 2-9-LOU21 (14:28) 34-6
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+WR Donald Wright (LOU) was injured on the play (OK). It doesn't look like he will return.
+
+Louisville ball, Q4, 1-10-BC47 (14:15) 34-6
+Offense: Inside Run, Set: Weak, Play: WK-FB-power-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+FB D. Stewart runs left guard for 3 yards (ILB J. Vidal, DE C. Womack). 
+
+Louisville ball, Q4, 2-7-BC44 (13:48) 34-6
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB M. Swain completes a 4 yard cross to WR K. Johnson (FS R. Lujan). 
+
+Louisville ball, Q4, 3-3-BC40 (13:24) 34-6
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB M. Swain completes a 14 yard out to WR K. Johnson (OLB J. Hundley). 
+
+Louisville ball, Q4, 1-10-BC26 (13:02) 34-6
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB R. Dailey runs left end for 26 yards ****Touchdown!***** C E. York had a key block on the 
+run. CB L. Williams missed a tackle.
+
+Louisville ball, Q4, 1-0-BC0 (12:31) 40-6
+Kendrick Nelson converts the PAT.
+
+Louisville ball, Q4, 1-10-LOU35 (12:31) 41-6
+Kendrick Nelson kicks 57 from Louisville 35 to Boston 8. James Farris to Boston 33 for a 25 
+yard return.
+
+Boston ball, Q4, 1-10-BC33 (12:14) 6-41
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+False Start against OG Dewayne Rodriquez on Boston. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Boston 28.
+
+Boston ball, Q4, 1-15-BC28 (12:14) 6-41
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-streaks
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB K. Madsen throws an incomplete pass to RB C. Cooper (CB A. Lehman). CB A. Lehman broke 
+up the pass.
+
+Boston ball, Q4, 1-15-BC28 (12:14) 6-41
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-streaks
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+OT Herbert Fernandez (BC) was injured on the play (Knee). It doesn't look like he will return.
+
+Boston ball, Q4, 2-15-BC28 (11:55) 6-41
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB K. Madsen completes a 7 yard hook to FB D. Gordon (ILB F. Reynolds). 
+
+Boston ball, Q4, 3-8-BC35 (11:31) 6-41
+Offense: Short Pass, Set: Wing T, Play: T-SE-playact-cor
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB K. Madsen completes a 12 yard corner to WR D. Engel (OLB B. Olsen).  OLB B. Olsen was out 
+of position on the play.
+
+Holding against C John Evans on Boston. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Third and 18 at the Boston 25.
+
+Boston ball, Q4, 3-18-BC25 (11:19) 6-41
+Offense: Long Pass, Set: Wishbone, Play: WB-SE-streaks
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ-B7,8
+QB K. Madsen completes a 11 yard streak to WR D. Engel (ILB F. Reynolds).  D. Engel made a 
+great catch. OG D. Rodriquez earned a pancake on the play. CB R. Council missed a tackle.
+
+Holding against OG Dewayne Rodriquez on Boston. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Boston ball, Q4, 4-7-BC36 (11:07) 6-41
+Josh Gillette Punts 26 yards to the Louisville 38 yard line, where Dennis Krebs returns it 
+to Louisville 40 for a 2 yard return.
+
+Louisville ball, Q4, 1-10-LOU40 (10:50) 41-6
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB M. Swain completes a 2 yard in to WR R. Bennett (OOB).
+
+Louisville ball, Q4, 2-8-LOU42 (10:34) 41-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB C. Moore runs left guard for 1 yard (DE F. Morgan). 
+
+Louisville ball, Q4, 3-7-LOU43 (10:06) 41-6
+Offense: Long Pass, Set: Quads, Play: Q-WR3-in-WR4-up
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB M. Swain throws an incomplete pass to WR J. Dennis. OLB R. Mendez hurried the QB.
+
+Louisville ball, Q4, 4-7-LOU43 (09:50) 41-6
+Michael Martinez Punts 55 yards to the Boston 2 yard line, where it gets downed.
+
+Boston ball, Q4, 1-10-BC2 (09:34) 6-41
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5-L
+QB K. Madsen completes a 21 yard post to WR D. Engel (ILB F. Reynolds, CB K. Kendall).  OG 
+D. Rodriquez earned a pancake on the play.
+
+Boston ball, Q4, 1-10-BC23 (09:08) 6-41
+Offense: Medium Pass, Set: Wishbone, Play: WB-HB-streaks
+Defense: Stop Pass, Set: 4-3, Play: 43-norm-SZ-B11
+QB K. Madsen completes a 33 yard corner to WR D. Engel (OOB). CB R. Council allowed the big 
+play.
+
+Boston ball, Q4, 1-10-LOU44 (08:52) 6-41
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-straight-LT
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+RB J. Farris runs left end for -2 yards (OLB R. Adkins). TE D. Stephens missed a block that 
+hurt the play.
+
+Boston ball, Q4, 2-12-LOU46 (08:24) 6-41
+Offense: Long Pass, Set: Wishbone, Play: WB-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB K. Madsen throws an incomplete pass to WR D. Engel. DT G. Shepard hurried the QB.
+
+Boston ball, Q4, 3-12-LOU46 (08:09) 6-41
+Offense: Medium Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB K. Madsen completes a 14 yard post to WR D. Lawson (SS T. Allen).  CB K. Kendall missed 
+a tackle.
+
+Boston ball, Q4, 1-10-LOU32 (07:44) 6-41
+Offense: Short Pass, Set: Wing T, Play: T-SE-corner-WB-flat
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB K. Madsen completes a 8 yard dump off to RB C. Cooper (OLB B. Olsen). 
+
+Boston ball, Q4, 2-2-LOU24 (07:22) 6-41
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB J. Farris runs right end for 1 yard (FS L. Crawford). 
+
+Boston ball, Q4, 2-2-LOU24 (07:22) 6-41
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+OT Edward Roth (BC) was injured on the play (Foot). It doesn't look too serious and he should 
+return.
+
+Boston ball, Q4, 3-1-LOU23 (07:07) 6-41
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB K. Madsen completes a 1 yard dump off to RB J. Farris (DE E. Wallace). 
+
+Boston ball, Q4, 1-10-LOU22 (06:44) 6-41
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Run, Set: 4-3, Play: 43-run-SZ
+RB J. Farris runs right guard for 2 yards (OLB B. Olsen). 
+
+Boston ball, Q4, 2-8-LOU20 (06:11) 6-41
+Offense: Medium Pass, Set: Flexbone, Play: FL-FL-playact-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B5
+QB K. Madsen throws an incomplete pass to WR J. Hodges.
+
+Boston ball, Q4, 3-8-LOU20 (05:53) 6-41
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+K. Madsen has his 9 yard pass intercepted by T. Allen at the LOU 11. He returns it 4 yards 
+to the Louisville 15. K. Madsen made a bad pass.
+
+Louisville ball, Q4, 1-10-LOU15 (05:25) 41-6
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB R. Dailey runs right end for -1 yards (OLB R. Mendez).
+
+Louisville ball, Q4, 2-11-LOU14 (04:57) 41-6
+Offense: Short Pass, Set: Weak, Play: WK-FL-screen
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB M. Swain completes a 14 yard screen to WR K. Johnson (CB L. Williams).  C E. York earned 
+a pancake on the play. CB L. Williams missed a tackle.
+
+Louisville ball, Q4, 1-10-LOU28 (04:34) 41-6
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB D. Koontz completes a 8 yard hook to TE S. Neal (OLB J. Hundley, SS C. Parker). 
+
+Louisville ball, Q4, 2-2-LOU36 (04:13) 41-6
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB M. Swain completes a 7 yard corner to WR K. Johnson (OLB R. Mendez). 
+
+Louisville ball, Q4, 1-10-LOU43 (03:45) 41-6
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB C. Moore runs left end for 13 yards (SS C. Parker, FS C. Johnson).  OT C. Thomas had a 
+key block on the run.
+
+Louisville ball, Q4, 1-10-BC44 (03:13) 41-6
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB R. Dailey runs right guard for 2 yards (OLB J. Hundley). 
+
+Louisville ball, Q4, 2-8-BC42 (02:47) 41-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB R. Dailey runs left guard for 14 yards (ILB J. Vidal).  TE S. Neal had a key block on the 
+run.
+
+Louisville ball, Q4, 1-10-BC28 (02:18) 41-6
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB R. Dailey runs right end for -2 yards (OLB R. Mendez).
+
+Louisville ball, Q4, 2-12-BC30 (01:52) 41-6
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB R. Dailey runs right end for 7 yards (OOB).
+
+Louisville ball, Q4, 3-5-BC23 (01:40) 41-6
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB R. Dailey runs left end for 1 yard (FS C. Johnson).  OG A. Morales missed a block that 
+hurt the play.
+
+Louisville ball, Q4, 4-4-BC22 (01:01) 41-6
+Kendrick Nelson misses the 40 yard field goal. It will be Boston ball at the BC 22
+
+Boston ball, Q4, 1-10-BC22 (01:02) 6-41
+Offense: Medium Pass, Set: Flexbone, Play: FL-SE-optpass-corner
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ-B6
+QB W. Garcia throws an incomplete pass to WR J. Hodges.
+
+Boston ball, Q4, 1-10-BC22 (01:02) 6-41
+Offense: Medium Pass, Set: Flexbone, Play: FL-SE-optpass-corner
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ-B6
+DT Glen Shepard (LOU) was injured on the play (Lower Back). It doesn't look like he will return.
+
+Boston ball, Q4, 2-10-BC22 (00:56) 6-41
+Offense: Short Pass, Set: Wing T, Play: T-TE-str-SE-out
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-R
+QB W. Garcia throws an incomplete pass to RB M. West. W. Garcia made a bad pass.
+
+Boston ball, Q4, 3-10-BC22 (00:48) 6-41
+Offense: Long Pass, Set: Wishbone, Play: WB-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB W. Garcia throws an incomplete pass to TE D. Stephens (CB A. Lehman). CB A. Lehman broke 
+up the pass.
+
+Boston ball, Q4, 4-10-BC22 (00:42) 6-41
+Offense: Short Pass, Set: Wing T, Play: T-SE-corner-WB-flat
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+W. Garcia has his 8 yard pass intercepted by F. Reynolds at the BC 30. He returns it -2 yards 
+to the Boston 32.
+
+Boston Timeout!
+
+Louisville ball, Q4, 1-10-BC32 (00:13) 41-6
+Offense: Inside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+The QB takes a knee.
+
+Boston Timeout!
+
+Louisville ball, Q4, 2-12-BC34 (00:06) 41-6
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+The QB takes a knee.
+

@@ -1,0 +1,992 @@
+Akron ball, Q1, 1-10-AKR35 (15:00) 0-0
+Gene Curry kicks 67 from Akron 35 to Penn State -2. Anthony Stout to Penn State 21 for a 23 
+yard return.
+
+Penn State ball, Q1, 1-10-PAST21 (14:42) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ-B7,8
+RB K. Green runs right guard for 14 yards (SS W. Flores, ILB T. Torres).  DT J. Corbin was 
+out of position on the play.
+
+Penn State ball, Q1, 1-10-PAST35 (14:14) 0-0
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB L. Thomas throws an incomplete pass to WR S. Collins. ILB T. Torres hurried the QB.
+
+Penn State ball, Q1, 2-10-PAST35 (13:58) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+False Start against OG Michael Baldwin on Penn State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 15 at the Penn State 30.
+
+Penn State ball, Q1, 2-15-PAST30 (13:58) 0-0
+Offense: Long Pass, Set: SingleBack, Play: SB-WR3-slant-FL-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB L. Thomas gets sacked for a 12 yard loss (DE D. Clarke).  OT R. Carter allowed the sack.
+
+Penn State ball, Q1, 3-27-PAST18 (13:42) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB L. Thomas gets sacked for a 1 yard loss (DE E. Mccoy).  C F. Olson allowed the sack.
+
+Penn State ball, Q1, 4-28-PAST17 (13:22) 0-0
+Lester Greer Punts 42 yards to the Akron 41 yard line, where Donald Burns returns it to Penn 
+State 44 for a 15 yard return. He fumbles the ball after a hit by R. Kramer. It's recovered by T. Lott of Akron.
+
+Akron ball, Q1, 1-10-PAST44 (13:04) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Morgan completes a 2 yard in to WR T. Lott (OLB R. Coleman). 
+
+Akron ball, Q1, 2-8-PAST42 (12:42) 0-0
+Offense: Long Pass, Set: SingleBack, Play: SB-FL-playact-up
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB D. Morgan throws an incomplete pass to WR R. Ross (CB P. Anderson). CB P. Anderson broke 
+up the pass.
+
+Akron ball, Q1, 3-8-PAST42 (12:27) 0-0
+Offense: Long Pass, Set: Trips, Play: TR-SE-rollout-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB D. Morgan throws an incomplete pass to WR E. Gilbert.
+
+Akron ball, Q1, 4-8-PAST42 (12:08) 0-0
+Anthony Willis Punts 26 yards to the Penn State 16 yard line, where it goes out of bounds.
+
+Penn State ball, Q1, 1-10-PAST16 (11:51) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+QB L. Thomas throws an incomplete pass to WR J. Jones (CB S. Kennedy). CB S. Kennedy broke 
+up the pass.
+
+Penn State ball, Q1, 2-10-PAST16 (11:36) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6
+QB L. Thomas completes a 7 yard screen to RB K. Green (ILB N. Staton, CB D. Dailey). 
+
+Penn State ball, Q1, 3-3-PAST23 (11:14) 0-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB L. Thomas gets sacked for a 1 yard loss (DE D. Clarke).  OT G. Spaulding allowed the sack.
+
+Penn State ball, Q1, 4-4-PAST22 (10:57) 0-0
+Lester Greer Punts 54 yards to the Akron 24 yard line, where Donald Burns returns it to Akron 
+41 for a 17 yard return.
+
+Akron ball, Q1, 1-10-AKR41 (10:41) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-QB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+QB D. Morgan runs right guard for 2 yards (FS H. Pfeiffer, CB J. Clark). 
+
+Akron ball, Q1, 2-8-AKR43 (10:12) 0-0
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+QB D. Morgan throws an incomplete pass to WR E. Gilbert. OLB R. Coleman hurried the QB.
+
+Akron ball, Q1, 3-8-AKR43 (09:56) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB D. Morgan completes a 2 yard hook to WR E. Gilbert (SS G. James, SS J. Mcclendon). 
+
+Akron ball, Q1, 4-6-AKR45 (09:35) 0-0
+Anthony Willis Punts 37 yards to the Penn State 18 yard line, where it goes out of bounds.
+
+Penn State ball, Q1, 1-10-PAST18 (09:20) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+QB L. Thomas completes a 27 yard hook to WR A. Stout (FS E. Reynolds, CB D. Dailey).  OT G. 
+Spaulding earned a pancake on the play. SS W. Flores allowed the big play.
+
+Penn State ball, Q1, 1-10-PAST45 (08:55) 0-0
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB L. Thomas gets sacked for a 9 yard loss (DE D. Clarke).  OG M. Baldwin allowed the sack.
+
+Penn State ball, Q1, 2-19-PAST36 (08:39) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+RB K. Green runs left end for 14 yards (SS W. Flores, CB S. Kennedy). 
+
+Penn State ball, Q1, 3-5-PAST50 (08:06) 0-0
+Offense: Medium Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB L. Thomas completes a 11 yard streak to WR S. Collins (CB S. Kennedy).  OG M. Baldwin earned 
+a pancake on the play.
+
+Penn State ball, Q1, 1-10-AKR39 (07:42) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB L. Thomas completes a 13 yard out to WR S. Collins (OOB). OG T. Hannon earned a pancake 
+on the play. FS E. Reynolds missed a tackle.
+
+Penn State ball, Q1, 1-10-AKR26 (07:24) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB N. Boone runs right tackle for 11 yards (OLB J. Mullins).  OT R. Carter had a key block 
+on the run.
+
+Penn State ball, Q1, 1-10-AKR15 (06:55) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB L. Thomas throws an incomplete pass to WR D. Hubbard.
+
+Penn State ball, Q1, 2-10-AKR15 (06:38) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB N. Boone runs right guard for 5 yards (CB J. Wills, ILB T. Torres). 
+
+Penn State ball, Q1, 3-5-AKR10 (06:11) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+QB L. Thomas throws an incomplete pass to WR D. Hubbard (CB D. Dailey). WR D. Hubbard dropped 
+the pass. CB D. Dailey broke up the pass.
+
+Penn State ball, Q1, 4-5-AKR10 (05:55) 0-0
+Horace Melton converts the 28 yard field goal.
+
+Penn State ball, Q1, 1-10-PAST35 (05:35) 3-0
+Horace Melton kicks 75 from Penn State 35 to end zone, Touchback.
+
+Akron ball, Q1, 1-10-AKR20 (05:20) 0-3
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB D. Morgan throws an incomplete pass to WR T. Lott. D. Morgan made a bad pass. DT R. Kramer 
+hurried the QB.
+
+Akron ball, Q1, 1-10-AKR20 (05:20) 0-3
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+OG Matthew Solis (AKR) was injured on the play (OK). It doesn't look like he will return.
+
+Akron ball, Q1, 2-10-AKR20 (05:01) 0-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+RB A. Bradley runs left tackle for -4 yards (OLB R. Coleman).
+
+Akron ball, Q1, 3-14-AKR16 (04:29) 0-3
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB D. Morgan throws an incomplete pass to WR E. Gilbert.
+
+Akron ball, Q1, 4-14-AKR16 (04:14) 0-3
+Anthony Willis Punts 38 yards to the Penn State 46 yard line, where Wendell Morris returns 
+it to Akron 40 for a 14 yard return.
+
+Penn State ball, Q1, 1-10-AKR40 (03:56) 3-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB L. Thomas throws an incomplete pass to RB K. Green (FS E. Reynolds). RB K. Green dropped 
+the pass. DT J. Corbin hurried the QB. FS E. Reynolds broke up the pass.
+
+Penn State ball, Q1, 2-10-AKR40 (03:37) 3-0
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB N. Boone runs left guard for 3 yards (CB S. Kennedy). 
+
+Penn State ball, Q1, 3-7-AKR37 (03:11) 3-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB L. Thomas completes a 6 yard in to TE E. Hines (OOB).
+
+Penn State ball, Q1, 4-1-AKR31 (02:54) 3-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+RB K. Green runs left guard for 5 yards (ILB T. Torres, DT D. Mason). 
+
+Penn State ball, Q1, 1-10-AKR26 (02:22) 3-0
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-LE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB N. Boone runs left tackle for -3 yards (CB D. Dailey).
+
+Penn State ball, Q1, 1-10-AKR26 (02:22) 3-0
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-LE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+OLB John Oconnell (AKR) was injured on the play (Head). It doesn't look like he will return.
+
+Penn State ball, Q1, 2-13-AKR29 (02:05) 3-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB L. Thomas completes a 6 yard in to WR J. Jones (ILB T. Torres). 
+
+Holding against OT Gene Spaulding on Penn State. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 23 at the Akron 39.
+
+Penn State ball, Q1, 2-23-AKR39 (01:53) 3-0
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB L. Thomas throws an incomplete pass to WR A. Stout (ILB T. Torres). ILB T. Torres broke 
+up the pass.
+
+Penn State ball, Q1, 3-23-AKR39 (01:37) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB K. Green runs right tackle for -1 yards (OLB J. Mullins).
+
+Penn State ball, Q1, 4-24-AKR40 (01:08) 3-0
+Lester Greer Punts 36 yards to the Akron 4 yard line, where it goes out of bounds.
+
+Akron ball, Q1, 1-10-AKR4 (00:48) 0-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB J. Turner runs right guard for 8 yards (SS J. Mcclendon, SS J. Ford).  SS G. James was 
+out of position on the play.
+
+Akron ball, Q1, 2-2-AKR12 (00:21) 0-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+FB S. Doughty runs right end for 0 yards (FS H. Pfeiffer). 
+
+Akron ball, Q2, 3-2-AKR12 (15:00) 0-3
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB G. Buchanan throws an incomplete pass to WR E. Gilbert (SS J. Ford). G. Buchanan made a 
+bad pass. SS J. Ford broke up the pass.
+
+Holding against OLB Raymundo Coleman on Penn State. The Penalty is for 10 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Akron 22.
+
+Akron ball, Q2, 1-10-AKR22 (14:46) 0-3
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB J. Turner runs left tackle for 2 yards (OLB R. Coleman, OLB A. Cook). 
+
+Akron ball, Q2, 2-8-AKR24 (14:16) 0-3
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB D. Morgan completes a 8 yard out-and-up to WR E. Gilbert (OOB).
+
+Akron ball, Q2, 1-10-AKR32 (14:05) 0-3
+Offense: Long Pass, Set: SingleBack, Play: SB-FL-playact-up
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+D. Morgan has his 42 yard pass intercepted by J. Mcclendon at the PAST 26. He returns it 0 
+yards to the Penn State 26.
+
+Penn State ball, Q2, 1-10-PAST26 (13:37) 3-0
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+RB K. Green runs right end for 1 yard (ILB N. Staton). 
+
+Penn State ball, Q2, 2-9-PAST27 (13:04) 3-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-Man-B5
+QB L. Thomas throws an incomplete pass to WR S. Collins. WR S. Collins ran an incorrect route. 
+DE D. Clarke hurried the QB.
+
+Penn State ball, Q2, 3-9-PAST27 (12:47) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB K. Green runs left guard for 3 yards (CB D. Dailey). 
+
+Penn State ball, Q2, 4-6-PAST30 (12:17) 3-0
+Lester Greer Punts 49 yards to the Akron 21 yard line, where it goes out of bounds.
+
+Akron ball, Q2, 1-10-AKR21 (11:59) 0-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB J. Turner runs right end for 2 yards (SS J. Mcclendon, ILB R. Savage). 
+
+Akron ball, Q2, 2-8-AKR23 (11:30) 0-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB J. Turner runs right guard for 1 yard (FS H. Pfeiffer).  J. Turner missed a hole that could 
+have resulted in a bigger gain.
+
+Akron ball, Q2, 3-7-AKR24 (11:02) 0-3
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Morgan throws an incomplete pass to WR T. Lott (CB J. Clark). WR T. Lott dropped the 
+pass. CB J. Clark broke up the pass.
+
+Akron ball, Q2, 4-7-AKR24 (10:45) 0-3
+Anthony Willis Punts 38 yards to the Penn State 38 yard line, where Wendell Morris returns 
+it to Penn State 46 for a 8 yard return.
+
+Penn State ball, Q2, 1-10-PAST46 (10:26) 3-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB L. Thomas completes a 45 yard streak to RB K. Green (ILB T. Torres, FS E. Reynolds).  CB 
+J. Wills allowed the big play.
+
+Penn State ball, Q2, 1-9-AKR9 (10:04) 3-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB L. Thomas completes a 9 yard streak to WR D. Hubbard ****Touchdown!*****
+
+Pass Interference against CB Joseph Wills on Akron. The Penalty is for 9 yards, and an automatic 
+first down.
+The penalty will be declined.
+
+Penn State ball, Q2, 1-0-AKR0 (09:50) 9-0
+Horace Melton converts the PAT.
+
+Penn State ball, Q2, 1-10-PAST35 (09:50) 10-0
+Horace Melton kicks 43 from Penn State 35 to Akron 22. Marcus Pugh to Akron 42 for a 20 yard 
+return.
+
+Akron ball, Q2, 1-10-AKR42 (09:34) 0-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+RB J. Turner runs right end for 7 yards (OOB). SS J. Mcclendon missed a tackle.
+
+Akron ball, Q2, 2-3-AKR49 (09:23) 0-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-SZ-B11
+RB J. Turner runs right tackle for 7 yards (OLB R. Coleman).  DE L. Evans missed a tackle.
+
+Akron ball, Q2, 1-10-PAST44 (08:51) 0-10
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB J. Turner runs right tackle for 19 yards (SS J. Ford). 
+
+Akron ball, Q2, 1-10-PAST25 (08:18) 0-10
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB D. Morgan throws an incomplete pass to WR T. Lott. WR T. Lott ran an incorrect route. DT 
+N. Johnson hurried the QB.
+
+Holding against OG Timothy Thompson on Akron. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Penn State 35.
+
+Akron ball, Q2, 1-20-PAST35 (08:03) 0-10
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Morgan runs left tackle for 1 yard (ILB R. Savage).  OG S. Smith missed a block that 
+hurt the play.
+
+Akron ball, Q2, 2-19-PAST34 (07:36) 0-10
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+False Start against OG Timothy Thompson on Akron. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 24 at the Penn State 39.
+
+Akron ball, Q2, 2-24-PAST39 (07:36) 0-10
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB D. Morgan throws an incomplete pass to RB A. Bradley. DT J. Hunter hurried the QB.
+
+Akron ball, Q2, 3-24-PAST39 (07:21) 0-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B5
+RB J. Turner runs left guard for 2 yards (SS G. James). 
+
+Akron ball, Q2, 4-22-PAST37 (06:54) 0-10
+Anthony Willis Punts 23 yards to the Penn State 14 yard line, where it goes out of bounds.
+
+Penn State ball, Q2, 1-10-PAST14 (06:38) 10-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+QB L. Thomas completes a 6 yard in to WR D. Hubbard (OLB J. Mullins, ILB T. Torres). 
+
+Penn State ball, Q2, 2-4-PAST20 (06:14) 10-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB N. Boone runs right end for 4 yards (SS W. Flores). 
+
+Penn State ball, Q2, 1-10-PAST24 (05:46) 10-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB K. Green runs right guard for 22 yards (OLB J. Mullins).  CB J. Wills was out of position 
+on the play.
+
+Penn State ball, Q2, 1-10-PAST46 (05:13) 10-0
+Offense: Short Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Stop Pass, Set: 4-4, Play: 44-norm-Man-B6
+QB L. Thomas completes a 9 yard in to WR D. Hubbard (CB S. Kennedy). 
+
+Penn State ball, Q2, 2-1-AKR45 (04:49) 10-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB R. Silva completes a 29 yard hook to WR S. Collins (CB D. Dailey, FS E. Reynolds).  OG 
+M. Baldwin earned a pancake on the play. OLB J. Mullins allowed the big play.
+
+Penn State ball, Q2, 1-10-AKR16 (04:25) 10-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+RB K. Green runs left guard for -1 yards (DT J. Corbin). C F. Olson missed a block that hurt 
+the play.
+
+Penn State ball, Q2, 2-11-AKR17 (03:54) 10-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB L. Thomas completes a 7 yard hook to WR J. Jones (SS W. Flores). 
+
+Penn State ball, Q2, 3-4-AKR10 (03:30) 10-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+QB L. Thomas completes a 10 yard in to WR D. Hubbard ****Touchdown!*****
+
+Penn State ball, Q2, 1-0-AKR0 (03:06) 16-0
+Horace Melton converts the PAT.
+
+Penn State ball, Q2, 1-10-PAST35 (03:06) 17-0
+Horace Melton kicks 55 from Penn State 35 to Akron 10. Joseph Carver to Akron 23 for a 13 
+yard return.
+
+Akron ball, Q2, 1-10-AKR23 (02:51) 0-17
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB J. Turner runs left tackle for 9 yards (SS J. Ford, FS H. Pfeiffer).  DE L. Evans was out 
+of position on the play.
+
+Akron ball, Q2, 2-1-AKR32 (02:19) 0-17
+Offense: Long Pass, Set: Quads, Play: Q-WR3-corner-FL-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB G. Buchanan throws an incomplete pass to WR T. Lott. G. Buchanan made a bad pass.
+
+Akron ball, Q2, 3-1-AKR32 (02:02) 0-17
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: 4-3, Play: 43-run-M-B7-R
+QB G. Buchanan throws an incomplete pass to WR T. Lott. WR T. Lott dropped the pass.
+
+Akron ball, Q2, 4-1-AKR32 (01:53) 0-17
+Anthony Willis Punts 41 yards to the Penn State 27 yard line, where Wendell Morris returns 
+it to Akron 48 for a 25 yard return.
+
+Penn State ball, Q2, 1-10-AKR48 (01:38) 17-0
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB L. Thomas completes a 12 yard in to WR A. Stout (OLB R. Jones, ILB N. Staton).  L. Thomas 
+with the great pass. OG M. Baldwin earned a pancake on the play. OLB J. Mullins was out of position on the play.
+
+Penn State ball, Q2, 1-10-AKR36 (01:14) 17-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB L. Thomas gets sacked for a 4 yard loss (ILB T. Torres).  C F. Olson allowed the sack.
+
+Penn State ball, Q2, 2-14-AKR40 (01:08) 17-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB L. Thomas throws an incomplete pass to WR A. Stout. WR A. Stout dropped the pass.
+
+Penn State ball, Q2, 3-14-AKR40 (01:01) 17-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+QB L. Thomas completes a 23 yard out to WR A. Stout (FS E. Reynolds, OLB R. Jones). 
+
+Penn State Timeout!
+
+Penn State ball, Q2, 1-10-AKR17 (00:54) 17-0
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man
+QB L. Thomas completes a 2 yard screen to RB K. Green (FS R. Watkins). 
+
+Penn State Timeout!
+
+Penn State ball, Q2, 2-8-AKR15 (00:46) 17-0
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB L. Thomas completes a 10 yard dump off to TE E. Hines (OOB).
+
+Penn State ball, Q2, 1-5-AKR5 (00:40) 17-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB L. Thomas completes a 5 yard hook to FB P. Neill ****Touchdown!*****
+
+Penn State ball, Q2, 1-0-AKR0 (00:25) 23-0
+Horace Melton converts the PAT.
+
+Penn State ball, Q2, 1-10-PAST35 (00:25) 24-0
+Horace Melton kicks 67 from Penn State 35 to Akron -2. Joseph Carver to Akron 12 for a 14 
+yard return.
+
+Akron ball, Q2, 1-10-AKR12 (00:17) 0-24
+Offense: Inside Run, Set: Trips, Play: TR-TE-playact-corner
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+The QB takes a knee.
+
+Penn State ball, Q3, 1-10-PAST35 (15:00) 24-0
+Horace Melton kicks 47 from Penn State 35 to Akron 18. Harry Browning to Akron 39 for a 21 
+yard return.
+
+Akron ball, Q3, 1-10-AKR39 (14:40) 0-24
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-L
+RB J. Turner runs right guard for 4 yards (DT N. Johnson, OLB A. Cook). 
+
+Akron ball, Q3, 2-6-AKR43 (14:09) 0-24
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB J. Turner runs left guard for 0 yards (DT R. Kramer). 
+
+Akron ball, Q3, 3-6-AKR43 (13:39) 0-24
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Morgan throws an incomplete pass to WR E. Gilbert.
+
+Akron ball, Q3, 4-6-AKR43 (13:20) 0-24
+Anthony Willis Punts 44 yards to the Penn State 13 yard line,
+
+Penn State ball, Q3, 1-10-PAST13 (13:01) 24-0
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-LE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB K. Green runs left end for 4 yards (OLB R. Jones, FS E. Reynolds). 
+
+Penn State ball, Q3, 2-6-PAST17 (12:32) 24-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB N. Boone runs left guard for -1 yards (ILB N. Staton).
+
+Penn State ball, Q3, 3-7-PAST16 (12:04) 24-0
+Offense: Short Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: 4-4, Play: 44-run-Man-B6,7
+QB L. Thomas completes a 4 yard dump off to RB K. Green (OLB R. Jones). 
+
+Penn State ball, Q3, 4-3-PAST20 (11:49) 24-0
+Lester Greer Punts 36 yards to the Akron 44 yard line, where Donald Burns returns it to Penn 
+State 48 for a 8 yard return.
+
+Akron ball, Q3, 1-10-PAST48 (11:32) 0-24
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB D. Morgan throws an incomplete pass to WR R. Ross.
+
+Akron ball, Q3, 2-10-PAST48 (11:16) 0-24
+Offense: Outside Run, Set: Quads, Play: Q-HB-counter-RT
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+RB J. Turner runs right tackle for 5 yards (DT J. Hunter). 
+
+Akron ball, Q3, 3-5-PAST43 (10:46) 0-24
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+RB J. Turner runs right end for -5 yards (OLB R. Coleman). OG S. Smith missed a block that 
+hurt the play.
+
+Akron ball, Q3, 4-10-PAST48 (10:20) 0-24
+Anthony Willis Punts 43 yards to the Penn State 5 yard line, where it goes out of bounds.
+
+Penn State ball, Q3, 1-10-PAST5 (10:01) 24-0
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB N. Boone runs left tackle for 4 yards (FS R. Watkins). 
+
+Penn State ball, Q3, 2-6-PAST9 (09:28) 24-0
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB L. Thomas completes a 8 yard dump off to WR D. Hubbard (SS W. Flores, FS E. Reynolds). 
+
+Penn State ball, Q3, 1-10-PAST17 (09:07) 24-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB K. Green runs left guard for 9 yards (FS E. Reynolds, CB J. Wills).  TE E. Hines had a 
+key block on the run. FS E. Reynolds missed a tackle.
+
+Penn State ball, Q3, 2-1-PAST26 (08:37) 24-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB K. Green runs right end for 0 yards (DE D. Clarke). 
+
+Penn State ball, Q3, 3-1-PAST26 (08:11) 24-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB K. Green runs left guard for 2 yards (OLB J. Mullins). 
+
+Penn State ball, Q3, 1-10-PAST28 (07:40) 24-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB N. Boone runs right end for 5 yards (CB D. Dailey, OLB J. Mullins). 
+
+Penn State ball, Q3, 2-5-PAST33 (07:01) 24-0
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-out-WR3-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB L. Thomas gets sacked for a 11 yard loss (OLB J. Mullins).  C F. Olson allowed the sack.
+
+Penn State ball, Q3, 3-16-PAST22 (06:55) 24-0
+Offense: Long Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB L. Thomas throws an incomplete pass to WR A. Stout.
+
+Penn State ball, Q3, 4-16-PAST22 (06:36) 24-0
+Lester Greer Punts 42 yards to the Akron 36 yard line, where Donald Burns returns it to Penn 
+State 46 for a 18 yard return.
+
+Piling On after the play against WR Ramon Edwards on Penn State. The Penalty is for 15 yards, 
+and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Penn State 31.
+
+Akron ball, Q3, 1-10-PAST31 (06:21) 0-24
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB J. Turner runs left guard for 14 yards (SS G. James). 
+
+Akron ball, Q3, 1-10-PAST17 (05:49) 0-24
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB J. Turner runs left end for 4 yards (OOB).
+
+Akron ball, Q3, 2-6-PAST13 (05:37) 0-24
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB J. Turner runs left end for 1 yard (OLB R. Coleman). 
+
+Akron ball, Q3, 3-5-PAST12 (05:01) 0-24
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+RB J. Turner runs right guard for -2 yards (OLB R. Coleman).
+
+Akron ball, Q3, 4-7-PAST14 (04:37) 0-24
+Gene Curry converts the 32 yard field goal.
+
+Akron ball, Q3, 1-10-AKR35 (04:17) 3-24
+Gene Curry kicks 55 from Akron 35 to Penn State 10. Anthony Stout to Penn State 27 for a 17 
+yard return.
+
+Penn State ball, Q3, 1-10-PAST27 (04:01) 24-3
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB L. Thomas completes a 3 yard in to WR D. Hubbard (OOB).
+
+Penn State ball, Q3, 1-10-PAST27 (04:01) 24-3
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB Lawrence Thomas (PAST) was injured on the play (OK). It doesn't look like he will return.
+
+Penn State ball, Q3, 2-7-PAST30 (03:45) 24-3
+Offense: Short Pass, Set: Trips, Play: TR-FL-streak-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB R. Silva completes a 3 yard streak to WR A. Stout (ILB T. Torres). 
+
+Penn State ball, Q3, 3-4-PAST33 (03:21) 24-3
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+False Start against OG Michael Baldwin on Penn State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 9 at the Penn State 28.
+
+Penn State ball, Q3, 3-9-PAST28 (03:21) 24-3
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB R. Silva runs outside for 7 yards (ILB T. Torres). 
+
+Penn State ball, Q3, 4-2-PAST35 (03:03) 24-3
+Lester Greer Punts 46 yards to the Akron 19 yard line,
+
+Akron ball, Q3, 1-10-AKR19 (02:48) 3-24
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-3, Play: 43-norm-Man
+RB J. Turner runs right guard for 4 yards (FS H. Pfeiffer). 
+
+Akron ball, Q3, 2-6-AKR23 (02:21) 3-24
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-MZ-B5,7
+QB D. Morgan throws an incomplete pass to WR R. Ross (CB P. Anderson). WR R. Ross ran an incorrect 
+route. CB P. Anderson broke up the pass.
+
+Akron ball, Q3, 3-6-AKR23 (02:05) 3-24
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5-L
+RB J. Turner runs left end for 15 yards (SS G. James). 
+
+Akron ball, Q3, 1-10-AKR38 (01:35) 3-24
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB D. Morgan completes a 5 yard hook to WR R. Ross (SS G. James, ILB R. Savage). 
+
+Akron ball, Q3, 2-5-AKR43 (01:08) 3-24
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB D. Morgan completes a 1 yard out-and-up to WR E. Gilbert (OLB R. Coleman). 
+
+Akron ball, Q3, 3-4-AKR44 (00:45) 3-24
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB D. Morgan gets sacked for a 11 yard loss (SS J. Mcclendon).  OG T. Thompson allowed the 
+sack.
+
+Akron ball, Q3, 4-15-AKR33 (00:30) 3-24
+Anthony Willis Punts 49 yards to the Penn State 18 yard line, where it goes out of bounds.
+
+Penn State ball, Q3, 1-10-PAST18 (00:12) 24-3
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+RB N. Boone runs left guard for 6 yards (OLB J. Mullins, OLB R. Jones). 
+
+Penn State ball, Q4, 2-4-PAST24 (15:00) 24-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB K. Green runs right guard for 5 yards (CB S. Kennedy, ILB N. Staton). 
+
+Penn State ball, Q4, 1-10-PAST29 (14:33) 24-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB N. Boone runs left guard for 21 yards (CB D. Dailey, CB S. Kennedy).  OG T. Hannon had 
+a key block on the run.
+
+Penn State ball, Q4, 1-10-PAST50 (14:05) 24-3
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-HBfake-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+WR S. Collins runs right end for 5 yards (OLB J. Mullins). 
+
+Penn State ball, Q4, 2-5-AKR45 (13:34) 24-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB K. Green runs right end for -2 yards (ILB T. Torres).
+
+Penn State ball, Q4, 3-7-AKR47 (13:03) 24-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+QB R. Silva throws an incomplete pass to WR S. Collins.
+
+Penn State ball, Q4, 4-7-AKR47 (12:48) 24-3
+Lester Greer Punts 41 yards to the Akron 6 yard line, where it goes out of bounds.
+
+Akron ball, Q4, 1-10-AKR6 (12:30) 3-24
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+RB A. Bradley runs left end for 6 yards (OOB).
+
+Akron ball, Q4, 2-4-AKR12 (12:15) 3-24
+Offense: Outside Run, Set: Quads, Play: Q-HB-toss-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB A. Bradley runs left tackle for 9 yards (SS G. James, FS H. Pfeiffer). 
+
+Akron ball, Q4, 2-4-AKR12 (12:15) 3-24
+Offense: Outside Run, Set: Quads, Play: Q-HB-toss-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+FS Henry Pfeiffer (PAST) was injured on the play (Sternum). It doesn't look like he will return.
+
+Akron ball, Q4, 1-10-AKR21 (12:01) 3-24
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB J. Turner runs right guard for 18 yards (SS G. James).  FS T. Anderson missed a tackle.
+
+Akron ball, Q4, 1-10-AKR39 (11:35) 3-24
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB D. Morgan throws an incomplete pass to WR E. Gilbert (CB J. Clark). CB J. Clark broke up 
+the pass.
+
+Akron ball, Q4, 2-10-AKR39 (11:16) 3-24
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB D. Morgan gets sacked for a 6 yard loss (DT J. Hunter).  OG T. Thompson allowed the sack.
+
+Akron ball, Q4, 3-16-AKR33 (10:56) 3-24
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+QB D. Morgan throws an incomplete pass to WR T. Lott.
+
+Akron ball, Q4, 3-16-AKR33 (10:56) 3-24
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+WR Thomas Lott (AKR) was injured on the play (Elbow). It doesn't look like he will return.
+
+Akron ball, Q4, 4-16-AKR33 (10:37) 3-24
+Anthony Willis Punts 44 yards to the Penn State 23 yard line, where it goes out of bounds.
+
+Penn State ball, Q4, 1-10-PAST23 (10:17) 24-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB K. Green runs right guard for 9 yards (ILB N. Staton).  DT J. Corbin missed a tackle.
+
+Penn State ball, Q4, 2-1-PAST32 (09:46) 24-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-out-WR3-curl
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6
+QB R. Silva completes a 34 yard hook to WR D. Hubbard (OLB R. Jones).  OG M. Baldwin earned 
+a pancake on the play. CB S. Kennedy allowed the big play.
+
+Penn State ball, Q4, 1-10-AKR34 (09:19) 24-3
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+FB P. Neill runs right end for 14 yards (FS R. Watkins, CB J. Wills).  DE D. Clarke missed 
+a tackle.
+
+Penn State ball, Q4, 1-10-AKR34 (09:19) 24-3
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+DE Edward Mccoy (AKR) was injured on the play (Ankle). It doesn't look too serious and he 
+should return.
+
+Penn State ball, Q4, 1-10-AKR20 (09:02) 24-3
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB R. Silva runs outside for 4 yards (CB S. Kennedy). 
+
+Illegal Motion against Penn State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Akron 25.
+
+Penn State ball, Q4, 1-15-AKR25 (08:52) 24-3
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB K. Green runs right guard for 1 yard (ILB T. Torres). 
+
+Penn State ball, Q4, 2-14-AKR24 (08:24) 24-3
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB K. Green runs right end for 10 yards (OOB). OG T. Hannon had a key block on the run.
+
+Penn State ball, Q4, 3-4-AKR14 (08:14) 24-3
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: 4-4, Play: 44-run-Man-B5,8
+QB R. Silva completes a 14 yard out to WR S. Collins ****Touchdown!***** OLB R. Jones was 
+out of position on the play.
+
+Penn State ball, Q4, 1-0-AKR0 (07:53) 30-3
+Horace Melton converts the PAT.
+
+Penn State ball, Q4, 1-10-PAST35 (07:53) 31-3
+Horace Melton kicks 75 from Penn State 35 to end zone, Touchback.
+
+Akron ball, Q4, 1-10-AKR20 (07:34) 3-31
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB D. Morgan throws an incomplete pass to WR R. Ross. DT R. Kramer hurried the QB.
+
+Akron ball, Q4, 2-10-AKR20 (07:16) 3-31
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB D. Morgan throws an incomplete pass to TE S. Sweeney (OLB R. Coleman). OLB R. Coleman broke 
+up the pass.
+
+Akron ball, Q4, 2-10-AKR20 (07:16) 3-31
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+SS Guy James (PAST) was injured on the play (Head). It doesn't look too serious and he should 
+return.
+
+Akron ball, Q4, 3-10-AKR20 (07:01) 3-31
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-3, Play: 43-norm-MZ-B6,7-L
+QB D. Morgan completes a 7 yard out to WR E. Gilbert (OOB).
+
+Akron ball, Q4, 4-3-AKR27 (06:49) 3-31
+Anthony Willis Punts 52 yards to the Penn State 21 yard line, where Wendell Morris returns 
+it to Penn State 30 for a 9 yard return.
+
+Penn State ball, Q4, 1-10-PAST30 (06:33) 31-3
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB R. Silva completes a 2 yard in to WR D. Hubbard (FS E. Reynolds, CB D. Dailey). 
+
+Penn State ball, Q4, 2-8-PAST32 (06:12) 31-3
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB R. Silva throws an incomplete pass to WR S. Collins (CB S. Kennedy). CB S. Kennedy broke 
+up the pass.
+
+Penn State ball, Q4, 3-8-PAST32 (05:52) 31-3
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB R. Silva throws an incomplete pass to WR S. Collins (CB D. Dailey). CB D. Dailey broke 
+up the pass.
+
+Penn State ball, Q4, 4-8-PAST32 (05:36) 31-3
+Lester Greer Punts 41 yards to the Akron 27 yard line, where Donald Burns returns it to Akron 
+44 for a 17 yard return.
+
+Piling On after the play against OLB Ralph Curtis on Penn State. The Penalty is for 15 yards, 
+and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Penn State 41.
+
+Akron ball, Q4, 1-10-PAST41 (05:22) 3-31
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Run, Set: 4-3, Play: 43-run-SZ-B5
+RB A. Bradley runs left tackle for 2 yards (OOB).
+
+Akron ball, Q4, 2-8-PAST39 (05:08) 3-31
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-out-WR3-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB D. Morgan completes a 21 yard out to TE S. Sweeney (OOB).
+
+Akron ball, Q4, 1-10-PAST18 (04:57) 3-31
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB D. Morgan throws an incomplete pass to WR R. Ross.
+
+Akron ball, Q4, 2-10-PAST18 (04:37) 3-31
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-MZ-B5,7
+RB A. Bradley runs left guard for 0 yards (OLB R. Coleman). 
+
+Akron ball, Q4, 3-10-PAST18 (04:07) 3-31
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Morgan throws an incomplete pass to WR D. Dunn.
+
+Akron ball, Q4, 4-10-PAST18 (03:50) 3-31
+Gene Curry converts the 36 yard field goal.
+
+Akron ball, Q4, 1-10-AKR35 (03:32) 6-31
+Gene Curry Lines up for the onside kick! The opponent has their hands team out there. The 
+kick goes 12 yards and bounces around...[B] The Return Team Holds on to it. Nathaniel Boone ends up with it on the Akron 47.
+
+Penn State ball, Q4, 1-10-AKR47 (03:16) 31-6
+Offense: Outside Run, Set: Quads, Play: Q-HB-counter-RT
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+RB N. Boone runs right end for 1 yard (ILB T. Torres). 
+
+Penn State ball, Q4, 2-9-AKR46 (02:46) 31-6
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+RB K. Green runs left end for -4 yards (OLB J. Mullins).
+
+Penn State ball, Q4, 3-13-AKR50 (02:13) 31-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB K. Green runs left guard for 2 yards (CB J. Wills). 
+
+Penn State ball, Q4, 3-13-AKR50 (02:13) 31-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+SS William Flores (AKR) was injured on the play (Elbow). It doesn't look like he will return.
+
+Penn State ball, Q4, 4-11-AKR48 (01:56) 31-6
+Lester Greer Punts 48 yards to the end zone, Touchback.
+
+Akron ball, Q4, 1-10-AKR20 (01:40) 6-31
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB D. Morgan completes a 6 yard out to WR R. Ross (OOB).
+
+Akron ball, Q4, 2-4-AKR26 (01:27) 6-31
+Offense: Short Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB D. Morgan completes a 0 yard in to WR H. Browning (OLB R. Coleman). 
+
+Akron ball, Q4, 3-4-AKR26 (01:05) 6-31
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB D. Morgan throws an incomplete pass to WR R. Ross.
+
+Akron ball, Q4, 4-4-AKR26 (00:58) 6-31
+Offense: Medium Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB D. Morgan throws an incomplete pass to WR H. Browning. WR H. Browning dropped the pass.
+
+Penn State ball, Q4, 1-10-AKR26 (00:52) 31-6
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB N. Boone runs right end for 2 yards (DE D. Clarke, CB S. Kennedy). 
+
+Akron Timeout!
+
+Penn State ball, Q4, 2-8-AKR24 (00:43) 31-6
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB K. Green runs left guard for 1 yard (ILB T. Torres). 
+
+Akron Timeout!
+
+Penn State ball, Q4, 3-7-AKR23 (00:35) 31-6
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB K. Green runs right guard for 4 yards (CB D. Dailey, FS E. Reynolds). 
+
+Akron Timeout!
+
+Penn State ball, Q4, 4-3-AKR19 (00:28) 31-6
+Horace Melton converts the 37 yard field goal.
+
+Penn State ball, Q4, 1-10-PAST35 (00:20) 34-6
+Horace Melton kicks 75 from Penn State 35 to end zone, Touchback.
+
+Akron ball, Q4, 1-10-AKR20 (00:14) 6-34
+Offense: Long Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB D. Morgan throws an incomplete pass to WR E. Gilbert (OLB R. Coleman). OLB R. Coleman broke 
+up the pass.
+
+Akron ball, Q4, 2-10-AKR20 (00:07) 6-34
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+D. Morgan has his 43 yard pass intercepted by T. Anderson at the PAST 37. He returns it 19 
+yards to the Akron 44. OLB R. Coleman hurried the QB.
+

@@ -1,0 +1,983 @@
+Florida State ball, Q1, 1-10-FSU35 (15:00) 0-0
+Arnoldo Smith kicks 65 from Florida State 35 to North Carolina 0. John Smith to North Carolina 
+17 for a 17 yard return.
+
+North Carolina ball, Q1, 1-10-UNC17 (14:44) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB J. Boren throws an incomplete pass to WR M. Douglas.
+
+North Carolina ball, Q1, 2-10-UNC17 (14:25) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB J. Boren completes a 8 yard in to WR D. Glenn (CB W. Purvis, SS C. Salinas). 
+
+North Carolina ball, Q1, 3-2-UNC25 (14:03) 0-0
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB C. Rodriquez runs right tackle for 4 yards (ILB T. Lee, CB T. Bower). 
+
+North Carolina ball, Q1, 1-10-UNC29 (13:35) 0-0
+Offense: Short Pass, Set: Trips, Play: TR-FL-in-SE-post
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB J. Boren throws an incomplete pass to WR D. Glenn. J. Boren made a bad pass.
+
+North Carolina ball, Q1, 2-10-UNC29 (13:17) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB J. Boren completes a 7 yard hook to WR D. Glenn (OLB C. Lynch, CB J. Hummel). 
+
+North Carolina ball, Q1, 3-3-UNC36 (12:53) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB J. Boren completes a 9 yard post to TE J. Holt (OOB).
+
+North Carolina ball, Q1, 1-10-UNC45 (12:38) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB J. Boren gets sacked for a 2 yard loss (DE V. Wilson).  OT J. Wagner allowed the sack.
+
+North Carolina ball, Q1, 2-12-UNC43 (12:19) 0-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Boren throws an incomplete pass to WR R. Fleming.
+
+North Carolina ball, Q1, 3-12-UNC43 (12:03) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB C. Rodriquez runs right guard for 6 yards (ILB T. Lee). 
+
+North Carolina ball, Q1, 4-6-UNC49 (11:37) 0-0
+Richard Bollinger Punts 52 yards to the end zone, Touchback.
+
+Florida State ball, Q1, 1-10-FSU20 (11:22) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+QB M. Gray completes a 19 yard post to WR J. Deleon (OOB). J. Deleon made a great catch.
+
+Florida State ball, Q1, 1-10-FSU39 (11:09) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB C. Brown runs right tackle for 9 yards (SS W. Jackson, FS J. Banks).  ILB S. Schmitz was 
+out of position on the play.
+
+Florida State ball, Q1, 2-1-FSU48 (10:37) 0-0
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+Delay of Game against Florida State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 6 at the Florida State 43.
+
+Florida State ball, Q1, 2-6-FSU43 (10:37) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+RB C. Brown runs left guard for 12 yards (SS W. Jackson, OLB M. Merchant). 
+
+Florida State ball, Q1, 1-10-UNC45 (10:04) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B11
+RB C. Brown runs right guard for 0 yards (SS J. Post). 
+
+Florida State ball, Q1, 2-10-UNC45 (09:33) 0-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB P. Turner runs left tackle for 13 yards (FS J. Pena, OLB R. Franco).  OT M. Stephens had 
+a key block on the run.
+
+Florida State ball, Q1, 1-10-UNC32 (09:02) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB P. Turner runs left tackle for 4 yards (ILB S. Schmitz). 
+
+Florida State ball, Q1, 2-6-UNC28 (08:30) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+QB M. Gray throws an incomplete pass to RB P. Turner.
+
+Florida State ball, Q1, 3-6-UNC28 (08:15) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB P. Turner runs left guard for 10 yards (ILB T. Mattson).  P. Turner created the big run 
+with his own skills.
+
+Florida State ball, Q1, 1-10-UNC18 (07:45) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4,5,6
+RB C. Brown runs left end for 2 yards (OLB M. Merchant, CB C. Scott). 
+
+Florida State ball, Q1, 2-8-UNC16 (07:18) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B5,6,8
+RB C. Brown runs left guard for 7 yards (ILB S. Schmitz).  CB C. Scott missed a tackle.
+
+Florida State ball, Q1, 2-8-UNC16 (07:18) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B5,6,8
+OLB Ronald Franco (UNC) was injured on the play (OK). It doesn't look like he will return.
+
+Florida State ball, Q1, 3-1-UNC9 (07:05) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+RB P. Turner runs right end for 1 yard (SS W. Jackson).  P. Turner missed a hole that could 
+have resulted in a bigger gain.
+
+Florida State ball, Q1, 1-8-UNC8 (06:37) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB C. Brown runs left guard for 1 yard (DE J. Knapp). 
+
+Florida State ball, Q1, 2-7-UNC7 (06:05) 0-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+RB C. Brown runs left end for -5 yards (OLB M. Merchant).
+
+Florida State ball, Q1, 3-12-UNC12 (05:37) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB M. Gray completes a 5 yard hook to WR J. Deleon (SS W. Jackson, ILB T. Mattson). 
+
+Florida State ball, Q1, 4-7-UNC7 (05:16) 0-0
+Arnoldo Smith converts the 25 yard field goal.
+
+Florida State ball, Q1, 1-10-FSU35 (04:57) 3-0
+Arnoldo Smith kicks 64 from Florida State 35 to North Carolina 1. John Smith to North Carolina 
+29 for a 28 yard return.
+
+North Carolina ball, Q1, 1-10-UNC29 (04:38) 0-3
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+QB J. Boren completes a 11 yard cross to WR M. Douglas (ILB T. Lee). 
+
+North Carolina ball, Q1, 1-10-UNC40 (04:15) 0-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB J. Smith runs left guard for 4 yards (CB J. Hummel, OLB C. Lynch). 
+
+North Carolina ball, Q1, 2-6-UNC44 (03:42) 0-3
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB J. Boren completes a 9 yard hook to WR R. Fleming (CB T. Bower). 
+
+Holding against CB James Hummel on Florida State. The Penalty is for 10 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Florida State 46.
+
+North Carolina ball, Q1, 1-10-FSU46 (03:32) 0-3
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+RB C. Rodriquez runs right guard for 4 yards (CB J. Hummel). 
+
+North Carolina ball, Q1, 2-6-FSU42 (03:01) 0-3
+Offense: Long Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+QB J. Boren throws an incomplete pass to WR E. Lozano (CB J. Hummel). CB J. Hummel broke up 
+the pass.
+
+Holding against OT John Wagner on North Carolina. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 16 at the North Carolina 48.
+
+North Carolina ball, Q1, 2-16-UNC48 (02:49) 0-3
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+RB C. Rodriquez runs left end for 11 yards (OLB C. Lynch).  TE J. Holt had a key block on 
+the run. SS C. Salinas was out of position on the play.
+
+North Carolina ball, Q1, 3-5-FSU41 (02:22) 0-3
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB J. Boren throws an incomplete pass to RB C. Rodriquez (FS F. Stewart). RB C. Rodriquez 
+dropped the pass. DE D. Wright hurried the QB. FS F. Stewart broke up the pass.
+
+North Carolina ball, Q1, 4-5-FSU41 (02:04) 0-3
+Richard Bollinger Punts 19 yards to the Florida State 22 yard line, where it goes out of bounds.
+
+Florida State ball, Q1, 1-10-FSU22 (01:44) 3-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB P. Turner runs left guard for 16 yards (SS J. Post).  C L. Gonzales had a key block on 
+the run.
+
+Florida State ball, Q1, 1-10-FSU38 (01:16) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB C. Brown runs right guard for 4 yards (OLB J. Armstrong). 
+
+Florida State ball, Q1, 2-6-FSU42 (00:47) 3-0
+Offense: Inside Run, Set: Quads, Play: Q-QB-draw-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB M. Gray runs right guard for 0 yards (SS W. Jackson). 
+
+Florida State ball, Q1, 3-6-FSU42 (00:19) 3-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB M. Gray completes a 1 yard screen to RB P. Turner (SS W. Jackson). 
+
+Florida State ball, Q2, 4-5-FSU43 (15:00) 3-0
+Mark Blair Punts 26 yards to the North Carolina 31 yard line, where Michael Douglas returns 
+it to North Carolina 31 for a 0 yard return.
+
+North Carolina ball, Q2, 1-10-UNC31 (14:43) 0-3
+Offense: Short Pass, Set: Trips, Play: TR-TE-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB J. Boren completes a 6 yard screen to TE J. Holt (OOB).
+
+North Carolina ball, Q2, 2-4-UNC37 (14:27) 0-3
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-str-FL-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB J. Boren completes a 9 yard post to WR R. Fleming (OOB).
+
+North Carolina ball, Q2, 2-4-UNC37 (14:27) 0-3
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-str-FL-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+C Richard Harper (UNC) was injured on the play (Wrist). It doesn't look like he will return.
+
+North Carolina ball, Q2, 1-10-UNC46 (14:10) 0-3
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB J. Boren gets sacked for a 6 yard loss (ILB T. Lee).  C R. Knowles allowed the sack.
+
+North Carolina ball, Q2, 2-16-UNC40 (13:51) 0-3
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB J. Boren completes a 10 yard dump off to WR D. Glenn (SS C. Salinas). 
+
+North Carolina ball, Q2, 3-6-UNC50 (13:29) 0-3
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+QB J. Boren gets sacked for a 3 yard loss (DE D. Wright).  C R. Knowles allowed the sack.
+
+North Carolina ball, Q2, 4-9-UNC47 (13:14) 0-3
+Richard Bollinger Punts 57 yards to the end zone, Touchback.
+
+Florida State ball, Q2, 1-10-FSU20 (12:58) 3-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+RB P. Turner runs left guard for 7 yards (OLB M. Merchant).  P. Turner created the big run 
+with his own skills. DT J. Wagner missed a tackle.
+
+Florida State ball, Q2, 2-3-FSU27 (12:31) 3-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB P. Turner runs left end for 1 yard (OOB). P. Turner missed a hole that could have resulted 
+in a bigger gain.
+
+Florida State ball, Q2, 3-2-FSU28 (12:17) 3-0
+Offense: Short Pass, Set: Trips, Play: TR-SE-screen
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-Spy
+QB M. Gray completes a 19 yard screen to WR J. Russell (OLB J. Armstrong, CB D. Garza).  OG 
+J. Norris earned a pancake on the play. CB S. Wheeler was out of position on the play.
+
+Florida State ball, Q2, 1-10-FSU47 (11:56) 3-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-Man
+QB M. Gray completes a 6 yard streak to RB P. Turner (SS J. Post). 
+
+Holding against CB Daniel Garza on North Carolina. The Penalty is for 10 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the North Carolina 43.
+
+Florida State ball, Q2, 1-10-UNC43 (11:46) 3-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+M. Gray has his 28 yard pass intercepted by J. Post at the UNC 15. He returns it 0 yards to 
+the North Carolina 15. M. Gray made a bad pass.
+
+North Carolina ball, Q2, 1-10-UNC15 (11:17) 0-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB J. Smith runs right guard for 1 yard (ILB T. Lee). 
+
+North Carolina ball, Q2, 2-9-UNC16 (10:47) 0-3
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-out-WR3-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB J. Boren throws an incomplete pass to WR M. Douglas.
+
+North Carolina ball, Q2, 3-9-UNC16 (10:29) 0-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB J. Boren completes a 23 yard post to WR D. Glenn (CB T. Bower). 
+
+North Carolina ball, Q2, 1-10-UNC39 (10:03) 0-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB C. Rodriquez runs right tackle for 6 yards (FS F. Stewart). 
+
+North Carolina ball, Q2, 2-4-UNC45 (09:30) 0-3
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB J. Boren completes a 55 yard out-and-up to WR R. Fleming ****Touchdown!***** R. Fleming 
+made a great catch. SS C. Salinas allowed the big play.
+
+North Carolina ball, Q2, 1-0-FSU0 (09:03) 6-3
+Larry Moseley converts the PAT.
+
+North Carolina ball, Q2, 1-10-UNC35 (09:03) 7-3
+Larry Moseley kicks 43 from North Carolina 35 to Florida State 22. Maurice Collins to Florida 
+State 33 for a 11 yard return.
+
+Florida State ball, Q2, 1-10-FSU33 (08:43) 3-7
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+QB M. Gray gets sacked for a 5 yard loss (DT J. Wagner).  C L. Gonzales allowed the sack.
+
+Florida State ball, Q2, 1-10-FSU33 (08:43) 3-7
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+FS Jack Pena (UNC) was injured on the play (Wrist). It doesn't look too serious and he should 
+return.
+
+Florida State ball, Q2, 2-15-FSU28 (08:27) 3-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB P. Turner runs right end for 1 yard (SS W. Jackson). 
+
+Florida State ball, Q2, 3-14-FSU29 (08:00) 3-7
+Offense: Medium Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB M. Gray completes a 21 yard post to TE R. Gilbert (FS J. Banks).  He fumbles the ball after 
+a hit by J. Banks. It's recovered by L. Gonzales of Florida State.
+
+Florida State ball, Q2, 1-10-FSU50 (07:32) 3-7
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB M. Gray completes a 23 yard post to WR M. Collins (CB S. Wheeler).  FS J. Pena missed a 
+tackle.
+
+Florida State ball, Q2, 1-10-UNC27 (07:06) 3-7
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+RB P. Turner runs right guard for 6 yards (OLB M. Merchant). 
+
+Florida State ball, Q2, 2-4-UNC21 (06:35) 3-7
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+QB M. Gray completes a 1 yard in to WR M. Collins (OLB J. Armstrong). 
+
+Florida State ball, Q2, 3-3-UNC20 (06:11) 3-7
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB M. Gray throws an incomplete pass to WR J. Russell (CB S. Wheeler). CB S. Wheeler broke 
+up the pass.
+
+Florida State ball, Q2, 4-3-UNC20 (05:55) 3-7
+Arnoldo Smith converts the 38 yard field goal.
+
+Florida State ball, Q2, 1-10-FSU35 (05:40) 6-7
+Arnoldo Smith kicks 54 from Florida State 35 to North Carolina 11. John Smith to North Carolina 
+25 for a 14 yard return.
+
+North Carolina ball, Q2, 1-10-UNC25 (05:20) 7-6
+Offense: Short Pass, Set: Trips, Play: TR-FL-in-SE-post
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB J. Boren completes a 21 yard in to WR M. Douglas (SS C. Salinas, CB W. Purvis). 
+
+North Carolina ball, Q2, 1-10-UNC46 (04:59) 7-6
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+RB C. Rodriquez runs left tackle for 3 yards (OLB P. Farrell, ILB T. Lee). 
+
+North Carolina ball, Q2, 2-7-UNC49 (04:27) 7-6
+Offense: Inside Run, Set: Trips, Play: TR-QB-sneak-RG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB J. Boren scrambles out of the pocket and gets sacked for a 1 yard loss (ILB T. Lee).  OT 
+J. Wagner allowed the sack.
+
+North Carolina ball, Q2, 3-8-UNC48 (03:57) 7-6
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 3-3-5, Play: 335-run-Man-B8,10
+Delay of Game against North Carolina. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 13 at the North Carolina 43.
+
+North Carolina ball, Q2, 3-13-UNC43 (03:57) 7-6
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+QB J. Boren completes a 12 yard out to WR R. Fleming (CB T. Bower, FS F. Stewart).  OT L. 
+Gonzalez earned a pancake on the play.
+
+North Carolina ball, Q2, 4-1-FSU45 (03:35) 7-6
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB J. Boren completes a 11 yard hook to TE J. Holt (CB T. Bower).  J. Holt made a great catch.
+
+North Carolina ball, Q2, 4-1-FSU45 (03:35) 7-6
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+ILB Terry Lee (FSU) was injured on the play (Wrist). It doesn't look like he will return.
+
+North Carolina ball, Q2, 1-10-FSU34 (03:18) 7-6
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB C. Rodriquez runs right guard for 5 yards (FS F. Stewart, OLB C. Lynch). 
+
+Offsides against DT Paul Scruggs on Florida State. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 5 at the Florida State 29.
+
+North Carolina ball, Q2, 1-5-FSU29 (03:08) 7-6
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B5,6,8
+RB C. Rodriquez runs left guard for 0 yards (OLB P. Farrell).  FB L. Howell missed a block 
+that hurt the play.
+
+North Carolina ball, Q2, 2-5-FSU29 (02:35) 7-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB J. Smith runs left guard for -2 yards (DE V. Wilson).
+
+North Carolina ball, Q2, 3-7-FSU31 (02:07) 7-6
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB C. Rodriquez runs left end for 10 yards (OOB). DE V. Wilson missed a tackle.
+
+North Carolina ball, Q2, 1-10-FSU21 (01:52) 7-6
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB J. Smith runs left guard for 1 yard (OLB C. Lynch).  OG W. George missed a block that hurt 
+the play.
+
+North Carolina ball, Q2, 2-9-FSU20 (01:25) 7-6
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB J. Boren gets sacked for a 9 yard loss (OLB C. Lynch).  C R. Knowles allowed the sack.
+
+North Carolina ball, Q2, 3-18-FSU29 (01:18) 7-6
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB J. Boren completes a 20 yard post to WR D. Glenn (CB W. Purvis).  OT L. Gonzalez earned 
+a pancake on the play. SS C. Salinas was out of position on the play.
+
+North Carolina Timeout!
+
+North Carolina ball, Q2, 1-9-FSU9 (01:01) 7-6
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Boren completes a 6 yard hook to WR M. Douglas (OLB P. Farrell). 
+
+North Carolina Timeout!
+
+North Carolina ball, Q2, 2-3-FSU3 (01:03) 7-6
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+Delay of Game against North Carolina. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and Goal at the Florida State 8.
+
+North Carolina ball, Q2, 2-8-FSU8 (01:03) 7-6
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB J. Boren completes a 8 yard screen to RB C. Rodriquez ****Touchdown!*****
+
+North Carolina ball, Q2, 1-0-FSU0 (00:48) 13-6
+Larry Moseley converts the PAT.
+
+North Carolina ball, Q2, 1-10-UNC35 (00:48) 14-6
+SS Jeffrey Post (UNC) was injured on the play (Elbow). It doesn't look like he will return.
+
+North Carolina ball, Q2, 1-10-UNC35 (00:48) 14-6
+Larry Moseley kicks 66 from North Carolina 35 to Florida State -1. Thurman Sherman to Florida 
+State 14 for a 15 yard return.
+
+Florida State ball, Q2, 1-10-FSU14 (00:40) 6-14
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB M. Gray throws an incomplete pass to WR J. Russell. M. Gray made a bad pass.
+
+Florida State ball, Q2, 2-10-FSU14 (00:34) 6-14
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB P. Turner runs left end for 1 yard (SS W. Jackson). 
+
+North Carolina Timeout!
+
+Florida State ball, Q2, 3-9-FSU15 (00:25) 6-14
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB P. Turner runs left tackle for 1 yard (SS A. Sanchez). 
+
+Florida State ball, Q2, 4-8-FSU16 (00:03) 6-14
+Mark Blair Punts 52 yards to the North Carolina 32 yard line, where Daniel Glenn returns it 
+to North Carolina 32 for a 0 yard return.
+
+North Carolina ball, Q3, 1-10-UNC35 (15:00) 14-6
+Larry Moseley kicks 66 from North Carolina 35 to Florida State -1. Thurman Sherman to Florida 
+State 17 for a 18 yard return.
+
+Florida State ball, Q3, 1-10-FSU17 (14:44) 6-14
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-slotrun-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+WR J. Russell runs right end for 1 yard (DE J. Knapp). 
+
+Florida State ball, Q3, 2-9-FSU18 (14:13) 6-14
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB C. Brown runs right end for 1 yard (FS J. Banks).  OG J. Ladd missed a block that hurt 
+the play.
+
+Florida State ball, Q3, 3-8-FSU19 (13:44) 6-14
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB P. Turner runs right end for 2 yards (ILB T. Mattson). 
+
+Florida State ball, Q3, 4-6-FSU21 (13:18) 6-14
+Mark Blair Punts 57 yards to the North Carolina 22 yard line, where Daniel Glenn returns it 
+to North Carolina 37 for a 15 yard return. He fumbles the ball after a hit by J. Smith. It's recovered by J. Sanchez of Florida State. He returns it 25 yards to the North Carolina 12.
+
+Florida State ball, Q3, 1-10-UNC12 (13:02) 6-14
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB C. Brown runs right tackle for 2 yards (SS A. Sanchez). 
+
+Florida State ball, Q3, 2-8-UNC10 (12:33) 6-14
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ
+RB P. Turner runs right end for 2 yards (OOB).
+
+Florida State ball, Q3, 3-6-UNC8 (12:21) 6-14
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB M. Gray completes a 3 yard hook to RB P. Turner (OOB).
+
+Florida State ball, Q3, 4-3-UNC5 (12:10) 6-14
+Arnoldo Smith converts the 23 yard field goal.
+
+Florida State ball, Q3, 1-10-FSU35 (11:50) 9-14
+Arnoldo Smith kicks 75 from Florida State 35 to end zone, Touchback.
+
+North Carolina ball, Q3, 1-10-UNC20 (11:34) 14-9
+Offense: Outside Run, Set: Quads, Play: Q-HB-counter-RT
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+RB C. Rodriquez runs right tackle for 12 yards (ILB E. Lewis). 
+
+North Carolina ball, Q3, 1-10-UNC32 (11:01) 14-9
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4,5,6
+QB J. Boren completes a 11 yard cross to WR R. Fleming (OOB). FS F. Stewart missed a tackle.
+
+North Carolina ball, Q3, 1-10-UNC43 (10:46) 14-9
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB J. Boren throws an incomplete pass to WR M. Douglas.
+
+North Carolina ball, Q3, 1-10-UNC43 (10:46) 14-9
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+DT Richard Clemons (FSU) was injured on the play (Elbow). It doesn't look like he will return.
+
+North Carolina ball, Q3, 2-10-UNC43 (10:29) 14-9
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB J. Boren throws an incomplete pass to WR D. Glenn. DE D. Wright hurried the QB.
+
+North Carolina ball, Q3, 3-10-UNC43 (10:14) 14-9
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB C. Rodriquez runs right end for 12 yards (SS C. Salinas).  OG L. Stephens had a key block 
+on the run. SS C. Salinas was out of position on the play.
+
+North Carolina ball, Q3, 1-10-FSU45 (09:47) 14-9
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB C. Rodriquez runs right guard for 10 yards (SS C. Salinas).  C. Rodriquez created the big 
+run with his own skills. DT P. Scruggs missed a tackle.
+
+North Carolina ball, Q3, 1-10-FSU35 (09:19) 14-9
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-HBfake-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+WR R. Fleming runs right end for 6 yards (OOB).
+
+North Carolina ball, Q3, 2-4-FSU29 (09:06) 14-9
+Offense: Short Pass, Set: Trips, Play: TR-SE-screen
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB J. Boren completes a 8 yard screen to WR R. Fleming (FS F. Stewart). 
+
+North Carolina ball, Q3, 1-10-FSU21 (08:42) 14-9
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+RB C. Rodriquez runs right end for 5 yards (CB J. Hummel). 
+
+North Carolina ball, Q3, 2-5-FSU16 (08:14) 14-9
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+RB J. Smith runs left guard for 11 yards (FS F. Stewart).  DT P. Scruggs missed a tackle.
+
+North Carolina ball, Q3, 1-5-FSU5 (07:47) 14-9
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+RB J. Smith runs left guard for 5 yards ****Touchdown!*****
+
+North Carolina ball, Q3, 1-0-FSU0 (07:15) 20-9
+Larry Moseley converts the PAT.
+
+North Carolina ball, Q3, 1-10-UNC35 (07:15) 21-9
+Larry Moseley kicks 64 from North Carolina 35 to Florida State 1. Thurman Sherman to Florida 
+State 29 for a 28 yard return.
+
+Florida State ball, Q3, 1-10-FSU29 (06:58) 9-21
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB M. Gray throws an incomplete pass to WR J. Deleon (CB S. Wheeler). CB S. Wheeler broke 
+up the pass.
+
+Florida State ball, Q3, 2-10-FSU29 (06:43) 9-21
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+QB M. Gray completes a 9 yard post to WR J. Russell (SS A. Sanchez). 
+
+Florida State ball, Q3, 3-1-FSU38 (06:16) 9-21
+Offense: Short Pass, Set: Trips, Play: TR-TE-playact-corner
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB M. Gray completes a 8 yard in to WR J. Russell (CB S. Wheeler, FS J. Pena). 
+
+Florida State ball, Q3, 1-10-FSU46 (05:54) 9-21
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB P. Turner runs right tackle for 18 yards (ILB S. Schmitz).  ILB T. Mattson missed a tackle.
+
+Florida State ball, Q3, 1-10-UNC36 (05:26) 9-21
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB P. Turner runs right guard for 2 yards (ILB S. Schmitz). 
+
+Florida State ball, Q3, 2-8-UNC34 (04:56) 9-21
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB M. Gray completes a 4 yard hook to WR J. Deleon (OOB).
+
+Florida State ball, Q3, 2-8-UNC34 (04:56) 9-21
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+FB Logan Schneider (FSU) was injured on the play (Groin). It doesn't look like he will return.
+
+Florida State ball, Q3, 3-4-UNC30 (04:45) 9-21
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB M. Gray throws an incomplete pass to WR J. Russell (CB D. Garza). DT J. Wagner hurried 
+the QB. CB D. Garza broke up the pass.
+
+Florida State ball, Q3, 4-4-UNC30 (04:26) 9-21
+Arnoldo Smith converts the 48 yard field goal.
+
+Florida State ball, Q3, 1-10-FSU35 (04:01) 12-21
+Arnoldo Smith kicks 53 from Florida State 35 to North Carolina 12. John Smith to North Carolina 
+37 for a 25 yard return.
+
+North Carolina ball, Q3, 1-10-UNC37 (03:52) 21-12
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB J. Boren gets sacked for a 4 yard loss (ILB E. Lewis).  OT J. Wagner allowed the sack.
+
+North Carolina ball, Q3, 2-14-UNC33 (03:36) 21-12
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 3-3-5, Play: 335-run-Man-Spy
+QB J. Boren completes a 23 yard post to WR M. Douglas (CB T. Bower, OLB C. Lynch).  J. Boren 
+with the great pass. OT L. Gonzalez earned a pancake on the play.
+
+North Carolina ball, Q3, 1-10-FSU44 (03:10) 21-12
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB C. Rodriquez runs left end for 7 yards (CB W. Purvis).  OG W. George had a key block on 
+the run. DT P. Scruggs missed a tackle.
+
+Tripping against OG Larry Stephens on North Carolina. The Penalty is for 15 yards.
+The Defense will accept the penalty. It is now First and 25 at the North Carolina 41.
+
+North Carolina ball, Q3, 1-25-UNC41 (02:59) 21-12
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB J. Boren completes a 3 yard post to WR D. Glenn (OLB P. Farrell). 
+
+North Carolina ball, Q3, 2-22-UNC44 (02:33) 21-12
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB J. Boren gets sacked for a 2 yard loss (DE D. Wright).  C R. Knowles allowed the sack.
+
+North Carolina ball, Q3, 3-24-UNC42 (02:17) 21-12
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+QB J. Boren completes a 1 yard in to WR D. Glenn (SS C. Salinas). 
+
+North Carolina ball, Q3, 4-23-UNC43 (01:54) 21-12
+Richard Bollinger Punts 26 yards to the Florida State 31 yard line, where James Deleon returns 
+it to Florida State 35 for a 4 yard return.
+
+North Carolina ball, Q3, 4-23-UNC43 (01:54) 21-12
+WR Jerry Sanchez (FSU) was injured on the play (Groin). It doesn't look too serious and he 
+should return.
+
+Florida State ball, Q3, 1-10-FSU35 (01:39) 12-21
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+False Start against C Larry Gonzales on Florida State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Florida State 30.
+
+Florida State ball, Q3, 1-15-FSU30 (01:39) 12-21
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+QB M. Gray throws an incomplete pass to WR M. Collins (FS J. Banks). ILB S. Schmitz hurried 
+the QB. FS J. Banks broke up the pass.
+
+Florida State ball, Q3, 2-15-FSU30 (01:20) 12-21
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB M. Gray throws an incomplete pass to WR J. Russell (SS A. Sanchez). WR J. Russell ran an 
+incorrect route. SS A. Sanchez broke up the pass.
+
+Florida State ball, Q3, 2-15-FSU30 (01:20) 12-21
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+SS William Jackson (UNC) was injured on the play (Elbow). It doesn't look like he will return.
+
+Florida State ball, Q3, 3-15-FSU30 (01:02) 12-21
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB M. Gray throws an incomplete pass to WR J. Deleon.
+
+Florida State ball, Q3, 4-15-FSU30 (00:45) 12-21
+Mark Blair Punts 37 yards to the North Carolina 33 yard line, where Daniel Glenn returns it 
+to North Carolina 33 for a 0 yard return.
+
+North Carolina ball, Q3, 1-10-UNC33 (00:25) 21-12
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB J. Boren completes a 1 yard out to WR R. Fleming (OOB).
+
+North Carolina ball, Q3, 2-9-UNC34 (00:09) 21-12
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB J. Boren scrambles out of the pocket and gets sacked for a 4 yard loss (OLB C. Lynch). 
+ OT J. Wagner allowed the sack.
+
+North Carolina ball, Q4, 3-13-UNC30 (15:00) 21-12
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB C. Rodriquez runs left end for 0 yards (FS F. Stewart). 
+
+North Carolina ball, Q4, 4-13-UNC30 (14:29) 21-12
+Richard Bollinger Punts 51 yards to the Florida State 19 yard line, where Thomas Bower returns 
+it to Florida State 23 for a 4 yard return.
+
+Florida State ball, Q4, 1-10-FSU23 (14:14) 12-21
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-posts
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB M. Gray throws an incomplete pass to WR J. Russell.
+
+Florida State ball, Q4, 2-10-FSU23 (13:57) 12-21
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+QB M. Gray completes a 8 yard post to WR M. Collins (OOB).
+
+Florida State ball, Q4, 3-2-FSU31 (13:42) 12-21
+Offense: Short Pass, Set: Trips, Play: TR-FL-in-SE-post
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB M. Gray throws an incomplete pass to RB P. Turner.
+
+Florida State ball, Q4, 4-2-FSU31 (13:22) 12-21
+Mark Blair Punts 45 yards to the North Carolina 24 yard line,
+
+North Carolina ball, Q4, 1-10-UNC24 (13:07) 21-12
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB C. Rodriquez runs right guard for 9 yards (CB J. Hummel).  OG L. Stephens had a key block 
+on the run.
+
+North Carolina ball, Q4, 2-1-UNC33 (12:35) 21-12
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB C. Rodriquez runs right tackle for 3 yards (CB T. Bower, FS T. Sherman). 
+
+North Carolina ball, Q4, 1-10-UNC36 (12:08) 21-12
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+RB J. Smith runs left end for 18 yards (FS T. Sherman, OLB P. Farrell).  OG L. Stephens had 
+a key block on the run. OLB P. Farrell was out of position on the play.
+
+North Carolina ball, Q4, 1-10-FSU46 (11:35) 21-12
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB J. Boren scrambles out of the pocket and gets sacked for a 6 yard loss (DE J. Blodgett). 
+ C R. Knowles allowed the sack.
+
+North Carolina ball, Q4, 2-16-UNC48 (11:05) 21-12
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB J. Boren completes a 52 yard post to TE J. Holt ****Touchdown!***** OG W. George earned 
+a pancake on the play. CB J. Hummel allowed the big play.
+
+North Carolina ball, Q4, 1-0-FSU0 (10:43) 27-12
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB J. Boren completes a -1 yard screen to RB C. Rodriquez (CB T. Bower). 
+
+North Carolina ball, Q4, 1-10-UNC35 (10:43) 27-12
+Larry Moseley kicks 55 from North Carolina 35 to Florida State 10. Thurman Sherman to Florida 
+State 26 for a 16 yard return.
+
+Florida State ball, Q4, 1-10-FSU26 (10:25) 12-27
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB P. Turner runs left tackle for 20 yards (ILB S. Schmitz, FS J. Pena).  P. Turner created 
+the big run with his own skills. ILB S. Schmitz was out of position on the play.
+
+Florida State ball, Q4, 1-10-FSU46 (09:57) 12-27
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+RB P. Turner runs right guard for 3 yards (OLB J. Armstrong, SS A. Sanchez). 
+
+Florida State ball, Q4, 2-7-FSU49 (09:25) 12-27
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+RB P. Turner runs right end for 1 yard (OOB).
+
+Florida State ball, Q4, 3-6-FSU50 (09:12) 12-27
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB M. Gray completes a 6 yard dump off to TE R. Gilbert (ILB S. Schmitz, CB D. Garza). 
+
+Florida State ball, Q4, 1-10-UNC44 (08:50) 12-27
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB M. Gray completes a 6 yard hook to WR J. Deleon (FS J. Pena). 
+
+Holding against C Larry Gonzales on Florida State. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Florida State 46.
+
+Florida State ball, Q4, 1-20-FSU46 (08:37) 12-27
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB C. Brown runs left tackle for 10 yards (ILB S. Schmitz, CB D. Garza).  DT J. Wagner missed 
+a tackle.
+
+Florida State ball, Q4, 2-10-UNC44 (08:06) 12-27
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B11
+QB M. Gray throws an incomplete pass to WR J. Deleon. M. Gray made a bad pass. DT J. Wagner 
+hurried the QB.
+
+Florida State ball, Q4, 3-10-UNC44 (07:48) 12-27
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB P. Turner runs left guard for 4 yards (ILB S. Schmitz, ILB T. Mattson). 
+
+Florida State ball, Q4, 4-6-UNC40 (07:21) 12-27
+Mark Blair Punts 35 yards to the North Carolina 5 yard line, where it goes out of bounds.
+
+North Carolina ball, Q4, 1-10-UNC5 (07:02) 27-12
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB C. Rodriquez runs left tackle for 15 yards (CB T. Bower, OLB P. Farrell).  OG L. Stephens 
+had a key block on the run.
+
+Offsides against DE Darrell Wright on Florida State. The Penalty is for 5 yards.
+The penalty will be declined.
+
+North Carolina ball, Q4, 1-10-UNC20 (06:48) 27-12
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-streaks
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB J. Boren throws an incomplete pass to TE J. Holt (CB J. Hummel). CB J. Hummel broke up 
+the pass.
+
+North Carolina ball, Q4, 2-10-UNC20 (06:30) 27-12
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-posts
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+QB J. Boren throws an incomplete pass to WR E. Lozano.
+
+North Carolina ball, Q4, 3-10-UNC20 (06:01) 27-12
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB C. Rodriquez runs left guard for 3 yards (CB J. Hummel, DE V. Wilson). 
+
+North Carolina ball, Q4, 4-7-UNC23 (05:39) 27-12
+Richard Bollinger Punts 51 yards to the Florida State 26 yard line, where Thomas Bower returns 
+it to Florida State 26 for a 0 yard return.
+
+Florida State ball, Q4, 1-10-FSU26 (05:20) 12-27
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB M. Gray completes a 17 yard post to WR M. Collins (OOB). OT J. Berger earned a pancake 
+on the play.
+
+Florida State ball, Q4, 1-10-FSU43 (05:09) 12-27
+Offense: Short Pass, Set: Trips, Play: TR-WR3-flat-FL-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB M. Gray throws an incomplete pass to WR J. Deleon (CB D. Garza). DE J. Knapp hurried the 
+QB. CB D. Garza broke up the pass.
+
+Holding against TE Robbie Gilbert on Florida State. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Florida State 33.
+
+Florida State ball, Q4, 1-20-FSU33 (04:58) 12-27
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+FB H. Campbell runs right end for 2 yards (DE J. Lee). 
+
+Florida State ball, Q4, 2-18-FSU35 (04:31) 12-27
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB M. Gray throws an incomplete pass to WR J. Russell.
+
+Florida State ball, Q4, 3-18-FSU35 (04:11) 12-27
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+QB M. Gray completes a 7 yard hook to WR J. Deleon (FS J. Pena). 
+
+Florida State ball, Q4, 4-11-FSU42 (03:43) 12-27
+Mark Blair Punts 53 yards to the North Carolina 5 yard line, where Daniel Glenn returns it 
+to North Carolina 40 for a 35 yard return.
+
+North Carolina ball, Q4, 1-10-UNC40 (03:26) 27-12
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ-B7,8
+RB J. Smith runs left guard for 6 yards (CB J. Hummel). 
+
+North Carolina ball, Q4, 2-4-UNC46 (02:57) 27-12
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB J. Smith runs right end for 2 yards (FS F. Stewart, OLB C. Lynch). 
+
+North Carolina ball, Q4, 3-2-UNC48 (02:28) 27-12
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+RB C. Rodriquez runs left guard for 3 yards (CB T. Bower). 
+
+North Carolina ball, Q4, 1-10-FSU49 (01:56) 27-12
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB C. Rodriquez runs left end for 10 yards (ILB E. Lewis).  OG W. George had a key block on 
+the run.
+
+North Carolina ball, Q4, 1-10-FSU39 (01:30) 27-12
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB C. Rodriquez runs right end for 3 yards (CB T. Bower). 
+
+North Carolina ball, Q4, 2-7-FSU36 (01:03) 27-12
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+RB C. Rodriquez runs right end for 2 yards (OOB).
+
+North Carolina ball, Q4, 3-5-FSU34 (00:54) 27-12
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB C. Rodriquez runs right tackle for 6 yards (FS T. Sherman, ILB E. Lewis). 
+
+Florida State Timeout!
+
+North Carolina ball, Q4, 1-10-FSU28 (00:46) 27-12
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB J. Smith runs left guard for 5 yards (CB W. Purvis). 
+
+Florida State Timeout!
+
+Florida State Timeout!
+
+North Carolina ball, Q4, 2-5-FSU23 (00:37) 27-12
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+The QB takes a knee.
+
+North Carolina ball, Q4, 3-7-FSU25 (00:28) 27-12
+Offense: Inside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+The QB takes a knee.
+
+North Carolina ball, Q4, 4-8-FSU26 (00:01) 27-12
+Larry Moseley converts the 44 yard field goal.
+

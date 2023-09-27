@@ -1,0 +1,965 @@
+NC State ball, Q1, 1-10-NCST35 (15:00) 0-0
+Thomas Vallejo kicks 75 from NC State 35 to end zone, Touchback.
+
+Massachusetts ball, Q1, 1-10-MASS20 (14:42) 0-0
+Offense: Inside Run, Set: Wing T, Play: T-HB-power-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB J. Spencer runs right tackle for 3 yards (OLB D. Henderson). 
+
+Massachusetts ball, Q1, 2-7-MASS23 (14:10) 0-0
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-RT
+Defense: Stop Run, Set: Nickel, Play: Nickel-norm-Man
+RB J. Crocker runs right tackle for 4 yards (OLB K. Dunn). 
+
+Massachusetts ball, Q1, 3-3-MASS27 (13:44) 0-0
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+QB S. Schaefer gets sacked for a 6 yard loss (DE L. Johnson).  RB J. Crocker allowed the sack.
+
+Massachusetts ball, Q1, 3-3-MASS27 (13:44) 0-0
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+C Kevin Woodard (MASS) was injured on the play (Lower Back). It doesn't look like he will 
+return.
+
+Massachusetts ball, Q1, 4-9-MASS21 (13:24) 0-0
+John Buford Punts 36 yards to the NC State 43 yard line, where Samuel Gardiner returns it 
+to NC State 43 for a 0 yard return.
+
+NC State ball, Q1, 1-10-NCST43 (13:07) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-ZoneBlitz
+QB P. Pike throws an incomplete pass to WR M. Acosta (CB J. Martin). WR M. Acosta ran an incorrect 
+route. OLB C. Morrison hurried the QB. CB J. Martin broke up the pass.
+
+NC State ball, Q1, 2-10-NCST43 (12:51) 0-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6
+QB P. Pike completes a 19 yard out to WR S. Gardiner (OLB C. Morrison).  OG C. Cunningham 
+earned a pancake on the play. CB E. Cartwright missed a tackle.
+
+NC State ball, Q1, 1-10-MASS38 (12:29) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB J. Light runs right tackle for 7 yards (SS S. Hutchison). 
+
+NC State ball, Q1, 1-10-MASS38 (12:29) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+CB Jeffrey Martin (MASS) was injured on the play (Shoulder). It doesn't look too serious and 
+he should return.
+
+NC State ball, Q1, 2-3-MASS31 (12:13) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB M. Moore runs left guard for 3 yards (CB J. Martin). 
+
+Grabbing Face Mask against DE William Mosley on Massachusetts. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Massachusetts 23.
+
+NC State ball, Q1, 1-10-MASS23 (12:03) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB P. Pike gets sacked for a 3 yard loss (DE C. Layne).  OT W. Moore allowed the sack.
+
+NC State ball, Q1, 2-13-MASS26 (11:43) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+RB J. Light runs right guard for 3 yards (OLB A. Avila, SS S. Hutchison). 
+
+NC State ball, Q1, 3-10-MASS23 (11:11) 0-0
+Offense: Medium Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,11
+QB P. Pike completes a 23 yard post to WR M. Acosta ****Touchdown!***** OG C. Cunningham earned 
+a pancake on the play.
+
+NC State ball, Q1, 1-0-MASS0 (10:44) 6-0
+Thomas Vallejo converts the PAT.
+
+NC State ball, Q1, 1-10-NCST35 (10:44) 7-0
+Thomas Vallejo kicks 54 from NC State 35 to Massachusetts 11. Joe Guthrie to Massachusetts 
+36 for a 25 yard return.
+
+Massachusetts ball, Q1, 1-10-MASS36 (10:26) 0-7
+Offense: Short Pass, Set: I Form Big, Play: IB-FB-playact-flat
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB S. Schaefer throws an incomplete pass to FB E. Scott (CB W. Holmes). FB E. Scott dropped 
+the pass. CB W. Holmes broke up the pass.
+
+Massachusetts ball, Q1, 2-10-MASS36 (10:10) 0-7
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-option-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB S. Schaefer runs right end for 16 yards (OOB). FS J. Molina was out of position on the play.
+
+Massachusetts ball, Q1, 1-10-NCST48 (09:55) 0-7
+Offense: Short Pass, Set: Wing T, Play: T-SE-playact-cor
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man
+QB S. Schaefer throws an incomplete pass to WR M. Mccann. DE L. Johnson hurried the QB.
+
+Massachusetts ball, Q1, 1-10-NCST48 (09:55) 0-7
+Offense: Short Pass, Set: Wing T, Play: T-SE-playact-cor
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man
+DE Chad Jenkins (NCST) was injured on the play (Eye). It doesn't look too serious and he should 
+return.
+
+Massachusetts ball, Q1, 2-10-NCST48 (09:38) 0-7
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-tripoption-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB J. Spencer runs left end for 2 yards (SS A. Davis). 
+
+Massachusetts ball, Q1, 3-8-NCST46 (09:09) 0-7
+Offense: Outside Run, Set: Wing T, Play: T-HB-toss-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB J. Spencer runs left tackle for 8 yards (SS A. Davis).  OT R. Washington had a key block 
+on the run. FS J. Molina missed a tackle.
+
+Massachusetts ball, Q1, 1-10-NCST38 (08:42) 0-7
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB J. Spencer runs right end for -2 yards (SS A. Davis).
+
+Massachusetts ball, Q1, 2-12-NCST40 (08:13) 0-7
+Offense: Outside Run, Set: I Form Big, Play: IB-RB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-run-MZ-B8
+RB J. Crocker runs right end for 1 yard (OLB D. Henderson).  OG E. Banks missed a block that 
+hurt the play.
+
+Massachusetts ball, Q1, 3-11-NCST39 (07:43) 0-7
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB S. Schaefer completes a 29 yard streak to WR C. Smith (SS D. Dejesus, CB R. Torres).  OT 
+J. Cook earned a pancake on the play. SS D. Dejesus allowed the big play.
+
+Massachusetts ball, Q1, 3-11-NCST39 (07:43) 0-7
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+TE Carlos Torrez (MASS) was injured on the play (Neck). It doesn't look like he will return.
+
+Massachusetts ball, Q1, 1-10-NCST10 (07:27) 0-7
+Offense: Outside Run, Set: Flexbone, Play: FL-RB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+RB J. Crocker runs left end for -1 yards (DE L. Johnson).
+
+Massachusetts ball, Q1, 2-11-NCST11 (06:59) 0-7
+Offense: Outside Run, Set: Flexbone, Play: FL-SE-optpass-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB S. Schaefer runs left end for 8 yards (FS J. Molina, OLB K. Dunn). 
+
+Massachusetts ball, Q1, 3-3-NCST3 (06:33) 0-7
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Normal, Set: 4-3, Play: 43-norm-Man
+RB J. Spencer runs right guard for 3 yards ****Touchdown!*****
+
+Massachusetts ball, Q1, 1-0-NCST0 (06:06) 6-7
+Jerry Reid converts the PAT.
+
+Massachusetts ball, Q1, 1-10-MASS35 (06:06) 7-7
+Jerry Reid kicks 67 from Massachusetts 35 to NC State -2. Samuel Gardiner to NC State 15 for 
+a 17 yard return.
+
+NC State ball, Q1, 1-10-NCST15 (05:48) 7-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+RB M. Moore runs right guard for 4 yards (DE W. Mosley). 
+
+NC State ball, Q1, 2-6-NCST19 (05:18) 7-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+RB M. Moore runs right end for 4 yards (SS S. Hutchison, CB E. Cartwright). 
+
+NC State ball, Q1, 2-6-NCST19 (05:18) 7-7
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+QB Patrick Pike (NCST) was injured on the play (Lower Leg). It doesn't look too serious and 
+he should return.
+
+NC State ball, Q1, 3-2-NCST23 (05:02) 7-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB M. Moore runs left tackle for 8 yards (FS S. Brown, OLB A. Avila).  OG C. Cunningham had 
+a key block on the run.
+
+NC State ball, Q1, 1-10-NCST31 (04:33) 7-7
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB P. Pike completes a 15 yard dump off to WR M. Brown (OLB C. Morrison).  OG C. Mchenry earned 
+a pancake on the play.
+
+NC State ball, Q1, 1-10-NCST46 (04:01) 7-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB J. Light runs right guard for 11 yards (SS S. Hutchison).  DT F. Goodman missed a tackle.
+
+NC State ball, Q1, 1-10-MASS43 (03:44) 7-7
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Normal, Set: 4-6, Play: 46-norm-Man-B5,6
+RB M. Moore runs right guard for 11 yards (OLB A. Avila). 
+
+NC State ball, Q1, 1-10-MASS32 (03:11) 7-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+RB J. Light runs left guard for 11 yards (FS S. Brown, CB J. Martin).  FB R. Robinson had 
+a key block on the run.
+
+NC State ball, Q1, 1-10-MASS32 (03:11) 7-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+DT Bob Overstreet (MASS) was injured on the play (Toe). It doesn't look like he will return.
+
+NC State ball, Q1, 1-10-MASS21 (02:57) 7-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB J. Light runs right guard for 4 yards (FS S. Brown, SS S. Hutchison). 
+
+NC State ball, Q1, 2-6-MASS17 (02:31) 7-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ-B7,8
+RB J. Light runs left guard for 2 yards (CB P. Patrick, DT J. Bacon). 
+
+NC State ball, Q1, 3-4-MASS15 (02:05) 7-7
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB P. Pike runs outside for 6 yards (OLB C. Morrison).  OLB C. Morrison hurried the QB.
+
+NC State ball, Q1, 1-9-MASS9 (01:44) 7-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ
+RB J. Light runs right tackle for 3 yards (FS S. Brown, OLB R. Owens). 
+
+NC State ball, Q1, 2-6-MASS6 (01:16) 7-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+RB M. Moore runs right guard for 0 yards (DE W. Mosley).  OT W. Moore missed a block that 
+hurt the play.
+
+NC State ball, Q1, 3-6-MASS6 (00:44) 7-7
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+RB M. Moore runs left guard for 6 yards ****Touchdown!*****
+
+NC State ball, Q1, 1-0-MASS0 (00:14) 13-7
+Thomas Vallejo has his PAT blocked by SS Richard Beck!
+
+NC State ball, Q1, 1-10-NCST35 (00:14) 13-7
+Thomas Vallejo kicks 55 from NC State 35 to Massachusetts 10. Joe Guthrie to Massachusetts 
+45 for a 35 yard return.
+
+Massachusetts ball, Q2, 1-10-MASS45 (15:00) 7-13
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-tripoption-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB S. Schaefer runs left tackle for 0 yards (FS J. Molina).  OG E. Banks missed a block that 
+hurt the play.
+
+Massachusetts ball, Q2, 2-10-MASS45 (14:28) 7-13
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-L
+RB J. Crocker runs right end for 9 yards (OOB). SS A. Davis was out of position on the play.
+
+Massachusetts ball, Q2, 3-1-NCST46 (14:12) 7-13
+Offense: Outside Run, Set: Wing T, Play: T-HB-option-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB J. Spencer runs right end for 1 yard (OLB D. Henderson).  C W. Williams missed a block 
+that hurt the play.
+
+Massachusetts ball, Q2, 1-10-NCST45 (13:40) 7-13
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB S. Schaefer throws an incomplete pass to RB J. Spencer. S. Schaefer made a bad pass.
+
+Massachusetts ball, Q2, 2-10-NCST45 (13:22) 7-13
+Offense: Outside Run, Set: Wing T, Play: T-HB-option-RE
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5-L
+RB J. Spencer runs right end for 2 yards (ILB D. Castillo). 
+
+Massachusetts ball, Q2, 3-8-NCST43 (12:51) 7-13
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Normal, Set: 4-3, Play: 43-norm-Man
+FB E. Scott runs right end for -1 yards (DE L. Johnson). OT R. Washington missed a block that 
+hurt the play.
+
+Massachusetts ball, Q2, 4-9-NCST44 (12:25) 7-13
+John Buford Punts 38 yards to the NC State 6 yard line, where it goes out of bounds.
+
+NC State ball, Q2, 1-10-NCST6 (12:07) 13-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+RB J. Light runs right guard for 10 yards (OLB A. Avila). 
+
+NC State ball, Q2, 1-10-NCST16 (11:36) 13-7
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+QB P. Pike completes a 35 yard corner to WR S. Gardiner (CB E. Cartwright).  SS S. Hutchison 
+allowed the big play.
+
+NC State ball, Q2, 1-10-MASS49 (11:11) 13-7
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B10
+QB P. Pike throws an incomplete pass to WR S. Gardiner.
+
+NC State ball, Q2, 2-10-MASS49 (10:54) 13-7
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ
+QB P. Pike completes a 8 yard post to TE M. Ellison (OLB A. Avila). 
+
+NC State ball, Q2, 3-2-MASS41 (10:30) 13-7
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Normal, Set: 4-6, Play: 46-norm-SZ
+QB P. Pike completes a 1 yard out to WR S. Gardiner (OLB A. Avila). 
+
+NC State ball, Q2, 4-1-MASS40 (10:07) 13-7
+James Mack Punts 40 yards to the end zone, Touchback.
+
+Massachusetts ball, Q2, 1-10-MASS20 (09:49) 7-13
+Offense: Long Pass, Set: Flexbone, Play: FL-SE-streaks
+Defense: Normal, Set: 4-3, Play: 43-norm-Man
+QB S. Schaefer completes a 80 yard streak to WR M. Mccann ****Touchdown!***** SS A. Davis 
+allowed the big play.
+
+Massachusetts ball, Q2, 1-0-NCST0 (09:24) 13-13
+Jerry Reid converts the PAT.
+
+Massachusetts ball, Q2, 1-10-MASS35 (09:24) 14-13
+Jerry Reid kicks 55 from Massachusetts 35 to NC State 10. Samuel Gardiner to NC State 33 for 
+a 23 yard return.
+
+NC State ball, Q2, 1-10-NCST33 (09:06) 13-14
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+RB M. Moore runs left tackle for 1 yard (DE W. Mosley).  C L. Hankins missed a block that 
+hurt the play.
+
+NC State ball, Q2, 2-9-NCST34 (08:36) 13-14
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB J. Light runs left guard for 5 yards (CB J. Martin, DE W. Mosley). 
+
+NC State ball, Q2, 3-4-NCST39 (08:03) 13-14
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6
+RB M. Moore runs left end for 4 yards (SS S. Hutchison, ILB J. Jones). 
+
+Grabbing Face Mask against SS Steven Hutchison on Massachusetts. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the NC State 48.
+
+NC State ball, Q2, 1-10-NCST48 (07:51) 13-14
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-RG
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B10
+RB M. Moore runs right tackle for -1 yards (DE C. Layne).
+
+NC State ball, Q2, 2-11-NCST47 (07:21) 13-14
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB P. Pike completes a 6 yard cross to WR M. Acosta (OLB C. Morrison, SS S. Hutchison). 
+
+Roughing the Passer against CB Jeffrey Martin on Massachusetts. The Penalty is for 15 yards, 
+and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Massachusetts 32.
+
+NC State ball, Q2, 1-10-MASS32 (07:11) 13-14
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB P. Pike completes a 10 yard out to WR M. Acosta (OOB).
+
+NC State ball, Q2, 1-10-MASS22 (06:56) 13-14
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: 4-6, Play: 46-norm-DZ
+RB J. Light runs left tackle for 9 yards (FS S. Brown). 
+
+NC State ball, Q2, 2-1-MASS13 (06:29) 13-14
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB M. Moore runs right guard for 13 yards ****Touchdown!*****
+
+NC State ball, Q2, 1-0-MASS0 (05:56) 19-14
+Thomas Vallejo converts the PAT.
+
+NC State ball, Q2, 1-10-NCST35 (05:56) 20-14
+Thomas Vallejo kicks 66 from NC State 35 to Massachusetts -1. Joe Guthrie to Massachusetts 
+12 for a 13 yard return.
+
+Massachusetts ball, Q2, 1-10-MASS12 (05:38) 14-20
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5-L
+QB S. Schaefer completes a 55 yard dump off to RB J. Crocker (OOB). OG E. Banks earned a pancake 
+on the play. OLB K. Dunn allowed the big play.
+
+Massachusetts ball, Q2, 1-10-NCST33 (05:28) 14-20
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB J. Spencer runs right guard for 10 yards (FS J. Colbert).  OT R. Washington had a key block 
+on the run. DT M. Jordan was out of position on the play.
+
+Massachusetts ball, Q2, 1-10-NCST23 (04:58) 14-20
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB J. Spencer runs left guard for -2 yards (OLB K. Dunn).
+
+Massachusetts ball, Q2, 2-12-NCST25 (04:28) 14-20
+Offense: Short Pass, Set: I Form Big, Play: IB-TE-flats
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB S. Schaefer gets sacked for a 1 yard loss (DE G. Harvey).  He fumbles the ball after a 
+hit by G. Harvey. It's recovered by M. Jordan of NC State. He returns it 0 yards to the NC State 26. C W. Williams allowed the sack.
+
+NC State ball, Q2, 1-10-NCST26 (04:08) 20-14
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-ZoneBlitz
+RB M. Moore runs left tackle for 74 yards ****Touchdown!***** CB J. Martin missed a tackle.
+
+NC State ball, Q2, 1-0-MASS0 (03:36) 26-14
+Thomas Vallejo converts the PAT.
+
+NC State ball, Q2, 1-10-NCST35 (03:36) 27-14
+Thomas Vallejo kicks 55 from NC State 35 to Massachusetts 10. Joe Guthrie to Massachusetts 
+33 for a 23 yard return.
+
+Massachusetts ball, Q2, 1-10-MASS33 (03:19) 14-27
+Offense: Short Pass, Set: Wing T, Play: T-SE-playact-cor
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB S. Schaefer gets sacked for a 3 yard loss (DE C. Jenkins).  OT J. Cook allowed the sack.
+
+Massachusetts ball, Q2, 2-13-MASS30 (03:01) 14-27
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB S. Schaefer throws an incomplete pass to RB J. Crocker.
+
+Massachusetts ball, Q2, 3-13-MASS30 (02:46) 14-27
+Offense: Medium Pass, Set: I Form Big, Play: IB-SE-str-TE2-slant
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB S. Schaefer throws an incomplete pass to TE M. Christensen.
+
+Massachusetts ball, Q2, 4-13-MASS30 (02:29) 14-27
+John Buford Punts 36 yards to the NC State 34 yard line, where Samuel Gardiner returns it 
+to NC State 34 for a 0 yard return.
+
+NC State ball, Q2, 1-10-NCST34 (02:11) 27-14
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB P. Pike completes a 17 yard out to WR M. Acosta (CB J. Martin, OLB A. Avila).  OG C. Mchenry 
+earned a pancake on the play. CB E. Cartwright missed a tackle.
+
+NC State ball, Q2, 1-10-MASS49 (01:49) 27-14
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-straight-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB J. Light runs right guard for 3 yards (ILB J. Jones, CB J. Martin). 
+
+NC State ball, Q2, 2-7-MASS46 (01:21) 27-14
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB P. Pike throws an incomplete pass to TE M. Ellison. OLB C. Morrison hurried the QB.
+
+NC State ball, Q2, 3-7-MASS46 (01:15) 27-14
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB P. Pike completes a 31 yard in to WR S. Gardiner (CB E. Cartwright, SS R. Beck).  OG C. 
+Cunningham earned a pancake on the play. SS S. Hutchison allowed the big play.
+
+NC State Timeout!
+
+NC State ball, Q2, 1-10-MASS15 (01:08) 27-14
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+QB P. Pike completes a 0 yard screen to RB M. Moore (OOB).
+
+NC State ball, Q2, 2-10-MASS15 (01:02) 27-14
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+QB P. Pike throws an incomplete pass to WR M. Brown. WR M. Brown dropped the pass.
+
+NC State ball, Q2, 3-10-MASS15 (00:55) 27-14
+Offense: Short Pass, Set: I Form, Play: I-TE-corner-FL-post
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+QB P. Pike runs outside for 1 yard (SS S. Hutchison). 
+
+NC State ball, Q2, 4-9-MASS14 (00:35) 27-14
+Thomas Vallejo misses the 32 yard field goal. It will be Massachusetts ball at the MASS 20
+
+Massachusetts ball, Q2, 1-10-MASS20 (00:27) 14-27
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB J. Crocker runs right guard for 3 yards (OLB D. Henderson). 
+
+Massachusetts ball, Q2, 2-7-MASS23 (00:03) 14-27
+Offense: Inside Run, Set: I Form, Play: I-FB-straight-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+The QB takes a knee.
+
+Massachusetts ball, Q3, 1-10-MASS35 (15:00) 14-27
+Jerry Reid kicks 66 from Massachusetts 35 to NC State -1. Samuel Gardiner to NC State 13 for 
+a 14 yard return.
+
+NC State ball, Q3, 1-10-NCST13 (14:42) 27-14
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB J. Light runs right end for -1 yards (FS S. Brown).
+
+NC State ball, Q3, 2-11-NCST12 (14:12) 27-14
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+QB P. Pike gets sacked for a 8 yard loss (DE W. Mosley).  OT W. Moore allowed the sack.
+
+NC State ball, Q3, 3-19-NCST4 (13:54) 27-14
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB M. Moore runs left end for 11 yards (FS S. Brown).  OG C. Cunningham had a key block on 
+the run. DE H. Lockett missed a tackle.
+
+NC State ball, Q3, 4-8-NCST15 (13:27) 27-14
+James Mack Punts 44 yards to the Massachusetts 41 yard line, where Michael Mccann returns 
+it to NC State 41 for a 18 yard return.
+
+Massachusetts ball, Q3, 1-10-NCST41 (13:07) 14-27
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-RT
+Defense: Stop Run, Set: Dime, Play: Dime-norm-Man-B5
+RB J. Crocker runs right guard for 2 yards (SS A. Davis). 
+
+Massachusetts ball, Q3, 2-8-NCST39 (12:38) 14-27
+Offense: Medium Pass, Set: Flexbone, Play: FL-FL-playact-out
+Defense: Stop Run, Set: 4-3, Play: 43-run-SZ-B5
+QB S. Schaefer completes a 36 yard cross to WR M. Mccann (OOB). SS A. Davis allowed the big 
+play.
+
+Massachusetts ball, Q3, 1-3-NCST3 (12:22) 14-27
+Offense: Inside Run, Set: Wing T, Play: T-HB-power-RG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+RB J. Spencer runs right guard for 3 yards ****Touchdown!*****
+
+Massachusetts ball, Q3, 1-0-NCST0 (11:52) 20-27
+Jerry Reid has his PAT blocked by FB Richard Robinson!
+
+Massachusetts ball, Q3, 1-10-MASS35 (11:52) 20-27
+Jerry Reid kicks 55 from Massachusetts 35 to NC State 10. Samuel Gardiner to NC State 28 for 
+a 18 yard return.
+
+NC State ball, Q3, 1-10-NCST28 (11:33) 27-20
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ
+QB P. Pike completes a 11 yard hook to RB M. Moore (OLB A. Avila).  M. Moore made a great 
+catch.
+
+NC State ball, Q3, 1-10-NCST39 (11:12) 27-20
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB M. Moore runs right end for 2 yards (SS S. Hutchison). 
+
+NC State ball, Q3, 2-8-NCST41 (10:40) 27-20
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB P. Pike runs outside for 1 yard (OOB).
+
+NC State ball, Q3, 3-7-NCST42 (10:26) 27-20
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+QB P. Pike completes a 27 yard hook to WR M. Acosta (SS S. Hutchison).  OT W. Moore earned 
+a pancake on the play. FS S. Brown allowed the big play.
+
+NC State ball, Q3, 1-10-MASS31 (10:00) 27-20
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB M. Moore runs right end for -3 yards (DE C. Layne).
+
+NC State ball, Q3, 2-13-MASS34 (09:29) 27-20
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B7
+QB P. Pike gets sacked for a 2 yard loss (DE W. Mosley).  OT W. Moore allowed the sack.
+
+NC State ball, Q3, 3-15-MASS36 (09:11) 27-20
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+QB P. Pike throws an incomplete pass to WR M. Acosta (CB P. Patrick). CB P. Patrick broke 
+up the pass.
+
+NC State ball, Q3, 4-15-MASS36 (08:54) 27-20
+James Mack Punts 36 yards to the end zone, Touchback.
+
+Massachusetts ball, Q3, 1-10-MASS20 (08:38) 20-27
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-tripoption-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB J. Crocker runs left end for 5 yards (OOB).
+
+Massachusetts ball, Q3, 2-5-MASS25 (08:20) 20-27
+Offense: Inside Run, Set: Wishbone, Play: WB-FB-power-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-MZ-B5,7
+FB E. Scott runs right guard for 5 yards (OLB K. Dunn). 
+
+Massachusetts ball, Q3, 1-10-MASS30 (07:50) 20-27
+Offense: Short Pass, Set: Wing T, Play: T-SE-playact-cor
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB S. Schaefer throws an incomplete pass to TE J. Clark (FS J. Molina). FS J. Molina broke 
+up the pass.
+
+Massachusetts ball, Q3, 2-10-MASS30 (07:35) 20-27
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Run, Set: 4-3, Play: 43-run-M-B7-R
+RB J. Spencer runs left tackle for -2 yards (ILB D. Castillo). OG E. Banks missed a block 
+that hurt the play.
+
+Massachusetts ball, Q3, 2-10-MASS30 (07:35) 20-27
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Run, Set: 4-3, Play: 43-run-M-B7-R
+QB Stephen Schaefer (MASS) was injured on the play (Shoulder). It doesn't look too serious 
+and he should return.
+
+Massachusetts ball, Q3, 3-12-MASS28 (07:18) 20-27
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-power-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB J. Spencer runs left end for 6 yards He fumbles the ball after a hit by L. Johnson. It's 
+recovered by W. Holmes of NC State. He returns it 34 yards for the touchdown!
+
+NC State ball, Q3, 1-0-MASS0 (06:52) 33-20
+Thomas Vallejo converts the PAT.
+
+NC State ball, Q3, 1-10-NCST35 (06:52) 34-20
+OLB Juan Carey (NCST) was injured on the play (Wrist). It doesn't look too serious and he 
+should return.
+
+NC State ball, Q3, 1-10-NCST35 (06:52) 34-20
+Thomas Vallejo kicks 67 from NC State 35 to Massachusetts -2. Joe Guthrie to Massachusetts 
+13 for a 15 yard return.
+
+Massachusetts ball, Q3, 1-10-MASS13 (06:34) 20-34
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+RB J. Crocker runs right tackle for 21 yards (OLB K. Dunn).  CB R. Torres missed a tackle.
+
+Massachusetts ball, Q3, 1-10-MASS34 (06:08) 20-34
+Offense: Outside Run, Set: Flexbone, Play: FL-QB-option-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB S. Schaefer runs left end for 3 yards (OLB D. Henderson). 
+
+Massachusetts ball, Q3, 2-7-MASS37 (05:41) 20-34
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB J. Crocker runs left end for 0 yards (OOB). OG S. Reed missed a block that hurt the play.
+
+Massachusetts ball, Q3, 3-7-MASS37 (05:31) 20-34
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB J. Spencer runs right tackle for 0 yards (SS A. Davis). 
+
+Massachusetts ball, Q3, 4-7-MASS37 (04:59) 20-34
+John Buford Punts 52 yards to the NC State 11 yard line, where it goes out of bounds.
+
+NC State ball, Q3, 1-10-NCST11 (04:39) 34-20
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB M. Moore runs right guard for 9 yards (SS R. Beck).  CB P. Patrick missed a tackle.
+
+NC State ball, Q3, 2-1-NCST20 (04:13) 34-20
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB P. Pike throws an incomplete pass to WR M. Acosta.
+
+NC State ball, Q3, 3-1-NCST20 (03:55) 34-20
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+RB M. Moore runs right guard for 12 yards (FS S. Brown, CB J. Martin).  M. Moore created the 
+big run with his own skills.
+
+NC State ball, Q3, 1-10-NCST32 (03:25) 34-20
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ
+QB P. Pike completes a 68 yard corner to WR S. Gardiner ****Touchdown!***** CB P. Patrick 
+allowed the big play.
+
+NC State ball, Q3, 1-0-MASS0 (02:57) 40-20
+Thomas Vallejo converts the PAT.
+
+NC State ball, Q3, 1-10-NCST35 (02:57) 41-20
+Thomas Vallejo kicks 62 from NC State 35 to Massachusetts 3. Joe Guthrie to Massachusetts 
+21 for a 18 yard return.
+
+Massachusetts ball, Q3, 1-10-MASS21 (02:38) 20-41
+Offense: Short Pass, Set: Wing T, Play: T-SE-playact-cor
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB S. Schaefer completes a 14 yard in to RB J. Spencer (OOB). OT J. Cook earned a pancake 
+on the play. CB R. Torres was out of position on the play.
+
+Massachusetts ball, Q3, 1-10-MASS35 (02:20) 20-41
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-straight-LT
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+RB J. Spencer runs left tackle for 7 yards (OLB D. Henderson).  OT R. Washington had a key 
+block on the run. CB R. Torres missed a tackle.
+
+Massachusetts ball, Q3, 2-3-MASS42 (01:47) 20-41
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-tripoption-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB S. Schaefer runs left end for 20 yards (OOB). FB E. Scott had a key block on the run. CB 
+W. Holmes missed a tackle.
+
+Massachusetts ball, Q3, 1-10-NCST38 (01:32) 20-41
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB S. Schaefer throws an incomplete pass to RB J. Spencer (CB W. Holmes). CB W. Holmes broke 
+up the pass.
+
+Massachusetts ball, Q3, 2-10-NCST38 (01:14) 20-41
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+QB S. Schaefer completes a 8 yard dump off to RB J. Crocker (CB W. Holmes, FS J. Colbert). 
+
+Massachusetts ball, Q3, 3-2-NCST30 (00:51) 20-41
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-straight-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB J. Spencer runs right guard for -1 yards (ILB D. Castillo).
+
+Massachusetts ball, Q3, 4-3-NCST31 (00:21) 20-41
+Jerry Reid converts the 49 yard field goal.
+
+Massachusetts ball, Q3, 1-10-MASS35 (00:03) 23-41
+Jerry Reid kicks 47 from Massachusetts 35 to NC State 18. Tony Stoner to NC State 43 for a 
+25 yard return.
+
+Unnecessary Roughness against TE Matthew Christensen on Massachusetts. The Penalty is for 
+15 yards, and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Massachusetts 42.
+
+NC State ball, Q4, 1-10-MASS42 (15:00) 41-23
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+RB M. Moore runs left end for 1 yard He fumbles the ball after a hit by F. Goodman. It's recovered 
+by C. Cunningham of NC State.
+
+NC State ball, Q4, 2-9-MASS41 (14:31) 41-23
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+P. Pike has his 9 yard pass intercepted by W. Mosley at the MASS 32. He returns it 4 yards 
+to the Massachusetts 36. P. Pike made a bad pass.
+
+Massachusetts ball, Q4, 1-10-MASS36 (14:17) 23-41
+Offense: Short Pass, Set: I Form Big, Play: IB-FB-screen
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+Delay of Game against Massachusetts. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Massachusetts 31.
+
+Massachusetts ball, Q4, 1-15-MASS31 (14:17) 23-41
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-power-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB J. Spencer runs left tackle for 4 yards (OLB D. Henderson). 
+
+Massachusetts ball, Q4, 2-11-MASS35 (13:49) 23-41
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-power-LE
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+RB J. Spencer runs left tackle for 7 yards (FS J. Colbert).  CB R. Torres missed a tackle.
+
+Massachusetts ball, Q4, 3-4-MASS42 (13:21) 23-41
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+False Start against OG Scott Reed on Massachusetts. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 9 at the Massachusetts 37.
+
+Massachusetts ball, Q4, 3-9-MASS37 (13:21) 23-41
+Offense: Short Pass, Set: Flexbone, Play: FL-FL-playact-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+S. Schaefer has his 7 yard pass intercepted by W. Holmes at the MASS 44. He returns it 10 
+yards to the Massachusetts 34.
+
+NC State ball, Q4, 1-10-MASS34 (12:54) 41-23
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+RB M. Moore runs right tackle for 1 yard (OLB A. Avila). 
+
+NC State ball, Q4, 2-9-MASS33 (12:22) 41-23
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+QB P. Pike gets sacked for a 3 yard loss (DE C. Layne).  C L. Hankins allowed the sack.
+
+NC State ball, Q4, 3-12-MASS36 (12:04) 41-23
+Offense: Short Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B10
+QB P. Pike completes a 7 yard dump off to RB M. Moore (CB J. Martin). 
+
+NC State ball, Q4, 4-5-MASS29 (11:41) 41-23
+Thomas Vallejo converts the 47 yard field goal.
+
+NC State ball, Q4, 1-10-NCST35 (11:26) 44-23
+Thomas Vallejo kicks 67 from NC State 35 to Massachusetts -2. Joe Guthrie to Massachusetts 
+12 for a 14 yard return.
+
+Massachusetts ball, Q4, 1-10-MASS12 (11:09) 23-44
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB J. Crocker runs right end for 5 yards (SS A. Davis). 
+
+Massachusetts ball, Q4, 2-5-MASS17 (10:42) 23-44
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Run, Set: 4-3, Play: 43-run-SZ-B5
+QB S. Schaefer throws an incomplete pass to WR M. Mccann. S. Schaefer made a bad pass.
+
+Massachusetts ball, Q4, 3-5-MASS17 (10:22) 23-44
+Offense: Medium Pass, Set: I Form Big, Play: IB-SE-str-TE2-slant
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB S. Schaefer gets sacked for a 2 yard loss (DE L. Johnson).  He fumbles the ball after a 
+hit by L. Johnson. It's recovered by M. Christensen of Massachusetts. C W. Williams allowed the sack.
+
+Massachusetts ball, Q4, 4-7-MASS15 (10:02) 23-44
+John Buford Punts 36 yards to the NC State 49 yard line, where Samuel Gardiner returns it 
+to NC State 50 for a 1 yard return.
+
+NC State ball, Q4, 1-10-NCST50 (09:45) 44-23
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB M. Moore runs right guard for 2 yards (CB J. Martin, CB E. Cartwright). 
+
+Offsides against OLB Christopher Morrison on Massachusetts. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 5 at the Massachusetts 45.
+
+NC State ball, Q4, 1-5-MASS45 (09:35) 44-23
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+RB J. Light runs left end for -4 yards (DE W. Mosley).
+
+NC State ball, Q4, 2-9-MASS49 (09:05) 44-23
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,7
+RB M. Moore runs right guard for 1 yard (DE W. Mosley).  TE M. Ellison missed a block that 
+hurt the play.
+
+NC State ball, Q4, 3-8-MASS48 (08:33) 44-23
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,11
+QB P. Pike throws an incomplete pass to TE M. Ellison. DE C. Layne hurried the QB.
+
+NC State ball, Q4, 4-8-MASS48 (08:14) 44-23
+James Mack Punts 42 yards to the Massachusetts 6 yard line, where it goes out of bounds.
+
+Massachusetts ball, Q4, 1-10-MASS6 (07:57) 23-44
+Offense: Long Pass, Set: Flexbone, Play: FL-SE-streaks
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB S. Schaefer completes a 74 yard streak to WR M. Mccann (CB W. Holmes).  FS J. Colbert allowed 
+the big play.
+
+Massachusetts ball, Q4, 1-10-NCST20 (07:31) 23-44
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ
+RB J. Crocker runs right tackle for 11 yards (OLB K. Dunn).  FS J. Molina missed a tackle.
+
+Massachusetts ball, Q4, 1-9-NCST9 (07:02) 23-44
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB J. Spencer runs right guard for 4 yards (DE L. Johnson). 
+
+Massachusetts ball, Q4, 2-5-NCST5 (06:29) 23-44
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+QB S. Schaefer completes a 5 yard dump off to RB J. Crocker ****Touchdown!*****
+
+Massachusetts ball, Q4, 1-0-NCST0 (06:19) 29-44
+Jerry Reid converts the PAT.
+
+Massachusetts ball, Q4, 1-10-MASS35 (06:19) 30-44
+Jerry Reid kicks 55 from Massachusetts 35 to NC State 10. Samuel Gardiner to NC State 21 for 
+a 11 yard return.
+
+NC State ball, Q4, 1-10-NCST21 (06:00) 44-30
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB M. Moore runs right guard for 14 yards (SS S. Hutchison).  M. Moore created the big run 
+with his own skills.
+
+NC State ball, Q4, 1-10-NCST35 (05:29) 44-30
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB P. Pike completes a 32 yard out-and-up to TE M. Ellison (SS R. Beck). 
+
+NC State ball, Q4, 1-10-MASS33 (05:03) 44-30
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB P. Pike throws an incomplete pass to WR S. Gardiner (CB J. Martin). P. Pike made a bad 
+pass. CB J. Martin broke up the pass.
+
+NC State ball, Q4, 1-10-MASS33 (05:03) 44-30
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+SS Steven Hutchison (MASS) was injured on the play (Ankle). It doesn't look like he will return.
+
+NC State ball, Q4, 2-10-MASS33 (04:44) 44-30
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+RB M. Moore runs left guard for 4 yards (SS R. Beck). 
+
+NC State ball, Q4, 3-6-MASS29 (04:15) 44-30
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB M. Moore runs right tackle for 4 yards (CB J. Martin). 
+
+NC State ball, Q4, 4-2-MASS25 (03:44) 44-30
+Thomas Vallejo converts the 43 yard field goal.
+
+NC State ball, Q4, 1-10-NCST35 (03:26) 47-30
+Thomas Vallejo kicks 66 from NC State 35 to Massachusetts -1. Joe Guthrie to Massachusetts 
+13 for a 14 yard return.
+
+Massachusetts ball, Q4, 1-10-MASS13 (03:07) 30-47
+Offense: Medium Pass, Set: Wishbone, Play: WB-HB-streaks
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB S. Schaefer throws an incomplete pass to WR M. Mccann.
+
+Massachusetts ball, Q4, 2-10-MASS13 (02:51) 30-47
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB S. Schaefer completes a 17 yard streak to RB J. Crocker (OOB).
+
+Massachusetts ball, Q4, 1-10-MASS30 (02:36) 30-47
+Offense: Short Pass, Set: Wing T, Play: T-SE-playact-cor
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB S. Schaefer completes a 15 yard in to RB J. Spencer (FS J. Colbert).  TE J. Clark earned 
+a pancake on the play. CB R. Torres missed a tackle.
+
+Massachusetts ball, Q4, 1-10-MASS45 (02:12) 30-47
+Offense: Short Pass, Set: I Form Big, Play: IB-FB-playact-flat
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB S. Schaefer completes a 15 yard dump off to FB E. Scott (FS J. Colbert).  FS J. Molina 
+was out of position on the play.
+
+Massachusetts ball, Q4, 1-10-NCST40 (01:53) 30-47
+Offense: Short Pass, Set: Flexbone, Play: FL-FL-playact-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB S. Schaefer completes a 15 yard dump off to RB J. Crocker (OLB K. Dunn).  J. Crocker made 
+a great catch. CB W. Holmes missed a tackle.
+
+Massachusetts ball, Q4, 1-10-NCST25 (01:30) 30-47
+Offense: Short Pass, Set: I Form Big, Play: IB-FB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB S. Schaefer gets sacked for a 3 yard loss (DE L. Johnson).  OG S. Reed allowed the sack.
+
+Massachusetts ball, Q4, 2-13-NCST28 (01:11) 30-47
+Offense: Short Pass, Set: Wing T, Play: T-TE-out-SE-slant
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+QB S. Schaefer throws an incomplete pass to TE J. Clark. TE J. Clark dropped the pass. DE 
+G. Harvey hurried the QB.
+
+Massachusetts ball, Q4, 3-13-NCST28 (01:03) 30-47
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB S. Schaefer throws an incomplete pass to RB J. Crocker. S. Schaefer made a bad pass. DE 
+C. Jenkins hurried the QB.
+
+Massachusetts ball, Q4, 4-13-NCST28 (00:55) 30-47
+Offense: Medium Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B5
+QB S. Schaefer completes a 15 yard streak to WR C. Smith (FS J. Colbert).  OT R. Washington 
+earned a pancake on the play. FS J. Colbert missed a tackle.
+
+Massachusetts ball, Q4, 1-10-NCST13 (00:42) 30-47
+Offense: Short Pass, Set: Wing T, Play: T-SE-playact-cor
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB S. Schaefer throws an incomplete pass to WR M. Mccann. WR M. Mccann dropped the pass.
+
+Massachusetts ball, Q4, 2-10-NCST13 (00:35) 30-47
+Offense: Short Pass, Set: I Form Big, Play: IB-TE-flats
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB S. Schaefer gets sacked for a 1 yard loss (DE G. Harvey).  He fumbles the ball after a 
+hit by G. Harvey. It's recovered by M. Mccann of Massachusetts. C W. Williams allowed the sack.
+
+Massachusetts ball, Q4, 3-11-NCST14 (00:27) 30-47
+Offense: Medium Pass, Set: Flexbone, Play: FL-SE-optpass-corner
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB S. Schaefer throws an incomplete pass to WR C. Smith (OLB K. Dunn). OLB K. Dunn broke up 
+the pass.
+
+Massachusetts ball, Q4, 4-11-NCST14 (00:21) 30-47
+Offense: Medium Pass, Set: Flexbone, Play: FL-SE-optpass-corner
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+S. Schaefer has his 14 yard pass intercepted by W. Holmes at the NCST 0. He kneels for the 
+touchback.
+

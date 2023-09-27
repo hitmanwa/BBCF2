@@ -1,0 +1,971 @@
+Mississippi ball, Q1, 1-10-MISS35 (15:00) 0-0
+Clyde Lyons kicks 75 from Mississippi 35 to end zone, Touchback.
+
+Memphis ball, Q1, 1-10-MEM20 (14:43) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB E. Mays runs left guard for 2 yards (CB D. Castro). 
+
+Memphis ball, Q1, 2-8-MEM22 (14:10) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB C. Hathaway runs left guard for 2 yards (DT S. Singletary). 
+
+Memphis ball, Q1, 3-6-MEM24 (13:41) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB D. Henderson throws an incomplete pass to RB C. Hathaway. RB C. Hathaway ran an incorrect 
+route. OLB S. Owen hurried the QB.
+
+Memphis ball, Q1, 4-6-MEM24 (13:22) 0-0
+Michael Stevens Punts 36 yards to the Mississippi 40 yard line, where Matthew Womack returns 
+it to Mississippi 44 for a 4 yard return.
+
+Spearing against RB Richard Sanders on Memphis. The Penalty is for 15 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Memphis 41.
+
+Mississippi ball, Q1, 1-10-MEM41 (13:08) 0-0
+Offense: Outside Run, Set: Wing T, Play: T-HB-option-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB J. Looney scrambles out of the pocket and gets sacked for a 3 yard loss (DT D. Wilson). 
+ RB K. Duffy allowed the sack.
+
+Mississippi ball, Q1, 2-13-MEM44 (12:37) 0-0
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB R. Carlson runs left end for 1 yard (OLB J. Geiger).  R. Carlson missed a hole that could 
+have resulted in a bigger gain.
+
+Mississippi ball, Q1, 3-12-MEM43 (12:05) 0-0
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB A. Hicks runs right guard for 4 yards (CB M. Cyr). 
+
+Mississippi ball, Q1, 4-8-MEM39 (11:35) 0-0
+Fredrick Sheldon Punts 39 yards to the end zone, Touchback.
+
+Memphis ball, Q1, 1-10-MEM20 (11:15) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB D. Henderson completes a 15 yard out to WR E. Wooten (OOB). D. Henderson with the great 
+pass. SS V. Ford missed a tackle.
+
+Memphis ball, Q1, 1-10-MEM35 (11:05) 0-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB D. Henderson completes a 1 yard out to WR E. Wooten (SS J. Graves). 
+
+Memphis ball, Q1, 2-9-MEM36 (10:41) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Henderson completes a 9 yard out to WR J. Jordan (SS J. Graves). 
+
+Memphis ball, Q1, 1-10-MEM45 (10:18) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB C. Hathaway runs right tackle for -1 yards (SS V. Ford). OG T. Larson missed a block that 
+hurt the play.
+
+Memphis ball, Q1, 2-11-MEM44 (09:48) 0-0
+Offense: Long Pass, Set: SingleBack, Play: SB-WR3-slant-FL-str
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Henderson throws an incomplete pass to WR D. Wilson. D. Henderson made a bad pass.
+
+Memphis ball, Q1, 3-11-MEM44 (09:28) 0-0
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-posts
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB D. Henderson throws an incomplete pass to WR D. Wilson (CB D. Castro). CB D. Castro broke 
+up the pass.
+
+Memphis ball, Q1, 4-11-MEM44 (09:13) 0-0
+Michael Stevens Punts 59 yards to the end zone, Touchback.
+
+Mississippi ball, Q1, 1-10-MISS20 (08:57) 0-0
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB J. Looney completes a 5 yard post to WR A. Nieto (OOB).
+
+Mississippi ball, Q1, 2-5-MISS25 (08:41) 0-0
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB J. Looney throws an incomplete pass to RB R. Carlson (CB S. Jordan). DE G. Larkin hurried 
+the QB. CB S. Jordan broke up the pass.
+
+Mississippi ball, Q1, 3-5-MISS25 (08:24) 0-0
+Offense: Outside Run, Set: Wishbone, Play: WB-WB-option-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB J. Looney runs right end for 28 yards (ILB K. Gentry).  C M. Simon had a key block on the 
+run. OLB J. Geiger missed a tackle.
+
+Mississippi ball, Q1, 1-10-MEM47 (07:57) 0-0
+Offense: Outside Run, Set: Wishbone, Play: WB-WB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB R. Carlson runs right end for 5 yards (OLB D. Washington, CB L. Davis). 
+
+Mississippi ball, Q1, 2-5-MEM42 (07:25) 0-0
+Offense: Short Pass, Set: Wing T, Play: T-SE-playact-cor
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB J. Looney gets sacked for a 3 yard loss (SS H. Meredith).  OT J. Ayala allowed the sack.
+
+Mississippi ball, Q1, 3-8-MEM45 (07:15) 0-0
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-toss-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB A. Hicks runs left end for 2 yards (ILB G. Bennett). 
+
+Mississippi ball, Q1, 4-6-MEM43 (06:48) 0-0
+Fredrick Sheldon Punts 39 yards to the Memphis 4 yard line, where it goes out of bounds.
+
+Memphis ball, Q1, 1-10-MEM4 (06:28) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-R
+RB C. Hathaway runs left end for 9 yards (FS A. Bates, CB D. Castro). 
+
+Offsides against DE Fred Turner on Mississippi. The Penalty is for 5 yards.
+The penalty will be declined.
+
+Memphis ball, Q1, 2-1-MEM13 (06:14) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB C. Hathaway runs right guard for 3 yards (OLB R. Helms). 
+
+Memphis ball, Q1, 1-10-MEM16 (05:42) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+RB C. Hathaway runs left guard for 5 yards (OLB R. Helms, OLB S. Owen). 
+
+Memphis ball, Q1, 2-5-MEM21 (05:01) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB D. Henderson throws an incomplete pass to WR D. Wilson. OLB R. Helms hurried the QB.
+
+Memphis ball, Q1, 3-5-MEM21 (04:54) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 4-3, Play: 43-norm-TMan
+QB D. Henderson completes a 5 yard hook to WR D. Wilson (OOB).
+
+Memphis ball, Q1, 1-10-MEM26 (04:42) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B8
+RB C. Hathaway runs left guard for 1 yard (FS A. Bates).  C. Hathaway missed a hole that could 
+have resulted in a bigger gain.
+
+Memphis ball, Q1, 2-9-MEM27 (04:09) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B5
+RB E. Mays runs right guard for 5 yards (OLB S. Owen). 
+
+Memphis ball, Q1, 3-4-MEM32 (03:41) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man
+QB D. Henderson completes a 5 yard dump off to RB C. Hathaway (FS A. Bates). 
+
+Memphis ball, Q1, 3-4-MEM32 (03:41) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man
+CB Gerald Smith (MISS) was injured on the play (Elbow). It doesn't look too serious and he 
+should return.
+
+Memphis ball, Q1, 1-10-MEM37 (03:24) 0-0
+Offense: Inside Run, Set: Weak, Play: WK-FB-straight-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+FB B. Scott runs right guard for 7 yards (OLB S. Owen).  C M. Crane had a key block on the run.
+
+Memphis ball, Q1, 2-3-MEM44 (02:54) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B6,7-L
+RB E. Mays runs left guard for 3 yards (DT J. Bryant). 
+
+Memphis ball, Q1, 1-10-MEM47 (02:28) 0-0
+Offense: Short Pass, Set: Weak, Play: WK-HB-flat-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Henderson throws an incomplete pass to TE D. William. DE O. Holbrook hurried the QB.
+
+Memphis ball, Q1, 2-10-MEM47 (02:10) 0-0
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB D. Henderson throws an incomplete pass to WR D. Wilson. DE O. Holbrook hurried the QB.
+
+Memphis ball, Q1, 3-10-MEM47 (01:51) 0-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Henderson throws an incomplete pass to WR J. Martinez.
+
+Memphis ball, Q1, 4-10-MEM47 (01:36) 0-0
+Michael Stevens Punts 44 yards to the Mississippi 9 yard line, where it gets downed.
+
+Mississippi ball, Q1, 1-10-MISS9 (01:21) 0-0
+Offense: Short Pass, Set: I Form Big, Play: IB-FB-playact-flat
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB J. Looney completes a 9 yard dump off to FB G. Hines (OLB D. Washington). 
+
+Mississippi ball, Q1, 2-1-MISS18 (00:57) 0-0
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-toss-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+FB R. Hanson runs left end for 1 yard (ILB G. Bennett). 
+
+Mississippi ball, Q1, 1-10-MISS19 (00:27) 0-0
+Offense: Medium Pass, Set: Flexbone, Play: FL-FL-playact-out
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB J. Looney throws an incomplete pass to WR A. Nieto.
+
+Mississippi ball, Q1, 2-10-MISS19 (00:10) 0-0
+Offense: Medium Pass, Set: I Form Big, Play: IB-TE-flats
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB J. Looney completes a 24 yard hook to WR A. Nieto (CB L. Davis, ILB K. Gentry).  CB M. 
+Cyr was out of position on the play.
+
+Mississippi ball, Q2, 1-10-MISS43 (15:00) 0-0
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB J. Looney throws an incomplete pass to WR A. Nieto.
+
+Mississippi ball, Q2, 2-10-MISS43 (14:44) 0-0
+Offense: Outside Run, Set: Flexbone, Play: FL-RB-power-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB R. Carlson runs left end for 1 yard (ILB K. Gentry).  FB G. Hines missed a block that hurt 
+the play.
+
+Mississippi ball, Q2, 3-9-MISS44 (14:18) 0-0
+Offense: Medium Pass, Set: Wishbone, Play: WB-HB-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Looney completes a 21 yard streak to RB R. Carlson (SS H. Meredith). 
+
+Mississippi ball, Q2, 1-10-MEM35 (13:55) 0-0
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB A. Hicks runs right guard for 11 yards (OLB J. Geiger, FS M. Sullivan). 
+
+Mississippi ball, Q2, 1-10-MEM24 (13:24) 0-0
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB A. Hicks runs right guard for 5 yards (SS H. Meredith, ILB G. Bennett). 
+
+Mississippi ball, Q2, 2-5-MEM19 (12:51) 0-0
+Offense: Inside Run, Set: Flexbone, Play: FL-WB-trap-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB R. Carlson runs left guard for 2 yards (FS M. Sullivan, CB M. Cyr). 
+
+Mississippi ball, Q2, 3-3-MEM17 (12:22) 0-0
+Offense: Outside Run, Set: Flexbone, Play: FL-QB-option-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB J. Looney runs left tackle for 6 yards (CB M. Cyr). 
+
+Mississippi ball, Q2, 1-10-MEM11 (11:50) 0-0
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-straight-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+RB A. Hicks runs right guard for 7 yards (FS M. Sullivan).  DE A. Colbert missed a tackle.
+
+Mississippi ball, Q2, 2-3-MEM4 (11:20) 0-0
+Offense: Outside Run, Set: I Form Big, Play: IB-RB-power-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+RB R. Carlson runs right end for -3 yards (CB M. Cyr).
+
+Mississippi ball, Q2, 3-6-MEM7 (10:51) 0-0
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: Goal Line, Play: GL-run-BlitzAll
+QB J. Looney completes a 3 yard cross to WR A. Nieto (CB L. Davis). 
+
+Holding against OT Rene King on Mississippi. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Mississippi ball, Q2, 4-3-MEM4 (10:37) 0-0
+Thomas Sharp converts the 22 yard field goal.
+
+Mississippi ball, Q2, 1-10-MISS35 (10:20) 3-0
+Clyde Lyons kicks 43 from Mississippi 35 to Memphis 22. Jesus Patterson to Mississippi 43 
+for a 35 yard return.
+
+Memphis ball, Q2, 1-10-MISS43 (10:01) 0-3
+Offense: Short Pass, Set: Weak, Play: WK-FL-screen
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB D. Henderson completes a 3 yard screen to WR D. Wilson (OLB R. Helms). 
+
+Memphis ball, Q2, 2-7-MISS40 (09:39) 0-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Henderson throws an incomplete pass to TE D. William. TE D. William dropped the pass.
+
+Memphis ball, Q2, 3-7-MISS40 (09:19) 0-3
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB C. Hathaway runs right guard for 6 yards He fumbles the ball after a hit by A. Bates. It's 
+recovered by S. Ledbetter of Memphis.
+
+Memphis ball, Q2, 4-1-MISS34 (08:49) 0-3
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Henderson completes a 13 yard hook to RB C. Hathaway (SS J. Graves). 
+
+Holding against CB Gerald Smith on Mississippi. The Penalty is for 10 yards, and an automatic 
+first down.
+The penalty will be declined.
+
+Memphis ball, Q2, 1-10-MISS21 (08:38) 0-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ
+RB E. Mays runs left guard for 2 yards (OLB R. Helms, OLB S. Owen). 
+
+Memphis ball, Q2, 2-8-MISS19 (08:10) 0-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Henderson throws an incomplete pass to WR D. Wilson. DT J. Bryant hurried the QB.
+
+Memphis ball, Q2, 3-8-MISS19 (07:51) 0-3
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+QB D. Henderson completes a 19 yard in to WR J. Jordan ****Touchdown!*****
+
+Memphis ball, Q2, 1-0-MISS0 (07:26) 6-3
+George Roberts converts the PAT.
+
+Memphis ball, Q2, 1-10-MEM35 (07:26) 7-3
+George Roberts kicks 67 from Memphis 35 to Mississippi -2. Jacob Spicer to Mississippi 15 
+for a 17 yard return.
+
+Mississippi ball, Q2, 1-10-MISS15 (07:06) 3-7
+Offense: Inside Run, Set: Wing T, Play: T-HB-power-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+RB A. Hicks runs right guard for 1 yard (ILB G. Bennett).  RB R. Carlson missed a block that 
+hurt the play.
+
+Mississippi ball, Q2, 2-9-MISS16 (06:33) 3-7
+Offense: Inside Run, Set: I Form Big, Play: IB-FB-straight-LG
+Defense: Stop Run, Set: Dime, Play: Dime-pass-Man-B6,10
+FB G. Hines runs left guard for 5 yards (OLB J. Geiger). 
+
+Mississippi ball, Q2, 3-4-MISS21 (06:00) 3-7
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B5,7
+RB A. Hicks runs right tackle for 7 yards (FS M. Sullivan).  C M. Simon had a key block on 
+the run.
+
+Mississippi ball, Q2, 1-10-MISS28 (05:34) 3-7
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,7,11
+RB A. Hicks runs right tackle for -1 yards (FS M. Sullivan).
+
+Mississippi ball, Q2, 2-11-MISS27 (05:06) 3-7
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB R. Carlson runs right guard for 5 yards (OLB D. Washington). 
+
+Mississippi ball, Q2, 3-6-MISS32 (04:40) 3-7
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+QB J. Looney completes a 44 yard post to WR A. Nieto (CB S. Jordan).  C M. Simon earned a 
+pancake on the play.
+
+Mississippi ball, Q2, 1-10-MEM24 (04:12) 3-7
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-power-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB R. Carlson runs left end for 2 yards (DE A. Colbert). 
+
+Mississippi ball, Q2, 2-8-MEM22 (03:42) 3-7
+Offense: Outside Run, Set: Wing T, Play: T-HB-toss-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB A. Hicks runs left end for 2 yards (SS H. Meredith, DE A. Colbert). 
+
+Mississippi ball, Q2, 3-6-MEM20 (03:12) 3-7
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB J. Looney completes a 15 yard dump off to RB R. Carlson (OOB). CB M. Cyr was out of position 
+on the play.
+
+Mississippi ball, Q2, 1-5-MEM5 (03:02) 3-7
+Offense: Short Pass, Set: I Form Big, Play: IB-FB-screen
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB J. Looney completes a 5 yard screen to FB G. Hines ****Touchdown!*****
+
+Mississippi ball, Q2, 1-5-MEM5 (03:02) 3-7
+Offense: Short Pass, Set: I Form Big, Play: IB-FB-screen
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+ILB Keith Gentry (MEM) was injured on the play (Chin). It doesn't look too serious and he 
+should return.
+
+Mississippi ball, Q2, 1-0-MEM0 (02:47) 9-7
+Thomas Sharp converts the PAT.
+
+Mississippi ball, Q2, 1-10-MISS35 (02:47) 10-7
+Clyde Lyons kicks 67 from Mississippi 35 to Memphis -2. Eric Wooten to Memphis 26 for a 28 
+yard return.
+
+Memphis ball, Q2, 1-10-MEM26 (02:28) 7-10
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB D. Henderson throws an incomplete pass to TE D. William. DT J. Bryant hurried the QB.
+
+Memphis ball, Q2, 2-10-MEM26 (02:12) 7-10
+Offense: Long Pass, Set: Weak, Play: WK-SE-curls
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Henderson throws an incomplete pass to WR E. Wooten. WR E. Wooten ran an incorrect route.
+
+Memphis ball, Q2, 3-10-MEM26 (01:55) 7-10
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB D. Henderson completes a 28 yard in to WR D. Wilson (OLB S. Owen, SS V. Ford).  SS J. Graves 
+allowed the big play.
+
+Holding against SS Victor Ford on Mississippi. The Penalty is for 10 yards, and an automatic 
+first down.
+The penalty will be declined.
+
+Memphis ball, Q2, 1-10-MISS46 (01:45) 7-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: 4-3, Play: 43-run-M-B7-R
+RB E. Mays runs left guard for -2 yards (DT S. Singletary).
+
+Memphis ball, Q2, 2-12-MISS48 (01:12) 7-10
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB D. Henderson completes a 7 yard cross to WR E. Wooten (OOB).
+
+Memphis ball, Q2, 2-12-MISS48 (01:12) 7-10
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+WR Eric Wooten (MEM) was injured on the play (Knee). It doesn't look like he will return.
+
+Memphis ball, Q2, 3-5-MISS41 (01:04) 7-10
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Henderson completes a 25 yard hook to WR J. Jordan (CB G. Smith, SS J. Graves). 
+
+Holding against OT Eric Palmer on Memphis. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Third and 15 at the Memphis 49.
+
+Memphis ball, Q2, 3-15-MEM49 (00:53) 7-10
+Offense: Medium Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Henderson gets sacked for a 3 yard loss (OLB R. Helms).  OG D. Chavez allowed the sack.
+
+Memphis ball, Q2, 4-18-MEM46 (00:47) 7-10
+Michael Stevens Punts 36 yards to the Mississippi 18 yard line, where Matthew Womack returns 
+it to Mississippi 25 for a 7 yard return.
+
+Mississippi ball, Q2, 1-10-MISS25 (00:41) 10-7
+Offense: Medium Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-MZ-B5
+QB J. Looney throws an incomplete pass to WR M. Womack. J. Looney made a bad pass.
+
+Mississippi ball, Q2, 2-10-MISS25 (00:33) 10-7
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-RT
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+RB R. Carlson runs right guard for 10 yards (ILB G. Bennett, ILB K. Gentry).  C M. Simon had 
+a key block on the run. CB M. Cyr was out of position on the play.
+
+Memphis Timeout!
+
+Mississippi ball, Q2, 1-10-MISS35 (00:03) 10-7
+Offense: Inside Run, Set: Wishbone, Play: WB-FB-tripoption-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+The QB takes a knee.
+
+Memphis ball, Q3, 1-10-MEM35 (15:00) 7-10
+George Roberts kicks 73 from Memphis 35 to end zone, Touchback.
+
+Mississippi ball, Q3, 1-10-MISS20 (14:44) 10-7
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB J. Looney completes a 5 yard hook to WR N. Bernard (FS A. Hill, SS H. Meredith). 
+
+Mississippi ball, Q3, 2-5-MISS25 (14:21) 10-7
+Offense: Short Pass, Set: I Form Big, Play: IB-FB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+QB J. Looney completes a 9 yard screen to FB G. Hines (SS H. Meredith).  He fumbles the ball 
+after a hit by H. Meredith. It's recovered by R. Watt of Mississippi.
+
+Mississippi ball, Q3, 1-10-MISS34 (13:59) 10-7
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB A. Hicks runs right guard for 0 yards (ILB K. Gentry). 
+
+Mississippi ball, Q3, 2-10-MISS34 (13:28) 10-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB A. Hicks runs right tackle for 2 yards (OLB J. Geiger). 
+
+Mississippi ball, Q3, 3-8-MISS36 (13:01) 10-7
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB A. Hicks runs right end for 6 yards (OOB).
+
+Mississippi ball, Q3, 4-2-MISS42 (12:48) 10-7
+Fredrick Sheldon Punts 42 yards to the Memphis 16 yard line, where Mark Cyr returns it to 
+Memphis 25 for a 9 yard return.
+
+Memphis ball, Q3, 1-10-MEM25 (12:32) 7-10
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB D. Henderson completes a 4 yard streak to RB C. Hathaway (SS J. Graves). 
+
+Memphis ball, Q3, 2-6-MEM29 (12:11) 7-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB C. Hathaway runs left guard for 4 yards (FS A. Bates). 
+
+Memphis ball, Q3, 3-2-MEM33 (11:38) 7-10
+Offense: Short Pass, Set: Weak, Play: WK-FL-screen
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ-B6
+QB D. Henderson completes a 5 yard screen to WR D. Wilson (OLB S. Owen, OLB R. Helms). 
+
+Memphis ball, Q3, 1-10-MEM38 (11:15) 7-10
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB C. Hathaway runs right tackle for 2 yards (OLB S. Owen, DE F. Turner). 
+
+Memphis ball, Q3, 1-10-MEM38 (11:15) 7-10
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+CB Gerald Smith (MISS) was injured on the play (OK). It doesn't look like he will return.
+
+Memphis ball, Q3, 2-8-MEM40 (10:58) 7-10
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Henderson completes a 12 yard dump off to WR J. Martinez (SS J. Graves).  OT S. Ledbetter 
+earned a pancake on the play. FS A. Bates missed a tackle.
+
+Holding against SS Victor Ford on Mississippi. The Penalty is for 10 yards, and an automatic 
+first down.
+The penalty will be declined.
+
+Memphis ball, Q3, 1-10-MISS48 (10:45) 7-10
+Offense: Short Pass, Set: Weak, Play: WK-HB-flat-SE-post
+Defense: Stop Run, Set: 4-3, Play: 43-run-Man-B5,7
+QB D. Henderson completes a 2 yard dump off to RB C. Hathaway (OLB S. Owen, ILB A. Brown). 
+
+Memphis ball, Q3, 2-8-MISS46 (10:23) 7-10
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB E. Mays runs left tackle for 1 yard (OOB).
+
+Memphis ball, Q3, 3-7-MISS45 (10:06) 7-10
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB D. Henderson completes a 9 yard hook to WR D. Wilson (CB D. Castro). 
+
+Memphis ball, Q3, 1-10-MISS36 (09:42) 7-10
+Offense: Short Pass, Set: Weak, Play: WK-SE-slant-FL-in
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Henderson completes a 5 yard screen to WR J. Jordan (OLB J. Palmer). 
+
+Memphis ball, Q3, 2-5-MISS31 (09:21) 7-10
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB D. Henderson throws an incomplete pass to WR D. Wilson.
+
+Memphis ball, Q3, 3-5-MISS31 (09:05) 7-10
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: 4-3, Play: 43-norm-MZ
+QB D. Henderson throws an incomplete pass to FB B. Scott (CB D. Castro). CB D. Castro broke 
+up the pass.
+
+Memphis ball, Q3, 4-5-MISS31 (08:50) 7-10
+George Roberts converts the 49 yard field goal.
+
+Memphis ball, Q3, 1-10-MEM35 (08:32) 10-10
+George Roberts kicks 75 from Memphis 35 to end zone, Touchback.
+
+Mississippi ball, Q3, 1-10-MISS20 (08:17) 10-10
+Offense: Inside Run, Set: I Form Big, Play: IB-FB-power-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+FB G. Hines runs left guard for 17 yards (FS M. Sullivan). 
+
+Mississippi ball, Q3, 1-10-MISS37 (07:50) 10-10
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+FB G. Hines runs right tackle for -2 yards (ILB G. Bennett).
+
+Mississippi ball, Q3, 2-12-MISS35 (07:17) 10-10
+Offense: Medium Pass, Set: I Form Big, Play: IB-SE-post-TE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man
+QB J. Looney throws an incomplete pass to WR A. Nieto.
+
+Mississippi ball, Q3, 3-12-MISS35 (06:59) 10-10
+Offense: Medium Pass, Set: Flexbone, Play: FL-FL-playact-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-TMan
+QB J. Looney completes a 15 yard cross to WR M. Womack (CB L. Davis).  OG R. Watt earned a 
+pancake on the play.
+
+Mississippi ball, Q3, 1-10-MISS50 (06:31) 10-10
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-toss-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB A. Hicks runs left tackle for 5 yards (OLB D. Washington). 
+
+Mississippi ball, Q3, 2-5-MEM45 (05:58) 10-10
+Offense: Inside Run, Set: I Form Big, Play: IB-FB-counter-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,5,6,7,
+FB G. Hines runs right guard for 3 yards (ILB G. Bennett, OLB J. Geiger). 
+
+Mississippi ball, Q3, 3-2-MEM42 (05:31) 10-10
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B11
+QB J. Looney throws an incomplete pass to WR A. Nieto. J. Looney made a bad pass.
+
+Mississippi ball, Q3, 4-2-MEM42 (05:15) 10-10
+Fredrick Sheldon Punts 37 yards to the Memphis 5 yard line, where it goes out of bounds.
+
+Memphis ball, Q3, 1-10-MEM5 (04:59) 10-10
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB D. Henderson throws an incomplete pass to WR D. Wilson. OLB S. Owen hurried the QB.
+
+Memphis ball, Q3, 2-10-MEM5 (04:44) 10-10
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Henderson completes a 14 yard streak to WR D. Wilson (SS V. Ford, CB R. Martin).  OLB 
+S. Owen was out of position on the play.
+
+Memphis ball, Q3, 1-10-MEM19 (04:17) 10-10
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB C. Hathaway runs left guard for -2 yards (FS A. Bates). C. Hathaway missed a hole that 
+could have resulted in a bigger gain.
+
+Memphis ball, Q3, 2-12-MEM17 (03:45) 10-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: 4-3, Play: 43-norm-DZ-B5,7
+RB C. Hathaway runs left end for 22 yards (OOB).
+
+Memphis ball, Q3, 1-10-MEM39 (03:32) 10-10
+Offense: Long Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Stop Pass, Set: 4-3, Play: 43-norm-MZ
+QB D. Henderson gets sacked for a 8 yard loss (FS A. Bates).  He fumbles the ball after a 
+hit by A. Bates. It's recovered by J. Graves of Mississippi. He returns it 1 yards to the Memphis 30. TE D. William allowed the sack.
+
+Mississippi ball, Q3, 1-10-MEM30 (03:12) 10-10
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB A. Hicks runs left guard for 1 yard (ILB G. Bennett).  FB G. Hines missed a block that 
+hurt the play.
+
+Mississippi ball, Q3, 2-9-MEM29 (02:42) 10-10
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB R. Carlson runs right tackle for 3 yards (OLB J. Geiger). 
+
+Grabbing Face Mask against ILB Gary Bennett on Memphis. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Third and 1 at the Memphis 21.
+
+Mississippi ball, Q3, 3-1-MEM21 (02:28) 10-10
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB A. Hicks runs left guard for 1 yard (OLB J. Geiger).  OT R. King missed a block that hurt 
+the play.
+
+Mississippi ball, Q3, 1-10-MEM20 (01:55) 10-10
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B5
+QB J. Looney completes a 4 yard cross to WR A. Nieto (FS M. Sullivan). 
+
+Mississippi ball, Q3, 2-6-MEM16 (01:32) 10-10
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB A. Hicks runs right guard for 3 yards (CB M. Cyr). 
+
+Mississippi ball, Q3, 3-3-MEM13 (01:01) 10-10
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB A. Hicks runs right tackle for 0 yards (CB L. Davis). 
+
+Mississippi ball, Q3, 4-3-MEM13 (00:32) 10-10
+Thomas Sharp converts the 31 yard field goal.
+
+Mississippi ball, Q3, 1-10-MISS35 (00:17) 13-10
+Clyde Lyons kicks 54 from Mississippi 35 to Memphis 11. Donnell Wilson to Memphis 32 for a 
+21 yard return.
+
+Memphis ball, Q4, 1-10-MEM32 (15:00) 10-13
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-Man-B5
+QB D. Henderson gets sacked for a 3 yard loss (OLB R. Helms).  TE D. William allowed the sack.
+
+Memphis ball, Q4, 1-10-MEM32 (15:00) 10-13
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-Man-B5
+SS Jerome Graves (MISS) was injured on the play (Patella). It doesn't look like he will return.
+
+Memphis ball, Q4, 2-13-MEM29 (14:45) 10-13
+Offense: Long Pass, Set: SingleBack, Play: SB-WR3-slant-FL-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+QB D. Henderson throws an incomplete pass to WR J. Martinez (SS S. Smith). WR J. Martinez 
+dropped the pass. SS S. Smith broke up the pass.
+
+Memphis ball, Q4, 3-13-MEM29 (14:30) 10-13
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB D. Henderson completes a 27 yard post to WR J. Martinez (FS A. Bates, SS V. Ford).  OG 
+T. Larson earned a pancake on the play. ILB A. Brown allowed the big play.
+
+Holding against TE David William on Memphis. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Third and 23 at the Memphis 19.
+
+Memphis ball, Q4, 3-23-MEM19 (14:18) 10-13
+Offense: Outside Run, Set: Quads, Play: Q-HB-counter-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB C. Hathaway runs right end for 2 yards (CB D. Castro). 
+
+Memphis ball, Q4, 4-21-MEM21 (13:50) 10-13
+Michael Stevens Punts 50 yards to the Mississippi 29 yard line, where Matthew Womack returns 
+it to Memphis 46 for a 25 yard return.
+
+Mississippi ball, Q4, 1-10-MEM46 (13:34) 13-10
+Offense: Outside Run, Set: I Form Big, Play: IB-RB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB A. Hicks runs right end for 8 yards (SS H. Meredith). 
+
+Mississippi ball, Q4, 2-2-MEM38 (13:01) 13-10
+Offense: Long Pass, Set: I Form Big, Play: IB-TE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB J. Looney completes a 8 yard streak to WR A. Nieto (SS H. Meredith). 
+
+Mississippi ball, Q4, 1-10-MEM30 (12:28) 13-10
+Offense: Medium Pass, Set: I Form Big, Play: IB-TE-flats
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-MZ
+QB J. Looney completes a 4 yard hook to WR A. Nieto (FS M. Sullivan, ILB G. Bennett). 
+
+Mississippi ball, Q4, 2-6-MEM26 (12:04) 13-10
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB J. Looney completes a 3 yard dump off to FB G. Hines (SS H. Meredith). 
+
+Mississippi ball, Q4, 3-3-MEM23 (11:40) 13-10
+Offense: Medium Pass, Set: Flexbone, Play: FL-SE-optpass-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB J. Looney completes a 9 yard post to WR M. Womack (OOB).
+
+Mississippi ball, Q4, 1-10-MEM14 (11:29) 13-10
+Offense: Medium Pass, Set: Flexbone, Play: FL-SE-optpass-corner
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB J. Looney throws an incomplete pass to WR N. Bernard (FS M. Sullivan). FS M. Sullivan broke 
+up the pass.
+
+Mississippi ball, Q4, 2-10-MEM14 (11:10) 13-10
+Offense: Outside Run, Set: I Form Big, Play: IB-RB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+RB A. Hicks runs right end for 8 yards (OLB J. Geiger).  OLB J. Geiger missed a tackle.
+
+Mississippi ball, Q4, 3-2-MEM6 (10:42) 13-10
+Offense: Inside Run, Set: Wing T, Play: T-HB-power-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB A. Hicks runs right tackle for 3 yards (ILB G. Bennett). 
+
+Mississippi ball, Q4, 1-3-MEM3 (10:11) 13-10
+Offense: Outside Run, Set: Wishbone, Play: WB-WB-option-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+RB K. Duffy runs right tackle for 3 yards ****Touchdown!*****
+
+Mississippi ball, Q4, 1-0-MEM0 (09:43) 19-10
+Thomas Sharp converts the PAT.
+
+Mississippi ball, Q4, 1-10-MISS35 (09:43) 20-10
+Clyde Lyons kicks 67 from Mississippi 35 to Memphis -2. Donnell Wilson to Memphis 17 for a 
+19 yard return.
+
+Memphis ball, Q4, 1-10-MEM17 (09:26) 10-20
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ-B6
+QB D. Henderson runs outside for 2 yards (OOB). DT S. Singletary hurried the QB.
+
+Memphis ball, Q4, 2-8-MEM19 (09:10) 10-20
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB D. Henderson completes a 2 yard streak to RB E. Mays (CB D. Castro). 
+
+Memphis ball, Q4, 3-6-MEM21 (08:49) 10-20
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB D. Henderson completes a 4 yard out to WR D. Wilson (OOB).
+
+Memphis ball, Q4, 4-2-MEM25 (08:32) 10-20
+Michael Stevens Punts 41 yards to the Mississippi 34 yard line, where Matthew Womack returns 
+it to Mississippi 34 for a 0 yard return.
+
+Mississippi ball, Q4, 1-10-MISS34 (08:16) 20-10
+Offense: Outside Run, Set: I Form Big, Play: IB-RB-power-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB R. Carlson runs right end for -2 yards (ILB G. Bennett).
+
+Mississippi ball, Q4, 2-12-MISS32 (07:49) 20-10
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB J. Looney completes a 38 yard post to WR A. Nieto (ILB G. Bennett, FS M. Sullivan).  FS 
+A. Hill allowed the big play.
+
+Mississippi ball, Q4, 1-10-MEM30 (07:22) 20-10
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB J. Looney completes a 8 yard cross to WR M. Womack (OOB).
+
+Mississippi ball, Q4, 2-2-MEM22 (07:12) 20-10
+Offense: Short Pass, Set: Wing T, Play: T-SE-playact-cor
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB J. Looney completes a 4 yard in to FB R. Hanson (OOB).
+
+Mississippi ball, Q4, 1-10-MEM18 (07:01) 20-10
+Offense: Medium Pass, Set: Flexbone, Play: FL-SE-optpass-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B5,8
+QB J. Looney throws an incomplete pass to WR N. Bernard (CB S. Jordan). CB S. Jordan broke 
+up the pass.
+
+Mississippi ball, Q4, 2-10-MEM18 (06:45) 20-10
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB R. Carlson runs right end for 3 yards (CB L. Davis). 
+
+Mississippi ball, Q4, 3-7-MEM15 (06:17) 20-10
+Offense: Medium Pass, Set: Wishbone, Play: WB-HB-streaks
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-SZ-B5,6
+QB J. Looney gets sacked for a 1 yard loss (DT D. Wilson).  OT R. King allowed the sack.
+
+Mississippi ball, Q4, 3-7-MEM15 (06:17) 20-10
+Offense: Medium Pass, Set: Wishbone, Play: WB-HB-streaks
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-SZ-B5,6
+RB Robert Carlson (MISS) was injured on the play (OK). It doesn't look like he will return.
+
+Mississippi ball, Q4, 4-8-MEM16 (05:59) 20-10
+Thomas Sharp converts the 34 yard field goal.
+
+Mississippi ball, Q4, 1-10-MISS35 (05:39) 23-10
+Clyde Lyons kicks 47 from Mississippi 35 to Memphis 18. Wayne Epps to Memphis 34 for a 16 
+yard return.
+
+Memphis ball, Q4, 1-10-MEM34 (05:23) 10-23
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-norm-DZ-B5,7
+QB D. Henderson throws an incomplete pass to WR J. Jordan. WR J. Jordan dropped the pass.
+
+Memphis ball, Q4, 2-10-MEM34 (05:03) 10-23
+Offense: Long Pass, Set: Quads, Play: Q-WR3-corner-FL-post
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB D. Henderson throws an incomplete pass to WR D. Wilson.
+
+Memphis ball, Q4, 3-10-MEM34 (04:45) 10-23
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+QB D. Henderson completes a 6 yard cross to WR J. Jordan (OLB S. Owen, OLB R. Helms). 
+
+Memphis ball, Q4, 4-4-MEM40 (04:21) 10-23
+Michael Stevens Punts 26 yards to the Mississippi 34 yard line, where Franklin Knight returns 
+it to Mississippi 37 for a 3 yard return.
+
+Mississippi ball, Q4, 1-10-MISS37 (04:06) 23-10
+Offense: Outside Run, Set: Wing T, Play: T-HB-toss-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+RB K. Duffy runs left end for 1 yard (ILB K. Gentry). 
+
+Mississippi ball, Q4, 2-9-MISS38 (03:40) 23-10
+Offense: Medium Pass, Set: I Form, Play: I-TE-corner-FL-post
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+J. Looney has his 20 yard pass intercepted by D. Washington at the MEM 42. He returns it 4 
+yards to the Memphis 46.
+
+Memphis ball, Q4, 1-10-MEM46 (03:10) 10-23
+Offense: Short Pass, Set: Weak, Play: WK-SE-slant-FL-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB D. Henderson gets sacked for a 7 yard loss (DT S. Singletary).  OG T. Larson allowed the 
+sack.
+
+Roughing the Passer against DE Fred Turner on Mississippi. The Penalty is for 15 yards, and 
+an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Mississippi 46.
+
+Memphis ball, Q4, 1-10-MISS46 (02:57) 10-23
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B11
+QB D. Henderson throws an incomplete pass to WR J. Martinez.
+
+Memphis ball, Q4, 2-10-MISS46 (02:41) 10-23
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB D. Henderson completes a 28 yard in to WR D. Wilson (OLB S. Owen).  CB R. Martin allowed 
+the big play.
+
+Memphis ball, Q4, 2-10-MISS46 (02:41) 10-23
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+OT Sean Ledbetter (MEM) was injured on the play (OK). It doesn't look like he will return.
+
+Memphis ball, Q4, 1-10-MISS18 (02:24) 10-23
+Offense: Short Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB D. Henderson throws an incomplete pass to FB B. Scott.
+
+Memphis ball, Q4, 1-10-MISS18 (02:24) 10-23
+Offense: Short Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+OG Danny Chavez (MEM) was injured on the play (Thumb). It doesn't look like he will return.
+
+Memphis ball, Q4, 2-10-MISS18 (02:09) 10-23
+Offense: Short Pass, Set: Weak, Play: WK-FL-screen
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB D. Henderson completes a 15 yard screen to WR D. Wilson (OOB). CB J. George missed a tackle.
+
+Memphis ball, Q4, 1-3-MISS3 (01:56) 10-23
+Offense: Short Pass, Set: Weak, Play: WK-HB-flat-SE-post
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-MZ-B5,7
+QB D. Henderson throws an incomplete pass to RB E. Mays. RB E. Mays dropped the pass. OLB 
+R. Helms hurried the QB.
+
+Memphis ball, Q4, 2-3-MISS3 (01:38) 10-23
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B10,11
+QB D. Henderson gets sacked for a 9 yard loss (OLB S. Owen).  OT C. Fagan allowed the sack.
+
+Memphis ball, Q4, 3-12-MISS12 (01:14) 10-23
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-SZ-B11
+QB D. Henderson throws an incomplete pass to WR J. Martinez. WR J. Martinez ran an incorrect 
+route.
+
+Memphis ball, Q4, 4-12-MISS12 (01:07) 10-23
+Offense: Long Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB D. Henderson throws an incomplete pass to FB B. Scott (SS S. Smith). D. Henderson made 
+a bad pass. SS S. Smith broke up the pass.
+
+Mississippi ball, Q4, 1-10-MISS12 (01:01) 23-10
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB K. Duffy runs right guard for 3 yards (FS M. Sullivan). 
+
+Memphis Timeout!
+
+Mississippi ball, Q4, 2-7-MISS15 (00:53) 23-10
+Offense: Outside Run, Set: Wing T, Play: T-HB-option-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ-B6-Spy
+QB J. Looney scrambles out of the pocket and gets sacked for a 2 yard loss (DT D. Wilson). 
+ OG C. Lambert missed a block that hurt the play. OT J. Ayala allowed the sack.
+
+Memphis Timeout!
+
+Mississippi ball, Q4, 3-9-MISS13 (00:44) 23-10
+Offense: Outside Run, Set: Flexbone, Play: FL-RB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+RB A. Hicks runs left end for 3 yards (FS M. Sullivan, FS A. Hill). 
+
+Memphis Timeout!
+
+Mississippi ball, Q4, 4-6-MISS16 (00:35) 23-10
+Fredrick Sheldon Punts 36 yards to the Memphis 48 yard line, where Mark Cyr returns it to 
+Mississippi 48 for a 4 yard return.
+
+Memphis ball, Q4, 1-10-MISS48 (00:29) 10-23
+Offense: Short Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+QB D. Henderson completes a 5 yard hook to WR J. Martinez (ILB A. Brown, OLB S. Owen). 
+
+Memphis ball, Q4, 1-10-MISS48 (00:22) 10-23
+Offense: Short Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+The QB spikes the ball to stop the clock!
+
+Memphis ball, Q4, 3-5-MISS43 (00:22) 10-23
+Offense: Short Pass, Set: Weak, Play: WK-SE-slant-FL-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB D. Henderson completes a 3 yard screen to WR J. Jordan (FS A. Bates). 
+
+Memphis ball, Q4, 4-2-MISS40 (00:12) 10-23
+Offense: Medium Pass, Set: Weak, Play: WK-TE-playact-str
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB D. Henderson completes a 29 yard streak to TE D. William (SS S. Smith). 
+

@@ -1,0 +1,951 @@
+NC State ball, Q1, 1-10-NCST35 (15:00) 0-0
+Thomas Vallejo kicks 62 from NC State 35 to Syracuse 3. Brock Edwards to Syracuse 40 for a 
+37 yard return.
+
+Syracuse ball, Q1, 1-10-SYR40 (14:45) 0-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB R. Sutton completes a 6 yard post to WR B. Williamson (OLB R. Coates). 
+
+Syracuse ball, Q1, 2-4-SYR46 (14:19) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B7,8
+RB M. Roberson runs left end for 2 yards (ILB J. Mendoza, DT S. Rogers). 
+
+Syracuse ball, Q1, 3-2-SYR48 (13:48) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+RB M. Roberson runs right guard for 1 yard (ILB J. Mendoza). 
+
+Syracuse ball, Q1, 4-1-SYR49 (13:15) 0-0
+James Hodges Punts 43 yards to the NC State 8 yard line, where it gets downed.
+
+NC State ball, Q1, 1-10-NCST8 (12:55) 0-0
+Offense: Outside Run, Set: I Form, Play: I-HB-toss-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB M. Moore runs right tackle for 18 yards (OOB).
+
+NC State ball, Q1, 1-10-NCST26 (12:45) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB P. Pike runs outside for 1 yard (ILB J. Hernandez). 
+
+NC State ball, Q1, 2-9-NCST27 (12:24) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+QB P. Pike throws an incomplete pass to WR M. Brown.
+
+NC State ball, Q1, 3-9-NCST27 (12:08) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB P. Pike throws an incomplete pass to TE M. Ellison.
+
+NC State ball, Q1, 4-9-NCST27 (11:48) 0-0
+James Mack Punts 38 yards to the Syracuse 35 yard line, where Gregg Nye returns it to Syracuse 
+49 for a 14 yard return.
+
+Syracuse ball, Q1, 1-10-SYR49 (11:30) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+RB D. Mooney runs right guard for 10 yards (SS A. Davis).  DT S. Rogers was out of position 
+on the play.
+
+Syracuse ball, Q1, 1-10-NCST41 (11:00) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB M. Roberson runs right tackle for 11 yards (OLB D. Henderson). 
+
+Syracuse ball, Q1, 1-10-NCST30 (10:29) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB M. Roberson runs right guard for 8 yards (FS J. Colbert). 
+
+Syracuse ball, Q1, 2-2-NCST22 (10:01) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B5,6
+RB D. Mooney runs left guard for 8 yards (CB W. Holmes). 
+
+Syracuse ball, Q1, 1-10-NCST14 (09:31) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+False Start against OT Joshua White on Syracuse. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the NC State 19.
+
+Syracuse ball, Q1, 1-15-NCST19 (09:31) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B11
+QB R. Sutton throws an incomplete pass to TE L. Davis. R. Sutton made a bad pass.
+
+Syracuse ball, Q1, 2-15-NCST19 (09:12) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+RB D. Mooney runs left tackle for 4 yards (SS J. Williamson, OLB R. Coates). 
+
+Syracuse ball, Q1, 3-11-NCST15 (08:39) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB R. Sutton completes a 12 yard out to WR G. Nye (CB W. Holmes).  R. Sutton with the great 
+pass. OT J. White earned a pancake on the play.
+
+Syracuse ball, Q1, 1-3-NCST3 (08:15) 0-0
+Offense: Short Pass, Set: Trips, Play: TR-TE-screen
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+QB R. Sutton throws an incomplete pass to TE L. Davis.
+
+Syracuse ball, Q1, 2-3-NCST3 (07:55) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+RB D. Mooney runs left tackle for 2 yards (OLB R. Coates). 
+
+Syracuse ball, Q1, 3-1-NCST1 (07:23) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+RB M. Roberson runs left tackle for -1 yards (OLB D. Henderson). M. Roberson missed a hole 
+that could have resulted in a bigger gain.
+
+Syracuse ball, Q1, 4-2-NCST2 (06:55) 0-0
+Doug Baines converts the 20 yard field goal.
+
+Syracuse ball, Q1, 1-10-SYR35 (06:37) 3-0
+Doug Baines kicks 73 from Syracuse 35 to end zone, Touchback.
+
+NC State ball, Q1, 1-10-NCST20 (06:19) 0-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6
+RB M. Moore runs right end for 1 yard (OOB). OG C. Mchenry missed a block that hurt the play.
+
+NC State ball, Q1, 2-9-NCST21 (06:03) 0-3
+Offense: Inside Run, Set: I Form, Play: I-FB-straight-LG
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+FB R. Robinson runs left guard for 7 yards (FS G. Molina). 
+
+NC State ball, Q1, 3-2-NCST28 (05:32) 0-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB M. Moore runs right guard for 2 yards (ILB J. Hernandez). 
+
+NC State ball, Q1, 1-10-NCST30 (05:00) 0-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB P. Pike gets sacked for a 4 yard loss (ILB J. Hernandez).  OT S. Mccormack allowed the sack.
+
+NC State ball, Q1, 2-14-NCST26 (04:45) 0-3
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB M. Moore runs right tackle for 9 yards (OLB M. Welch).  OG C. Cunningham had a key block 
+on the run.
+
+NC State ball, Q1, 3-5-NCST35 (04:13) 0-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB M. Moore runs right guard for 5 yards (SS L. Warren). 
+
+NC State ball, Q1, 1-10-NCST40 (03:42) 0-3
+Offense: Long Pass, Set: I Form, Play: I-SE-streaks
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+QB P. Pike gets sacked for a 13 yard loss (OLB E. Kim).  OT R. Blackwell allowed the sack.
+
+NC State ball, Q1, 2-23-NCST27 (03:27) 0-3
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+FB R. Robinson runs right end for -4 yards (SS L. Warren). OT S. Mccormack missed a block 
+that hurt the play.
+
+NC State ball, Q1, 3-27-NCST23 (02:54) 0-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB M. Moore runs left guard for 2 yards (DE J. Roberts). 
+
+NC State ball, Q1, 4-25-NCST25 (02:27) 0-3
+James Mack Punts 38 yards to the Syracuse 37 yard line, where Gregg Nye returns it to Syracuse 
+48 for a 11 yard return.
+
+Syracuse ball, Q1, 1-10-SYR48 (02:07) 3-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB D. Mooney runs left end for 1 yard (SS D. Dejesus). 
+
+Syracuse ball, Q1, 2-9-SYR49 (01:39) 3-0
+Offense: Medium Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-L
+QB R. Sutton throws an incomplete pass to WR R. Martinez (CB R. Torres). CB R. Torres broke 
+up the pass.
+
+Syracuse ball, Q1, 3-9-SYR49 (01:22) 3-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-R
+QB R. Sutton completes a 4 yard screen to RB M. Roberson (ILB J. Mendoza). 
+
+Syracuse ball, Q1, 4-5-NCST47 (01:00) 3-0
+James Hodges Punts 44 yards to the NC State 3 yard line, where it goes out of bounds.
+
+NC State ball, Q1, 1-10-NCST3 (00:42) 0-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB J. Light runs left guard for 19 yards (ILB A. Freeman).  OG C. Cunningham had a key block 
+on the run. OLB M. Welch missed a tackle.
+
+Grabbing Face Mask against CB Juan Mcgee on Syracuse. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the NC State 27.
+
+NC State ball, Q1, 1-10-NCST27 (00:29) 0-3
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB P. Pike throws an incomplete pass to TE M. Ellison. TE M. Ellison ran an incorrect route.
+
+NC State ball, Q1, 2-10-NCST27 (00:10) 0-3
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+FB R. Robinson runs left guard for 9 yards (ILB A. Freeman). 
+
+NC State ball, Q2, 3-1-NCST36 (15:00) 0-3
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+FB R. Robinson runs left guard for 6 yards (CB G. Dolan). 
+
+NC State ball, Q2, 3-1-NCST36 (15:00) 0-3
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+OT Rickie Blackwell (NCST) was injured on the play (Eye). It doesn't look too serious and 
+he should return.
+
+NC State ball, Q2, 1-10-NCST42 (14:45) 0-3
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB M. Moore runs left tackle for 11 yards (FS G. Molina).  OG C. Cunningham had a key block 
+on the run.
+
+NC State ball, Q2, 1-10-SYR47 (14:12) 0-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB M. Moore runs left guard for 3 yards (OLB E. Kim). 
+
+NC State ball, Q2, 2-7-SYR44 (13:43) 0-3
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB P. Pike completes a 12 yard out to WR M. Brown (OLB E. Kim). 
+
+Roughing the Passer against DE Kenneth Carney on Syracuse. The Penalty is for 15 yards, and 
+an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Syracuse 17.
+
+NC State ball, Q2, 1-10-SYR17 (13:31) 0-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ-B7,8
+RB M. Moore runs left guard for 4 yards (ILB J. Hernandez). 
+
+NC State ball, Q2, 2-6-SYR13 (12:58) 0-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+RB M. Moore runs right guard for 5 yards (OLB M. Welch). 
+
+NC State ball, Q2, 3-1-SYR8 (12:29) 0-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB M. Moore runs right guard for 0 yards (ILB D. Lewis). 
+
+NC State ball, Q2, 4-1-SYR8 (12:02) 0-3
+Thomas Vallejo converts the 26 yard field goal.
+
+NC State ball, Q2, 1-10-NCST35 (11:47) 3-3
+Thomas Vallejo kicks 55 from NC State 35 to Syracuse 10. Brock Edwards to Syracuse 23 for 
+a 13 yard return.
+
+Syracuse ball, Q2, 1-10-SYR23 (11:32) 3-3
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B11
+RB D. Mooney runs left tackle for 1 yard (SS D. Dejesus).  TE L. Davis missed a block that 
+hurt the play.
+
+Syracuse ball, Q2, 2-9-SYR24 (11:06) 3-3
+Offense: Long Pass, Set: Quads, Play: Q-WR3-corner-FL-post
+Defense: Stop Pass, Set: 4-3, Play: 43-norm-MZ
+QB R. Sutton throws an incomplete pass to WR B. Boyce.
+
+Syracuse ball, Q2, 3-9-SYR24 (10:49) 3-3
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan-L
+QB R. Sutton throws an incomplete pass to WR R. Martinez. WR R. Martinez dropped the pass. 
+DE L. Johnson hurried the QB.
+
+Syracuse ball, Q2, 4-9-SYR24 (10:29) 3-3
+James Hodges Punts 38 yards to the NC State 38 yard line, where Samuel Gardiner returns it 
+to Syracuse 31 for a 31 yard return.
+
+NC State ball, Q2, 1-10-SYR31 (10:12) 3-3
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB M. Moore runs right guard for 6 yards (SS P. Rouse, CB J. Mcgee). 
+
+NC State ball, Q2, 2-4-SYR25 (09:40) 3-3
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB P. Pike runs left tackle for 3 yards (CB J. Mcgee). 
+
+NC State ball, Q2, 3-1-SYR22 (09:14) 3-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+RB M. Moore runs left tackle for 11 yards (FS G. Molina).  CB B. Carr missed a tackle.
+
+NC State ball, Q2, 1-10-SYR11 (08:48) 3-3
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB J. Light runs left tackle for 9 yards (OLB E. Kim).  OG C. Cunningham had a key block on 
+the run. DT A. Hammond was out of position on the play.
+
+NC State ball, Q2, 1-10-SYR11 (08:48) 3-3
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+FS George Molina (SYR) was injured on the play (Ankle). It doesn't look like he will return.
+
+NC State ball, Q2, 2-1-SYR2 (08:33) 3-3
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+FB R. Robinson runs left guard for 2 yards ****Touchdown!*****
+
+NC State ball, Q2, 1-0-SYR0 (08:03) 9-3
+Thomas Vallejo converts the PAT.
+
+NC State ball, Q2, 1-10-NCST35 (08:03) 10-3
+Thomas Vallejo kicks 67 from NC State 35 to Syracuse -2. Brock Edwards to Syracuse 17 for 
+a 19 yard return.
+
+Syracuse ball, Q2, 1-10-SYR17 (07:46) 3-10
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB R. Sutton completes a 9 yard in to WR B. Williamson (OLB D. Henderson). 
+
+Syracuse ball, Q2, 2-1-SYR26 (07:22) 3-10
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+FB K. Benton runs right end for 2 yards (OLB R. Coates). 
+
+Syracuse ball, Q2, 1-10-SYR28 (06:49) 3-10
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB R. Sutton throws an incomplete pass to WR B. Boyce.
+
+Syracuse ball, Q2, 2-10-SYR28 (06:29) 3-10
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB R. Sutton throws an incomplete pass to WR B. Williamson. R. Sutton made a bad pass.
+
+Syracuse ball, Q2, 3-10-SYR28 (06:14) 3-10
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB R. Sutton throws an incomplete pass to WR R. Martinez (CB R. Torres). R. Sutton made a 
+bad pass. DE C. Jenkins hurried the QB. CB R. Torres broke up the pass.
+
+Syracuse ball, Q2, 4-10-SYR28 (05:57) 3-10
+James Hodges Punts 36 yards to the NC State 36 yard line, where Samuel Gardiner returns it 
+to NC State 38 for a 2 yard return.
+
+NC State ball, Q2, 1-10-NCST38 (05:39) 10-3
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+FB R. Robinson runs left guard for 12 yards (SS P. Rouse). 
+
+NC State ball, Q2, 1-10-NCST50 (05:08) 10-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB P. Pike throws an incomplete pass to WR S. Gardiner. DE J. Roberts hurried the QB.
+
+NC State ball, Q2, 2-10-NCST50 (04:50) 10-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+RB J. Light runs right tackle for 4 yards (OLB M. Welch). 
+
+NC State ball, Q2, 3-6-SYR46 (04:17) 10-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ-B5,6,7,8
+RB M. Moore runs left tackle for 8 yards (OLB M. Welch). 
+
+NC State ball, Q2, 3-6-SYR46 (04:17) 10-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ-B5,6,7,8
+CB George Dolan (SYR) was injured on the play (OK). It doesn't look like he will return.
+
+NC State ball, Q2, 1-10-SYR38 (04:01) 10-3
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ
+FB R. Robinson runs left guard for 10 yards (SS P. Rouse, CB B. Carr).  OG C. Cunningham had 
+a key block on the run.
+
+NC State ball, Q2, 1-10-SYR28 (03:29) 10-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB M. Moore runs right guard for 1 yard (CB J. Mcgee). 
+
+NC State ball, Q2, 2-9-SYR27 (03:02) 10-3
+Offense: Long Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB P. Pike completes a 27 yard streak to WR M. Acosta ****Touchdown!***** OT R. Blackwell 
+earned a pancake on the play. FS G. Bennett allowed the big play.
+
+NC State ball, Q2, 1-0-SYR0 (02:31) 16-3
+Thomas Vallejo converts the PAT.
+
+NC State ball, Q2, 1-10-NCST35 (02:31) 17-3
+Thomas Vallejo kicks 55 from NC State 35 to Syracuse 10. Brock Edwards to Syracuse 31 for 
+a 21 yard return.
+
+Syracuse ball, Q2, 1-10-SYR31 (02:12) 3-17
+Offense: Short Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB R. Sutton completes a 28 yard in to WR B. Williamson (SS A. Davis).  OG M. Miller earned 
+a pancake on the play.
+
+Syracuse ball, Q2, 1-10-NCST41 (01:53) 3-17
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+RB M. Roberson runs right guard for 5 yards (SS D. Dejesus). 
+
+Syracuse ball, Q2, 2-5-NCST36 (01:20) 3-17
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+QB R. Sutton completes a 3 yard hook to WR B. Boyce (OLB R. Coates, OLB D. Henderson). 
+
+Holding against OT Joshua White on Syracuse. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 15 at the NC State 46.
+
+Syracuse ball, Q2, 2-15-NCST46 (01:08) 3-17
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB R. Sutton completes a 4 yard streak to WR B. Williamson (FS J. Colbert). 
+
+Syracuse Timeout!
+
+Syracuse ball, Q2, 3-11-NCST42 (01:01) 3-17
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB R. Sutton completes a 5 yard hook to WR G. Nye (OOB).
+
+Syracuse ball, Q2, 4-6-NCST37 (00:53) 3-17
+James Hodges Punts 37 yards to the end zone, Touchback.
+
+NC State ball, Q2, 1-10-NCST20 (00:46) 17-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ-B5,6,7,8
+QB P. Pike completes a 0 yard out to WR S. Gardiner (ILB A. Freeman). 
+
+NC State ball, Q2, 2-10-NCST20 (00:29) 17-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB J. Light runs right guard for 1 yard (ILB J. Hernandez).  OG C. Mchenry missed a block 
+that hurt the play.
+
+Syracuse Timeout!
+
+NC State ball, Q2, 3-9-NCST21 (00:21) 17-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB M. Moore runs right tackle for 14 yards (FS G. Bennett).  FS G. Bennett missed a tackle.
+
+Syracuse ball, Q3, 1-10-SYR35 (15:00) 3-17
+Doug Baines kicks 73 from Syracuse 35 to end zone, Touchback.
+
+NC State ball, Q3, 1-10-NCST20 (14:43) 17-3
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+WR M. Brown runs right end for 9 yards (ILB A. Freeman).  CB B. Carr missed a tackle.
+
+Offsides against DE Stephen Farmer on Syracuse. The Penalty is for 5 yards.
+The penalty will be declined.
+
+NC State ball, Q3, 2-1-NCST29 (14:29) 17-3
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB P. Pike completes a 19 yard hook to WR M. Brown (OOB).
+
+NC State ball, Q3, 1-10-NCST48 (14:14) 17-3
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB M. Moore runs right end for 0 yards (ILB J. Hernandez). 
+
+NC State ball, Q3, 2-10-NCST48 (13:41) 17-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB M. Moore runs right tackle for 9 yards (FS G. Bennett).  M. Moore created the big run with 
+his own skills.
+
+NC State ball, Q3, 3-1-SYR43 (13:13) 17-3
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB M. Moore runs right guard for -1 yards (SS P. Rouse). OT S. Mccormack missed a block that 
+hurt the play.
+
+NC State ball, Q3, 4-2-SYR44 (12:41) 17-3
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+False Start against OG Clark Cunningham on NC State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Fourth and 7 at the Syracuse 49.
+
+NC State ball, Q3, 4-7-SYR49 (12:41) 17-3
+James Mack Punts 35 yards to the Syracuse 14 yard line, where it goes out of bounds.
+
+Syracuse ball, Q3, 1-10-SYR14 (12:26) 3-17
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B5,7
+RB D. Mooney runs right guard for 2 yards (OLB D. Henderson, DT S. Rogers). 
+
+Syracuse ball, Q3, 2-8-SYR16 (11:53) 3-17
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-ZoneBlitz
+RB D. Mooney runs right tackle for 6 yards (OLB D. Henderson). 
+
+Syracuse ball, Q3, 3-2-SYR22 (11:26) 3-17
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB M. Roberson runs right guard for 2 yards (SS D. Dejesus, CB W. Holmes). 
+
+Syracuse ball, Q3, 1-10-SYR24 (10:59) 3-17
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan
+QB R. Sutton throws an incomplete pass to WR B. Boyce. WR B. Boyce ran an incorrect route.
+
+Syracuse ball, Q3, 1-10-SYR24 (10:59) 3-17
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Normal, Set: 4-3, Play: 43-norm-TMan
+CB William Holmes (NCST) was injured on the play (Elbow). It doesn't look too serious and 
+he should return.
+
+Syracuse ball, Q3, 2-10-SYR24 (10:39) 3-17
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB R. Sutton completes a 22 yard hook to WR G. Nye (CB W. Holmes).  FS J. Colbert missed a 
+tackle.
+
+Syracuse ball, Q3, 1-10-SYR46 (10:12) 3-17
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB M. Roberson runs left tackle for 2 yards (OOB).
+
+Syracuse ball, Q3, 2-8-SYR48 (09:59) 3-17
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: 4-3, Play: 43-run-SZ
+RB D. Mooney runs right guard for 3 yards (ILB J. Mendoza). 
+
+Syracuse ball, Q3, 3-5-NCST49 (09:27) 3-17
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 4-3, Play: 43-run-M-B7-R
+QB R. Sutton throws an incomplete pass to WR B. Boyce (CB W. Holmes). WR B. Boyce dropped 
+the pass. CB W. Holmes broke up the pass.
+
+Syracuse ball, Q3, 4-5-NCST49 (09:08) 3-17
+James Hodges Punts 37 yards to the NC State 12 yard line, where it goes out of bounds.
+
+NC State ball, Q3, 1-10-NCST12 (08:51) 17-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+False Start against OG Carlos Mchenry on NC State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the NC State 7.
+
+NC State ball, Q3, 1-15-NCST7 (08:51) 17-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB P. Pike throws an incomplete pass to WR M. Acosta (CB J. Mcgee). CB J. Mcgee broke up the 
+pass.
+
+NC State ball, Q3, 2-15-NCST7 (08:31) 17-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB P. Pike completes a 27 yard post to WR S. Gardiner (OOB). OG C. Cunningham earned a pancake 
+on the play. CB J. Mcgee allowed the big play.
+
+NC State ball, Q3, 1-10-NCST34 (08:20) 17-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+RB J. Light runs right guard for 4 yards (ILB A. Freeman). 
+
+NC State ball, Q3, 2-6-NCST38 (07:49) 17-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB J. Light runs right guard for 2 yards (FS G. Bennett). 
+
+NC State ball, Q3, 3-4-NCST40 (07:20) 17-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB P. Pike completes a 3 yard hook to RB M. Moore (OLB M. Welch, FS G. Bennett). 
+
+NC State ball, Q3, 3-4-NCST40 (07:20) 17-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+ILB Jeffrey Hernandez (SYR) was injured on the play (Elbow). It doesn't look like he will 
+return.
+
+NC State ball, Q3, 4-1-NCST43 (07:05) 17-3
+James Mack Punts 46 yards to the Syracuse 11 yard line,
+
+Syracuse ball, Q3, 1-10-SYR11 (06:47) 3-17
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-Man-B8
+RB D. Mooney runs left end for 0 yards (SS D. Dejesus). 
+
+Syracuse ball, Q3, 2-10-SYR11 (06:14) 3-17
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+QB R. Sutton throws an incomplete pass to TE L. Davis.
+
+Syracuse ball, Q3, 2-10-SYR11 (06:14) 3-17
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+CB William Holmes (NCST) was injured on the play (Knee). It doesn't look like he will return.
+
+Syracuse ball, Q3, 3-10-SYR11 (05:54) 3-17
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB M. Roberson runs right guard for 2 yards (OLB D. Henderson). 
+
+Syracuse ball, Q3, 4-8-SYR13 (05:23) 3-17
+James Hodges Punts 47 yards to the NC State 40 yard line, where Samuel Gardiner returns it 
+to NC State 44 for a 4 yard return.
+
+Unnecessary Roughness against WR Bobby Cohen on Syracuse. The Penalty is for 15 yards, and 
+an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Syracuse 41.
+
+NC State ball, Q3, 1-10-SYR41 (05:11) 17-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB P. Pike completes a 6 yard out to WR M. Brown (SS L. Warren). 
+
+NC State ball, Q3, 2-4-SYR35 (04:49) 17-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB P. Pike completes a 12 yard out to WR M. Brown (SS P. Rouse, OLB M. Welch).  M. Brown made 
+a great catch. OG C. Cunningham earned a pancake on the play. FS G. Bennett missed a tackle.
+
+NC State ball, Q3, 1-10-SYR23 (04:28) 17-3
+Offense: Inside Run, Set: I Form, Play: I-FB-counter-RG
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+FB R. Robinson runs right guard for 4 yards (OLB E. Kim, ILB A. Freeman). 
+
+NC State ball, Q3, 1-10-SYR23 (04:28) 17-3
+Offense: Inside Run, Set: I Form, Play: I-FB-counter-RG
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+ILB Arthur Freeman (SYR) was injured on the play (Head). It doesn't look too serious and he 
+should return.
+
+NC State ball, Q3, 2-6-SYR19 (04:12) 17-3
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB P. Pike completes a 14 yard screen to RB J. Light (OLB E. Kim). 
+
+Ineligible Receiver Downfield against OT Rickie Blackwell on NC State. The Penalty is for 
+5 yards.
+The Defense will accept the penalty. It is now Second and 11 at the Syracuse 24.
+
+NC State ball, Q3, 2-11-SYR24 (03:58) 17-3
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB P. Pike throws an incomplete pass to RB J. Light.
+
+NC State ball, Q3, 3-11-SYR24 (03:42) 17-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB P. Pike completes a 24 yard corner to WR M. Acosta ****Touchdown!***** CB B. Carr missed 
+a tackle.
+
+NC State ball, Q3, 1-0-SYR0 (03:16) 23-3
+Thomas Vallejo converts the PAT.
+
+NC State ball, Q3, 1-10-NCST35 (03:16) 24-3
+Thomas Vallejo kicks 55 from NC State 35 to Syracuse 10. Brock Edwards to Syracuse 45 for 
+a 35 yard return.
+
+Piling On after the play against TE Jorge Culver on NC State. The Penalty is for 15 yards, 
+and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the NC State 40.
+
+Syracuse ball, Q3, 1-10-NCST40 (03:01) 3-24
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Run, Set: 4-3, Play: 43-run-SZ
+RB D. Mooney runs left guard for 3 yards (ILB J. Mendoza). 
+
+Syracuse ball, Q3, 2-7-NCST37 (02:35) 3-24
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB D. Mooney runs left guard for 2 yards (SS A. Davis, OLB R. Coates). 
+
+Syracuse ball, Q3, 3-5-NCST35 (02:02) 3-24
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB R. Sutton completes a 2 yard out to TE L. Davis (OLB R. Coates, FS J. Colbert). 
+
+Syracuse ball, Q3, 3-5-NCST35 (02:02) 3-24
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+DT Matthew Jordan (NCST) was injured on the play (Scapula). It doesn't look like he will return.
+
+Syracuse ball, Q3, 4-3-NCST33 (01:46) 3-24
+Doug Baines converts the 51 yard field goal.
+
+Syracuse ball, Q3, 1-10-SYR35 (01:26) 6-24
+Doug Baines kicks 73 from Syracuse 35 to end zone, Touchback.
+
+NC State ball, Q3, 1-10-NCST20 (01:06) 24-6
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+RB J. Light runs right end for 5 yards (ILB A. Freeman, CB B. Carr). 
+
+NC State ball, Q3, 2-5-NCST25 (00:33) 24-6
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB J. Light runs left end for -2 yards (FS G. Bennett).
+
+NC State ball, Q3, 3-7-NCST23 (00:04) 24-6
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+QB P. Pike throws an incomplete pass to WR M. Brown.
+
+NC State ball, Q4, 4-7-NCST23 (15:00) 24-6
+James Mack Punts 43 yards to the Syracuse 34 yard line, where it gets downed.
+
+Syracuse ball, Q4, 1-10-SYR34 (14:43) 6-24
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+R. Sutton has his 12 yard pass intercepted by J. Williamson at the SYR 46. He returns it 0 
+yards to the Syracuse 46.
+
+NC State ball, Q4, 1-10-SYR46 (14:14) 24-6
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB M. Moore runs right tackle for 0 yards (OLB E. Kim). 
+
+NC State ball, Q4, 2-10-SYR46 (13:44) 24-6
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB M. Moore runs left end for 17 yards (SS L. Warren, CB J. Mcgee).  OLB M. Welch was out 
+of position on the play.
+
+NC State ball, Q4, 1-10-SYR29 (13:12) 24-6
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB J. Light runs left tackle for -1 yards (OLB M. Welch).
+
+NC State ball, Q4, 2-11-SYR30 (12:46) 24-6
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB P. Pike completes a 23 yard out-and-up to TE M. Ellison (OOB). OG C. Cunningham earned 
+a pancake on the play.
+
+NC State ball, Q4, 1-7-SYR7 (12:28) 24-6
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+WR M. Brown runs right end for 1 yard (CB J. Mcgee). 
+
+Grabbing Face Mask against CB Bill Carr on Syracuse. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Second and Goal at the Syracuse 3.
+
+NC State ball, Q4, 2-3-SYR3 (12:15) 24-6
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+QB P. Pike completes a 1 yard screen to TE M. Ellison (DT A. Hammond). 
+
+NC State ball, Q4, 3-2-SYR2 (11:52) 24-6
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+QB P. Pike throws an incomplete pass to WR S. Gardiner.
+
+NC State ball, Q4, 4-2-SYR2 (11:32) 24-6
+Thomas Vallejo converts the 20 yard field goal.
+
+NC State ball, Q4, 1-10-NCST35 (11:16) 27-6
+Thomas Vallejo kicks 67 from NC State 35 to Syracuse -2. Brock Edwards to Syracuse 11 for 
+a 13 yard return.
+
+Syracuse ball, Q4, 1-10-SYR11 (11:01) 6-27
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB D. Mooney runs left end for 9 yards (FS J. Colbert, SS A. Davis).  C D. Cooney had a key 
+block on the run. CB D. Davis missed a tackle.
+
+Syracuse ball, Q4, 2-1-SYR20 (10:34) 6-27
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+FB K. Benton runs left tackle for 1 yard (DE L. Johnson). 
+
+Syracuse ball, Q4, 1-10-SYR21 (10:07) 6-27
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: 4-3, Play: 43-norm-SZ-B5,7
+RB M. Roberson runs right tackle for 3 yards (OLB D. Henderson). 
+
+Offsides against ILB Jose Mendoza on NC State. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 5 at the Syracuse 26.
+
+Syracuse ball, Q4, 1-5-SYR26 (09:53) 6-27
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB R. Sutton completes a 0 yard screen to RB M. Roberson (OLB R. Coates). 
+
+Syracuse ball, Q4, 2-5-SYR26 (09:30) 6-27
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB M. Roberson runs left end for 20 yards (SS D. Dejesus, FS J. Colbert).  TE L. Davis had 
+a key block on the run.
+
+Syracuse ball, Q4, 1-10-SYR46 (08:58) 6-27
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Normal, Set: 4-3, Play: 43-norm-Man
+QB R. Sutton completes a 5 yard cross to WR G. Nye (SS D. Dejesus). 
+
+Syracuse ball, Q4, 2-5-NCST49 (08:35) 6-27
+Offense: Long Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB R. Sutton throws an incomplete pass to WR R. Martinez (CB D. Davis). DE L. Johnson hurried 
+the QB. CB D. Davis broke up the pass.
+
+Syracuse ball, Q4, 3-5-NCST49 (08:20) 6-27
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB R. Sutton throws an incomplete pass to WR G. Nye.
+
+Syracuse ball, Q4, 4-5-NCST49 (08:01) 6-27
+James Hodges Punts 37 yards to the NC State 12 yard line,
+
+NC State ball, Q4, 1-10-NCST12 (07:41) 27-6
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+False Start against OT Scott Mccormack on NC State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the NC State 7.
+
+NC State ball, Q4, 1-15-NCST7 (07:41) 27-6
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB M. Moore runs right guard for 3 yards (ILB A. Freeman). 
+
+NC State ball, Q4, 2-12-NCST10 (07:14) 27-6
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB P. Pike completes a 13 yard dump off to WR S. Gardiner (CB J. Mcgee).  FS G. Bennett missed 
+a tackle.
+
+Ineligible Receiver Downfield against OG Clark Cunningham on NC State. The Penalty is for 
+5 yards.
+The Defense will accept the penalty. It is now Second and 17 at the NC State 5.
+
+NC State ball, Q4, 2-17-NCST5 (06:59) 27-6
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB J. Light runs right guard for -3 yards (CB B. Carr). OT S. Mccormack missed a block that 
+hurt the play.
+
+NC State ball, Q4, 3-20-NCST2 (06:30) 27-6
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB M. Moore runs right end for 0 yards (SS L. Warren). 
+
+NC State ball, Q4, 4-20-NCST2 (05:58) 27-6
+James Mack Punts 50 yards to the Syracuse 48 yard line, where Gregg Nye returns it to Syracuse 
+48 for a 0 yard return.
+
+Syracuse ball, Q4, 1-10-SYR48 (05:38) 6-27
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-TMan
+RB M. Roberson runs right tackle for 1 yard (ILB J. Mendoza).  OG C. Godfrey missed a block 
+that hurt the play.
+
+Syracuse ball, Q4, 2-9-SYR49 (05:05) 6-27
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B6,7-L
+RB M. Roberson runs left guard for 2 yards (ILB J. Mendoza). 
+
+Syracuse ball, Q4, 3-7-NCST49 (04:37) 6-27
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB R. Sutton throws an incomplete pass to WR B. Boyce (SS J. Williamson). WR B. Boyce dropped 
+the pass. SS J. Williamson broke up the pass.
+
+Syracuse ball, Q4, 4-7-NCST49 (04:20) 6-27
+James Hodges Punts 49 yards to the end zone, Touchback.
+
+NC State ball, Q4, 1-10-NCST20 (04:04) 27-6
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+P. Pike has his 6 yard pass intercepted by P. Rouse at the NCST 26. He returns it 10 yards 
+to the NC State 16. DT R. Morales hurried the QB.
+
+Syracuse ball, Q4, 1-10-NCST16 (03:33) 6-27
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: 4-3, Play: 43-norm-MZ-B6,7-L
+RB D. Mooney runs right tackle for 0 yards (SS D. Dejesus). 
+
+Syracuse ball, Q4, 2-10-NCST16 (03:00) 6-27
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB R. Sutton throws an incomplete pass to WR B. Boyce.
+
+Syracuse ball, Q4, 3-10-NCST16 (02:44) 6-27
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB R. Sutton throws an incomplete pass to WR B. Boyce (SS A. Davis). OLB R. Coates hurried 
+the QB. SS A. Davis broke up the pass.
+
+Syracuse ball, Q4, 4-10-NCST16 (02:27) 6-27
+Doug Baines converts the 34 yard field goal.
+
+Syracuse ball, Q4, 1-10-SYR35 (02:08) 9-27
+Doug Baines Lines up for the onside kick! The opponent has their hands team out there. The 
+kick goes 21 yards and bounces around...[B] The Return Team Holds on to it. William Moore ends up with it on the NC State 44.
+
+NC State ball, Q4, 1-10-NCST44 (01:52) 27-9
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB M. Moore runs right guard for 17 yards (FS G. Bennett, CB B. Carr).  OT R. Blackwell had 
+a key block on the run.
+
+NC State ball, Q4, 1-10-SYR39 (01:24) 27-9
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB J. Light runs left end for 0 yards (ILB A. Freeman).  OG C. Mchenry missed a block that 
+hurt the play.
+
+NC State ball, Q4, 2-10-SYR39 (00:51) 27-9
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+RB J. Light runs right guard for 2 yards (ILB D. Lewis). 
+
+Syracuse Timeout!
+
+NC State ball, Q4, 3-8-SYR37 (00:44) 27-9
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB M. Moore runs left tackle for -1 yards (FS G. Bennett). OT S. Mccormack missed a block 
+that hurt the play.
+
+NC State ball, Q4, 3-8-SYR37 (00:44) 27-9
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB Patrick Pike (NCST) was injured on the play (Forearm). It doesn't look too serious and 
+he should return.
+
+NC State ball, Q4, 4-9-SYR38 (00:30) 27-9
+James Mack Punts 21 yards to the Syracuse 17 yard line, where it goes out of bounds.
+
+Syracuse ball, Q4, 1-10-SYR17 (00:24) 9-27
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB R. Sutton throws an incomplete pass to TE L. Davis. TE L. Davis ran an incorrect route. 
+DE C. Jenkins hurried the QB.
+
+Syracuse ball, Q4, 2-10-SYR17 (00:16) 9-27
+Offense: Medium Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+QB R. Sutton throws an incomplete pass to WR R. Martinez.
+
+Syracuse ball, Q4, 2-10-SYR17 (00:16) 9-27
+Offense: Medium Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Stop Pass, Set: 4-3, Play: 43-pass-DZ
+WR Brian Williamson (SYR) was injured on the play (Foot). It doesn't look like he will return.
+
+Syracuse ball, Q4, 3-10-SYR17 (00:09) 9-27
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-in-WR4-up
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB R. Sutton throws an incomplete pass to WR R. Martinez.
+
+Syracuse ball, Q4, 4-10-SYR17 (00:03) 9-27
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB R. Sutton throws an incomplete pass to WR R. Martinez (CB D. Davis). CB D. Davis broke 
+up the pass.
+

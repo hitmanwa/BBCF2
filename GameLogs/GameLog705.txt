@@ -1,0 +1,1043 @@
+Charlotte ball, Q1, 1-10-CHAR35 (15:00) 0-0
+James Willis kicks 67 from Charlotte 35 to Marshall -2. Steve Burden to Marshall 26 for a 
+28 yard return.
+
+Marshall ball, Q1, 1-10-MRSH26 (14:44) 0-0
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+Delay of Game against Marshall. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Marshall 21.
+
+Marshall ball, Q1, 1-15-MRSH21 (14:44) 0-0
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+QB M. Nix runs right tackle for 6 yards (FS E. Robinson, CB M. Smith). 
+
+Marshall ball, Q1, 2-9-MRSH27 (14:16) 0-0
+Offense: Outside Run, Set: Flexbone, Play: FL-RB-power-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB S. Petty runs left end for 2 yards (OLB M. Haskell). 
+
+Marshall ball, Q1, 3-7-MRSH29 (13:48) 0-0
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+WR L. Martinez runs right end for 8 yards (OLB M. Haskell, SS J. Meyer). 
+
+Marshall ball, Q1, 1-10-MRSH37 (13:15) 0-0
+Offense: Outside Run, Set: I Form Big, Play: IB-RB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB S. Petty runs right end for 19 yards (FS E. Robinson).  SS J. Meyer missed a tackle.
+
+Marshall ball, Q1, 1-10-CHAR44 (12:47) 0-0
+Offense: Inside Run, Set: Wing T, Play: T-HB-power-RG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+RB S. Petty runs right guard for 5 yards (FS C. Neville, DE R. Miller). 
+
+Marshall ball, Q1, 2-5-CHAR39 (12:18) 0-0
+Offense: Medium Pass, Set: Flexbone, Play: FL-FL-playact-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB M. Nix throws an incomplete pass to WR L. Martinez.
+
+Marshall ball, Q1, 3-5-CHAR39 (12:00) 0-0
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+FB F. Romero runs right end for 0 yards (ILB D. Hinton). 
+
+Marshall ball, Q1, 4-5-CHAR39 (11:31) 0-0
+Walter Whitt Punts 25 yards to the Charlotte 14 yard line, where it goes out of bounds.
+
+Charlotte ball, Q1, 1-10-CHAR14 (11:14) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+FB C. Faust runs left guard for 1 yard (DT K. Serrano).  OG E. Chamberlain missed a block 
+that hurt the play.
+
+Charlotte ball, Q1, 2-9-CHAR15 (10:41) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB C. Burch gets sacked for a 5 yard loss (OLB P. Kopp).  C R. Adams allowed the sack.
+
+Charlotte ball, Q1, 3-14-CHAR10 (10:26) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+RB R. Hester runs left tackle for 5 yards (OLB C. Baker). 
+
+Charlotte ball, Q1, 4-9-CHAR15 (09:57) 0-0
+Gilbert Rasmussen Punts 42 yards to the Marshall 43 yard line, where Robert Miller returns 
+it to Marshall 45 for a 2 yard return.
+
+Marshall ball, Q1, 1-10-MRSH45 (09:41) 0-0
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB M. Nix completes a 21 yard post to WR A. Miller (OOB). FS L. Howard missed a tackle.
+
+Marshall ball, Q1, 1-10-CHAR34 (09:31) 0-0
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB A. Jones runs left tackle for 10 yards (FS C. Neville).  OT M. Stone had a key block on 
+the run.
+
+Marshall ball, Q1, 1-10-CHAR34 (09:31) 0-0
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+DT Micheal Watts (CHAR) was injured on the play (OK). It doesn't look like he will return.
+
+Marshall ball, Q1, 1-10-CHAR24 (09:18) 0-0
+Offense: Outside Run, Set: Wishbone, Play: WB-WB-option-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB A. Jones runs right end for 1 yard (OLB W. Pride). 
+
+Marshall ball, Q1, 2-9-CHAR23 (08:50) 0-0
+Offense: Medium Pass, Set: Wing T, Play: T-SE-corner-WB-flat
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB M. Nix throws an incomplete pass to WR A. Miller (CB T. Smith). WR A. Miller dropped the 
+pass. CB T. Smith broke up the pass.
+
+Marshall ball, Q1, 3-9-CHAR23 (08:34) 0-0
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-power-LE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB S. Petty runs left end for -5 yards (FS E. Robinson). OT M. Stone missed a block that hurt 
+the play.
+
+Marshall ball, Q1, 4-14-CHAR28 (08:07) 0-0
+William Orozco converts the 46 yard field goal.
+
+Marshall ball, Q1, 1-10-MRSH35 (07:52) 3-0
+William Orozco kicks 57 from Marshall 35 to Charlotte 8. Lonnie Howard to Charlotte 22 for 
+a 14 yard return.
+
+Charlotte ball, Q1, 1-10-CHAR22 (07:34) 0-3
+Offense: Outside Run, Set: Quads, Play: Q-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB J. Copeland runs right end for 0 yards (CB R. Miller). 
+
+Charlotte ball, Q1, 2-10-CHAR22 (07:04) 0-3
+Offense: Outside Run, Set: Quads, Play: Q-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB R. Hester runs right end for 1 yard (FS A. Sanders). 
+
+Charlotte ball, Q1, 2-10-CHAR22 (07:04) 0-3
+Offense: Outside Run, Set: Quads, Play: Q-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+DT Kenneth Serrano (MRSH) was injured on the play (Ankle). It doesn't look too serious and 
+he should return.
+
+Charlotte ball, Q1, 3-9-CHAR23 (06:51) 0-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB C. Burch throws an incomplete pass to WR L. White (CB R. Miller). CB R. Miller broke up 
+the pass.
+
+Charlotte ball, Q1, 4-9-CHAR23 (06:34) 0-3
+Gilbert Rasmussen Punts 43 yards to the Marshall 34 yard line, where Robert Miller returns 
+it to Marshall 36 for a 2 yard return.
+
+Marshall ball, Q1, 1-10-MRSH36 (06:14) 3-0
+Offense: Outside Run, Set: I Form Big, Play: IB-RB-power-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB A. Jones runs right tackle for 11 yards (FS E. Robinson).  FB W. Arnold had a key block 
+on the run. DE R. Miller missed a tackle.
+
+Marshall ball, Q1, 1-10-MRSH47 (05:41) 3-0
+Offense: Inside Run, Set: Wing T, Play: T-HB-power-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB A. Jones runs right guard for 1 yard (FS C. Neville). 
+
+Grabbing Face Mask against OLB Wilfred Pride on Charlotte. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Second and 4 at the Charlotte 47.
+
+Marshall ball, Q1, 2-4-CHAR47 (05:30) 3-0
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-streaks
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB M. Nix throws an incomplete pass to RB A. Jones. RB A. Jones dropped the pass. OLB M. Haskell 
+hurried the QB.
+
+Marshall ball, Q1, 3-4-CHAR47 (05:13) 3-0
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB M. Nix throws an incomplete pass to WR L. Martinez. M. Nix made a bad pass.
+
+Marshall ball, Q1, 3-4-CHAR47 (05:13) 3-0
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+OLB Michael Haskell (CHAR) was injured on the play (Elbow). It doesn't look like he will return.
+
+Marshall ball, Q1, 4-4-CHAR47 (04:53) 3-0
+Walter Whitt Punts 33 yards to the Charlotte 14 yard line, where it goes out of bounds.
+
+Charlotte ball, Q1, 1-10-CHAR14 (04:34) 0-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB R. Hester runs left end for -2 yards (DE J. Paul).
+
+Charlotte ball, Q1, 2-12-CHAR12 (04:03) 0-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB R. Hester runs right guard for 5 yards (OLB P. Kopp, ILB J. Johnson). 
+
+Charlotte ball, Q1, 3-7-CHAR17 (03:35) 0-3
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB C. Burch throws an incomplete pass to RB R. Hester. RB R. Hester dropped the pass.
+
+Charlotte ball, Q1, 4-7-CHAR17 (03:20) 0-3
+Gilbert Rasmussen Punts 51 yards to the Marshall 32 yard line, where Robert Miller returns 
+it to Marshall 46 for a 14 yard return.
+
+Marshall ball, Q1, 1-10-MRSH46 (03:00) 3-0
+Offense: Medium Pass, Set: I Form Big, Play: IB-TE-flats
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+QB M. Nix throws an incomplete pass to WR A. Miller. WR A. Miller dropped the pass.
+
+Marshall ball, Q1, 2-10-MRSH46 (02:40) 3-0
+Offense: Outside Run, Set: Flexbone, Play: FL-SE-optpass-corner
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB M. Nix scrambles out of the pocket and gets sacked for a 3 yard loss (DT J. Moore).  RB 
+A. Jones allowed the sack.
+
+Marshall ball, Q1, 3-13-MRSH43 (02:07) 3-0
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4,5,6
+RB S. Petty runs left guard for 6 yards (CB M. Smith, CB T. Smith). 
+
+Marshall ball, Q1, 4-7-MRSH49 (01:40) 3-0
+Walter Whitt Punts 51 yards to the end zone, Touchback.
+
+Charlotte ball, Q1, 1-10-CHAR20 (01:24) 0-3
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB C. Burch throws an incomplete pass to WR J. Graham (OLB C. Baker). WR J. Graham ran an 
+incorrect route. OLB C. Baker broke up the pass.
+
+Charlotte ball, Q1, 2-10-CHAR20 (01:08) 0-3
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB R. Hester runs right tackle for -2 yards (DT K. Serrano). C R. Adams missed a block that 
+hurt the play.
+
+Charlotte ball, Q1, 3-12-CHAR18 (00:37) 0-3
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB C. Burch completes a 14 yard post to WR C. Watson (SS S. Burden). 
+
+Charlotte ball, Q1, 3-12-CHAR18 (00:37) 0-3
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+WR John Graham (CHAR) was injured on the play (OK). It doesn't look like he will return.
+
+Charlotte ball, Q1, 1-10-CHAR32 (00:21) 0-3
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-streaks
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB C. Burch throws an incomplete pass to WR C. Watson.
+
+Charlotte ball, Q1, 2-10-CHAR32 (00:05) 0-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB C. Burch throws an incomplete pass to WR L. Mitchell (CB V. Mendez). CB V. Mendez broke 
+up the pass.
+
+Charlotte ball, Q2, 3-10-CHAR32 (15:00) 0-3
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB C. Burch throws an incomplete pass to WR L. Baker.
+
+Charlotte ball, Q2, 4-10-CHAR32 (14:44) 0-3
+Gilbert Rasmussen Punts 47 yards to the Marshall 21 yard line, where it goes out of bounds.
+
+Marshall ball, Q2, 1-10-MRSH21 (14:24) 3-0
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB A. Jones runs left guard for 6 yards (ILB U. Martin, FS L. Howard). 
+
+Marshall ball, Q2, 1-10-MRSH21 (14:24) 3-0
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+DE Robt Miller (CHAR) was injured on the play (Foot). It doesn't look like he will return.
+
+Marshall ball, Q2, 2-4-MRSH27 (14:07) 3-0
+Offense: Inside Run, Set: Wing T, Play: T-HB-power-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB A. Jones runs right guard for -1 yards (ILB U. Martin). A. Jones missed a hole that could 
+have resulted in a bigger gain.
+
+Marshall ball, Q2, 3-5-MRSH26 (13:34) 3-0
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+QB M. Nix throws an incomplete pass to RB S. Petty.
+
+Marshall ball, Q2, 4-5-MRSH26 (13:17) 3-0
+Walter Whitt Punts 29 yards to the Charlotte 45 yard line, where Larry Baker returns it to 
+Marshall 46 for a 9 yard return.
+
+Charlotte ball, Q2, 1-10-MRSH46 (12:59) 0-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-posts
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB C. Burch completes a 15 yard in to WR C. Watson (OLB P. Kopp).  C. Watson made a great 
+catch. ILB J. Johnson missed a tackle.
+
+Charlotte ball, Q2, 1-10-MRSH31 (12:33) 0-3
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+RB J. Copeland runs right guard for 7 yards (OLB P. Kopp, ILB J. Johnson).  OT M. Aldridge 
+had a key block on the run. DT R. Hunt was out of position on the play.
+
+Charlotte ball, Q2, 2-3-MRSH24 (12:07) 0-3
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB R. Hester runs left tackle for -3 yards (CB V. Mendez). C R. Adams missed a block that 
+hurt the play.
+
+Charlotte ball, Q2, 3-6-MRSH27 (11:40) 0-3
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB R. Hester runs left guard for 3 yards (OLB P. Kopp). 
+
+Charlotte ball, Q2, 4-3-MRSH24 (11:09) 0-3
+Marvin Greene misses the 42 yard field goal. It will be Marshall ball at the MRSH 24
+
+Marshall ball, Q2, 1-10-MRSH24 (10:53) 3-0
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB M. Nix completes a 13 yard post to TE J. King (FS L. Howard). 
+
+Marshall ball, Q2, 1-10-MRSH37 (10:25) 3-0
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-tripoption-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB M. Nix scrambles out of the pocket and gets sacked for a 1 yard loss (OLB W. Pride).  FB 
+F. Romero allowed the sack.
+
+Marshall ball, Q2, 2-11-MRSH36 (10:12) 3-0
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB A. Jones runs left tackle for 8 yards (ILB U. Martin).  OT M. Stone had a key block on 
+the run. DT J. Moore missed a tackle.
+
+Marshall ball, Q2, 3-3-MRSH44 (09:45) 3-0
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB M. Nix throws an incomplete pass to RB A. Jones.
+
+Marshall ball, Q2, 4-3-MRSH44 (09:29) 3-0
+Walter Whitt Punts 43 yards to the Charlotte 13 yard line, where it goes out of bounds.
+
+Charlotte ball, Q2, 1-10-CHAR13 (09:09) 0-3
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Dime, Play: Dime-run-MZ-B8
+QB C. Burch completes a 6 yard in to WR C. Watson (OOB).
+
+Charlotte ball, Q2, 2-4-CHAR19 (08:51) 0-3
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB C. Burch completes a 11 yard screen to RB J. Copeland (OLB C. Baker, SS S. Burden). 
+
+Charlotte ball, Q2, 1-10-CHAR30 (08:27) 0-3
+Offense: Medium Pass, Set: Trips, Play: TR-FL-slant-SE-post
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+QB C. Burch throws an incomplete pass to TE N. Christian. C. Burch made a bad pass.
+
+Charlotte ball, Q2, 2-10-CHAR30 (08:10) 0-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+RB J. Copeland runs right guard for 7 yards (ILB J. Johnson).  OT M. Aldridge had a key block 
+on the run.
+
+Charlotte ball, Q2, 3-3-CHAR37 (07:38) 0-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB R. Hester runs left tackle for 3 yards (ILB J. Johnson). 
+
+Charlotte ball, Q2, 3-3-CHAR37 (07:38) 0-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+DT Kenneth Serrano (MRSH) was injured on the play (Knee). It doesn't look too serious and 
+he should return.
+
+Charlotte ball, Q2, 1-10-CHAR40 (07:25) 0-3
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB C. Burch throws an incomplete pass to WR L. White.
+
+Charlotte ball, Q2, 2-10-CHAR40 (07:08) 0-3
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B11
+QB C. Burch throws an incomplete pass to RB R. Hester (CB E. Brooks). CB E. Brooks broke up 
+the pass.
+
+Charlotte ball, Q2, 3-10-CHAR40 (06:50) 0-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB C. Burch completes a 20 yard in to WR L. Mitchell (SS S. Burden, CB R. Miller). 
+
+Charlotte ball, Q2, 1-10-MRSH40 (06:26) 0-3
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+QB C. Burch runs outside for 5 yards (ILB J. Johnson, FS A. Sanders). 
+
+Charlotte ball, Q2, 2-5-MRSH35 (06:01) 0-3
+Offense: Outside Run, Set: Quads, Play: Q-HB-toss-LE
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB R. Hester runs left end for -2 yards (CB V. Mendez). C R. Adams missed a block that hurt 
+the play.
+
+Charlotte ball, Q2, 3-7-MRSH37 (05:37) 0-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB C. Burch throws an incomplete pass to WR C. Watson (CB V. Mendez). CB V. Mendez broke up 
+the pass.
+
+Charlotte ball, Q2, 4-7-MRSH37 (05:21) 0-3
+Gilbert Rasmussen Punts 22 yards to the Marshall 15 yard line, where it goes out of bounds.
+
+Marshall ball, Q2, 1-10-MRSH15 (05:02) 3-0
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-tripoption-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB M. Nix scrambles out of the pocket and gets sacked for a 6 yard loss (OLB R. Hickey).  
+RB A. Jones allowed the sack.
+
+Marshall ball, Q2, 2-16-MRSH9 (04:30) 3-0
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB S. Petty runs right guard for -1 yards (DT J. Moore).
+
+Marshall ball, Q2, 3-17-MRSH8 (04:04) 3-0
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-tripoption-LE
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-Spy
+RB S. Petty runs left tackle for 8 yards (ILB U. Martin, OLB R. Hickey).  OG H. Cox had a 
+key block on the run.
+
+Marshall ball, Q2, 4-9-MRSH16 (03:32) 3-0
+Walter Whitt Punts 54 yards to the Charlotte 30 yard line, where Larry Baker returns it to 
+Charlotte 48 for a 18 yard return.
+
+Grabbing Face Mask against FB Harvey Goode on Marshall. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Marshall 47.
+
+Charlotte ball, Q2, 1-10-MRSH47 (03:17) 0-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB J. Copeland runs left guard for 1 yard (OLB C. Baker).  C R. Adams missed a block that 
+hurt the play.
+
+Charlotte ball, Q2, 2-9-MRSH46 (02:48) 0-3
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB C. Burch throws an incomplete pass to WR L. White (CB R. Miller). WR L. White dropped the 
+pass. CB R. Miller broke up the pass.
+
+Charlotte ball, Q2, 3-9-MRSH46 (02:33) 0-3
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB C. Burch completes a 8 yard hook to WR L. Mitchell (SS S. Burden). 
+
+Holding against OG Edward Chamberlain on Charlotte. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Charlotte ball, Q2, 4-1-MRSH38 (02:21) 0-3
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: 4-4, Play: 44-run-Man-B5,8
+QB C. Burch throws an incomplete pass to WR C. Watson.
+
+Charlotte ball, Q2, 4-1-MRSH38 (02:21) 0-3
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: 4-4, Play: 44-run-Man-B5,8
+DT Kenneth Serrano (MRSH) was injured on the play (Shoulder). It doesn't look like he will 
+return.
+
+Marshall ball, Q2, 1-10-MRSH38 (02:01) 3-0
+Offense: Outside Run, Set: Wing T, Play: T-HB-option-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB S. Petty runs right tackle for 11 yards (FS C. Neville).  OG H. Cox had a key block on 
+the run. SS J. Meyer missed a tackle.
+
+Marshall ball, Q2, 1-10-MRSH49 (01:50) 3-0
+Offense: Inside Run, Set: Wing T, Play: T-HB-power-RG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+RB S. Petty runs right guard for 3 yards (CB M. Smith). 
+
+Marshall ball, Q2, 1-10-MRSH49 (01:50) 3-0
+Offense: Inside Run, Set: Wing T, Play: T-HB-power-RG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+OG James Bryant (MRSH) was injured on the play (Chin). It doesn't look too serious and he 
+should return.
+
+Marshall ball, Q2, 2-7-CHAR48 (01:36) 3-0
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB M. Nix completes a 7 yard dump off to RB S. Petty (OLB W. Pride, FS L. Howard). 
+
+Marshall ball, Q2, 1-10-CHAR41 (01:13) 3-0
+Offense: Medium Pass, Set: Wing T, Play: T-SE-corner-WB-flat
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB M. Nix throws an incomplete pass to WR A. Miller.
+
+Marshall ball, Q2, 2-10-CHAR41 (01:07) 3-0
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB M. Nix completes a 6 yard hook to WR L. Martinez (OLB W. Pride). 
+
+Marshall ball, Q2, 2-10-CHAR41 (01:07) 3-0
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+FS Lonnie Howard (CHAR) was injured on the play (OK). It doesn't look like he will return.
+
+Marshall ball, Q2, 3-4-CHAR35 (00:51) 3-0
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+QB M. Nix completes a 10 yard streak to RB A. Jones (CB T. Smith). 
+
+Marshall Timeout!
+
+Marshall ball, Q2, 1-10-CHAR25 (00:45) 3-0
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+QB M. Nix throws an incomplete pass to RB A. Jones (CB W. Newell). CB W. Newell broke up the 
+pass.
+
+Marshall ball, Q2, 2-10-CHAR25 (00:39) 3-0
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB M. Nix completes a 6 yard cross to WR A. Miller (SS J. Meyer). 
+
+Marshall Timeout!
+
+Marshall ball, Q2, 3-4-CHAR19 (00:33) 3-0
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB M. Nix completes a 8 yard dump off to RB S. Petty (CB M. Smith, CB W. Newell). 
+
+Pass Interference against FS Carlos Neville on Charlotte. The Penalty is for 8 yards, and 
+an automatic first down.
+The penalty will be declined.
+
+Marshall ball, Q2, 1-10-CHAR11 (00:21) 3-0
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB M. Nix completes a 7 yard streak to RB A. Jones (ILB U. Martin, CB W. Newell). 
+
+Marshall Timeout!
+
+Marshall ball, Q2, 2-3-CHAR4 (00:15) 3-0
+William Orozco converts the 22 yard field goal.
+
+Marshall ball, Q2, 1-10-MRSH35 (00:08) 6-0
+William Orozco kicks 75 from Marshall 35 to end zone, Touchback.
+
+Charlotte ball, Q2, 1-10-CHAR20 (00:02) 0-6
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+The QB takes a knee.
+
+Marshall ball, Q3, 1-10-MRSH35 (15:00) 6-0
+William Orozco kicks 75 from Marshall 35 to end zone, Touchback.
+
+Charlotte ball, Q3, 1-10-CHAR20 (14:41) 0-6
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ-B5,6,7,8
+QB C. Burch completes a 34 yard post to WR C. Watson (OLB C. Baker, SS S. Burden).  C. Watson 
+made a great catch. TE N. Christian earned a pancake on the play. SS S. Burden allowed the big play.
+
+Charlotte ball, Q3, 1-10-MRSH46 (14:16) 0-6
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-slotrun-RE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+WR C. Watson runs right end for 1 yard (OLB C. Baker). 
+
+Charlotte ball, Q3, 2-9-MRSH45 (13:50) 0-6
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB J. Copeland runs left tackle for 4 yards (OLB C. Baker). 
+
+Charlotte ball, Q3, 3-5-MRSH41 (13:23) 0-6
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B11
+QB C. Burch gets sacked for a 1 yard loss (OLB P. Kopp).  C R. Adams allowed the sack.
+
+Charlotte ball, Q3, 4-6-MRSH42 (13:08) 0-6
+Gilbert Rasmussen Punts 28 yards to the Marshall 14 yard line, where it goes out of bounds.
+
+Marshall ball, Q3, 1-10-MRSH14 (12:49) 6-0
+Offense: Medium Pass, Set: Flexbone, Play: FL-FL-playact-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+QB M. Nix completes a 20 yard out to WR T. Young (OLB W. Pride, FS E. Robinson).  FS E. Robinson 
+was out of position on the play.
+
+Pass Interference against CB Thomas Smith on Charlotte. The Penalty is for 15 yards, and an 
+automatic first down.
+The penalty will be declined.
+
+Marshall ball, Q3, 1-10-MRSH34 (12:35) 6-0
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-option-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB S. Petty runs right end for 9 yards (OLB W. Pride).  OT M. Stone had a key block on the run.
+
+Marshall ball, Q3, 2-1-MRSH43 (12:07) 6-0
+Offense: Inside Run, Set: Wing T, Play: T-HB-power-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+RB S. Petty runs right guard for 3 yards (ILB U. Martin). 
+
+Marshall ball, Q3, 1-10-MRSH46 (11:37) 6-0
+Offense: Inside Run, Set: Wing T, Play: T-WB-power-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4
+RB A. Jones runs right tackle for 3 yards (ILB U. Martin). 
+
+Marshall ball, Q3, 2-7-MRSH49 (11:05) 6-0
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB M. Nix completes a 46 yard post to WR A. Miller (CB W. Newell, CB E. Davis).  OG H. Cox 
+earned a pancake on the play. CB E. Davis allowed the big play.
+
+Marshall ball, Q3, 1-5-CHAR5 (10:41) 6-0
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+RB S. Petty runs right guard for 2 yards (FS C. Neville). 
+
+Marshall ball, Q3, 1-5-CHAR5 (10:41) 6-0
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+OLB Wilfred Pride (CHAR) was injured on the play (Elbow). It doesn't look too serious and 
+he should return.
+
+Marshall ball, Q3, 2-3-CHAR3 (10:25) 6-0
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-power-LE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+RB A. Jones runs left tackle for 3 yards ****Touchdown!*****
+
+Marshall ball, Q3, 1-0-CHAR0 (09:59) 12-0
+Offense: Short Pass, Set: I Form Big, Play: IB-FB-screen
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB M. Nix completes a -1 yard screen to FB W. Arnold (OLB W. Pride). 
+
+Marshall ball, Q3, 1-10-MRSH35 (09:59) 12-0
+William Orozco kicks 75 from Marshall 35 to end zone, Touchback.
+
+Charlotte ball, Q3, 1-10-CHAR20 (09:43) 0-12
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB C. Burch completes a 13 yard hook to WR L. Mitchell (OLB C. Baker).  OG R. Barry earned 
+a pancake on the play.
+
+Charlotte ball, Q3, 1-10-CHAR33 (09:20) 0-12
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+QB C. Burch throws an incomplete pass to WR L. Mitchell. DE J. Paul hurried the QB.
+
+Holding against OG Rudy Barry on Charlotte. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Charlotte 23.
+
+Charlotte ball, Q3, 1-20-CHAR23 (09:10) 0-12
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+FB C. Faust runs right tackle for 4 yards (CB V. Mendez). 
+
+Charlotte ball, Q3, 2-16-CHAR27 (08:38) 0-12
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB R. Hester runs right guard for -3 yards (OLB C. Baker).
+
+Charlotte ball, Q3, 3-19-CHAR24 (08:05) 0-12
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB C. Burch completes a 21 yard hook to WR L. Mitchell (SS S. Burden). 
+
+Charlotte ball, Q3, 1-10-CHAR45 (07:40) 0-12
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+FB C. Faust runs left guard for 3 yards (ILB J. Johnson, OLB C. Baker). 
+
+Charlotte ball, Q3, 2-7-CHAR48 (07:11) 0-12
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB C. Burch runs outside for 20 yards (SS S. Burden).  DE J. Paul hurried the QB.
+
+Charlotte ball, Q3, 1-10-MRSH32 (06:52) 0-12
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB C. Burch throws an incomplete pass to RB J. Copeland.
+
+Charlotte ball, Q3, 2-10-MRSH32 (06:33) 0-12
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB R. Hester runs right guard for -1 yards (SS S. Burden). OG R. Barry missed a block that 
+hurt the play.
+
+Charlotte ball, Q3, 3-11-MRSH33 (06:07) 0-12
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB R. Hester runs right guard for -1 yards (SS S. Burden).
+
+Charlotte ball, Q3, 4-12-MRSH34 (05:40) 0-12
+Gilbert Rasmussen Punts 34 yards to the end zone, Touchback.
+
+Marshall ball, Q3, 1-10-MRSH20 (05:20) 12-0
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-option-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB M. Nix runs right tackle for 23 yards (CB T. Smith). 
+
+Marshall ball, Q3, 1-10-MRSH43 (04:51) 12-0
+Offense: Long Pass, Set: Flexbone, Play: FL-SE-streaks
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB M. Nix throws an incomplete pass to WR L. Martinez (CB T. Smith). CB T. Smith broke up 
+the pass.
+
+Marshall ball, Q3, 2-10-MRSH43 (04:35) 12-0
+Offense: Long Pass, Set: Flexbone, Play: FL-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man
+QB M. Nix completes a 46 yard streak to WR A. Miller (FS C. Neville).  OG H. Cox earned a 
+pancake on the play. ILB U. Martin allowed the big play.
+
+Marshall ball, Q3, 1-10-CHAR11 (04:08) 12-0
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+RB S. Petty runs left guard for 4 yards (ILB U. Martin, FS E. Robinson). 
+
+Marshall ball, Q3, 1-10-CHAR11 (04:08) 12-0
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+DE Dexter Smith (CHAR) was injured on the play (Lower Back). It doesn't look like he will 
+return.
+
+Marshall ball, Q3, 2-6-CHAR7 (03:53) 12-0
+Offense: Outside Run, Set: Wing T, Play: T-HB-option-RE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB A. Jones runs right end for 5 yards (CB T. Smith, SS J. Meyer). 
+
+Marshall ball, Q3, 3-1-CHAR2 (03:24) 12-0
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-tripoption-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+FB W. Arnold runs left end for 1 yard (FS C. Neville). 
+
+Marshall ball, Q3, 1-1-CHAR1 (02:57) 12-0
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+QB M. Nix completes a 1 yard dump off to RB S. Petty ****Touchdown!*****
+
+Marshall ball, Q3, 1-1-CHAR1 (02:57) 12-0
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+OG James Bryant (MRSH) was injured on the play (Quadriceps). It doesn't look like he will 
+return.
+
+Marshall ball, Q3, 1-0-CHAR0 (02:42) 18-0
+William Orozco has his PAT blocked by WR Christopher Watson! The ball is recovered by Charlotte 
+CHAR 3
+
+Marshall ball, Q3, 1-10-MRSH35 (02:42) 18-0
+William Orozco kicks 55 from Marshall 35 to Charlotte 10. Carlos Neville to Charlotte 27 for 
+a 17 yard return.
+
+Charlotte ball, Q3, 1-10-CHAR27 (02:27) 0-18
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB C. Burch completes a 3 yard hook to WR L. Mitchell (OLB C. Baker). 
+
+Pass Interference against CB Victor Mendez on Marshall. The Penalty is for 3 yards, and an 
+automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Charlotte 30.
+
+Charlotte ball, Q3, 1-10-CHAR30 (02:12) 0-18
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB R. Hester runs right guard for 1 yard (OLB C. Baker).  OT M. Aldridge missed a block that 
+hurt the play.
+
+Charlotte ball, Q3, 2-9-CHAR31 (01:42) 0-18
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB J. Copeland runs right end for 11 yards (SS M. Rowley). 
+
+Charlotte ball, Q3, 1-10-CHAR42 (01:13) 0-18
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB J. Copeland runs right tackle for 13 yards (OLB P. Kopp, ILB J. Johnson).  OG R. Barry 
+had a key block on the run.
+
+Charlotte ball, Q3, 1-10-MRSH45 (00:41) 0-18
+Offense: Inside Run, Set: Shotgun, Play: SG-QB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB C. Burch runs right tackle for 16 yards (OLB P. Kopp). 
+
+Charlotte ball, Q3, 1-10-MRSH29 (00:12) 0-18
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB C. Burch completes a 6 yard hook to WR L. White (SS M. Rowley). 
+
+Charlotte ball, Q4, 2-4-MRSH23 (15:00) 0-18
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB C. Burch completes a 3 yard hook to WR L. Mitchell (CB E. Brooks). 
+
+Charlotte ball, Q4, 3-1-MRSH20 (14:38) 0-18
+Offense: Inside Run, Set: Quads, Play: Q-QB-draw-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB C. Burch scrambles out of the pocket and gets sacked for a 1 yard loss (OLB C. Baker). 
+ OG E. Chamberlain allowed the sack.
+
+Charlotte ball, Q4, 4-2-MRSH21 (14:09) 0-18
+Marvin Greene misses the 39 yard field goal. It will be Marshall ball at the MRSH 21
+
+Illegal Substitution against Charlotte. The Penalty is for 5 yards.
+The penalty will be declined.
+
+Marshall ball, Q4, 1-10-MRSH21 (13:58) 18-0
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB A. Jones runs left tackle for 28 yards (OLB W. Pride). 
+
+Marshall ball, Q4, 1-10-MRSH49 (13:30) 18-0
+Offense: Inside Run, Set: Wing T, Play: T-HB-power-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB A. Jones runs right tackle for 1 yard (OLB W. Pride).  OT M. Stone missed a block that 
+hurt the play.
+
+Offsides against DT Robert Gilbert on Charlotte. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 5 at the Charlotte 46.
+
+Marshall ball, Q4, 1-5-CHAR46 (13:17) 18-0
+Offense: Long Pass, Set: I Form, Play: I-SE-streaks
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+M. Nix has his 21 yard pass intercepted by W. Newell at the CHAR 25. He returns it 10 yards 
+to the Charlotte 35. M. Nix made a bad pass.
+
+Charlotte ball, Q4, 1-10-CHAR35 (12:50) 0-18
+Offense: Long Pass, Set: Trips, Play: TR-SE-rollout-post
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+QB C. Burch throws an incomplete pass to WR L. White. C. Burch made a bad pass. DE L. Johnson 
+hurried the QB.
+
+Charlotte ball, Q4, 2-10-CHAR35 (12:34) 0-18
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB C. Burch completes a 19 yard out to WR L. White (CB V. Mendez, SS S. Burden).  L. White 
+made a great catch. OG E. Chamberlain earned a pancake on the play. FS A. Sanders missed a tackle.
+
+Charlotte ball, Q4, 1-10-MRSH46 (12:09) 0-18
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB J. Copeland runs left guard for 1 yard (FS A. Sanders).  OG R. Barry missed a block that 
+hurt the play.
+
+Charlotte ball, Q4, 2-9-MRSH45 (11:39) 0-18
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+QB C. Burch throws an incomplete pass to WR L. White (FS A. Sanders). WR L. White dropped 
+the pass. FS A. Sanders broke up the pass.
+
+Charlotte ball, Q4, 3-9-MRSH45 (11:21) 0-18
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB C. Burch throws an incomplete pass to WR L. Baker.
+
+Charlotte ball, Q4, 4-9-MRSH45 (11:03) 0-18
+Gilbert Rasmussen Punts 33 yards to the Marshall 12 yard line, where it goes out of bounds.
+
+Marshall ball, Q4, 1-10-MRSH12 (10:43) 18-0
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+RB S. Petty runs right guard for 5 yards (SS J. Meyer, ILB U. Martin). 
+
+Marshall ball, Q4, 2-5-MRSH17 (10:12) 18-0
+Offense: Medium Pass, Set: I Form Big, Play: IB-SE-str-TE2-slant
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB M. Nix throws an incomplete pass to WR A. Miller (OLB W. Pride). WR A. Miller dropped the 
+pass. OLB W. Pride broke up the pass.
+
+Marshall ball, Q4, 3-5-MRSH17 (09:54) 18-0
+Offense: Short Pass, Set: Wing T, Play: T-TE-out-SE-slant
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-TMan
+QB M. Nix completes a 0 yard streak to RB S. Petty (OLB W. Pride). 
+
+Marshall ball, Q4, 4-5-MRSH17 (09:30) 18-0
+Walter Whitt Punts 41 yards to the Charlotte 42 yard line, where Larry Baker returns it to 
+Marshall 47 for a 11 yard return.
+
+Charlotte ball, Q4, 1-10-MRSH47 (09:12) 0-18
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6
+QB C. Burch throws an incomplete pass to WR L. Mitchell.
+
+Charlotte ball, Q4, 2-10-MRSH47 (08:56) 0-18
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB J. Copeland runs left end for 2 yards (OLB P. Kopp). 
+
+Charlotte ball, Q4, 3-8-MRSH45 (08:23) 0-18
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Run, Set: Dime, Play: Dime-run-SZ
+QB C. Burch gets sacked for a 4 yard loss (DE J. Paul).  OT W. Ellison allowed the sack.
+
+Charlotte ball, Q4, 4-12-MRSH49 (08:05) 0-18
+Gilbert Rasmussen Punts 46 yards to the Marshall 3 yard line, where it goes out of bounds.
+
+Marshall ball, Q4, 1-10-MRSH3 (07:45) 18-0
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB S. Petty runs left guard for 4 yards (ILB U. Martin, SS J. Meyer). 
+
+Marshall ball, Q4, 2-6-MRSH7 (07:17) 18-0
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB S. Petty runs right guard for 9 yards (OLB W. Pride).  S. Petty created the big run with 
+his own skills.
+
+Marshall ball, Q4, 1-10-MRSH16 (06:47) 18-0
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+RB A. Jones runs left guard for 3 yards (ILB U. Martin). 
+
+Marshall ball, Q4, 2-7-MRSH19 (06:16) 18-0
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB S. Petty runs right guard for 4 yards (ILB U. Martin, FS C. Neville). 
+
+Marshall ball, Q4, 3-3-MRSH23 (05:49) 18-0
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB M. Nix completes a 0 yard hook to WR A. Miller (FS C. Neville). 
+
+Marshall ball, Q4, 4-3-MRSH23 (05:26) 18-0
+Walter Whitt Punts 29 yards to the Charlotte 48 yard line, where Larry Baker returns it to 
+Marshall 46 for a 6 yard return.
+
+Charlotte ball, Q4, 1-10-MRSH46 (05:08) 0-18
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB C. Burch throws an incomplete pass to WR C. Watson. WR C. Watson ran an incorrect route.
+
+Charlotte ball, Q4, 2-10-MRSH46 (04:50) 0-18
+Offense: Short Pass, Set: Trips, Play: TR-FL-in-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+False Start against OG Rudy Barry on Charlotte. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 15 at the Charlotte 49.
+
+Charlotte ball, Q4, 2-15-CHAR49 (04:50) 0-18
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB C. Burch completes a 6 yard screen to RB R. Hester (OLB C. Baker, CB R. Miller). 
+
+Charlotte ball, Q4, 3-9-MRSH45 (04:27) 0-18
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB C. Burch completes a 26 yard in to WR L. White (CB V. Mendez, SS S. Burden). 
+
+Charlotte ball, Q4, 1-10-MRSH19 (04:02) 0-18
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB J. Copeland runs left end for 7 yards (OOB).
+
+Charlotte ball, Q4, 2-3-MRSH12 (03:50) 0-18
+Offense: Inside Run, Set: Quads, Play: Q-QB-draw-RG
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+QB C. Burch scrambles out of the pocket and gets sacked for a 2 yard loss (OLB P. Kopp).  
+C R. Adams allowed the sack.
+
+Charlotte ball, Q4, 3-5-MRSH14 (03:20) 0-18
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB R. Hester runs left tackle for 1 yard (OLB C. Baker).  OT W. Ellison missed a block that 
+hurt the play.
+
+Charlotte ball, Q4, 4-4-MRSH13 (02:50) 0-18
+Marvin Greene converts the 31 yard field goal.
+
+Charlotte ball, Q4, 1-10-CHAR35 (02:34) 3-18
+James Willis Lines up for the onside kick! The opponent has their hands team out there. The 
+kick goes 18 yards and bounces around...[B] The Return Team Holds on to it. Keith Sanders ends up with it on the Marshall 47.
+
+Marshall ball, Q4, 1-10-MRSH47 (02:17) 18-3
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-power-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+False Start against OG Gary Valentine on Marshall. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Marshall 42.
+
+Marshall ball, Q4, 1-15-MRSH42 (02:17) 18-3
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+RB S. Petty runs right end for 2 yards (OOB).
+
+Marshall ball, Q4, 2-13-MRSH44 (02:05) 18-3
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB A. Jones runs left tackle for 3 yards (CB M. Smith). 
+
+Marshall ball, Q4, 3-10-MRSH47 (01:53) 18-3
+Offense: Outside Run, Set: I Form Big, Play: IB-RB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB S. Petty runs right end for 5 yards (FS E. Robinson, OLB R. Hickey). 
+
+Marshall ball, Q4, 4-5-CHAR48 (01:22) 18-3
+Walter Whitt Punts 39 yards to the Charlotte 9 yard line, where it gets downed.
+
+Charlotte ball, Q4, 1-10-CHAR9 (01:14) 3-18
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+QB C. Burch completes a 11 yard hook to WR L. White (CB V. Mendez).  C. Burch with the great 
+pass.
+
+Holding against OLB Colton Baker on Marshall. The Penalty is for 10 yards, and an automatic 
+first down.
+The penalty will be declined.
+
+Charlotte ball, Q4, 1-10-CHAR20 (01:02) 3-18
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB C. Burch throws an incomplete pass to WR C. Watson (CB V. Mendez). CB V. Mendez broke up 
+the pass.
+
+Charlotte ball, Q4, 2-10-CHAR20 (00:55) 3-18
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+QB C. Burch completes a 22 yard post to WR C. Watson (CB R. Miller, FS A. Sanders).  C. Watson 
+made a great catch.
+
+Charlotte Timeout!
+
+Charlotte ball, Q4, 1-10-CHAR42 (00:47) 3-18
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-in-WR4-up
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+QB C. Burch throws an incomplete pass to WR C. Watson. WR C. Watson ran an incorrect route.
+
+Charlotte ball, Q4, 1-10-CHAR42 (00:47) 3-18
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-in-WR4-up
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+WR Larry Mitchell (CHAR) was injured on the play (OK). It doesn't look like he will return.
+
+Charlotte ball, Q4, 2-10-CHAR42 (00:39) 3-18
+Offense: Medium Pass, Set: Trips, Play: TR-TE-playact-corner
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB C. Burch completes a 5 yard post to WR L. Baker (ILB J. Johnson). 
+
+Charlotte Timeout!
+
+Charlotte ball, Q4, 3-5-CHAR47 (00:33) 3-18
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Run, Set: Dime, Play: Dime-run-SZ
+QB C. Burch completes a 6 yard cross to WR C. Watson (OOB).
+
+Charlotte ball, Q4, 3-5-CHAR47 (00:33) 3-18
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Run, Set: Dime, Play: Dime-run-SZ
+WR Ernest Shaw (CHAR) was injured on the play (Foot). It doesn't look too serious and he should 
+return.
+
+Charlotte ball, Q4, 1-10-MRSH47 (00:27) 3-18
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+QB C. Burch completes a 3 yard in to WR E. Shaw (OOB).
+
+Charlotte ball, Q4, 2-7-MRSH44 (00:19) 3-18
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB C. Burch throws an incomplete pass to RB R. Hester (OLB C. Baker). OLB C. Baker broke up 
+the pass.
+
+Charlotte ball, Q4, 3-7-MRSH44 (00:11) 3-18
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB C. Burch completes a 3 yard cross to WR L. White (FS A. Sanders, SS S. Burden). 
+
+Charlotte Timeout!
+
+Charlotte ball, Q4, 4-4-MRSH41 (00:04) 3-18
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 4-4, Play: 44-norm-Man-B6,7
+QB C. Burch gets sacked for a 1 yard loss (DT R. Hunt).  C R. Adams allowed the sack.
+

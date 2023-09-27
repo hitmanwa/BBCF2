@@ -1,0 +1,1037 @@
+Texas Christian ball, Q1, 1-10-TCU35 (15:00) 0-0
+John Johnson kicks 67 from Texas Christian 35 to Missouri -2. Melvin Carter to Missouri 25 
+for a 27 yard return.
+
+Missouri ball, Q1, 1-10-MO25 (14:42) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB A. Johnson runs right guard for 11 yards (ILB M. Mata). 
+
+Missouri ball, Q1, 1-10-MO36 (14:16) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB A. Johnson runs right guard for -1 yards (ILB C. Taylor).
+
+Missouri ball, Q1, 2-11-MO35 (13:43) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB M. Cook throws an incomplete pass to WR T. Sears (CB G. Mclaurin). CB G. Mclaurin broke 
+up the pass.
+
+Missouri ball, Q1, 3-11-MO35 (13:23) 0-0
+Offense: Long Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+False Start against OG Richard White on Missouri. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 16 at the Missouri 30.
+
+Missouri ball, Q1, 3-16-MO30 (13:23) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+Delay of Game against Missouri. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 21 at the Missouri 25.
+
+Missouri ball, Q1, 3-21-MO25 (13:23) 0-0
+Offense: Long Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+QB M. Cook completes a 23 yard streak to WR J. Rodriquez (ILB C. Taylor).  OG J. Hurley earned 
+a pancake on the play. FS T. Perdue missed a tackle.
+
+Missouri ball, Q1, 1-10-MO48 (12:52) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+QB M. Cook throws an incomplete pass to TE D. Johnson.
+
+Missouri ball, Q1, 2-10-MO48 (12:37) 0-0
+Offense: Medium Pass, Set: Weak, Play: WK-SE-streaks
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB M. Cook throws an incomplete pass to WR T. Sears. WR T. Sears dropped the pass.
+
+Missouri ball, Q1, 3-10-MO48 (12:22) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB M. Cook completes a 19 yard out to WR J. Rodriquez (SS M. Garcia, FS T. Perdue).  J. Rodriquez 
+made a great catch. OG R. White earned a pancake on the play. CB M. Coats was out of position on the play.
+
+Missouri ball, Q1, 1-10-TCU33 (12:09) 0-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+RB A. Johnson runs right guard for 6 yards (CB G. Mclaurin). 
+
+Missouri ball, Q1, 2-4-TCU27 (11:42) 0-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B5
+RB A. Johnson runs right end for 6 yards (OOB).
+
+Missouri ball, Q1, 1-10-TCU21 (11:26) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB A. Johnson runs left end for 6 yards (CB J. Francis). 
+
+Missouri ball, Q1, 2-4-TCU15 (10:53) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+FB M. Flood runs left guard for 8 yards (ILB M. Mata, SS J. Alexander). 
+
+Missouri ball, Q1, 1-7-TCU7 (10:24) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+RB W. Robinson runs left tackle for 4 yards (ILB M. Mata, CB M. Coats). 
+
+Missouri ball, Q1, 2-3-TCU3 (09:52) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+RB A. Johnson runs left guard for -4 yards (ILB M. Mata).
+
+Missouri ball, Q1, 3-7-TCU7 (09:20) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-SZ-B5,6
+QB M. Cook completes a 4 yard streak to RB A. Johnson (OOB).
+
+Missouri ball, Q1, 4-3-TCU3 (09:08) 0-0
+Sean Cunningham converts the 21 yard field goal.
+
+Missouri ball, Q1, 1-10-MO35 (08:51) 3-0
+Sean Cunningham kicks 67 from Missouri 35 to Texas Christian -2. Raymond Johnson to Texas 
+Christian 26 for a 28 yard return.
+
+Texas Christian ball, Q1, 1-10-TCU26 (08:35) 0-3
+Offense: Short Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Normal, Set: 5-2, Play: 52-norm-Man
+QB R. Higgins throws an incomplete pass to TE P. Jones.
+
+Texas Christian ball, Q1, 2-10-TCU26 (08:20) 0-3
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB R. Higgins completes a 6 yard screen to RB T. Mccormick (FS V. Marshall). 
+
+Texas Christian ball, Q1, 3-4-TCU32 (07:56) 0-3
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Normal, Set: 5-2, Play: 52-norm-Man
+QB R. Higgins completes a 2 yard screen to RB J. Foster (ILB W. Aldridge). 
+
+Texas Christian ball, Q1, 4-2-TCU34 (07:32) 0-3
+Roland Allen Punts 41 yards to the Missouri 25 yard line, where Jacob Taylor returns it to 
+Texas Christian 44 for a 31 yard return.
+
+Missouri ball, Q1, 1-10-TCU44 (07:14) 3-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-SZ-B6-Spy
+QB M. Cook completes a 13 yard screen to RB A. Johnson (CB G. Mclaurin). 
+
+Ineligible Receiver Downfield against C Corey Patrick on Missouri. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Texas Christian 49.
+
+Missouri ball, Q1, 1-15-TCU49 (07:03) 3-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB A. Johnson runs left tackle for 4 yards (FS T. Perdue). 
+
+Missouri ball, Q1, 2-11-TCU45 (06:31) 3-0
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB M. Cook completes a 30 yard streak to WR A. Hall (OLB J. Robinson).  C C. Patrick earned 
+a pancake on the play. SS J. Alexander allowed the big play.
+
+Ineligible Receiver Downfield against C Corey Patrick on Missouri. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 16 at the Texas Christian 50.
+
+Missouri ball, Q1, 2-16-TCU50 (06:20) 3-0
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+FB M. Flood runs right end for 4 yards (OOB).
+
+Missouri ball, Q1, 3-12-TCU46 (06:06) 3-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB M. Cook throws an incomplete pass to FB M. Flood. DE D. Carter hurried the QB.
+
+Missouri ball, Q1, 4-12-TCU46 (05:50) 3-0
+Billy Richardson Punts 40 yards to the Texas Christian 6 yard line, where it goes out of bounds.
+
+Texas Christian ball, Q1, 1-10-TCU6 (05:31) 0-3
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB R. Higgins completes a 5 yard cross to WR C. Jimenez (ILB J. Garcia). 
+
+Texas Christian ball, Q1, 2-5-TCU11 (05:07) 0-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Run, Set: 5-2, Play: 52-run-Man-B6,7
+RB T. Mccormick runs right guard for -2 yards (DT E. Mercer).
+
+Texas Christian ball, Q1, 3-7-TCU9 (04:34) 0-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 5-2, Play: 52-norm-ZoneBlitz
+QB R. Higgins runs outside for 19 yards (ILB J. Garcia, CB R. Schroeder). 
+
+Texas Christian ball, Q1, 1-10-TCU28 (04:13) 0-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB J. Foster runs right guard for 11 yards (SS T. Marsh).  CB F. Brown missed a tackle.
+
+Texas Christian ball, Q1, 1-10-TCU39 (03:43) 0-3
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Normal, Set: 5-2, Play: 52-norm-Man
+RB J. Foster runs left end for 6 yards (FS V. Marshall, ILB W. Aldridge). 
+
+Texas Christian ball, Q1, 2-4-TCU45 (03:14) 0-3
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Normal, Set: 5-2, Play: 52-norm-ZoneBlitz
+QB R. Higgins throws an incomplete pass to WR D. Taylor.
+
+Holding against OT Gregory Vazquez on Texas Christian. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 14 at the Texas Christian 35.
+
+Texas Christian ball, Q1, 2-14-TCU35 (03:03) 0-3
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+QB R. Higgins completes a 12 yard screen to RB T. Mccormick (CB F. Brown). 
+
+Texas Christian ball, Q1, 3-2-TCU47 (02:39) 0-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 5-2, Play: 52-norm-Man
+QB R. Higgins throws an incomplete pass to WR C. Jimenez. WR C. Jimenez dropped the pass.
+
+Texas Christian ball, Q1, 4-2-TCU47 (02:23) 0-3
+They line up for the Punt...[B]
+Wait, it's a fake![B]
+Michael Santiago runs it and dives 
+for the first down![B]
+He made it - the fake worked!
+
+Texas Christian ball, Q1, 1-10-MO44 (01:53) 0-3
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB R. Higgins throws an incomplete pass to WR D. Taylor. WR D. Taylor ran an incorrect route.
+
+Texas Christian ball, Q1, 2-10-MO44 (01:35) 0-3
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Run, Set: 5-2, Play: 52-run-Man-B6,11
+RB J. Foster runs left tackle for 2 yards (SS T. Marsh). 
+
+Texas Christian ball, Q1, 3-8-MO42 (01:02) 0-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB R. Higgins completes a 1 yard out to WR C. Jimenez (DE W. Avalos). 
+
+Texas Christian ball, Q1, 4-7-MO41 (00:41) 0-3
+Roland Allen Punts 38 yards to the Missouri 3 yard line, where it goes out of bounds.
+
+Missouri ball, Q1, 1-10-MO3 (00:21) 3-0
+Offense: Long Pass, Set: Weak, Play: WK-SE-str-FL-post
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB M. Cook throws an incomplete pass to WR T. Sears (ILB M. Mata). ILB M. Mata broke up the 
+pass.
+
+Missouri ball, Q1, 2-10-MO3 (00:02) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB A. Johnson runs left guard for 12 yards (CB J. Francis). 
+
+Missouri ball, Q2, 1-10-MO15 (15:00) 3-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB A. Johnson runs left guard for 5 yards (SS M. Garcia). 
+
+Missouri ball, Q2, 2-5-MO20 (14:32) 3-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB A. Johnson runs right end for 7 yards (OLB J. Luce).  OT R. Moore had a key block on the 
+run.
+
+Missouri ball, Q2, 1-10-MO27 (14:02) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+FB M. Flood runs left guard for -1 yards (SS J. Alexander). C C. Patrick missed a block that 
+hurt the play.
+
+Missouri ball, Q2, 2-11-MO26 (13:36) 3-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+RB A. Johnson runs right tackle for -1 yards (ILB C. Taylor). OG R. White missed a block that 
+hurt the play.
+
+Missouri ball, Q2, 3-12-MO25 (13:03) 3-0
+Offense: Short Pass, Set: Weak, Play: WK-FL-screen
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B5,7
+QB M. Cook completes a 16 yard screen to WR J. Rodriquez (CB M. Coats).  He fumbles the ball 
+after a hit by M. Coats. It's recovered by R. Moore of Missouri. FS T. Perdue missed a tackle.
+
+Missouri ball, Q2, 1-10-MO41 (12:42) 3-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB A. Johnson runs left guard for -1 yards (ILB M. Mata). OG R. White missed a block that 
+hurt the play.
+
+Missouri ball, Q2, 2-11-MO40 (12:12) 3-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB M. Cook throws an incomplete pass to WR J. Rodriquez.
+
+Missouri ball, Q2, 3-11-MO40 (11:54) 3-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,7,11
+QB M. Cook completes a 7 yard screen to RB A. Johnson (OLB J. Robinson). 
+
+Missouri ball, Q2, 4-4-MO47 (11:33) 3-0
+Billy Richardson Punts 53 yards to the end zone, Touchback.
+
+Texas Christian ball, Q2, 1-10-TCU20 (11:17) 0-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: 5-2, Play: 52-norm-MZ
+False Start against OT Gregory Vazquez on Texas Christian. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Texas Christian 15.
+
+Texas Christian ball, Q2, 1-15-TCU15 (11:17) 0-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB R. Higgins completes a 25 yard hook to WR C. Jimenez (OOB). R. Higgins with the great pass. 
+CB F. Brown missed a tackle.
+
+Texas Christian ball, Q2, 1-10-TCU40 (11:07) 0-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB R. Higgins runs outside for 2 yards (OOB).
+
+Texas Christian ball, Q2, 2-8-TCU42 (10:52) 0-3
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+WR H. Fulton runs right end for 7 yards (SS T. Marsh). 
+
+Texas Christian ball, Q2, 2-8-TCU42 (10:52) 0-3
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+FB William Galvan (TCU) was injured on the play (OK). It doesn't look like he will return.
+
+Texas Christian ball, Q2, 3-1-TCU49 (10:36) 0-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB J. Foster runs right guard for 2 yards (ILB W. Aldridge, CB R. Schroeder). 
+
+Texas Christian ball, Q2, 1-10-MO49 (10:03) 0-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: 5-2, Play: 52-norm-ZoneBlitz
+RB J. Foster runs right guard for 8 yards (ILB J. Garcia, ILB W. Aldridge).  OT J. Shelton 
+had a key block on the run.
+
+Texas Christian ball, Q2, 1-10-MO49 (10:03) 0-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Normal, Set: 5-2, Play: 52-norm-ZoneBlitz
+OT John Shelton (TCU) was injured on the play (Toe). It doesn't look too serious and he should 
+return.
+
+Texas Christian ball, Q2, 2-2-MO41 (09:47) 0-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB J. Foster runs left guard for 4 yards (FS V. Marshall, CB R. Schroeder). 
+
+Texas Christian ball, Q2, 1-10-MO37 (09:20) 0-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB R. Higgins completes a 12 yard hook to RB J. Foster (ILB W. Aldridge, CB J. Taylor).  CB 
+R. Schroeder missed a tackle.
+
+Texas Christian ball, Q2, 1-10-MO25 (08:57) 0-3
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Normal, Set: 5-2, Play: 52-norm-Man
+WR H. Fulton runs right tackle for 3 yards (DT E. Holloway, CB J. Taylor). 
+
+Texas Christian ball, Q2, 2-7-MO22 (08:27) 0-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB R. Higgins completes a 4 yard hook to FB J. Goodson (OOB).
+
+Texas Christian ball, Q2, 3-3-MO18 (08:14) 0-3
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 5-2, Play: 52-norm-MZ
+QB R. Higgins completes a 15 yard out to WR C. Jimenez (OOB). CB J. Taylor missed a tackle.
+
+Texas Christian ball, Q2, 3-3-MO18 (08:14) 0-3
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: 5-2, Play: 52-norm-MZ
+WR Harold Fulton (TCU) was injured on the play (Toe). It doesn't look like he will return.
+
+Texas Christian ball, Q2, 1-3-MO3 (07:56) 0-3
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+RB T. Mccormick runs right guard for 3 yards ****Touchdown!*****
+
+Texas Christian ball, Q2, 1-0-MO0 (07:30) 6-3
+John Johnson converts the PAT.
+
+Texas Christian ball, Q2, 1-10-TCU35 (07:30) 7-3
+John Johnson kicks 55 from Texas Christian 35 to Missouri 10. Melvin Carter to Missouri 37 
+for a 27 yard return.
+
+Missouri ball, Q2, 1-10-MO37 (07:11) 3-7
+Offense: Long Pass, Set: Quads, Play: Q-WR3-in-WR4-up
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB M. Cook runs left tackle for 0 yards (FS T. Perdue). 
+
+Missouri ball, Q2, 2-10-MO37 (06:55) 3-7
+Offense: Medium Pass, Set: Weak, Play: WK-HB-flat-SE-post
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,6,11-R
+M. Cook has his 14 yard pass intercepted by G. Mclaurin at the TCU 49. He returns it 19 yards 
+to the Missouri 32.
+
+Texas Christian ball, Q2, 1-10-MO32 (06:27) 7-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: 5-2, Play: 52-norm-ZoneBlitz
+RB T. Mccormick runs right guard for 2 yards (ILB W. Aldridge, DT E. Mercer). 
+
+Texas Christian ball, Q2, 1-10-MO32 (06:27) 7-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: 5-2, Play: 52-norm-ZoneBlitz
+DE William Avalos (MO) was injured on the play (OK). It doesn't look like he will return.
+
+Texas Christian ball, Q2, 2-8-MO30 (06:12) 7-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB R. Higgins completes a 30 yard hook to RB T. Mccormick ****Touchdown!*****
+
+Texas Christian ball, Q2, 1-0-MO0 (05:49) 13-3
+John Johnson converts the PAT.
+
+Texas Christian ball, Q2, 1-10-TCU35 (05:49) 14-3
+John Johnson kicks 73 from Texas Christian 35 to end zone, Touchback.
+
+Missouri ball, Q2, 1-10-MO20 (05:31) 3-14
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB A. Johnson runs right tackle for -1 yards (ILB M. Mata).
+
+Illegal Motion against RB Andreas Johnson on Missouri. The Penalty is for 5 yards.
+The penalty will be declined.
+
+Missouri ball, Q2, 2-11-MO19 (05:20) 3-14
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB M. Cook throws an incomplete pass to WR J. Rodriquez (SS M. Garcia). SS M. Garcia broke 
+up the pass.
+
+Missouri ball, Q2, 3-11-MO19 (05:00) 3-14
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB M. Cook throws an incomplete pass to WR J. Rodriquez.
+
+Missouri ball, Q2, 4-11-MO19 (04:44) 3-14
+Billy Richardson Punts 54 yards to the Texas Christian 27 yard line, where Craig Jimenez returns 
+it to Texas Christian 28 for a 1 yard return.
+
+Texas Christian ball, Q2, 1-10-TCU28 (04:26) 14-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: 5-2, Play: 52-pass-DZ
+RB J. Foster runs right guard for 7 yards (CB J. Taylor).  FS V. Marshall was out of position 
+on the play.
+
+Texas Christian ball, Q2, 2-3-TCU35 (03:58) 14-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB J. Foster runs left end for -3 yards (CB R. Schroeder).
+
+Texas Christian ball, Q2, 3-6-TCU32 (03:30) 14-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB R. Higgins throws an incomplete pass to WR P. Wheeler (CB F. Brown). DT E. Holloway hurried 
+the QB. CB F. Brown broke up the pass.
+
+Texas Christian ball, Q2, 4-6-TCU32 (03:13) 14-3
+Roland Allen Punts 24 yards to the Missouri 44 yard line, where it gets downed.
+
+Missouri ball, Q2, 1-10-MO44 (02:53) 3-14
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+RB W. Robinson runs right tackle for 7 yards (OLB J. Robinson).  OG J. Hurley had a key block 
+on the run.
+
+Missouri ball, Q2, 2-3-TCU49 (02:40) 3-14
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ-B6-Spy
+QB M. Cook throws an incomplete pass to RB A. Johnson.
+
+Missouri ball, Q2, 3-3-TCU49 (02:23) 3-14
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB M. Cook completes a 4 yard hook to RB A. Johnson (SS M. Garcia, CB G. Mclaurin). 
+
+Missouri ball, Q2, 3-3-TCU49 (02:23) 3-14
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+WR James Rodriquez (MO) was injured on the play (Forearm). It doesn't look too serious and 
+he should return.
+
+Missouri ball, Q2, 1-10-TCU45 (02:10) 3-14
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB W. Robinson runs left end for 37 yards (SS J. Alexander).  SS M. Garcia was out of position 
+on the play.
+
+Missouri ball, Q2, 1-8-TCU8 (01:52) 3-14
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-SZ-B6-Spy
+QB M. Cook completes a 8 yard post to WR J. Rodriquez ****Touchdown!*****
+
+Missouri ball, Q2, 1-0-TCU0 (01:30) 9-14
+Sean Cunningham converts the PAT.
+
+Sean Cunningham kicks the ball out of bounds! Penalty against Missouri, the ball will be spotted 
+at the 40 yardline.
+Texas Christian ball, Q2, 1-10-TCU40 (01:16) 14-10
+Offense: Medium Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB R. Higgins throws an incomplete pass to RB J. Foster.
+
+Texas Christian ball, Q2, 2-10-TCU40 (01:01) 14-10
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: 5-2, Play: 52-pass-MZ
+QB R. Higgins throws an incomplete pass to WR D. Taylor. WR D. Taylor ran an incorrect route.
+
+Texas Christian ball, Q2, 3-10-TCU40 (01:03) 14-10
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+R. Higgins has his 9 yard pass intercepted by J. Taylor at the TCU 49. He returns it 4 yards 
+to the Texas Christian 45. DT R. Ray hurried the QB.
+
+Holding against CB Jacob Taylor on Missouri. The Penalty is for 10 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Texas Christian 50.
+
+Texas Christian ball, Q2, 1-10-TCU50 (00:53) 14-10
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB R. Higgins completes a 2 yard screen to RB J. Foster (FS V. Marshall, ILB J. Garcia). 
+
+Texas Christian Timeout!
+
+Texas Christian ball, Q2, 2-8-MO48 (00:47) 14-10
+Offense: Long Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB R. Higgins gets sacked for a 12 yard loss (DE J. Grantham).  C D. Moore allowed the sack.
+
+Texas Christian ball, Q2, 3-20-TCU40 (00:41) 14-10
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB R. Higgins completes a 7 yard cross to WR C. Jimenez (FS V. Marshall). 
+
+Texas Christian ball, Q2, 4-13-TCU47 (00:23) 14-10
+Roland Allen Punts 38 yards to the Missouri 15 yard line, where it goes out of bounds.
+
+Texas Christian ball, Q2, 4-13-TCU47 (00:23) 14-10
+WR Walter Mcintosh (TCU) was injured on the play (Upper Arm). It doesn't look like he will 
+return.
+
+Missouri ball, Q2, 1-10-MO15 (00:16) 10-14
+Offense: Inside Run, Set: Weak, Play: WK-SE-str-FL-post
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+The QB takes a knee.
+
+Missouri ball, Q3, 1-10-MO35 (15:00) 10-14
+Sean Cunningham kicks 43 from Missouri 35 to Texas Christian 22. Eugene Love to Texas Christian 
+32 for a 10 yard return.
+
+Illegal Use of Hands against C Duane Paul on Texas Christian. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 10 at the Texas Christian 22.
+
+Texas Christian ball, Q3, 1-10-TCU22 (14:47) 14-10
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Normal, Set: 5-2, Play: 52-norm-ZoneBlitz
+RB J. Foster runs right guard for 2 yards (CB R. Schroeder). 
+
+Texas Christian ball, Q3, 2-8-TCU24 (14:21) 14-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Run, Set: 5-2, Play: 52-run-Man-B6,11
+False Start against Texas Christian. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 13 at the Texas Christian 19.
+
+Texas Christian ball, Q3, 2-13-TCU19 (14:21) 14-10
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Run, Set: 5-2, Play: 52-run-Man-B6,11
+RB J. Foster runs right guard for 3 yards (SS T. Marsh, ILB W. Aldridge). 
+
+Texas Christian ball, Q3, 3-10-TCU22 (13:52) 14-10
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Normal, Set: 5-2, Play: 52-norm-ZoneBlitz
+QB R. Higgins completes a 11 yard corner to TE M. Alderman (ILB W. Aldridge, CB R. Schroeder). 
+ M. Alderman made a great catch. OT G. Vazquez earned a pancake on the play.
+
+Texas Christian ball, Q3, 1-10-TCU33 (13:26) 14-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB J. Foster runs right guard for 0 yards (FS V. Marshall). 
+
+Texas Christian ball, Q3, 2-10-TCU33 (12:56) 14-10
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB R. Higgins throws an incomplete pass to RB T. Mccormick (CB J. Taylor). CB J. Taylor broke 
+up the pass.
+
+Offensive Pass Interference against TE Paul Jones on Texas Christian. The Penalty is for 15 
+yards.
+The Defense will accept the penalty. It is now Second and 25 at the Texas Christian 18.
+
+Texas Christian ball, Q3, 2-25-TCU18 (12:44) 14-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB J. Foster runs right end for 0 yards (ILB W. Aldridge). 
+
+Texas Christian ball, Q3, 3-25-TCU18 (12:17) 14-10
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: 5-2, Play: 52-pass-DZ
+QB R. Higgins completes a 10 yard screen to RB J. Foster (FS V. Marshall). 
+
+Texas Christian ball, Q3, 4-15-TCU28 (11:54) 14-10
+Roland Allen Punts 24 yards to the Missouri 48 yard line, where it gets downed.
+
+Missouri ball, Q3, 1-10-MO48 (11:36) 10-14
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB A. Johnson runs right tackle for 3 yards (CB M. Coats). 
+
+Missouri ball, Q3, 2-7-TCU49 (11:04) 10-14
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB M. Cook completes a 0 yard hook to TE D. Johnson (ILB C. Taylor). 
+
+Missouri ball, Q3, 3-7-TCU49 (10:42) 10-14
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB M. Cook completes a 3 yard post to WR J. Anderson (FS T. Perdue). 
+
+Holding against SS Joe Alexander on Texas Christian. The Penalty is for 10 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Texas Christian 39.
+
+Missouri ball, Q3, 1-10-TCU39 (10:31) 10-14
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB A. Johnson runs left guard for 4 yards (CB J. Francis, CB M. Coats). 
+
+Missouri ball, Q3, 2-6-TCU35 (10:05) 10-14
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB M. Cook throws an incomplete pass to WR J. Rodriquez.
+
+Missouri ball, Q3, 2-6-TCU35 (10:05) 10-14
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+FB Michael Flood (MO) was injured on the play (Groin). It doesn't look like he will return.
+
+Missouri ball, Q3, 3-6-TCU35 (09:47) 10-14
+Offense: Long Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-B7,11-R
+QB M. Cook runs outside for 0 yards (FS T. Perdue). 
+
+Missouri ball, Q3, 4-6-TCU35 (09:29) 10-14
+Billy Richardson Punts 30 yards to the Texas Christian 5 yard line, where it goes out of bounds.
+
+Texas Christian ball, Q3, 1-10-TCU5 (09:11) 14-10
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB J. Foster runs right end for 2 yards (SS T. Marsh). 
+
+Texas Christian ball, Q3, 2-8-TCU7 (08:39) 14-10
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB J. Foster runs right end for 23 yards (SS T. Marsh). 
+
+Texas Christian ball, Q3, 1-10-TCU30 (08:08) 14-10
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB T. Mccormick runs right tackle for 3 yards (CB R. Schroeder). 
+
+Illegal Motion against Texas Christian. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Texas Christian 25.
+
+Texas Christian ball, Q3, 1-15-TCU25 (07:54) 14-10
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 5-2, Play: 52-norm-Man
+QB R. Higgins completes a 13 yard out to WR C. Jimenez (CB R. Schroeder).  C. Jimenez made 
+a great catch. OT J. Shelton earned a pancake on the play.
+
+Texas Christian ball, Q3, 2-2-TCU38 (07:31) 14-10
+Offense: Long Pass, Set: Pro Set, Play: PS-TE-streak-SE-curl
+Defense: Normal, Set: 5-2, Play: 52-norm-ZoneBlitz
+QB R. Higgins completes a 43 yard hook to WR D. Taylor (FS V. Marshall, CB J. Taylor).  OG 
+M. Alexander earned a pancake on the play. ILB J. Garcia allowed the big play.
+
+Texas Christian ball, Q3, 1-10-MO19 (06:59) 14-10
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB J. Foster runs left end for -1 yards (SS T. Marsh). OT J. Shelton missed a block that hurt 
+the play.
+
+Texas Christian ball, Q3, 2-11-MO20 (06:26) 14-10
+Offense: Outside Run, Set: I Form, Play: I-HB-toss-RE
+Defense: Stop Pass, Set: 5-2, Play: 52-pass-DZ
+RB J. Foster runs right tackle for 2 yards (DT E. Holloway). 
+
+Texas Christian ball, Q3, 3-9-MO18 (05:58) 14-10
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 5-2, Play: 52-norm-ZoneBlitz
+QB R. Higgins gets sacked for a 5 yard loss (DE J. Grantham).  C D. Moore allowed the sack.
+
+Texas Christian ball, Q3, 4-14-MO23 (05:43) 14-10
+John Johnson converts the 41 yard field goal.
+
+Texas Christian ball, Q3, 1-10-TCU35 (05:28) 17-10
+John Johnson kicks 55 from Texas Christian 35 to Missouri 10. Melvin Carter to Missouri 27 
+for a 17 yard return.
+
+Missouri ball, Q3, 1-10-MO27 (05:09) 10-17
+Offense: Medium Pass, Set: Weak, Play: WK-SE-streaks
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+QB M. Cook completes a 19 yard streak to WR J. Rodriquez (OOB).
+
+Missouri ball, Q3, 1-10-MO46 (04:58) 10-17
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+RB A. Johnson runs right tackle for 1 yard (OLB J. Luce). 
+
+Missouri ball, Q3, 2-9-MO47 (04:25) 10-17
+Offense: Short Pass, Set: Weak, Play: WK-FL-screen
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+QB M. Cook throws an incomplete pass to WR J. Rodriquez. M. Cook made a bad pass.
+
+Missouri ball, Q3, 3-9-MO47 (04:09) 10-17
+Offense: Short Pass, Set: Weak, Play: WK-FL-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB M. Cook completes a 2 yard screen to WR J. Rodriquez (FS T. Perdue). 
+
+Pass Interference against SS Joe Alexander on Texas Christian. The Penalty is for 2 yards, 
+and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Missouri 49.
+
+Missouri ball, Q3, 1-10-MO49 (03:57) 10-17
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB M. Cook throws an incomplete pass to WR J. Rodriquez.
+
+Missouri ball, Q3, 2-10-MO49 (03:42) 10-17
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+QB M. Cook throws an incomplete pass to TE D. Johnson (CB G. Mclaurin). TE D. Johnson ran 
+an incorrect route. DE D. Carter hurried the QB. CB G. Mclaurin broke up the pass.
+
+Roughing the Passer against DT Jose Bradford on Texas Christian. The Penalty is for 15 yards, 
+and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Texas Christian 36.
+
+Missouri ball, Q3, 1-10-TCU36 (03:27) 10-17
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB M. Cook runs outside for 0 yards (ILB M. Mata). 
+
+Missouri ball, Q3, 2-10-TCU36 (03:09) 10-17
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB W. Robinson runs right guard for 4 yards (SS J. Alexander). 
+
+Missouri ball, Q3, 3-6-TCU32 (02:41) 10-17
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB M. Cook throws an incomplete pass to WR J. Rodriquez (CB G. Mclaurin). CB G. Mclaurin broke 
+up the pass.
+
+Missouri ball, Q3, 4-6-TCU32 (02:23) 10-17
+Sean Cunningham converts the 50 yard field goal.
+
+Missouri ball, Q3, 1-10-MO35 (02:08) 13-17
+Sean Cunningham kicks 73 from Missouri 35 to end zone, Touchback.
+
+Texas Christian ball, Q3, 1-10-TCU20 (01:50) 17-13
+Offense: Short Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Normal, Set: 5-2, Play: 52-norm-ZoneBlitz
+QB R. Higgins completes a 8 yard dump off to RB J. Foster (FS V. Marshall). 
+
+Texas Christian ball, Q3, 2-2-TCU28 (01:28) 17-13
+Offense: Short Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB R. Higgins completes a 2 yard dump off to FB J. Goodson (OOB).
+
+Texas Christian ball, Q3, 1-10-TCU30 (01:18) 17-13
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 5-2, Play: 52-pass-DZ
+QB R. Higgins throws an incomplete pass to RB T. Mccormick.
+
+Texas Christian ball, Q3, 1-10-TCU30 (01:18) 17-13
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 5-2, Play: 52-pass-DZ
+C Danny Moore (TCU) was injured on the play (Wrist). It doesn't look too serious and he should 
+return.
+
+Texas Christian ball, Q3, 2-10-TCU30 (01:01) 17-13
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Normal, Set: 5-2, Play: 52-norm-Man
+RB J. Foster runs left end for 6 yards (ILB W. Aldridge). 
+
+Texas Christian ball, Q3, 3-4-TCU36 (00:30) 17-13
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Run, Set: 5-2, Play: 52-run-Man-B6,11
+QB R. Higgins completes a 15 yard corner to WR D. Taylor (OOB). CB R. Schroeder was out of 
+position on the play.
+
+Texas Christian ball, Q3, 1-10-MO49 (00:17) 17-13
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB R. Higgins gets sacked for a 6 yard loss (DE J. Grantham).  OG J. Porter allowed the sack.
+
+Texas Christian ball, Q4, 2-16-TCU45 (15:00) 17-13
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Run, Set: 5-2, Play: 52-run-Man-B6,11
+QB R. Higgins completes a 11 yard hook to WR D. Taylor (FS V. Marshall, ILB W. Aldridge). 
+
+Texas Christian ball, Q4, 3-5-MO44 (14:38) 17-13
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB R. Higgins completes a 44 yard in to WR C. Jimenez ****Touchdown!***** OG J. Porter earned 
+a pancake on the play. SS T. Marsh allowed the big play.
+
+Texas Christian ball, Q4, 1-0-MO0 (14:14) 23-13
+John Johnson converts the PAT.
+
+Texas Christian ball, Q4, 1-10-TCU35 (14:14) 24-13
+John Johnson kicks 62 from Texas Christian 35 to Missouri 3. Melvin Carter to Missouri 31 
+for a 28 yard return.
+
+Missouri ball, Q4, 1-10-MO31 (13:56) 13-24
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+RB A. Johnson runs right tackle for 8 yards (ILB C. Taylor).  CB M. Coats was out of position 
+on the play.
+
+Missouri ball, Q4, 2-2-MO39 (13:28) 13-24
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB A. Johnson runs right guard for 2 yards (ILB M. Mata). 
+
+Missouri ball, Q4, 2-2-MO39 (13:28) 13-24
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+WR James Rodriquez (MO) was injured on the play (Ribs). It doesn't look too serious and he 
+should return.
+
+Missouri ball, Q4, 1-10-MO41 (13:14) 13-24
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB A. Johnson runs right guard for 1 yard (SS J. Alexander). 
+
+Missouri ball, Q4, 2-9-MO42 (12:44) 13-24
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB A. Johnson runs left guard for -3 yards (ILB C. Taylor).
+
+Missouri ball, Q4, 3-12-MO39 (12:14) 13-24
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB M. Cook gets sacked for a 10 yard loss (CB J. Francis).  OT J. Richey allowed the sack.
+
+Missouri ball, Q4, 4-22-MO29 (11:47) 13-24
+Billy Richardson Punts 53 yards to the Texas Christian 18 yard line, where it goes out of 
+bounds.
+
+Texas Christian ball, Q4, 1-10-TCU18 (11:32) 24-13
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 5-2, Play: 52-norm-Man
+RB J. Foster runs left end for -3 yards (SS T. Marsh).
+
+Texas Christian ball, Q4, 2-13-TCU15 (11:03) 24-13
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Normal, Set: 5-2, Play: 52-norm-Man
+RB T. Mccormick runs left tackle for 3 yards (FS V. Marshall). 
+
+Texas Christian ball, Q4, 3-10-TCU18 (10:31) 24-13
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: 5-2, Play: 52-norm-Man
+RB J. Foster runs left end for 1 yard (FS V. Marshall).  OG J. Porter missed a block that 
+hurt the play.
+
+Texas Christian ball, Q4, 4-9-TCU19 (10:03) 24-13
+Roland Allen Punts 36 yards to the Missouri 45 yard line, where Jacob Taylor returns it to 
+Missouri 45 for a 0 yard return.
+
+Missouri ball, Q4, 1-10-MO45 (09:43) 13-24
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-TMan
+QB M. Cook runs outside for 0 yards (ILB M. Mata). 
+
+Missouri ball, Q4, 2-10-MO45 (09:27) 13-24
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+RB A. Johnson runs right tackle for 0 yards (ILB C. Taylor). 
+
+Missouri ball, Q4, 3-10-MO45 (08:55) 13-24
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB A. Johnson runs right guard for 6 yards (CB M. Coats). 
+
+Offsides against ILB Manuel Mata on Texas Christian. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Third and 5 at the Missouri 50.
+
+Missouri ball, Q4, 3-5-MO50 (08:42) 13-24
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+QB M. Cook completes a 28 yard corner to WR T. Sears (CB J. Francis).  OLB J. Robinson allowed 
+the big play.
+
+Missouri ball, Q4, 3-5-MO50 (08:42) 13-24
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+FS Thomas Perdue (TCU) was injured on the play (Shoulder). It doesn't look too serious and 
+he should return.
+
+Missouri ball, Q4, 1-10-TCU22 (08:28) 13-24
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB A. Johnson runs left guard for 7 yards (ILB C. Taylor).  A. Johnson created the big run 
+with his own skills.
+
+Missouri ball, Q4, 2-3-TCU15 (08:01) 13-24
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB W. Robinson runs left guard for 2 yards (ILB M. Mata, SS J. Alexander). 
+
+Missouri ball, Q4, 3-1-TCU13 (07:33) 13-24
+Offense: Short Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Run, Set: Dime, Play: Dime-run-SZ
+QB M. Cook completes a 2 yard post to WR J. Anderson (FS T. Perdue). 
+
+Missouri ball, Q4, 1-10-TCU11 (07:18) 13-24
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB A. Johnson runs left end for -4 yards (ILB C. Taylor). FB B. Meador missed a block that 
+hurt the play.
+
+Missouri ball, Q4, 2-14-TCU15 (06:46) 13-24
+Offense: Long Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+M. Cook has his 15 yard pass intercepted by J. Robinson at the TCU 0. He kneels for the touchback.
+
+Texas Christian ball, Q4, 1-10-TCU20 (06:16) 24-13
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Stop Run, Set: 5-2, Play: 52-run-Man-B6,7
+WR D. Taylor runs right end for 5 yards (OOB).
+
+Texas Christian ball, Q4, 2-5-TCU25 (06:01) 24-13
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Run, Set: 5-2, Play: 52-run-Man-B6,7
+QB R. Higgins completes a 75 yard hook to WR C. Jimenez ****Touchdown!***** ILB J. Garcia 
+allowed the big play.
+
+Texas Christian ball, Q4, 1-0-MO0 (05:34) 30-13
+John Johnson converts the PAT.
+
+Texas Christian ball, Q4, 1-10-TCU35 (05:34) 31-13
+John Johnson kicks 63 from Texas Christian 35 to Missouri 2. Walter Robinson to Texas Christian 
+12 for a 86 yard return.
+
+Missouri ball, Q4, 1-10-TCU12 (05:15) 13-31
+Offense: Medium Pass, Set: Weak, Play: WK-TE-playact-str
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-DZ-B7
+QB M. Cook throws an incomplete pass to WR J. Rodriquez.
+
+Missouri ball, Q4, 2-10-TCU12 (04:55) 13-31
+Offense: Long Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB M. Cook throws an incomplete pass to WR J. Rodriquez.
+
+Missouri ball, Q4, 3-10-TCU12 (04:35) 13-31
+Offense: Short Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-MZ
+QB M. Cook completes a 11 yard hook to WR J. Anderson (FS T. Perdue).  CB M. Coats was out 
+of position on the play.
+
+Missouri ball, Q4, 1-1-TCU1 (04:11) 13-31
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+RB A. Johnson runs right end for 1 yard ****Touchdown!*****
+
+Grabbing Face Mask against SS Joe Alexander on Texas Christian. The Penalty is for 0 yards.
+The penalty will be declined.
+
+Missouri ball, Q4, 1-1-TCU1 (03:59) 19-31
+Sean Cunningham converts the PAT.
+
+Missouri ball, Q4, 1-10-MO35 (03:59) 20-31
+Sean Cunningham kicks 66 from Missouri 35 to Texas Christian -1. Raymond Johnson to Texas 
+Christian 44 for a 45 yard return.
+
+Texas Christian ball, Q4, 1-10-TCU44 (03:40) 31-20
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB J. Foster runs left guard for 2 yards (CB J. Taylor). 
+
+Texas Christian ball, Q4, 2-8-TCU46 (03:10) 31-20
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Run, Set: 5-2, Play: 52-run-Man-B6,7
+RB J. Foster runs right guard for 0 yards (DT E. Mercer). 
+
+Texas Christian ball, Q4, 3-8-TCU46 (02:40) 31-20
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Normal, Set: 5-2, Play: 52-norm-Man
+RB J. Foster runs right guard for 9 yards (ILB W. Aldridge, CB J. Taylor). 
+
+Texas Christian ball, Q4, 1-10-MO45 (02:12) 31-20
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Stop Run, Set: 5-2, Play: 52-run-TMan-Spy
+RB J. Foster runs left end for -2 yards (FS V. Marshall). FB J. Goodson missed a block that 
+hurt the play.
+
+Texas Christian ball, Q4, 2-12-MO47 (01:50) 31-20
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Run, Set: 5-2, Play: 52-run-TMan-Spy
+RB T. Mccormick runs right guard for 4 yards (ILB W. Aldridge). 
+
+Texas Christian ball, Q4, 3-8-MO43 (01:24) 31-20
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB J. Foster runs right guard for 7 yards (SS T. Marsh, CB R. Schroeder).  OG J. Porter had 
+a key block on the run.
+
+Texas Christian ball, Q4, 4-1-MO36 (00:52) 31-20
+Roland Allen Punts 26 yards to the Missouri 10 yard line, where Robert Schroeder returns it 
+to Missouri 28 for a 18 yard return.
+
+Illegal Use of Hands against ILB William Aldridge on Missouri. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 10 at the Missouri 18.
+
+Missouri ball, Q4, 1-10-MO18 (00:42) 20-31
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB M. Cook throws an incomplete pass to WR T. Sears.
+
+Missouri ball, Q4, 2-10-MO18 (00:34) 20-31
+Offense: Long Pass, Set: Quads, Play: Q-WR3-corner-FL-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB M. Cook throws an incomplete pass to WR T. Sears (ILB M. Mata). ILB M. Mata broke up the 
+pass.
+
+Missouri ball, Q4, 3-10-MO18 (00:27) 20-31
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB M. Cook completes a 13 yard in to WR J. Rodriquez (CB J. Francis).  OT R. Moore earned 
+a pancake on the play. CB J. Francis missed a tackle.
+
+Missouri Timeout!
+
+Missouri ball, Q4, 1-10-MO31 (00:20) 20-31
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB M. Cook completes a 23 yard streak to WR J. Rodriquez (OOB). M. Cook with the great pass. 
+OT R. Moore earned a pancake on the play.
+
+Missouri ball, Q4, 1-10-TCU46 (00:14) 20-31
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB M. Cook gets sacked for a 8 yard loss (DE G. Thompson).  OT R. Moore allowed the sack.
+
+Missouri ball, Q4, 2-18-MO46 (00:07) 20-31
+Offense: Medium Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB M. Cook throws an incomplete pass to WR A. Hall (CB J. Francis). CB J. Francis broke up 
+the pass.
+
+Missouri ball, Q4, 3-18-MO46 (00:01) 20-31
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-out-WR3-curl
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B5
+QB M. Cook completes a 23 yard out to TE D. Johnson (OOB). OG R. White earned a pancake on 
+the play. FS T. Perdue missed a tackle.
+

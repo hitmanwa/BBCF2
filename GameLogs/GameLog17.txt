@@ -1,0 +1,1031 @@
+Georgia Southern ball, Q1, 1-10-GSU35 (15:00) 0-0
+Darrell Kelly kicks 75 from Georgia Southern 35 to end zone, Touchback.
+
+Virginia Tech ball, Q1, 1-10-VATC20 (14:44) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB W. Cruz gets sacked for a 2 yard loss (DT L. Townsend).  OT R. Macias allowed the sack.
+
+Virginia Tech ball, Q1, 2-12-VATC18 (14:27) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB W. Cruz throws an incomplete pass to WR R. Hundley. DE M. Waterman hurried the QB.
+
+Virginia Tech ball, Q1, 3-12-VATC18 (14:08) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB A. Sweet runs right end for 19 yards (FS G. Cannon).  OG C. Hodges had a key block on the 
+run.
+
+Virginia Tech ball, Q1, 1-10-VATC37 (13:41) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB W. Cruz throws an incomplete pass to WR R. Hundley.
+
+Virginia Tech ball, Q1, 2-10-VATC37 (13:24) 0-0
+Offense: Long Pass, Set: Trips, Play: TR-TE-in-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB W. Cruz gets sacked for a 11 yard loss (DT L. Townsend).  OG C. Hodges allowed the sack.
+
+Virginia Tech ball, Q1, 3-21-VATC26 (13:08) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB W. Cruz throws an incomplete pass to WR K. Chen.
+
+Virginia Tech ball, Q1, 4-21-VATC26 (12:49) 0-0
+Scott Welsh Punts 41 yards to the Georgia Southern 33 yard line, where Boyd Shelton returns 
+it to Georgia Southern 33 for a 0 yard return.
+
+Georgia Southern ball, Q1, 1-10-GSU33 (12:30) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB L. Henry throws an incomplete pass to WR L. Gross.
+
+Georgia Southern ball, Q1, 2-10-GSU33 (12:13) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB L. Henry throws an incomplete pass to RB D. Hardison. RB D. Hardison dropped the pass.
+
+Georgia Southern ball, Q1, 3-10-GSU33 (11:56) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4,5,6
+QB L. Henry completes a 15 yard out to WR L. Gross (OLB E. Callahan).  C G. Wilson earned 
+a pancake on the play. OLB E. Callahan was out of position on the play.
+
+Georgia Southern ball, Q1, 1-10-GSU48 (11:35) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB L. Henry throws an incomplete pass to WR T. Ames. WR T. Ames dropped the pass.
+
+Georgia Southern ball, Q1, 2-10-GSU48 (11:17) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+RB K. Garcia runs left guard for 1 yard (CB E. Brown).  OG W. Worley missed a block that hurt 
+the play.
+
+Georgia Southern ball, Q1, 3-9-GSU49 (10:47) 0-0
+Offense: Short Pass, Set: Weak, Play: WK-FL-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB L. Henry completes a 8 yard screen to WR L. Gross (FS K. Silva). 
+
+Georgia Southern ball, Q1, 4-1-VATC43 (10:26) 0-0
+Jason Young Punts 31 yards to the Virginia Tech 12 yard line, where it goes out of bounds.
+
+Virginia Tech ball, Q1, 1-10-VATC12 (10:07) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,6,11-R
+RB J. Sewell runs right guard for 6 yards (OLB D. Brown, ILB M. Butler). 
+
+Virginia Tech ball, Q1, 2-4-VATC18 (09:40) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB W. Cruz completes a 6 yard out to WR R. Hundley (ILB M. Butler). 
+
+Virginia Tech ball, Q1, 1-10-VATC24 (09:23) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB A. Sweet runs right tackle for 10 yards (FS J. Miller). 
+
+Virginia Tech ball, Q1, 1-10-VATC34 (08:56) 0-0
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB W. Cruz throws an incomplete pass to WR T. Morton. W. Cruz made a bad pass.
+
+Virginia Tech ball, Q1, 2-10-VATC34 (08:38) 0-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB W. Cruz throws an incomplete pass to WR R. Hundley (CB J. Fischer). CB J. Fischer broke 
+up the pass.
+
+Virginia Tech ball, Q1, 3-10-VATC34 (08:22) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+QB W. Cruz throws an incomplete pass to WR T. Morton.
+
+Virginia Tech ball, Q1, 4-10-VATC34 (08:07) 0-0
+Scott Welsh Punts 41 yards to the Georgia Southern 25 yard line, where Boyd Shelton returns 
+it to Georgia Southern 30 for a 5 yard return.
+
+Georgia Southern ball, Q1, 1-10-GSU30 (07:47) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+FB M. Mercier runs right end for 5 yards (OLB E. Callahan). 
+
+Georgia Southern ball, Q1, 1-10-GSU30 (07:47) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+CB William Donaldson (VATC) was injured on the play (OK). It doesn't look like he will return.
+
+Georgia Southern ball, Q1, 2-5-GSU35 (07:31) 0-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Normal, Set: 3-3-5, Play: 335-norm-SZ-B8
+QB L. Henry throws an incomplete pass to WR B. Bond. DE F. Bradley hurried the QB.
+
+Georgia Southern ball, Q1, 3-5-GSU35 (07:15) 0-0
+Offense: Short Pass, Set: Weak, Play: WK-SE-slant-FL-in
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+QB L. Henry gets sacked for a 3 yard loss (OLB E. Callahan).  OT J. Delgado allowed the sack.
+
+Georgia Southern ball, Q1, 4-8-GSU32 (06:59) 0-0
+Jason Young Punts 38 yards to the Virginia Tech 30 yard line, where Kerry Chen returns it 
+to Virginia Tech 33 for a 3 yard return.
+
+Virginia Tech ball, Q1, 1-10-VATC33 (06:40) 0-0
+Offense: Long Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-MZ
+QB W. Cruz throws an incomplete pass to WR R. Hundley (CB J. Fischer). WR R. Hundley dropped 
+the pass. DE A. Burger hurried the QB. CB J. Fischer broke up the pass.
+
+Virginia Tech ball, Q1, 2-10-VATC33 (06:24) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB A. Sweet runs right tackle for 12 yards (ILB R. Johnson).  C W. Anderson had a key block 
+on the run. SS A. Ray missed a tackle.
+
+Virginia Tech ball, Q1, 2-10-VATC33 (06:24) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+ILB Michael Butler (GSU) was injured on the play (Toe). It doesn't look like he will return.
+
+Virginia Tech ball, Q1, 1-10-VATC45 (06:08) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB A. Sweet runs right tackle for 7 yards (OLB D. Brown). 
+
+Grabbing Face Mask against OLB Eric Jones on Georgia Southern. The Penalty is for 15 yards, 
+and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Georgia Southern 33.
+
+Virginia Tech ball, Q1, 1-10-GSU33 (05:54) 0-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+QB W. Cruz gets sacked for a 4 yard loss (ILB R. Johnson).  OT C. Boyd allowed the sack.
+
+Virginia Tech ball, Q1, 2-14-GSU37 (05:39) 0-0
+Offense: Short Pass, Set: Trips, Play: TR-SE-screen
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB W. Cruz completes a 9 yard screen to WR T. Morton (OLB E. Jones). 
+
+Virginia Tech ball, Q1, 3-5-GSU28 (05:16) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB W. Cruz completes a 5 yard out to WR T. Morton (OLB D. Brown). 
+
+Virginia Tech ball, Q1, 1-10-GSU23 (04:54) 0-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB W. Cruz completes a 23 yard streak to WR R. Hundley ****Touchdown!*****
+
+Virginia Tech ball, Q1, 1-0-GSU0 (04:26) 6-0
+Jack Martin converts the PAT.
+
+Virginia Tech ball, Q1, 1-10-VATC35 (04:26) 7-0
+Jack Martin kicks 54 from Virginia Tech 35 to Georgia Southern 11. James Miller to Georgia 
+Southern 29 for a 18 yard return.
+
+Georgia Southern ball, Q1, 1-10-GSU29 (04:06) 0-7
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB D. Hardison runs left tackle for 4 yards (FS K. Silva). 
+
+Georgia Southern ball, Q1, 2-6-GSU33 (03:38) 0-7
+Offense: Long Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB L. Henry completes a 61 yard post to WR T. Ames (FS K. Silva). 
+
+Holding against OT Jimmy Delgado on Georgia Southern. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 16 at the Georgia Southern 23.
+
+Georgia Southern ball, Q1, 2-16-GSU23 (03:24) 0-7
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man-B4
+QB L. Henry throws an incomplete pass to WR B. Bond (CB K. Hatch). CB K. Hatch broke up the 
+pass.
+
+Georgia Southern ball, Q1, 3-16-GSU23 (03:07) 0-7
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB L. Henry completes a 8 yard out to WR T. Ames (OOB).
+
+Georgia Southern ball, Q1, 4-8-GSU31 (02:54) 0-7
+Jason Young Punts 48 yards to the Virginia Tech 21 yard line, where it goes out of bounds.
+
+Virginia Tech ball, Q1, 1-10-VATC21 (02:35) 7-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-SZ-B5,6
+RB A. Sweet runs right tackle for 6 yards (ILB H. Mena, OLB D. Brown). 
+
+Virginia Tech ball, Q1, 2-4-VATC27 (02:04) 7-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB A. Sweet runs right guard for 4 yards (ILB H. Mena). 
+
+Virginia Tech ball, Q1, 1-10-VATC31 (01:34) 7-0
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-slotrun-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+WR T. Morton runs right end for 16 yards (OLB E. Jones, CB B. Shelton).  OT C. Boyd had a 
+key block on the run.
+
+Virginia Tech ball, Q1, 1-10-VATC47 (01:06) 7-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+RB J. Sewell runs left guard for 20 yards (SS A. Ray).  OT R. Macias had a key block on the 
+run. SS A. Ray missed a tackle.
+
+Virginia Tech ball, Q1, 1-10-GSU33 (00:40) 7-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB W. Cruz completes a 29 yard hook to WR K. Chen (OOB). K. Chen made a great catch. CB B. 
+Shelton allowed the big play.
+
+Virginia Tech ball, Q1, 1-4-GSU4 (00:23) 7-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+RB J. Sewell runs right tackle for -1 yards (DT L. Townsend).
+
+Virginia Tech ball, Q2, 2-5-GSU5 (15:00) 7-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB A. Sweet runs right end for 5 yards ****Touchdown!*****
+
+Virginia Tech ball, Q2, 1-0-GSU0 (14:34) 13-0
+Jack Martin converts the PAT.
+
+Virginia Tech ball, Q2, 1-10-VATC35 (14:34) 14-0
+Jack Martin kicks 75 from Virginia Tech 35 to end zone, Touchback.
+
+Georgia Southern ball, Q2, 1-10-GSU20 (14:15) 0-14
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB L. Henry completes a 39 yard out to WR L. Gross (SS G. Fortune).  CB K. Hatch allowed the 
+big play.
+
+Georgia Southern ball, Q2, 1-10-VATC41 (13:54) 0-14
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB L. Henry throws an incomplete pass to WR W. Rose (CB K. Hatch). CB K. Hatch broke up the 
+pass.
+
+Georgia Southern ball, Q2, 2-10-VATC41 (13:37) 0-14
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+FB M. Mercier runs right end for 5 yards (CB K. Hatch, SS P. Hager). 
+
+Georgia Southern ball, Q2, 2-10-VATC41 (13:37) 0-14
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB Leonard Henry (GSU) was injured on the play (OK). It doesn't look like he will return.
+
+Georgia Southern ball, Q2, 3-5-VATC36 (13:24) 0-14
+Offense: Short Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB K. Sledge throws an incomplete pass to WR T. Ames. OLB E. Callahan hurried the QB.
+
+Georgia Southern ball, Q2, 4-5-VATC36 (13:09) 0-14
+Darrell Kelly misses the 54 yard field goal. It will be Virginia Tech ball at the VATC 36
+
+Virginia Tech ball, Q2, 1-10-VATC36 (12:49) 14-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB A. Sweet runs left end for 13 yards (ILB H. Mena).  SS A. Ray missed a tackle.
+
+Virginia Tech ball, Q2, 1-10-VATC49 (12:20) 14-0
+Offense: Short Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+QB W. Cruz completes a 10 yard out to TE J. Moore (OOB).
+
+Virginia Tech ball, Q2, 1-10-GSU41 (12:04) 14-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+RB A. Sweet runs left tackle for 0 yards (ILB R. Johnson).  OG C. Hodges missed a block that 
+hurt the play.
+
+Virginia Tech ball, Q2, 1-10-GSU41 (12:04) 14-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+SS Andre Ray (GSU) was injured on the play (Ankle). It doesn't look too serious and he should 
+return.
+
+Virginia Tech ball, Q2, 2-10-GSU41 (11:50) 14-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB W. Cruz completes a 33 yard post to WR R. Hundley (CB J. Fischer).  ILB R. Johnson allowed 
+the big play.
+
+Virginia Tech ball, Q2, 1-8-GSU8 (11:23) 14-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB W. Cruz throws an incomplete pass to WR J. Lopez.
+
+Virginia Tech ball, Q2, 2-8-GSU8 (11:06) 14-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB J. Sewell runs left end for 4 yards (FS G. Cannon). 
+
+Virginia Tech ball, Q2, 3-4-GSU4 (10:40) 14-0
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+QB W. Cruz throws an incomplete pass to RB A. Sweet (OLB D. Brown). OLB D. Brown broke up 
+the pass.
+
+Virginia Tech ball, Q2, 4-4-GSU4 (10:23) 14-0
+Jack Martin converts the 22 yard field goal.
+
+Virginia Tech ball, Q2, 1-10-VATC35 (10:08) 17-0
+Jack Martin kicks 63 from Virginia Tech 35 to Georgia Southern 2. Wilson Rose to Georgia Southern 
+30 for a 28 yard return.
+
+Georgia Southern ball, Q2, 1-10-GSU30 (09:52) 0-17
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-B8,10
+RB D. Hardison runs right guard for -2 yards (DT I. Becker).
+
+Georgia Southern ball, Q2, 2-12-GSU28 (09:21) 0-17
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB D. Hardison runs right guard for 3 yards (FS K. Silva). 
+
+Georgia Southern ball, Q2, 3-9-GSU31 (08:55) 0-17
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-in-WR4-up
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-MZ-B7,9
+Delay of Game against Georgia Southern. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 14 at the Georgia Southern 26.
+
+Georgia Southern ball, Q2, 3-14-GSU26 (08:55) 0-17
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Sledge throws an incomplete pass to WR B. Bond (SS P. Hager). WR B. Bond dropped the 
+pass. OLB E. Callahan hurried the QB. SS P. Hager broke up the pass.
+
+Georgia Southern ball, Q2, 3-14-GSU26 (08:55) 0-17
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+DE Franklin Bradley (VATC) was injured on the play (Quadriceps). It doesn't look like he will 
+return.
+
+Georgia Southern ball, Q2, 4-14-GSU26 (08:37) 0-17
+Jason Young Punts 50 yards to the Virginia Tech 24 yard line, where Kerry Chen returns it 
+to Virginia Tech 33 for a 9 yard return.
+
+Virginia Tech ball, Q2, 1-10-VATC33 (08:20) 17-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB A. Sweet runs left guard for 21 yards (ILB H. Mena).  CB J. Fischer missed a tackle.
+
+Virginia Tech ball, Q2, 1-10-GSU46 (07:47) 17-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+RB A. Sweet runs left guard for 14 yards (OLB D. Brown).  A. Sweet created the big run with 
+his own skills.
+
+Virginia Tech ball, Q2, 1-10-GSU32 (07:19) 17-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB W. Cruz completes a 14 yard screen to RB A. Sweet (OOB). W. Cruz with the great pass.
+
+Virginia Tech ball, Q2, 1-10-GSU18 (07:07) 17-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB W. Cruz completes a 13 yard in to WR R. Hundley (ILB H. Mena).  SS A. Ray was out of position 
+on the play.
+
+Holding against OT Charles Boyd on Virginia Tech. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Georgia Southern 28.
+
+Virginia Tech ball, Q2, 1-20-GSU28 (06:57) 17-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+QB W. Cruz throws an incomplete pass to WR R. Hundley. WR R. Hundley ran an incorrect route.
+
+Virginia Tech ball, Q2, 2-20-GSU28 (06:41) 17-0
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB W. Cruz scrambles out of the pocket and gets sacked for a 1 yard loss (DE A. Burger).  
+OT R. Macias allowed the sack.
+
+Virginia Tech ball, Q2, 3-21-GSU29 (06:14) 17-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+QB W. Cruz completes a 4 yard screen to RB A. Sweet (ILB R. Johnson, OLB G. Gilbert). 
+
+Virginia Tech ball, Q2, 4-17-GSU25 (05:51) 17-0
+Jack Martin converts the 43 yard field goal.
+
+Virginia Tech ball, Q2, 1-10-VATC35 (05:36) 20-0
+Jack Martin kicks 66 from Virginia Tech 35 to Georgia Southern -1. James Miller to Georgia 
+Southern 30 for a 31 yard return.
+
+Georgia Southern ball, Q2, 1-10-GSU30 (05:20) 0-20
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-Man-Spy
+RB D. Hardison runs right guard for 11 yards (CB E. Brown).  OG W. Worley had a key block 
+on the run.
+
+Georgia Southern ball, Q2, 1-10-GSU41 (04:47) 0-20
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB D. Hardison runs right end for 23 yards (FS M. Moore, SS G. Fortune).  TE B. Rodriguez 
+had a key block on the run. SS G. Fortune was out of position on the play.
+
+Georgia Southern ball, Q2, 1-10-VATC36 (04:31) 0-20
+Offense: Outside Run, Set: Quads, Play: Q-HB-counter-RT
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4,5,6
+RB D. Hardison runs right end for 1 yard (OLB E. Callahan).  OT J. Delgado missed a block 
+that hurt the play.
+
+Georgia Southern ball, Q2, 2-9-VATC35 (04:04) 0-20
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B5,8
+QB K. Sledge throws an incomplete pass to WR B. Bond.
+
+Georgia Southern ball, Q2, 3-9-VATC35 (03:45) 0-20
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB K. Sledge completes a 13 yard in to WR L. Gross (OLB E. Callahan).  OT J. Delgado earned 
+a pancake on the play. OLB E. Callahan was out of position on the play.
+
+Georgia Southern ball, Q2, 1-10-VATC22 (03:20) 0-20
+Offense: Short Pass, Set: Weak, Play: WK-SE-slant-FL-in
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ
+QB K. Sledge throws an incomplete pass to WR T. Ames (OLB M. Lowery). ILB E. Day hurried the 
+QB. OLB M. Lowery broke up the pass.
+
+Georgia Southern ball, Q2, 2-10-VATC22 (03:05) 0-20
+Offense: Inside Run, Set: Pro Set, Play: PS-FB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+FB M. Mercier runs left guard for 10 yards (OLB M. Lowery).  SS G. Fortune missed a tackle.
+
+Georgia Southern ball, Q2, 1-10-VATC12 (02:35) 0-20
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Sledge throws an incomplete pass to WR T. Ames.
+
+Georgia Southern ball, Q2, 2-10-VATC12 (02:15) 0-20
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+K. Sledge has his 1 yard pass intercepted by K. Silva at the VATC 11. He returns it 4 yards 
+to the Virginia Tech 15. K. Sledge made a bad pass. OLB M. Lowery hurried the QB.
+
+Virginia Tech ball, Q2, 1-10-VATC15 (01:52) 20-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-TE-ins
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,6,11-R
+QB W. Cruz throws an incomplete pass to WR T. Morton (FS J. Miller). FS J. Miller broke up 
+the pass.
+
+Virginia Tech ball, Q2, 2-10-VATC15 (01:37) 20-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ-B6-Spy
+QB W. Cruz gets sacked for a 6 yard loss (DE M. Waterman).  OG R. Lyons allowed the sack.
+
+Virginia Tech ball, Q2, 3-16-VATC9 (01:17) 20-0
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB W. Cruz completes a 18 yard in to WR T. Morton (FS J. Miller).  CB J. Fischer was out of 
+position on the play.
+
+Virginia Tech ball, Q2, 1-10-VATC27 (00:57) 20-0
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB W. Cruz completes a 73 yard dump off to TE J. Moore ****Touchdown!***** OT C. Boyd earned 
+a pancake on the play.
+
+Virginia Tech ball, Q2, 1-0-GSU0 (00:30) 26-0
+Jack Martin converts the PAT.
+
+Virginia Tech ball, Q2, 1-10-VATC35 (00:30) 27-0
+Jack Martin kicks 63 from Virginia Tech 35 to Georgia Southern 2. Wilson Rose to Georgia Southern 
+47 for a 45 yard return.
+
+Georgia Southern ball, Q2, 1-10-GSU47 (00:22) 0-27
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-Man-B11
+QB K. Sledge completes a 7 yard out to WR T. Ames (SS G. Fortune). 
+
+Georgia Southern Timeout!
+
+Georgia Southern ball, Q2, 2-3-VATC46 (00:16) 0-27
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Stop Run, Set: 3-3-5, Play: 335-run-MZ-B4,5,6,8,
+QB K. Sledge completes a 26 yard out-and-up to TE B. Rodriguez (SS G. Fortune, ILB E. Day). 
+ K. Sledge with the great pass.
+
+Georgia Southern Timeout!
+
+Georgia Southern ball, Q2, 1-10-VATC20 (00:10) 0-27
+Darrell Kelly misses the 38 yard field goal. It will be Virginia Tech ball at the VATC 20
+
+Georgia Southern Timeout!
+
+Virginia Tech ball, Q2, 1-10-VATC20 (00:04) 27-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+The QB takes a knee.
+
+Virginia Tech ball, Q3, 1-10-VATC35 (15:00) 27-0
+Jack Martin kicks 75 from Virginia Tech 35 to end zone, Touchback.
+
+Georgia Southern ball, Q3, 1-10-GSU20 (14:42) 0-27
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB K. Sledge completes a 24 yard post to WR B. Bond (OOB). B. Bond made a great catch. OG 
+W. Worley earned a pancake on the play. SS P. Hager was out of position on the play.
+
+Georgia Southern ball, Q3, 1-10-GSU44 (14:25) 0-27
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Normal, Set: 3-3-5, Play: 335-norm-Man
+RB D. Hardison runs left guard for 4 yards (FS K. Silva). 
+
+Georgia Southern ball, Q3, 2-6-GSU48 (13:58) 0-27
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB D. Hardison runs left tackle for 5 yards (SS G. Fortune). 
+
+Georgia Southern ball, Q3, 3-1-VATC47 (13:25) 0-27
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB D. Hardison runs left tackle for 5 yards (SS P. Hager, OLB M. Lowery). 
+
+Georgia Southern ball, Q3, 1-10-VATC42 (12:55) 0-27
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB K. Sledge throws an incomplete pass to WR B. Bond (CB E. Brown). CB E. Brown broke up the 
+pass.
+
+Holding against OT Jimmy Delgado on Georgia Southern. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Georgia Southern 48.
+
+Georgia Southern ball, Q3, 1-20-GSU48 (12:42) 0-27
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+QB K. Sledge throws an incomplete pass to WR T. Ames (SS G. Fortune). SS G. Fortune broke 
+up the pass.
+
+Georgia Southern ball, Q3, 2-20-GSU48 (12:27) 0-27
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB D. Hardison runs right guard for 3 yards (SS P. Hager). 
+
+Georgia Southern ball, Q3, 3-17-VATC49 (11:54) 0-27
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-in-WR4-up
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB K. Sledge completes a 21 yard in to WR B. Bond (CB E. Brown).  B. Bond made a great catch.
+
+Georgia Southern ball, Q3, 1-10-VATC28 (11:30) 0-27
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 3-3-5, Play: 335-norm-MZ-B10
+RB D. Hardison runs right tackle for 0 yards (ILB E. Day). 
+
+Georgia Southern ball, Q3, 2-10-VATC28 (11:00) 0-27
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-Man-B4,5,6
+QB K. Sledge throws an incomplete pass to WR T. Ames.
+
+Georgia Southern ball, Q3, 3-10-VATC28 (10:43) 0-27
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+QB K. Sledge completes a 3 yard in to WR B. Bond (SS P. Hager). 
+
+Georgia Southern ball, Q3, 4-7-VATC25 (10:19) 0-27
+Darrell Kelly converts the 43 yard field goal.
+
+Georgia Southern ball, Q3, 1-10-GSU35 (10:01) 3-27
+Darrell Kelly kicks 67 from Georgia Southern 35 to Virginia Tech -2. James Montes to Virginia 
+Tech 43 for a 45 yard return.
+
+Virginia Tech ball, Q3, 1-10-VATC43 (09:41) 27-3
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB A. Sweet runs left tackle for 14 yards (FS J. Miller).  DT T. Hamilton was out of position 
+on the play.
+
+Virginia Tech ball, Q3, 1-10-GSU43 (09:12) 27-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+RB A. Sweet runs right guard for 7 yards (ILB R. Johnson, OLB D. Brown).  SS A. Ray missed 
+a tackle.
+
+Virginia Tech ball, Q3, 2-3-GSU36 (08:44) 27-3
+Offense: Medium Pass, Set: Trips, Play: TR-SE-playact-streak
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB W. Cruz completes a 20 yard post to TE J. Moore (ILB H. Mena).  W. Cruz with the great 
+pass. OT C. Boyd earned a pancake on the play.
+
+Virginia Tech ball, Q3, 1-10-GSU16 (08:16) 27-3
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+QB W. Cruz completes a 6 yard hook to WR T. Morton (CB B. Shelton). 
+
+Virginia Tech ball, Q3, 2-4-GSU10 (07:55) 27-3
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+RB J. Sewell runs right end for 10 yards ****Touchdown!***** OT C. Boyd had a key block on 
+the run. DT T. Hamilton missed a tackle.
+
+Virginia Tech ball, Q3, 1-0-GSU0 (07:29) 33-3
+Jack Martin converts the PAT.
+
+Virginia Tech ball, Q3, 1-10-VATC35 (07:29) 34-3
+Jack Martin kicks 67 from Virginia Tech 35 to Georgia Southern -2. James Miller to Georgia 
+Southern 43 for a 45 yard return.
+
+Georgia Southern ball, Q3, 1-10-GSU43 (07:12) 3-34
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+RB D. Hardison runs left guard for 2 yards (SS G. Fortune). 
+
+Georgia Southern ball, Q3, 2-8-GSU45 (06:43) 3-34
+Offense: Medium Pass, Set: Weak, Play: WK-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+False Start against OT Refugio Sparks on Georgia Southern. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 13 at the Georgia Southern 40.
+
+Georgia Southern ball, Q3, 2-13-GSU40 (06:43) 3-34
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+K. Sledge has his 11 yard pass intercepted by E. Brown at the VATC 49. He returns it 6 yards 
+to the Georgia Southern 45. DE D. Parks hurried the QB.
+
+Virginia Tech ball, Q3, 1-10-GSU45 (06:18) 34-3
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB W. Cruz completes a 19 yard dump off to TE J. Moore (FS J. Miller).  W. Cruz with the great 
+pass. CB J. Fischer was out of position on the play.
+
+Virginia Tech ball, Q3, 1-10-GSU45 (06:18) 34-3
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+WR Timothy Morton (VATC) was injured on the play (Lower Back). It doesn't look like he will 
+return.
+
+Virginia Tech ball, Q3, 1-10-GSU26 (06:03) 34-3
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB W. Cruz completes a 6 yard screen to RB A. Sweet (OLB E. Jones). 
+
+Virginia Tech ball, Q3, 2-4-GSU20 (05:41) 34-3
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB W. Cruz throws an incomplete pass to WR K. Chen (SS J. Logan). SS J. Logan broke up the 
+pass.
+
+Virginia Tech ball, Q3, 3-4-GSU20 (05:24) 34-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB W. Cruz completes a 20 yard hook to WR K. Chen ****Touchdown!***** W. Cruz with the great 
+pass. OT C. Boyd earned a pancake on the play.
+
+Pass Interference against SS Andre Ray on Georgia Southern. The Penalty is for 15 yards, and 
+an automatic first down.
+The penalty will be declined.
+
+Virginia Tech ball, Q3, 1-0-GSU0 (05:12) 40-3
+Jack Martin converts the PAT.
+
+Virginia Tech ball, Q3, 1-10-VATC35 (05:12) 41-3
+Jack Martin kicks 67 from Virginia Tech 35 to Georgia Southern -2. James Miller to Virginia 
+Tech 47 for a 55 yard return.
+
+Georgia Southern ball, Q3, 1-10-VATC47 (04:55) 3-41
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+RB D. Hardison runs left tackle for 2 yards (OOB).
+
+Georgia Southern ball, Q3, 2-8-VATC45 (04:40) 3-41
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB K. Sledge scrambles out of the pocket and gets sacked for a 4 yard loss (DT I. Becker). 
+ OG W. Worley missed a block that hurt the play. OG W. Worley allowed the sack.
+
+Georgia Southern ball, Q3, 2-8-VATC45 (04:40) 3-41
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+SS Paul Hager (VATC) was injured on the play (Shoulder). It doesn't look like he will return.
+
+Georgia Southern ball, Q3, 3-12-VATC49 (04:23) 3-41
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Sledge throws an incomplete pass to WR L. Gross (OLB E. Callahan). DT I. Becker hurried 
+the QB. OLB E. Callahan broke up the pass.
+
+Georgia Southern ball, Q3, 4-12-VATC49 (04:07) 3-41
+Jason Young Punts 24 yards to the Virginia Tech 25 yard line, where it gets downed.
+
+Virginia Tech ball, Q3, 1-10-VATC25 (03:50) 41-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB J. Sewell runs left tackle for 12 yards (OLB E. Jones, CB J. Fischer).  OT R. Macias had 
+a key block on the run.
+
+Virginia Tech ball, Q3, 1-10-VATC37 (03:24) 41-3
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB W. Cruz throws an incomplete pass to WR R. Hundley. WR R. Hundley dropped the pass. DT 
+L. Townsend hurried the QB.
+
+Virginia Tech ball, Q3, 2-10-VATC37 (03:08) 41-3
+Offense: Long Pass, Set: SingleBack, Play: SB-WR3-slant-FL-str
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB W. Cruz throws an incomplete pass to WR K. Chen.
+
+Virginia Tech ball, Q3, 3-10-VATC37 (02:50) 41-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB W. Cruz completes a 4 yard streak to WR K. Chen (OLB E. Jones, FS G. Cannon). 
+
+Virginia Tech ball, Q3, 4-6-VATC41 (02:26) 41-3
+Scott Welsh Punts 36 yards to the Georgia Southern 23 yard line, where Boyd Shelton returns 
+it to Georgia Southern 37 for a 14 yard return.
+
+Georgia Southern ball, Q3, 1-10-GSU37 (02:06) 3-41
+Offense: Short Pass, Set: Weak, Play: WK-HB-flat-SE-post
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-TMan
+QB K. Sledge throws an incomplete pass to TE B. Rodriguez (CB E. Brown). OLB M. Lowery hurried 
+the QB. CB E. Brown broke up the pass.
+
+Georgia Southern ball, Q3, 2-10-GSU37 (01:48) 3-41
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB K. Sledge gets sacked for a 7 yard loss (DT I. Becker).  OG J. Pugh allowed the sack.
+
+Georgia Southern ball, Q3, 3-17-GSU30 (01:28) 3-41
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB D. Hardison runs left tackle for 2 yards (CB E. Brown). 
+
+Georgia Southern ball, Q3, 4-15-GSU32 (01:01) 3-41
+Jason Young Punts 38 yards to the Virginia Tech 30 yard line, where Kerry Chen returns it 
+to Virginia Tech 34 for a 4 yard return.
+
+Virginia Tech ball, Q3, 1-10-VATC34 (00:44) 41-3
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB W. Cruz throws an incomplete pass to WR K. Chen.
+
+Virginia Tech ball, Q3, 2-10-VATC34 (00:24) 41-3
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB J. Sewell runs left guard for 14 yards (ILB R. Johnson, FS G. Cannon). 
+
+Virginia Tech ball, Q4, 1-10-VATC48 (15:00) 41-3
+Offense: Medium Pass, Set: Trips, Play: TR-TE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB W. Cruz gets sacked for a 8 yard loss (DT L. Townsend).  OG R. Lyons allowed the sack.
+
+Virginia Tech ball, Q4, 1-10-VATC48 (15:00) 41-3
+Offense: Medium Pass, Set: Trips, Play: TR-TE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+SS Andre Ray (GSU) was injured on the play (Stomach). It doesn't look too serious and he should 
+return.
+
+Virginia Tech ball, Q4, 2-18-VATC40 (14:44) 41-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB J. Sewell runs right tackle for -2 yards (DE O. Cronin). OG C. Hodges missed a block that 
+hurt the play.
+
+Virginia Tech ball, Q4, 3-20-VATC38 (14:14) 41-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB A. Sweet runs left guard for 2 yards (ILB R. Johnson). 
+
+Virginia Tech ball, Q4, 4-18-VATC40 (13:46) 41-3
+Scott Welsh Punts 40 yards to the Georgia Southern 20 yard line, where it goes out of bounds.
+
+Georgia Southern ball, Q4, 1-10-GSU20 (13:27) 3-41
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB K. Sledge throws an incomplete pass to WR B. Bond.
+
+Georgia Southern ball, Q4, 2-10-GSU20 (13:10) 3-41
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-DZ
+QB K. Sledge throws an incomplete pass to WR T. Ames (OLB M. Lowery). OLB M. Lowery broke 
+up the pass.
+
+Georgia Southern ball, Q4, 3-10-GSU20 (12:54) 3-41
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB K. Sledge throws an incomplete pass to WR B. Bond (FS K. Silva). WR B. Bond ran an incorrect 
+route. FS K. Silva broke up the pass.
+
+Georgia Southern ball, Q4, 4-10-GSU20 (12:36) 3-41
+Jason Young Punts 36 yards to the Virginia Tech 44 yard line, where Kerry Chen returns it 
+to Georgia Southern 39 for a 17 yard return.
+
+Grabbing Face Mask against WR George Griffin on Georgia Southern. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Georgia Southern 34.
+
+Virginia Tech ball, Q4, 1-10-GSU34 (12:25) 41-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB W. Cruz completes a 15 yard post to WR J. Lopez (OOB). C W. Anderson earned a pancake on 
+the play. CB B. Shelton missed a tackle.
+
+Virginia Tech ball, Q4, 1-10-GSU19 (12:12) 41-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB W. Cruz completes a 19 yard hook to WR K. Chen ****Touchdown!***** W. Cruz with the great 
+pass. C W. Anderson earned a pancake on the play. SS A. Ray was out of position on the play.
+
+Virginia Tech ball, Q4, 1-0-GSU0 (11:47) 47-3
+Jack Martin converts the PAT.
+
+Virginia Tech ball, Q4, 1-10-VATC35 (11:47) 48-3
+Jack Martin kicks 73 from Virginia Tech 35 to end zone, Touchback.
+
+Georgia Southern ball, Q4, 1-10-GSU20 (11:31) 3-48
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB K. Sledge throws an incomplete pass to TE B. Rodriguez. TE B. Rodriguez dropped the pass.
+
+Georgia Southern ball, Q4, 2-10-GSU20 (11:12) 3-48
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB K. Sledge completes a 2 yard cross to WR L. Gross (FS K. Silva). 
+
+Georgia Southern ball, Q4, 3-8-GSU22 (10:45) 3-48
+Offense: Medium Pass, Set: Weak, Play: WK-SE-streaks
+Defense: Stop Pass, Set: 3-3-5, Play: 335-pass-ZoneBlitz
+QB K. Sledge completes a 10 yard streak to WR T. Ames (SS G. Fortune). 
+
+Georgia Southern ball, Q4, 1-10-GSU32 (10:19) 3-48
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-in-WR4-up
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB K. Sledge completes a 14 yard in to WR B. Bond (OLB E. Callahan, OLB M. Lowery). 
+
+Georgia Southern ball, Q4, 1-10-GSU46 (09:54) 3-48
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Sledge throws an incomplete pass to WR T. Ames.
+
+Georgia Southern ball, Q4, 2-10-GSU46 (09:35) 3-48
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Sledge throws an incomplete pass to WR T. Ames (SS G. Fortune). SS G. Fortune broke 
+up the pass.
+
+Georgia Southern ball, Q4, 3-10-GSU46 (09:19) 3-48
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB D. Hardison runs right guard for -1 yards (OLB M. Lowery). OT J. Delgado missed a block 
+that hurt the play.
+
+Georgia Southern ball, Q4, 4-11-GSU45 (08:46) 3-48
+Jason Young Punts 40 yards to the Virginia Tech 15 yard line, where Kerry Chen returns it 
+to Virginia Tech 33 for a 18 yard return.
+
+Virginia Tech ball, Q4, 1-10-VATC33 (08:30) 48-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB A. Sweet runs right guard for 6 yards (ILB R. Johnson). 
+
+Virginia Tech ball, Q4, 2-4-VATC39 (08:04) 48-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB J. Sewell runs right guard for 3 yards (FS J. Miller). 
+
+Virginia Tech ball, Q4, 3-1-VATC42 (07:36) 48-3
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,5,6,7,
+QB W. Cruz completes a 12 yard hook to WR R. Hundley (CB B. Shelton).  OT C. Boyd earned a 
+pancake on the play. CB B. Shelton missed a tackle.
+
+Virginia Tech ball, Q4, 1-10-GSU46 (07:09) 48-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB A. Sweet runs right tackle for 1 yard (FS G. Cannon).  OG C. Hodges missed a block that 
+hurt the play.
+
+Virginia Tech ball, Q4, 2-9-GSU45 (06:38) 48-3
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB A. Sweet runs left end for 10 yards (FS G. Cannon).  C W. Anderson had a key block on the 
+run. DT T. Hamilton missed a tackle.
+
+Virginia Tech ball, Q4, 1-10-GSU35 (06:08) 48-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB J. Sewell runs right guard for 3 yards (CB J. Fischer). 
+
+Virginia Tech ball, Q4, 2-7-GSU32 (05:41) 48-3
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB R. Ventura completes a 14 yard in to TE H. Harris (SS J. Logan).  He fumbles the ball after 
+a hit by J. Logan. It's recovered by C. Boyd of Virginia Tech. C W. Anderson earned a pancake on the play. FS G. Cannon was out of position on the play.
+
+Virginia Tech ball, Q4, 1-10-GSU18 (05:17) 48-3
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB R. Ventura completes a 4 yard out to WR J. Lopez (OLB E. Jones). 
+
+Virginia Tech ball, Q4, 2-6-GSU14 (04:54) 48-3
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB R. Ventura completes a 14 yard dump off to WR J. Montes ****Touchdown!*****
+
+Virginia Tech ball, Q4, 1-0-GSU0 (04:44) 54-3
+Jack Martin converts the PAT.
+
+Virginia Tech ball, Q4, 1-10-VATC35 (04:44) 55-3
+Jack Martin kicks 47 from Virginia Tech 35 to Georgia Southern 18. Daniel Strickland to Georgia 
+Southern 33 for a 15 yard return.
+
+Georgia Southern ball, Q4, 1-10-GSU33 (04:28) 3-55
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB K. Sledge throws an incomplete pass to WR B. Bond (OLB E. Callahan). OLB E. Callahan broke 
+up the pass.
+
+Georgia Southern ball, Q4, 2-10-GSU33 (04:11) 3-55
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB H. Church gets sacked for a 2 yard loss (OLB E. Callahan).  OT J. Delgado allowed the sack.
+
+Georgia Southern ball, Q4, 2-10-GSU33 (04:11) 3-55
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+FS Marlin Moore (VATC) was injured on the play (Neck). It doesn't look like he will return.
+
+Georgia Southern ball, Q4, 3-12-GSU31 (03:51) 3-55
+Offense: Long Pass, Set: Weak, Play: WK-SE-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-Man
+QB K. Sledge throws an incomplete pass to WR W. Rose (SS G. Fortune). WR W. Rose dropped the 
+pass. SS G. Fortune broke up the pass.
+
+Georgia Southern ball, Q4, 4-12-GSU31 (03:34) 3-55
+Jason Young Punts 24 yards to the Virginia Tech 45 yard line, where it gets downed.
+
+Virginia Tech ball, Q4, 1-10-VATC45 (03:15) 55-3
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB J. Sewell runs right guard for 3 yards (ILB R. Johnson). 
+
+Virginia Tech ball, Q4, 2-7-VATC48 (02:49) 55-3
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB A. Sweet runs right end for 1 yard (OLB D. Brown). 
+
+Virginia Tech ball, Q4, 3-6-VATC49 (02:18) 55-3
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB A. Sweet runs right tackle for 7 yards (OLB E. Jones). 
+
+Virginia Tech ball, Q4, 1-10-GSU44 (01:52) 55-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B5
+RB J. Sewell runs right guard for 15 yards (FS G. Cannon, CB F. Lehman).  OG C. Hodges had 
+a key block on the run. CB F. Lehman missed a tackle.
+
+Virginia Tech ball, Q4, 1-10-GSU29 (01:23) 55-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB J. Sewell runs right tackle for 4 yards (OLB G. Gilbert). 
+
+Virginia Tech ball, Q4, 1-10-GSU29 (01:23) 55-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+OLB Eric Jones (GSU) was injured on the play (Groin). It doesn't look like he will return.
+
+Virginia Tech ball, Q4, 2-6-GSU25 (01:01) 55-3
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB A. Sweet runs right guard for 9 yards (ILB A. Stinson, FS G. Cannon).  OT C. Boyd had a 
+key block on the run. CB F. Lehman missed a tackle.
+
+Offsides against DE Matthew Waterman on Georgia Southern. The Penalty is for 5 yards.
+The penalty will be declined.
+
+Virginia Tech ball, Q4, 1-10-GSU16 (00:57) 55-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB A. Sweet runs left guard for 4 yards (FS J. Miller, DT L. Townsend). 
+
+Georgia Southern Timeout!
+
+Virginia Tech ball, Q4, 2-6-GSU12 (00:48) 55-3
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+RB J. Sewell runs left end for 6 yards (OLB D. Brown). 
+
+Offsides against ILB Howard Mena on Georgia Southern. The Penalty is for 5 yards.
+The penalty will be declined.
+
+Georgia Southern Timeout!
+
+Virginia Tech ball, Q4, 1-6-GSU6 (00:33) 55-3
+Offense: Inside Run, Set: Trips, Play: TR-HB-fake-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+The QB takes a knee.
+
+Georgia Southern Timeout!
+
+Virginia Tech ball, Q4, 2-7-GSU7 (00:26) 55-3
+Offense: Inside Run, Set: Quads, Play: Q-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+The QB takes a knee.
+
+Virginia Tech ball, Q4, 3-9-GSU9 (00:17) 55-3
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+The QB takes a knee.
+

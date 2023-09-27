@@ -1,0 +1,982 @@
+Georgia ball, Q1, 1-10-GEO35 (15:00) 0-0
+Michael Pate kicks 55 from Georgia 35 to Kansas 10. Jamel Terrell to Kansas 19 for a 9 yard 
+return.
+
+Kansas ball, Q1, 1-10-KAN19 (14:44) 0-0
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-option-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+QB C. Bradshaw runs right tackle for 2 yards (ILB W. Perkins). 
+
+Kansas ball, Q1, 2-8-KAN21 (14:11) 0-0
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-option-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB C. Bradshaw runs right end for 5 yards (SS B. Tuttle, FS D. Palmer). 
+
+Kansas ball, Q1, 3-3-KAN26 (13:45) 0-0
+Offense: Medium Pass, Set: Wing T, Play: T-SE-corner-WB-flat
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+False Start against OG Steven Horton on Kansas. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and 8 at the Kansas 21.
+
+Kansas ball, Q1, 3-8-KAN21 (13:45) 0-0
+Offense: Outside Run, Set: Flexbone, Play: FL-RB-power-RE
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB F. Dawson runs left end for 4 yards (CB R. Hill). 
+
+Kansas ball, Q1, 4-4-KAN25 (13:15) 0-0
+Pedro Burchett Punts 43 yards to the Georgia 32 yard line, where it gets downed.
+
+Georgia ball, Q1, 1-10-GEO32 (12:57) 0-0
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB T. Arroyo runs right guard for 1 yard (ILB J. Mclaughlin).  OG N. Laws missed a block that 
+hurt the play.
+
+Georgia ball, Q1, 2-9-GEO33 (12:25) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB R. Choate completes a 15 yard hook to WR G. Williams (SS E. Campbell, FS G. Hill). 
+
+Georgia ball, Q1, 1-10-GEO48 (12:04) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB R. Choate completes a 2 yard out to WR G. Williams (ILB J. Mclaughlin). 
+
+Georgia ball, Q1, 2-8-GEO50 (11:43) 0-0
+Offense: Short Pass, Set: Weak, Play: WK-FL-screen
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+QB R. Choate completes a 1 yard screen to WR G. Williams (ILB D. Long). 
+
+Georgia ball, Q1, 3-7-KAN49 (11:20) 0-0
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+QB R. Choate throws an incomplete pass to WR L. Byrne (CB S. Bradley). WR L. Byrne dropped 
+the pass. CB S. Bradley broke up the pass.
+
+Georgia ball, Q1, 4-7-KAN49 (11:04) 0-0
+Thomas Connolly Punts 37 yards to the Kansas 12 yard line,
+
+Kansas ball, Q1, 1-10-KAN12 (10:48) 0-0
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB C. Bradshaw completes a 2 yard post to WR D. James (OLB J. Ryan). 
+
+Kansas ball, Q1, 2-8-KAN14 (10:24) 0-0
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB C. Bradshaw completes a 5 yard dump off to RB C. Diaz (OLB J. Ryan, OLB M. Parks). 
+
+Kansas ball, Q1, 3-3-KAN19 (10:01) 0-0
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB F. Dawson runs left guard for 1 yard (ILB W. Perkins).  C A. Watkins missed a block that 
+hurt the play.
+
+Offsides against SS Lyle Sanders on Georgia. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Kansas 24.
+
+Kansas ball, Q1, 1-10-KAN24 (09:49) 0-0
+Offense: Long Pass, Set: Wishbone, Play: WB-SE-streaks
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB C. Bradshaw throws an incomplete pass to WR D. James. WR D. James dropped the pass.
+
+Kansas ball, Q1, 2-10-KAN24 (09:33) 0-0
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB W. Gonzalez runs left guard for 2 yards (SS B. Tuttle, ILB W. Perkins). 
+
+Kansas ball, Q1, 3-8-KAN26 (09:05) 0-0
+Offense: Medium Pass, Set: Flexbone, Play: FL-SE-optpass-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB C. Bradshaw throws an incomplete pass to WR W. Dobbins.
+
+Kansas ball, Q1, 4-8-KAN26 (08:48) 0-0
+Pedro Burchett Punts 43 yards to the Georgia 31 yard line, where James Pruitt returns it to 
+Georgia 42 for a 11 yard return.
+
+Georgia ball, Q1, 1-10-GEO42 (08:33) 0-0
+Offense: Short Pass, Set: Weak, Play: WK-SE-slant-FL-in
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-Man
+QB R. Choate completes a 2 yard screen to WR L. Byrne (OOB).
+
+Georgia ball, Q1, 2-8-GEO44 (08:20) 0-0
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB V. Lewis runs left guard for 9 yards (CB J. Terrell). 
+
+Georgia ball, Q1, 1-10-KAN47 (07:47) 0-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB V. Lewis runs right guard for 1 yard (DE R. Godwin).  OT M. Sheets missed a block that 
+hurt the play.
+
+Georgia ball, Q1, 2-9-KAN46 (07:17) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB T. Arroyo runs right end for 5 yards (DT J. Hardin). 
+
+Unnecessary Roughness against RB Travis Arroyo on Georgia. The Penalty is for 15 yards.
+The Defense will accept the penalty. It is now Third and 19 at the Georgia 44.
+
+Georgia ball, Q1, 3-19-GEO44 (07:07) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB R. Choate completes a 23 yard out to WR L. Byrne (OOB). CB S. Bradley was out of position 
+on the play.
+
+Georgia ball, Q1, 1-10-KAN33 (06:57) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB R. Choate completes a 11 yard hook to WR L. Byrne (OOB). FS G. Hill missed a tackle.
+
+Holding against FS Gregg Hill on Kansas. The Penalty is for 10 yards, and an automatic first 
+down.
+The penalty will be declined.
+
+Georgia ball, Q1, 1-10-KAN22 (06:45) 0-0
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB V. Lewis runs right end for 8 yards (ILB D. Long, OLB R. Vargas).  OT H. Allen had a key 
+block on the run. DE R. Godwin missed a tackle.
+
+Georgia ball, Q1, 2-2-KAN14 (06:12) 0-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB V. Lewis runs right guard for 9 yards (SS E. Campbell, OLB J. Ross).  OT H. Allen had a 
+key block on the run. FS G. Hill missed a tackle.
+
+Georgia ball, Q1, 1-5-KAN5 (05:40) 0-0
+Offense: Short Pass, Set: Weak, Play: WK-SE-slant-FL-in
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB R. Choate completes a 3 yard screen to WR G. Williams (OLB J. Ross). 
+
+Georgia ball, Q1, 2-2-KAN2 (05:19) 0-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+RB V. Lewis runs right end for 1 yard (OLB R. Vargas).  C B. Schmitt missed a block that hurt 
+the play.
+
+Georgia ball, Q1, 3-1-KAN1 (04:49) 0-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+RB V. Lewis runs left guard for 1 yard ****Touchdown!***** OT H. Allen missed a block that 
+hurt the play.
+
+Georgia ball, Q1, 1-0-KAN0 (04:17) 6-0
+Zachary Nelson converts the PAT.
+
+Georgia ball, Q1, 1-10-GEO35 (04:17) 7-0
+Michael Pate kicks 73 from Georgia 35 to end zone, Touchback.
+
+Kansas ball, Q1, 1-10-KAN20 (03:59) 0-7
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB C. Bradshaw throws an incomplete pass to WR D. James (CB R. Turner). WR D. James dropped 
+the pass. CB R. Turner broke up the pass.
+
+Kansas ball, Q1, 2-10-KAN20 (03:39) 0-7
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-power-LE
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+RB W. Gonzalez runs left end for 2 yards (ILB W. Perkins). 
+
+Kansas ball, Q1, 3-8-KAN22 (03:06) 0-7
+Offense: Outside Run, Set: Flexbone, Play: FL-RB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-B7,11-R
+RB F. Dawson runs left end for 1 yard (FS D. Palmer). 
+
+Kansas ball, Q1, 4-7-KAN23 (02:36) 0-7
+Pedro Burchett Punts 26 yards to the Kansas 49 yard line, where Christopher Dickson returns 
+it to Kansas 49 for a 0 yard return.
+
+Georgia ball, Q1, 1-10-KAN49 (02:17) 7-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6
+QB R. Choate throws an incomplete pass to RB T. Arroyo.
+
+Georgia ball, Q1, 2-10-KAN49 (02:02) 7-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB V. Lewis runs left end for 0 yards (ILB D. Long). 
+
+Georgia ball, Q1, 3-10-KAN49 (01:36) 7-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB R. Choate completes a 12 yard post to WR G. Jones (CB S. Bradley, CB J. Helms). 
+
+Georgia ball, Q1, 1-10-KAN37 (01:09) 7-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB V. Lewis runs left end for 0 yards (ILB D. Long).  OG H. Hurt missed a block that hurt 
+the play.
+
+Georgia ball, Q1, 2-10-KAN37 (00:37) 7-0
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+RB T. Arroyo runs right guard for 3 yards (OLB J. Ross). 
+
+Georgia ball, Q1, 3-7-KAN34 (00:08) 7-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB R. Choate completes a 12 yard out to WR G. Williams (CB S. Bradley).  G. Williams made 
+a great catch. OG N. Laws earned a pancake on the play. CB S. Bradley missed a tackle.
+
+Holding against OT Henry Allen on Georgia. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Third and 17 at the Kansas 44.
+
+Georgia ball, Q2, 3-17-KAN44 (15:00) 7-0
+Offense: Short Pass, Set: Quads, Play: Q-FL-str-SE-posts
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB R. Choate completes a 21 yard in to WR G. Jones (FS G. Hill).  OG N. Laws earned a pancake 
+on the play. FS G. Hill was out of position on the play.
+
+Georgia ball, Q2, 1-10-KAN23 (14:39) 7-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+QB R. Choate completes a 23 yard in to WR L. Byrne ****Touchdown!***** L. Byrne made a great 
+catch. CB C. Reed was out of position on the play.
+
+Georgia ball, Q2, 1-10-KAN23 (14:39) 7-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+OT Henry Allen (GEO) was injured on the play (Knee). It doesn't look like he will return.
+
+Georgia ball, Q2, 1-0-KAN0 (14:24) 13-0
+Zachary Nelson converts the PAT.
+
+Georgia ball, Q2, 1-10-GEO35 (14:24) 14-0
+Michael Pate kicks 67 from Georgia 35 to Kansas -2. Jamel Terrell to Kansas 29 for a 31 yard 
+return.
+
+Kansas ball, Q2, 1-10-KAN29 (14:07) 0-14
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB F. Dawson runs right end for 0 yards (OOB).
+
+Kansas ball, Q2, 2-10-KAN29 (13:50) 0-14
+Offense: Outside Run, Set: Wing T, Play: T-HB-option-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB C. Bradshaw runs right end for 8 yards (SS B. Tuttle, FS D. Palmer).  DE J. Bray missed 
+a tackle.
+
+Kansas ball, Q2, 3-2-KAN37 (13:21) 0-14
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB F. Dawson runs right tackle for 12 yards (ILB K. Morales).  DE J. Bray was out of position 
+on the play.
+
+Kansas ball, Q2, 1-10-KAN49 (12:51) 0-14
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+QB C. Bradshaw throws an incomplete pass to RB C. Diaz. RB C. Diaz dropped the pass.
+
+Kansas ball, Q2, 2-10-KAN49 (12:34) 0-14
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+QB C. Bradshaw completes a 27 yard streak to RB C. Diaz (FS D. Palmer).  OT S. Watson earned 
+a pancake on the play. SS B. Tuttle allowed the big play.
+
+Kansas ball, Q2, 1-10-GEO24 (12:13) 0-14
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-option-RE
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B11
+RB F. Dawson runs right end for 21 yards (CB R. Hill).  OG S. Horton had a key block on the 
+run. CB J. Pruitt was out of position on the play.
+
+Kansas ball, Q2, 1-3-GEO3 (11:44) 0-14
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+RB W. Gonzalez runs left guard for 0 yards (ILB W. Perkins).  C A. Watkins missed a block 
+that hurt the play.
+
+Kansas ball, Q2, 1-3-GEO3 (11:44) 0-14
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+CB Ray Hill (GEO) was injured on the play (Foot). It doesn't look like he will return.
+
+Kansas ball, Q2, 2-3-GEO3 (11:30) 0-14
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+RB F. Dawson runs right tackle for -5 yards (OLB J. Ryan).
+
+Kansas ball, Q2, 2-3-GEO3 (11:30) 0-14
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+OT Sean Watson (KAN) was injured on the play (Foot). It doesn't look too serious and he should 
+return.
+
+Kansas ball, Q2, 3-8-GEO8 (11:13) 0-14
+Offense: Medium Pass, Set: I Form, Play: I-FL-post-TE-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB C. Bradshaw throws an incomplete pass to WR W. Dobbins.
+
+Kansas ball, Q2, 4-8-GEO8 (10:57) 0-14
+Jeffrey Hudson converts the 26 yard field goal.
+
+Kansas ball, Q2, 1-10-KAN35 (10:38) 3-14
+Albert Moore kicks 55 from Kansas 35 to Georgia 10. Victor Lewis to Georgia 48 for a 38 yard 
+return.
+
+Georgia ball, Q2, 1-10-GEO48 (10:21) 14-3
+Offense: Outside Run, Set: Pro Set, Play: PS-FB-toss-RE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+FB B. Jordan runs right tackle for -1 yards (OLB R. Vargas).
+
+Georgia ball, Q2, 2-11-GEO47 (09:53) 14-3
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB R. Choate throws an incomplete pass to TE M. Anderson. TE M. Anderson dropped the pass.
+
+Georgia ball, Q2, 3-11-GEO47 (09:37) 14-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B11
+QB R. Choate throws an incomplete pass to TE M. Anderson.
+
+Georgia ball, Q2, 4-11-GEO47 (09:20) 14-3
+Thomas Connolly Punts 41 yards to the Kansas 12 yard line, where Christopher Reed returns 
+it to Kansas 30 for a 18 yard return.
+
+Kansas ball, Q2, 1-10-KAN30 (09:03) 3-14
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-tripoption-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB C. Bradshaw scrambles out of the pocket and gets sacked for a 2 yard loss (DT D. Robinson). 
+ C A. Watkins missed a block that hurt the play. OG A. Young allowed the sack.
+
+Kansas ball, Q2, 2-12-KAN28 (08:34) 3-14
+Offense: Inside Run, Set: I Form, Play: I-FB-straight-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+FB C. West runs left guard for 4 yards (FS D. Palmer). 
+
+Kansas ball, Q2, 3-8-KAN32 (08:04) 3-14
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB F. Dawson runs right end for 4 yards (OLB J. Ryan). 
+
+Kansas ball, Q2, 4-4-KAN36 (07:33) 3-14
+Pedro Burchett Punts 36 yards to the Georgia 28 yard line, where James Pruitt returns it to 
+Georgia 35 for a 7 yard return.
+
+Clipping against SS Richard Phillips on Georgia. The Penalty is for 15 yards.
+The Defense will accept the penalty. It is now First and 10 at the Georgia 20.
+
+Georgia ball, Q2, 1-10-GEO20 (07:20) 14-3
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+QB R. Choate completes a 6 yard screen to RB V. Lewis (CB C. Reed).  He fumbles the ball after 
+a hit by C. Reed. It's recovered by N. Laws of Georgia.
+
+Georgia ball, Q2, 2-4-GEO26 (06:58) 14-3
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+RB V. Lewis runs right tackle for 0 yards (DT B. Harmon). 
+
+Georgia ball, Q2, 3-4-GEO26 (06:26) 14-3
+Offense: Short Pass, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB R. Choate throws an incomplete pass to RB V. Lewis.
+
+Georgia ball, Q2, 4-4-GEO26 (06:06) 14-3
+Thomas Connolly Punts 36 yards to the Kansas 38 yard line, where Christopher Reed returns 
+it to Georgia 20 for a 42 yard return.
+
+Kansas ball, Q2, 1-10-GEO20 (05:46) 3-14
+Offense: Short Pass, Set: Wing T, Play: T-SE-corner-WB-flat
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB C. Bradshaw completes a 8 yard dump off to RB W. Gonzalez (CB R. Turner). 
+
+Kansas ball, Q2, 1-10-GEO20 (05:46) 3-14
+Offense: Short Pass, Set: Wing T, Play: T-SE-corner-WB-flat
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+CB James Pruitt (GEO) was injured on the play (Lower Leg). It doesn't look too serious and 
+he should return.
+
+Kansas ball, Q2, 2-2-GEO12 (05:29) 3-14
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB F. Dawson runs right tackle for 1 yard (SS L. Sanders). 
+
+Kansas ball, Q2, 3-1-GEO11 (05:00) 3-14
+Offense: Outside Run, Set: I Form Big, Play: IB-RB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB F. Dawson runs right end for 11 yards ****Touchdown!*****
+
+Kansas ball, Q2, 1-0-GEO0 (04:42) 9-14
+Jeffrey Hudson converts the PAT.
+
+Kansas ball, Q2, 1-10-KAN35 (04:42) 10-14
+Albert Moore kicks 66 from Kansas 35 to Georgia -1. Victor Lewis to Kansas 47 for a 54 yard 
+return.
+
+Georgia ball, Q2, 1-10-KAN47 (04:22) 14-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB V. Lewis runs right end for 2 yards He fumbles the ball after a hit by R. Godwin. It's 
+recovered by M. Sheets of Georgia.
+
+Georgia ball, Q2, 2-8-KAN45 (03:54) 14-10
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB R. Choate completes a 45 yard streak to TE M. Anderson ****Touchdown!***** M. Anderson 
+made a great catch. OG N. Laws earned a pancake on the play. FS G. Hill allowed the big play.
+
+Georgia ball, Q2, 1-0-KAN0 (03:25) 20-10
+Zachary Nelson converts the PAT.
+
+Georgia ball, Q2, 1-10-GEO35 (03:25) 21-10
+Michael Pate kicks 66 from Georgia 35 to Kansas -1. Jamel Terrell to Georgia 46 for a 55 yard 
+return.
+
+Kansas ball, Q2, 1-10-GEO46 (03:06) 10-21
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-pass-SZ
+RB W. Gonzalez runs left guard for 1 yard (ILB W. Perkins). 
+
+Kansas ball, Q2, 2-9-GEO45 (02:40) 10-21
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+RB W. Gonzalez runs left guard for 0 yards (DE R. Vargas). 
+
+Kansas ball, Q2, 3-9-GEO45 (02:09) 10-21
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB F. Dawson runs right tackle for -1 yards (DE R. Vargas). OG S. Horton missed a block that 
+hurt the play.
+
+Kansas ball, Q2, 4-10-GEO46 (01:51) 10-21
+Pedro Burchett Punts 46 yards to the end zone, Touchback.
+
+Georgia ball, Q2, 1-10-GEO20 (01:31) 21-10
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB R. Choate throws an incomplete pass to WR G. Jones.
+
+Georgia ball, Q2, 2-10-GEO20 (01:15) 21-10
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB R. Choate throws an incomplete pass to WR J. Carl. WR J. Carl dropped the pass.
+
+Georgia ball, Q2, 3-10-GEO20 (01:07) 21-10
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+QB R. Choate completes a 14 yard hook to TE M. Anderson (OOB).
+
+Georgia ball, Q2, 1-10-GEO34 (01:00) 21-10
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+QB R. Choate completes a 6 yard post to WR G. Jones (ILB J. Mclaughlin). 
+
+Kansas Timeout!
+
+Georgia ball, Q2, 2-4-GEO40 (00:53) 21-10
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB R. Choate completes a 15 yard in to WR G. Jones (CB S. Bradley).  G. Jones made a great 
+catch.
+
+Georgia ball, Q2, 2-4-GEO40 (00:53) 21-10
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+OT Dennis Hall (GEO) was injured on the play (Knee). It doesn't look like he will return.
+
+Georgia ball, Q2, 1-10-KAN45 (00:37) 21-10
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-rollout-SE-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man
+QB R. Choate completes a 20 yard out-and-up to TE M. Anderson (CB S. Bradley).  OLB J. Ross 
+was out of position on the play.
+
+Georgia Timeout!
+
+Georgia ball, Q2, 1-10-KAN25 (00:30) 21-10
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB R. Choate completes a 6 yard dump off to RB T. Arroyo (OLB J. Ross).  He fumbles the ball 
+after a hit by J. Ross. It's recovered by J. Ross of Kansas. He returns it 0 yards to the Kansas 19.
+
+Kansas ball, Q2, 1-10-KAN19 (00:17) 10-21
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+The QB takes a knee.
+
+Kansas ball, Q3, 1-10-KAN35 (15:00) 10-21
+Albert Moore kicks 55 from Kansas 35 to Georgia 10. Victor Lewis to Georgia 27 for a 17 yard 
+return.
+
+Georgia ball, Q3, 1-10-GEO27 (14:43) 21-10
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB V. Lewis runs right end for 10 yards (OLB J. Ross, CB J. Terrell). 
+
+Georgia ball, Q3, 1-10-GEO37 (14:11) 21-10
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB V. Lewis runs right guard for 12 yards (OLB J. Ross). 
+
+Georgia ball, Q3, 1-10-GEO49 (13:42) 21-10
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB V. Lewis runs left guard for 4 yards (CB C. Reed). 
+
+Georgia ball, Q3, 2-6-KAN47 (13:09) 21-10
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+RB T. Arroyo runs right end for 6 yards (OLB J. Ross). 
+
+Georgia ball, Q3, 1-10-KAN41 (12:38) 21-10
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB V. Lewis runs left end for 10 yards (ILB J. Mclaughlin).  DE P. Mitchell missed a tackle.
+
+Georgia ball, Q3, 1-10-KAN31 (12:12) 21-10
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+RB T. Arroyo runs right end for 18 yards (OLB R. Vargas).  OG N. Laws had a key block on the 
+run. CB C. Reed missed a tackle.
+
+Georgia ball, Q3, 1-10-KAN13 (11:39) 21-10
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB T. Arroyo runs right guard for 5 yards He fumbles the ball after a hit by J. Hardin. It's 
+recovered by M. Sheets of Georgia.
+
+Georgia ball, Q3, 2-5-KAN8 (11:25) 21-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB T. Arroyo runs right guard for 5 yards (CB J. Terrell, CB C. Reed). 
+
+Georgia ball, Q3, 1-3-KAN3 (10:59) 21-10
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+RB V. Lewis runs right guard for 3 yards ****Touchdown!*****
+
+Georgia ball, Q3, 1-0-KAN0 (10:32) 27-10
+Zachary Nelson converts the PAT.
+
+Georgia ball, Q3, 1-10-GEO35 (10:32) 28-10
+Michael Pate kicks 67 from Georgia 35 to Kansas -2. Jamel Terrell to Kansas 29 for a 31 yard 
+return.
+
+Kansas ball, Q3, 1-10-KAN29 (10:15) 10-28
+Offense: Short Pass, Set: I Form Big, Play: IB-FB-playact-flat
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB C. Bradshaw completes a 4 yard dump off to FB C. West (ILB K. Morales, FS D. Palmer). 
+
+Kansas ball, Q3, 2-6-KAN33 (09:54) 10-28
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-straight-RG
+Defense: Stop Run, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+RB F. Dawson runs right guard for 4 yards (ILB K. Morales). 
+
+Kansas ball, Q3, 3-2-KAN37 (09:23) 10-28
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB F. Dawson runs right guard for 2 yards (SS L. Sanders). 
+
+Kansas ball, Q3, 1-10-KAN39 (08:53) 10-28
+Offense: Medium Pass, Set: Flexbone, Play: FL-FL-playact-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB C. Bradshaw throws an incomplete pass to WR W. Dobbins (CB R. Turner). CB R. Turner broke 
+up the pass.
+
+Kansas ball, Q3, 2-10-KAN39 (08:34) 10-28
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-straight-RG
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB F. Dawson runs right guard for 3 yards (ILB K. Morales, CB J. Pruitt). 
+
+Kansas ball, Q3, 3-7-KAN42 (08:03) 10-28
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB C. Bradshaw completes a 58 yard dump off to RB W. Gonzalez ****Touchdown!***** W. Gonzalez 
+made a great catch. SS B. Tuttle allowed the big play.
+
+Kansas ball, Q3, 1-0-GEO0 (07:39) 16-28
+Jeffrey Hudson converts the PAT.
+
+Kansas ball, Q3, 1-10-KAN35 (07:39) 17-28
+Albert Moore kicks 75 from Kansas 35 to end zone, Touchback.
+
+Georgia ball, Q3, 1-10-GEO20 (07:21) 28-17
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B5,8
+RB V. Lewis runs right tackle for 0 yards (OLB J. Ross).  OT M. Sheets missed a block that 
+hurt the play.
+
+Georgia ball, Q3, 2-10-GEO20 (06:51) 28-17
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB T. Arroyo runs right guard for 4 yards (CB S. Bradley). 
+
+Georgia ball, Q3, 2-10-GEO20 (06:51) 28-17
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+C Bradford Schmitt (GEO) was injured on the play (Thumb). It doesn't look like he will return.
+
+Georgia ball, Q3, 3-6-GEO24 (06:36) 28-17
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB V. Lewis runs right tackle for 4 yards (FS G. Hill). 
+
+Georgia ball, Q3, 4-2-GEO28 (06:06) 28-17
+Thomas Connolly Punts 36 yards to the Kansas 36 yard line, where Christopher Reed returns 
+it to Kansas 50 for a 14 yard return.
+
+Kansas ball, Q3, 1-10-KAN50 (05:47) 17-28
+Offense: Inside Run, Set: I Form Big, Play: IB-FB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+False Start against OG Steven Horton on Kansas. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the Kansas 45.
+
+Kansas ball, Q3, 1-15-KAN45 (05:47) 17-28
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB F. Dawson runs left guard for 3 yards (SS L. Sanders). 
+
+Kansas ball, Q3, 2-12-KAN48 (05:15) 17-28
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB F. Dawson runs left guard for 3 yards (CB R. Turner). 
+
+Kansas ball, Q3, 3-9-GEO49 (04:45) 17-28
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB C. Bradshaw throws an incomplete pass to WR D. James.
+
+Kansas ball, Q3, 4-9-GEO49 (04:25) 17-28
+Pedro Burchett Punts 24 yards to the Georgia 25 yard line, where James Pruitt returns it to 
+Georgia 27 for a 2 yard return.
+
+Georgia ball, Q3, 1-10-GEO27 (04:01) 28-17
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6
+QB R. Choate completes a 5 yard screen to RB T. Arroyo (FS G. Hill). 
+
+Georgia ball, Q3, 2-5-GEO32 (03:46) 28-17
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 4-4, Play: 44-run-Man-B6,7
+QB R. Choate throws an incomplete pass to WR J. Carl. WR J. Carl ran an incorrect route.
+
+Georgia ball, Q3, 3-5-GEO32 (03:27) 28-17
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+RB V. Lewis runs right tackle for 4 yards (CB C. Reed, CB S. Bradley). 
+
+Georgia ball, Q3, 4-1-GEO36 (02:56) 28-17
+Thomas Connolly Punts 45 yards to the Kansas 19 yard line, where it goes out of bounds.
+
+Kansas ball, Q3, 1-10-KAN19 (02:36) 17-28
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB C. Bradshaw completes a 13 yard post to WR D. James (CB R. Turner).  CB J. Pruitt missed 
+a tackle.
+
+Kansas ball, Q3, 1-10-KAN32 (02:11) 17-28
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-straight-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+RB F. Dawson runs right tackle for 2 yards (FS D. Palmer, SS B. Tuttle). 
+
+Holding against FS Dan Palmer on Georgia. The Penalty is for 10 yards, and an automatic first 
+down.
+The Offense will accept the penalty. It is now First and 10 at the Kansas 42.
+
+Kansas ball, Q3, 1-10-KAN42 (01:59) 17-28
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+FB C. West runs right end for 17 yards (OOB). SS B. Tuttle missed a tackle.
+
+Kansas ball, Q3, 1-10-GEO41 (01:47) 17-28
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB W. Gonzalez runs left end for 5 yards (OLB M. Parks, OLB J. Ryan). 
+
+Kansas ball, Q3, 2-5-GEO36 (01:15) 17-28
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB F. Dawson runs left guard for 6 yards (CB R. Turner). 
+
+Kansas ball, Q3, 1-10-GEO30 (00:46) 17-28
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB F. Dawson runs right tackle for 6 yards (OLB J. Ryan). 
+
+Kansas ball, Q3, 2-4-GEO24 (00:16) 17-28
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB W. Gonzalez runs left guard for 1 yard (DT D. Robinson).  RB C. Diaz missed a block that 
+hurt the play.
+
+Kansas ball, Q4, 3-3-GEO23 (15:00) 17-28
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+QB C. Bradshaw gets sacked for a 8 yard loss (OLB M. Parks).  He fumbles the ball after a 
+hit by M. Parks. It's recovered by K. Morales of Georgia. He returns it 0 yards to the Georgia 31. RB W. Gonzalez allowed the sack.
+
+Georgia ball, Q4, 1-10-GEO31 (14:43) 28-17
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-HBfake-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+WR G. Jones runs right end for 11 yards (CB J. Terrell, SS E. Campbell).  OG N. Laws had a 
+key block on the run. ILB J. Mclaughlin missed a tackle.
+
+Georgia ball, Q4, 1-10-GEO42 (14:12) 28-17
+Offense: Short Pass, Set: Weak, Play: WK-FL-screen
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB R. Choate completes a 13 yard screen to WR G. Williams (CB J. Terrell).  G. Williams made 
+a great catch. OT M. Sheets earned a pancake on the play. FS G. Hill missed a tackle.
+
+Georgia ball, Q4, 1-10-KAN45 (13:48) 28-17
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB V. Lewis runs left end for 0 yards (ILB J. Mclaughlin).  V. Lewis missed a hole that could 
+have resulted in a bigger gain.
+
+Georgia ball, Q4, 2-10-KAN45 (13:21) 28-17
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-out-WR3-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-MZ
+QB R. Choate throws an incomplete pass to WR G. Williams (CB S. Bradley). WR G. Williams dropped 
+the pass. DE J. Hines hurried the QB. CB S. Bradley broke up the pass.
+
+Georgia ball, Q4, 2-10-KAN45 (13:21) 28-17
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-out-WR3-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-MZ
+DE Paul Mitchell (KAN) was injured on the play (Spleen). It doesn't look like he will return.
+
+Georgia ball, Q4, 3-10-KAN45 (13:01) 28-17
+Offense: Medium Pass, Set: Weak, Play: WK-FL-streaks
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-DZ
+QB R. Choate completes a 13 yard streak to WR G. Williams (OLB R. Vargas).  CB C. Reed missed 
+a tackle.
+
+Georgia ball, Q4, 1-10-KAN32 (12:36) 28-17
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 4-4, Play: 44-run-Man-B6,7
+RB V. Lewis runs right guard for 2 yards (FS G. Hill). 
+
+Georgia ball, Q4, 2-8-KAN30 (12:09) 28-17
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Run, Set: 4-4, Play: 44-run-MZ-B5,6,7,8
+RB T. Arroyo runs right tackle for 1 yard (ILB D. Long).  OT M. Sheets missed a block that 
+hurt the play.
+
+Georgia ball, Q4, 3-7-KAN29 (11:36) 28-17
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB R. Choate throws an incomplete pass to WR G. Williams.
+
+Holding against CB Jamel Terrell on Kansas. The Penalty is for 10 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the Kansas 19.
+
+Georgia ball, Q4, 1-10-KAN19 (11:25) 28-17
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB V. Lewis runs left end for -1 yards (SS E. Campbell). V. Lewis missed a hole that could 
+have resulted in a bigger gain.
+
+Georgia ball, Q4, 2-11-KAN20 (10:54) 28-17
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-ZoneBlitz
+RB T. Arroyo runs left end for 4 yards (OLB R. Vargas). 
+
+Grabbing Face Mask against ILB David Long on Kansas. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Third and 2 at the Kansas 11.
+
+Georgia ball, Q4, 3-2-KAN11 (10:43) 28-17
+Offense: Short Pass, Set: Weak, Play: WK-HB-flat-SE-post
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+QB R. Choate completes a 11 yard dump off to RB V. Lewis ****Touchdown!***** OT M. Sheets 
+earned a pancake on the play. ILB D. Long was out of position on the play.
+
+Georgia ball, Q4, 1-0-KAN0 (10:19) 34-17
+Zachary Nelson converts the PAT.
+
+Georgia ball, Q4, 1-10-GEO35 (10:19) 35-17
+Michael Pate kicks 54 from Georgia 35 to Kansas 11. Jamel Terrell to Kansas 34 for a 23 yard 
+return.
+
+Kansas ball, Q4, 1-10-KAN34 (09:59) 17-35
+Offense: Long Pass, Set: Flexbone, Play: FL-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB C. Bradshaw throws an incomplete pass to WR D. James. WR D. James ran an incorrect route.
+
+Offensive Pass Interference against Kansas. The Penalty is for 15 yards.
+The Defense will accept the penalty. It is now First and 25 at the Kansas 19.
+
+Kansas ball, Q4, 1-25-KAN19 (09:47) 17-35
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB F. Dawson runs right guard for 1 yard (OLB J. Ryan). 
+
+Kansas ball, Q4, 2-24-KAN20 (09:14) 17-35
+Offense: Short Pass, Set: I Form Big, Play: IB-SE-str-TE2-slant
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB C. Bradshaw throws an incomplete pass to TE C. Morgan. DE R. Vargas hurried the QB.
+
+Kansas ball, Q4, 3-24-KAN20 (08:57) 17-35
+Offense: Medium Pass, Set: Flexbone, Play: FL-SE-optpass-corner
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+C. Bradshaw has his 25 yard pass intercepted by B. Tuttle at the KAN 45. He returns it 0 yards 
+to the Kansas 45. ILB K. Morales hurried the QB.
+
+Georgia ball, Q4, 1-10-KAN45 (08:26) 35-17
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6
+QB R. Choate throws an incomplete pass to WR G. Jones (CB C. Reed). CB C. Reed broke up the 
+pass.
+
+Georgia ball, Q4, 2-10-KAN45 (08:09) 35-17
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+QB R. Choate throws an incomplete pass to WR G. Williams.
+
+Georgia ball, Q4, 3-10-KAN45 (07:52) 35-17
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+QB R. Choate completes a 11 yard in to WR G. Jones (ILB D. Long).  G. Jones made a great catch. 
+OLB R. Vargas missed a tackle.
+
+Georgia ball, Q4, 3-10-KAN45 (07:52) 35-17
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+DE Jesus Hines (KAN) was injured on the play (OK). It doesn't look like he will return.
+
+Georgia ball, Q4, 1-10-KAN34 (07:35) 35-17
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Pass, Set: 4-4, Play: 44-norm-Man-Spy
+QB R. Choate completes a 7 yard hook to FB B. Jordan (CB C. Reed). 
+
+Georgia ball, Q4, 2-3-KAN27 (07:13) 35-17
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB V. Lewis runs right tackle for 1 yard (SS E. Campbell). 
+
+Georgia ball, Q4, 3-2-KAN26 (06:40) 35-17
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB R. Choate gets sacked for a 6 yard loss (OLB J. Ross).  C R. Thompson allowed the sack.
+
+Georgia ball, Q4, 4-8-KAN32 (06:25) 35-17
+Zachary Nelson misses the 50 yard field goal. It will be Kansas ball at the KAN 32
+
+Kansas ball, Q4, 1-10-KAN32 (06:07) 17-35
+Offense: Medium Pass, Set: Flexbone, Play: FL-SE-optpass-corner
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+QB C. Bradshaw throws an incomplete pass to WR W. Dobbins.
+
+Kansas ball, Q4, 2-10-KAN32 (05:47) 17-35
+Offense: Medium Pass, Set: Flexbone, Play: FL-SE-optpass-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB C. Bradshaw completes a 23 yard corner to WR D. James (OOB). C. Bradshaw with the great 
+pass. SS B. Tuttle was out of position on the play.
+
+Kansas ball, Q4, 1-10-GEO45 (05:32) 17-35
+Offense: Long Pass, Set: Flexbone, Play: FL-SE-streaks
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB C. Bradshaw completes a 25 yard streak to WR W. Dobbins (OLB M. Parks).  He fumbles the 
+ball after a hit by M. Parks. It's recovered by R. Turner of Georgia. He returns it 0 yards to the Georgia 20.
+
+Georgia ball, Q4, 1-10-GEO20 (05:01) 35-17
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B5
+QB R. Choate completes a 7 yard in to WR G. Jones (OOB).
+
+Georgia ball, Q4, 2-3-GEO27 (04:51) 35-17
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+QB R. Choate completes a 26 yard in to TE M. Anderson (ILB J. Mclaughlin).  OG N. Laws earned 
+a pancake on the play.
+
+Georgia ball, Q4, 2-3-GEO27 (04:51) 35-17
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+C Ralph Thompson (GEO) was injured on the play (Finger). It doesn't look too serious and he 
+should return.
+
+Georgia ball, Q4, 1-10-KAN47 (04:38) 35-17
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-RE
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+RB V. Lewis runs right tackle for 5 yards (OLB J. Ross). 
+
+Georgia ball, Q4, 2-5-KAN42 (04:07) 35-17
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-MZ
+RB V. Lewis runs right end for 5 yards (DT B. Harmon). 
+
+Georgia ball, Q4, 1-10-KAN37 (03:51) 35-17
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-LE
+Defense: Stop Pass, Set: 4-4, Play: 44-pass-SZ-B10
+RB T. Arroyo runs left end for -1 yards (ILB D. Long). OT W. Mitchell missed a block that 
+hurt the play.
+
+Georgia ball, Q4, 2-11-KAN38 (03:18) 35-17
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Normal, Set: 4-4, Play: 44-norm-MZ-B7
+RB T. Arroyo runs right end for 3 yards (OLB J. Ross). 
+
+Georgia ball, Q4, 3-8-KAN35 (02:50) 35-17
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+RB V. Lewis runs left end for 8 yards (OOB). FB B. Jordan had a key block on the run.
+
+Georgia ball, Q4, 1-10-KAN27 (02:37) 35-17
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-Spy
+RB T. Arroyo runs right end for 2 yards He fumbles the ball after a hit by J. Ross. It's recovered 
+by S. Bradley of Kansas. He returns it 1 yards to the Kansas 26.
+
+Kansas ball, Q4, 1-10-KAN26 (02:07) 17-35
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB C. Bradshaw completes a 1 yard dump off to FB C. West (OLB J. Ryan). 
+
+Kansas ball, Q4, 2-9-KAN27 (01:50) 17-35
+Offense: Medium Pass, Set: I Form, Play: I-TE-corner-FL-post
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB C. Bradshaw runs outside for 1 yard (SS L. Sanders).  DE R. Vargas hurried the QB.
+
+Kansas ball, Q4, 3-8-KAN28 (01:32) 17-35
+Offense: Short Pass, Set: Wing T, Play: T-SE-playact-cor
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-SZ
+QB C. Bradshaw completes a 12 yard post to RB W. Gonzalez (ILB W. Perkins, CB J. Pruitt). 
+ OLB J. Ryan missed a tackle.
+
+Kansas ball, Q4, 1-10-KAN40 (01:08) 17-35
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB C. Bradshaw completes a 7 yard cross to WR D. James (ILB K. Morales). 
+
+Kansas ball, Q4, 2-3-KAN47 (00:51) 17-35
+Offense: Long Pass, Set: I Form Big, Play: IB-TE-streaks
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB C. Bradshaw throws an incomplete pass to TE R. Helms. TE R. Helms ran an incorrect route. 
+ILB K. Morales hurried the QB.
+
+Kansas ball, Q4, 3-3-KAN47 (00:43) 17-35
+Offense: Long Pass, Set: Wing T, Play: T-TE-str-SE-out
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB C. Bradshaw throws an incomplete pass to WR D. James.
+
+Kansas ball, Q4, 4-3-KAN47 (00:37) 17-35
+Offense: Short Pass, Set: Flexbone, Play: FL-FL-playact-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB C. Bradshaw throws an incomplete pass to RB C. Diaz. RB C. Diaz dropped the pass.
+
+Georgia ball, Q4, 1-10-KAN47 (00:29) 35-17
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB T. Arroyo runs right guard for 2 yards (CB S. Bradley). 
+
+Kansas Timeout!
+
+Georgia ball, Q4, 2-8-KAN45 (00:21) 35-17
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB T. Arroyo runs right end for 1 yard (DE R. Godwin).  C R. Thompson missed a block that 
+hurt the play.
+
+Kansas Timeout!
+
+Kansas Timeout!
+
+Georgia ball, Q4, 3-7-KAN44 (00:13) 35-17
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Normal, Set: 4-4, Play: 44-norm-Man-B6,7
+The QB takes a knee.
+
+Georgia ball, Q4, 4-9-KAN46 (00:06) 35-17
+Thomas Connolly Punts 42 yards to the Kansas 4 yard line, where it goes out of bounds.
+

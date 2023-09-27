@@ -1,0 +1,1003 @@
+Colorado ball, Q1, 1-10-COL35 (15:00) 0-0
+Roger Garcia kicks 73 from Colorado 35 to end zone, Touchback.
+
+California ball, Q1, 1-10-CAL20 (14:44) 0-0
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB P. Harris runs right guard for 2 yards (CB R. Peterson). 
+
+California ball, Q1, 2-8-CAL22 (14:13) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+QB J. Huffman throws an incomplete pass to WR C. Wilkins.
+
+California ball, Q1, 3-8-CAL22 (13:58) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB P. Harris runs right guard for 3 yards (CB R. Peterson). 
+
+California ball, Q1, 4-5-CAL25 (13:29) 0-0
+Paul Mcdonnell Punts 51 yards to the Colorado 24 yard line, where Andy Campbell returns it 
+to Colorado 29 for a 5 yard return.
+
+Colorado ball, Q1, 1-10-COL29 (13:10) 0-0
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB M. England completes a 6 yard in to WR W. Romero (SS D. Dyer). 
+
+Colorado ball, Q1, 2-4-COL35 (12:49) 0-0
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB T. Roberts runs right guard for -1 yards (ILB P. Miranda).
+
+Colorado ball, Q1, 3-5-COL34 (12:20) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB M. England completes a 23 yard in to WR J. Pool (OLB C. Goldberg). 
+
+Colorado ball, Q1, 3-5-COL34 (12:20) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+OT Randolph Hall (COL) was injured on the play (Shoulder). It doesn't look too serious and 
+he should return.
+
+Colorado ball, Q1, 1-10-CAL43 (12:07) 0-0
+Offense: Inside Run, Set: Trips, Play: TR-QB-sneak-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB M. England scrambles out of the pocket and gets sacked for a 2 yard loss (OLB C. Goldberg). 
+ OT R. Hall allowed the sack.
+
+Colorado ball, Q1, 2-12-CAL45 (11:35) 0-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB T. Roberts runs left end for -4 yards (CB J. Smith).
+
+Colorado ball, Q1, 3-16-CAL49 (11:09) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB M. England completes a 21 yard hook to WR R. Ellison (CB J. Richards). 
+
+Colorado ball, Q1, 1-10-CAL28 (10:41) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB M. England throws an incomplete pass to WR A. Campbell. WR A. Campbell ran an incorrect 
+route.
+
+Colorado ball, Q1, 2-10-CAL28 (10:26) 0-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-MZ
+QB M. England completes a 1 yard cross to WR R. Ellison (OLB N. Beach). 
+
+Colorado ball, Q1, 3-9-CAL27 (10:03) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB M. England completes a 7 yard post to WR W. Romero (CB J. Smith, FS L. Johnson). 
+
+Colorado ball, Q1, 4-2-CAL20 (09:38) 0-0
+Roger Garcia converts the 38 yard field goal.
+
+Colorado ball, Q1, 1-10-COL35 (09:20) 3-0
+Roger Garcia kicks 75 from Colorado 35 to end zone, Touchback.
+
+California ball, Q1, 1-10-CAL20 (09:03) 0-3
+Offense: Long Pass, Set: Quads, Play: Q-WR3-corner-FL-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Huffman throws an incomplete pass to WR M. Saunders.
+
+California ball, Q1, 2-10-CAL20 (08:44) 0-3
+Offense: Short Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB J. Huffman completes a 0 yard in to WR M. Saunders (ILB M. Simpson). 
+
+California ball, Q1, 3-10-CAL20 (08:22) 0-3
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B5,7
+QB J. Huffman completes a 12 yard cross to WR D. Martinez (CB J. Phillips). 
+
+California ball, Q1, 1-10-CAL32 (08:01) 0-3
+Offense: Outside Run, Set: Trips, Play: TR-WR-endaround-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+WR M. Saunders runs right end for -2 yards (SS M. Bowles). OT D. Hale missed a block that 
+hurt the play.
+
+California ball, Q1, 2-12-CAL30 (07:28) 0-3
+Offense: Inside Run, Set: Quads, Play: Q-HB-straight-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB P. Harris runs right guard for 24 yards (CB G. Martin).  OT J. Roberts had a key block 
+on the run.
+
+California ball, Q1, 1-10-COL46 (06:55) 0-3
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B5,8
+QB J. Huffman completes a 27 yard corner to WR C. Wilkins (OLB G. Black, ILB M. Simpson). 
+ J. Huffman with the great pass. ILB W. Clark allowed the big play.
+
+California ball, Q1, 1-10-COL19 (06:27) 0-3
+Offense: Outside Run, Set: Quads, Play: Q-HB-counter-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB P. Harris runs right tackle for 3 yards (OOB).
+
+California ball, Q1, 1-10-COL19 (06:27) 0-3
+Offense: Outside Run, Set: Quads, Play: Q-HB-counter-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+ILB Marc Simpson (COL) was injured on the play (Lower Leg). It doesn't look like he will return.
+
+California ball, Q1, 2-7-COL16 (06:14) 0-3
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB J. Huffman completes a 16 yard out to WR M. Saunders ****Touchdown!*****
+
+California ball, Q1, 1-0-COL0 (05:52) 6-3
+Dennis Peterson converts the PAT.
+
+California ball, Q1, 1-10-CAL35 (05:52) 7-3
+James Wilson kicks 43 from California 35 to Colorado 22. William Johnson to Colorado 39 for 
+a 17 yard return.
+
+Grabbing Face Mask against WR Barry Simon on California. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Colorado 44.
+
+Colorado ball, Q1, 1-10-COL44 (05:38) 3-7
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB T. Roberts runs left end for 6 yards (ILB T. Whipple). 
+
+Colorado ball, Q1, 2-4-COL50 (05:08) 3-7
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+RB W. Mann runs right end for 1 yard (FS L. Johnson). 
+
+Colorado ball, Q1, 3-3-CAL49 (04:40) 3-7
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+QB M. England completes a 6 yard post to WR A. Campbell (CB J. Richards). 
+
+Colorado ball, Q1, 1-10-CAL43 (04:15) 3-7
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB M. England completes a 43 yard post to TE T. Bean ****Touchdown!***** OT J. Henry earned 
+a pancake on the play. OLB N. Beach allowed the big play.
+
+Colorado ball, Q1, 1-0-CAL0 (03:49) 9-7
+Roger Garcia converts the PAT.
+
+Roger Garcia kicks the ball out of bounds! Penalty against Colorado, the ball will be spotted 
+at the 40 yardline.
+California ball, Q1, 1-10-CAL40 (03:35) 7-10
+Offense: Outside Run, Set: Trips, Play: TR-WR-endaround-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+WR C. Wilkins runs right end for 9 yards (SS M. Bowles). 
+
+California ball, Q1, 2-1-CAL49 (03:09) 7-10
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB J. Huffman throws an incomplete pass to WR D. Martinez.
+
+California ball, Q1, 3-1-CAL49 (02:53) 7-10
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+J. Huffman has his 21 yard pass intercepted by D. Allen at the COL 30. He returns it 0 yards 
+to the Colorado 30.
+
+Colorado ball, Q1, 1-10-COL30 (02:27) 10-7
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB T. Roberts runs left tackle for 1 yard (OOB).
+
+Colorado ball, Q1, 2-9-COL31 (02:10) 10-7
+Offense: Inside Run, Set: Trips, Play: TR-HB-draw-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB T. Roberts runs left guard for 3 yards (OLB C. Goldberg). 
+
+Colorado ball, Q1, 3-6-COL34 (01:40) 10-7
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB T. Roberts runs right tackle for 1 yard (OOB). OG B. Tyson missed a block that hurt the 
+play.
+
+Colorado ball, Q1, 4-5-COL35 (01:26) 10-7
+Henry Bartlett Punts 38 yards to the California 27 yard line, where Jonathan Burke returns 
+it to California 30 for a 3 yard return.
+
+California ball, Q1, 1-10-CAL30 (01:07) 7-10
+Offense: Inside Run, Set: Shotgun, Play: SG-QB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB J. Huffman runs right tackle for 2 yards (OLB J. Carlson). 
+
+California ball, Q1, 2-8-CAL32 (00:34) 7-10
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+QB J. Huffman completes a 10 yard post to TE H. West (OLB J. Carlson). 
+
+California ball, Q1, 1-10-CAL42 (00:12) 7-10
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB P. Harris runs right tackle for 9 yards (OLB J. Carlson).  C W. Seifert had a key block 
+on the run. DE S. Barber was out of position on the play.
+
+California ball, Q2, 2-1-COL49 (15:00) 7-10
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+FB J. Briggs runs right guard for 1 yard (DE S. Barber). 
+
+California ball, Q2, 1-10-COL48 (14:27) 7-10
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB J. Huffman completes a 3 yard post to TE H. West (OOB).
+
+California ball, Q2, 2-7-COL45 (14:15) 7-10
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB J. Huffman gets sacked for a 5 yard loss (DE H. Pepper).  TE H. West allowed the sack.
+
+California ball, Q2, 2-7-COL45 (14:15) 7-10
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB John Huffman (CAL) was injured on the play (Elbow). It doesn't look like he will return.
+
+California ball, Q2, 3-12-COL50 (13:57) 7-10
+Offense: Medium Pass, Set: SingleBack, Play: SB-WR3-playact-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Moore completes a 6 yard post to WR M. Saunders (SS M. Bowles, ILB W. Clark). 
+
+Roughing the Passer against DE Sean Barber on Colorado. The Penalty is for 15 yards, and an 
+automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Colorado 29.
+
+California ball, Q2, 1-10-COL29 (13:46) 7-10
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-MZ-B11
+QB K. Moore throws an incomplete pass to WR D. Martinez (CB J. Phillips). CB J. Phillips broke 
+up the pass.
+
+California ball, Q2, 2-10-COL29 (13:30) 7-10
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB K. Moore throws an incomplete pass to WR C. Wilkins. K. Moore made a bad pass. DT C. Lewis 
+hurried the QB.
+
+California ball, Q2, 3-10-COL29 (13:15) 7-10
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B5,7
+QB K. Moore completes a 8 yard hook to WR D. Martinez (CB J. Phillips). 
+
+California ball, Q2, 4-2-COL21 (12:51) 7-10
+Dennis Peterson converts the 39 yard field goal.
+
+California ball, Q2, 1-10-CAL35 (12:35) 10-10
+James Wilson kicks 66 from California 35 to Colorado -1. Jaime Pool to Colorado 27 for a 28 
+yard return.
+
+Colorado ball, Q2, 1-10-COL27 (12:18) 10-10
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB M. England gets sacked for a 4 yard loss (OLB C. Goldberg).  OT J. Henry allowed the sack.
+
+Colorado ball, Q2, 2-14-COL23 (12:02) 10-10
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB M. England throws an incomplete pass to RB T. Roberts.
+
+Colorado ball, Q2, 3-14-COL23 (11:45) 10-10
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB M. England completes a 19 yard hook to WR R. Ellison (ILB P. Miranda, CB J. Smith).  OG 
+B. Tyson earned a pancake on the play.
+
+Colorado ball, Q2, 1-10-COL42 (11:21) 10-10
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+RB T. Roberts runs right guard for 4 yards (FS L. Johnson, SS H. Carter). 
+
+Colorado ball, Q2, 2-6-COL46 (10:51) 10-10
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB T. Roberts runs right end for 2 yards (ILB P. Miranda). 
+
+Colorado ball, Q2, 3-4-COL48 (10:19) 10-10
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB M. England completes a 18 yard post to WR W. Romero (CB J. Richards). 
+
+Colorado ball, Q2, 1-10-CAL34 (09:56) 10-10
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B5,7
+RB T. Roberts runs right guard for 8 yards (ILB T. Whipple). 
+
+Colorado ball, Q2, 2-2-CAL26 (09:28) 10-10
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB M. England completes a 26 yard in to WR W. Romero ****Touchdown!***** W. Romero made a 
+great catch. OG A. Skinner earned a pancake on the play. SS D. Dyer allowed the big play.
+
+Colorado ball, Q2, 1-0-CAL0 (09:03) 16-10
+Roger Garcia converts the PAT.
+
+Colorado ball, Q2, 1-10-COL35 (09:03) 17-10
+Roger Garcia kicks 55 from Colorado 35 to California 10. Myron Douglas to California 28 for 
+a 18 yard return.
+
+California ball, Q2, 1-10-CAL28 (08:43) 10-17
+Offense: Short Pass, Set: Shotgun, Play: SG-HB-screen
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-TMan
+QB K. Moore throws an incomplete pass to RB P. Harris.
+
+California ball, Q2, 2-10-CAL28 (08:28) 10-17
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB P. Harris runs right guard for 3 yards (SS M. Bowles). 
+
+California ball, Q2, 3-7-CAL31 (07:56) 10-17
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB P. Harris runs right guard for 5 yards He fumbles the ball after a hit by W. Clark. It's 
+recovered by J. Roberts of California.
+
+California ball, Q2, 4-2-CAL36 (07:25) 10-17
+Paul Mcdonnell Punts 41 yards to the Colorado 23 yard line, where it goes out of bounds.
+
+Colorado ball, Q2, 1-10-COL23 (07:08) 17-10
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB T. Roberts runs left end for 2 yards (FS L. Johnson). 
+
+Colorado ball, Q2, 1-10-COL23 (07:08) 17-10
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+OT Randolph Hall (COL) was injured on the play (Foot). It doesn't look like he will return.
+
+Colorado ball, Q2, 2-8-COL25 (06:52) 17-10
+Offense: Long Pass, Set: Trips, Play: TR-SE-rollout-post
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,5,6,7,
+QB M. England throws an incomplete pass to WR J. Pool. WR J. Pool ran an incorrect route.
+
+Colorado ball, Q2, 3-8-COL25 (06:32) 17-10
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+QB M. England throws an incomplete pass to RB T. Roberts (CB J. Smith). RB T. Roberts dropped 
+the pass. CB J. Smith broke up the pass.
+
+Colorado ball, Q2, 4-8-COL25 (06:12) 17-10
+Henry Bartlett Punts 41 yards to the California 34 yard line, where Jonathan Burke returns 
+it to California 36 for a 2 yard return.
+
+California ball, Q2, 1-10-CAL36 (05:56) 10-17
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+Delay of Game against California. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the California 31.
+
+California ball, Q2, 1-15-CAL31 (05:56) 10-17
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-outs
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+QB K. Moore throws an incomplete pass to WR M. Saunders (OLB J. Carlson). OLB J. Carlson broke 
+up the pass.
+
+California ball, Q2, 2-15-CAL31 (05:38) 10-17
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB K. Moore throws an incomplete pass to WR M. Saunders. WR M. Saunders dropped the pass.
+
+California ball, Q2, 3-15-CAL31 (05:18) 10-17
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB K. Moore throws an incomplete pass to RB P. Harris.
+
+California ball, Q2, 4-15-CAL31 (04:59) 10-17
+Paul Mcdonnell Punts 49 yards to the Colorado 20 yard line, where it goes out of bounds.
+
+Colorado ball, Q2, 1-10-COL20 (04:42) 17-10
+Offense: Inside Run, Set: Trips, Play: TR-QB-sneak-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB M. England runs right guard for 7 yards (SS D. Dyer).  OT J. Henry had a key block on the 
+run.
+
+Colorado ball, Q2, 2-3-COL27 (04:14) 17-10
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+QB M. England throws an incomplete pass to WR A. Campbell.
+
+Colorado ball, Q2, 3-3-COL27 (03:58) 17-10
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-ups
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB M. England throws an incomplete pass to WR R. Ellison. DE J. Leblanc hurried the QB.
+
+Colorado ball, Q2, 4-3-COL27 (03:40) 17-10
+Henry Bartlett Punts 53 yards to the California 20 yard line, where Jonathan Burke returns 
+it to California 27 for a 7 yard return.
+
+California ball, Q2, 1-10-CAL27 (03:22) 10-17
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB K. Moore completes a 27 yard post to WR M. Saunders (FS P. Lightfoot).  He fumbles the 
+ball after a hit by P. Lightfoot. It's recovered by D. Reed of California. SS M. Bowles allowed the big play.
+
+California ball, Q2, 1-10-COL46 (02:57) 10-17
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB K. Moore completes a 12 yard out to WR C. Wilkins (OOB). OG D. Phillips earned a pancake 
+on the play. OLB G. Black missed a tackle.
+
+California ball, Q2, 1-10-COL34 (02:44) 10-17
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+QB K. Moore throws an incomplete pass to WR D. Martinez.
+
+California ball, Q2, 2-10-COL34 (02:27) 10-17
+Offense: Inside Run, Set: Trips, Play: TR-QB-sneak-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB K. Moore runs right guard for 8 yards (CB R. Peterson).  OG D. Reed had a key block on 
+the run.
+
+California ball, Q2, 3-2-COL26 (01:55) 10-17
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB P. Harris runs left guard for 2 yards (CB J. Phillips). 
+
+California ball, Q2, 1-10-COL24 (01:22) 10-17
+Offense: Medium Pass, Set: Quads, Play: Q-WR3-ins
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB K. Moore throws an incomplete pass to WR C. Wilkins (CB J. Phillips). WR C. Wilkins dropped 
+the pass. CB J. Phillips broke up the pass.
+
+California ball, Q2, 2-10-COL24 (01:16) 10-17
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB K. Moore completes a 9 yard post to WR C. Wilkins (OLB J. Carlson). 
+
+California Timeout!
+
+California ball, Q2, 3-1-COL15 (01:09) 10-17
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-curls
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB J. Robinson throws an incomplete pass to RB P. Harris (CB G. Martin). CB G. Martin broke 
+up the pass.
+
+California ball, Q2, 4-1-COL15 (01:03) 10-17
+Dennis Peterson converts the 33 yard field goal.
+
+California ball, Q2, 1-10-CAL35 (00:56) 13-17
+James Wilson kicks 67 from California 35 to Colorado -2. Jaime Pool to Colorado 33 for a 35 
+yard return.
+
+Unnecessary Roughness against TE Howard West on California. The Penalty is for 15 yards, and 
+an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Colorado 48.
+
+Colorado ball, Q2, 1-10-COL48 (00:45) 17-13
+Offense: Medium Pass, Set: Shotgun, Play: SG-RB-streak-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-TMan
+QB M. England completes a 21 yard corner to WR J. Pool (OOB). OT L. Garcia earned a pancake 
+on the play. CB J. Smith missed a tackle.
+
+Colorado ball, Q2, 1-10-CAL31 (00:37) 17-13
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+QB M. England completes a 4 yard hook to WR J. Pool (ILB T. Whipple). 
+
+Colorado ball, Q2, 1-10-CAL31 (00:37) 17-13
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+ILB Tyler Whipple (CAL) was injured on the play (Lower Back). It doesn't look like he will 
+return.
+
+Colorado ball, Q2, 2-6-CAL27 (00:21) 17-13
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB M. England completes a 10 yard hook to WR R. Ellison (ILB P. Miranda, FS L. Johnson). 
+
+Colorado Timeout!
+
+Colorado ball, Q2, 1-10-CAL17 (00:15) 17-13
+Roger Garcia converts the 35 yard field goal.
+
+Colorado ball, Q2, 1-10-COL35 (00:07) 20-13
+Roger Garcia kicks 55 from Colorado 35 to California 10. Myron Douglas to California 33 for 
+a 23 yard return.
+
+California Timeout!
+
+California ball, Q2, 1-10-CAL33 (00:01) 13-20
+Offense: Inside Run, Set: Trips, Play: TR-WR-endaround-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+The QB takes a knee.
+
+California ball, Q3, 1-10-CAL35 (15:00) 13-20
+James Wilson kicks 67 from California 35 to Colorado -2. Jaime Pool to Colorado 15 for a 17 
+yard return.
+
+Colorado ball, Q3, 1-10-COL15 (14:40) 20-13
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB T. Roberts runs right tackle for 4 yards (FS L. Johnson). 
+
+Colorado ball, Q3, 2-6-COL19 (14:07) 20-13
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+RB T. Roberts runs left end for 3 yards (SS H. Carter, OLB C. Goldberg). 
+
+Colorado ball, Q3, 3-3-COL22 (13:38) 20-13
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+QB M. England throws an incomplete pass to WR R. Ellison.
+
+Colorado ball, Q3, 4-3-COL22 (13:19) 20-13
+Henry Bartlett Punts 41 yards to the California 37 yard line, where Jonathan Burke returns 
+it to Colorado 33 for a 30 yard return.
+
+California ball, Q3, 1-10-COL33 (13:04) 13-20
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB P. Harris runs right guard for 1 yard (DT C. Lewis). 
+
+California ball, Q3, 2-9-COL32 (12:38) 13-20
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB P. Harris runs left tackle for 3 yards (OOB).
+
+California ball, Q3, 3-6-COL29 (12:20) 13-20
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man
+QB K. Moore throws an incomplete pass to WR C. Wilkins (CB R. Peterson). CB R. Peterson broke 
+up the pass.
+
+California ball, Q3, 4-6-COL29 (12:05) 13-20
+Dennis Peterson misses the 47 yard field goal. It will be Colorado ball at the COL 29
+
+Colorado ball, Q3, 1-10-COL29 (11:47) 20-13
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+QB M. England throws an incomplete pass to WR R. Ellison.
+
+Colorado ball, Q3, 2-10-COL29 (11:29) 20-13
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB M. England completes a 36 yard hook to WR R. Ellison (OOB).
+
+Colorado ball, Q3, 1-10-CAL35 (11:18) 20-13
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB T. Roberts runs right guard for 3 yards (OLB C. Goldberg, SS H. Carter). 
+
+Colorado ball, Q3, 2-7-CAL32 (10:45) 20-13
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB M. England throws an incomplete pass to WR W. Romero. WR W. Romero ran an incorrect route.
+
+Colorado ball, Q3, 3-7-CAL32 (10:27) 20-13
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB M. England completes a 15 yard post to WR W. Romero (CB J. Richards, FS L. Johnson).  CB 
+J. Richards was out of position on the play.
+
+Colorado ball, Q3, 1-10-CAL17 (10:00) 20-13
+Offense: Outside Run, Set: Quads, Play: Q-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB T. Roberts runs right end for 1 yard (OLB C. Goldberg). 
+
+Colorado ball, Q3, 2-9-CAL16 (09:32) 20-13
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB T. Roberts runs right end for 7 yards (FS L. Johnson, SS H. Carter).  OG B. Tyson had a 
+key block on the run. CB J. Richards missed a tackle.
+
+Colorado ball, Q3, 3-2-CAL9 (08:59) 20-13
+Offense: Inside Run, Set: Trips, Play: TR-HB-straight-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB T. Roberts runs right guard for 1 yard (OLB C. Goldberg). 
+
+Colorado ball, Q3, 4-1-CAL8 (08:33) 20-13
+Roger Garcia converts the 26 yard field goal.
+
+Colorado ball, Q3, 1-10-COL35 (08:15) 23-13
+Roger Garcia kicks 73 from Colorado 35 to end zone, Touchback.
+
+California ball, Q3, 1-10-CAL20 (07:57) 13-23
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB M. Salgado runs right tackle for 2 yards (SS M. Bowles). 
+
+California ball, Q3, 2-8-CAL22 (07:29) 13-23
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+QB K. Moore completes a 7 yard screen to RB P. Harris (OOB).
+
+California ball, Q3, 3-1-CAL29 (07:12) 13-23
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+RB P. Harris runs right guard for 1 yard (DE S. Barber). 
+
+California ball, Q3, 1-10-CAL30 (06:40) 13-23
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB K. Moore completes a 6 yard in to WR M. Saunders (SS D. Allen). 
+
+California ball, Q3, 2-4-CAL36 (06:16) 13-23
+Offense: Medium Pass, Set: Quads, Play: Q-SE-up-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB K. Moore throws an incomplete pass to WR D. Martinez.
+
+Offensive Pass Interference against California. The Penalty is for 15 yards.
+The Defense will accept the penalty. It is now Second and 19 at the California 21.
+
+California ball, Q3, 2-19-CAL21 (06:01) 13-23
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Moore throws an incomplete pass to WR C. Wilkins. DE M. Faulk hurried the QB.
+
+California ball, Q3, 3-19-CAL21 (05:44) 13-23
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B5
+QB K. Moore throws an incomplete pass to WR C. Wilkins (CB G. Martin). CB G. Martin broke 
+up the pass.
+
+California ball, Q3, 4-19-CAL21 (05:25) 13-23
+Paul Mcdonnell Punts 43 yards to the Colorado 36 yard line, where Andy Campbell returns it 
+to California 47 for a 17 yard return.
+
+Colorado ball, Q3, 1-10-CAL47 (05:05) 23-13
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB T. Roberts runs left end for 2 yards (FS L. Johnson, CB J. Smith). 
+
+Colorado ball, Q3, 2-8-CAL45 (04:33) 23-13
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-out-WR3-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ-B6,8,11
+QB M. England completes a 3 yard hook to WR W. Romero (SS H. Carter). 
+
+Colorado ball, Q3, 3-5-CAL42 (04:09) 23-13
+Offense: Medium Pass, Set: Trips, Play: TR-TE-playact-corner
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB M. England throws an incomplete pass to WR R. Ellison (CB J. Smith). WR R. Ellison dropped 
+the pass. CB J. Smith broke up the pass.
+
+Colorado ball, Q3, 4-5-CAL42 (03:49) 23-13
+Henry Bartlett Punts 42 yards to the end zone, Touchback.
+
+California ball, Q3, 1-10-CAL20 (03:29) 13-23
+Offense: Outside Run, Set: Trips, Play: TR-WR-endaround-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+WR C. Wilkins runs right end for -4 yards (OLB J. Carlson). OG D. Phillips missed a block 
+that hurt the play.
+
+California ball, Q3, 2-14-CAL16 (03:02) 13-23
+Offense: Short Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB K. Moore completes a 15 yard out to WR C. Wilkins (SS M. Bowles, ILB W. Clark).  SS M. 
+Bowles was out of position on the play.
+
+California ball, Q3, 1-10-CAL31 (02:39) 13-23
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+QB K. Moore throws an incomplete pass to WR M. Saunders. K. Moore made a bad pass.
+
+California ball, Q3, 2-10-CAL31 (02:20) 13-23
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+RB P. Harris runs left end for 0 yards (SS M. Bowles).  OT D. Hale missed a block that hurt 
+the play.
+
+California ball, Q3, 3-10-CAL31 (01:50) 13-23
+Offense: Long Pass, Set: Trips, Play: TR-WR3-str-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB K. Moore completes a 69 yard streak to WR M. Saunders ****Touchdown!***** OT J. Roberts 
+earned a pancake on the play. SS D. Allen allowed the big play.
+
+California ball, Q3, 1-0-COL0 (01:24) 19-23
+Dennis Peterson converts the PAT.
+
+California ball, Q3, 1-10-CAL35 (01:24) 20-23
+James Wilson kicks 55 from California 35 to Colorado 10. Jaime Pool to Colorado 27 for a 17 
+yard return.
+
+Colorado ball, Q3, 1-10-COL27 (01:04) 23-20
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+QB M. England throws an incomplete pass to WR R. Ellison. M. England made a bad pass.
+
+Colorado ball, Q3, 2-10-COL27 (00:49) 23-20
+Offense: Inside Run, Set: Trips, Play: TR-QB-sneak-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB M. England runs right tackle for 3 yards (ILB P. Miranda, SS H. Carter). 
+
+Colorado ball, Q3, 3-7-COL30 (00:16) 23-20
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB M. England throws an incomplete pass to WR R. Ellison (CB J. Richards). WR R. Ellison ran 
+an incorrect route. DE M. Mills hurried the QB. CB J. Richards broke up the pass.
+
+Colorado ball, Q4, 4-7-COL30 (15:00) 23-20
+Henry Bartlett Punts 38 yards to the California 32 yard line, where Jonathan Burke returns 
+it to California 32 for a 0 yard return.
+
+California ball, Q4, 1-10-CAL32 (14:45) 20-23
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+QB K. Moore runs outside for 8 yards (CB R. Peterson). 
+
+California ball, Q4, 2-2-CAL40 (14:30) 20-23
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB J. Robinson gets sacked for a 14 yard loss (DT C. Lewis).  OG D. Reed allowed the sack.
+
+California ball, Q4, 2-2-CAL40 (14:30) 20-23
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+CB Gerardo Martin (COL) was injured on the play (OK). It doesn't look like he will return.
+
+California ball, Q4, 3-16-CAL26 (14:13) 20-23
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B5,7
+QB K. Moore throws an incomplete pass to WR D. Martinez.
+
+California ball, Q4, 4-16-CAL26 (13:55) 20-23
+Paul Mcdonnell Punts 51 yards to the Colorado 23 yard line, where Andy Campbell returns it 
+to Colorado 40 for a 17 yard return.
+
+Colorado ball, Q4, 1-10-COL40 (13:37) 23-20
+Offense: Short Pass, Set: Trips, Play: TR-SE-screen
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+QB M. England gets sacked for a 3 yard loss (OLB C. Goldberg).  OG A. Skinner allowed the sack.
+
+Colorado ball, Q4, 2-13-COL37 (13:21) 23-20
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB M. England completes a 1 yard out to WR R. Ellison (DE J. Leblanc).  He fumbles the ball 
+after a hit by J. Leblanc. It's recovered by J. Sams of California. He returns it 3 yards to the Colorado 35.
+
+California ball, Q4, 1-10-COL35 (12:58) 20-23
+Offense: Inside Run, Set: Shotgun, Play: SG-QB-draw-C
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Moore runs right guard for 4 yards (OLB J. Carlson, DT C. Lewis). 
+
+California ball, Q4, 2-6-COL31 (12:31) 20-23
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB P. Harris runs left end for 27 yards (OLB J. Carlson).  OT J. Roberts had a key block on 
+the run. SS M. Bowles was out of position on the play.
+
+California ball, Q4, 1-4-COL4 (11:58) 20-23
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+QB K. Moore completes a 4 yard hook to FB J. Briggs ****Touchdown!*****
+
+California ball, Q4, 1-0-COL0 (11:35) 26-23
+Dennis Peterson has his PAT blocked by FB Efren Little! The ball is recovered by Colorado COL 3
+
+California ball, Q4, 1-10-CAL35 (11:35) 26-23
+James Wilson kicks 67 from California 35 to Colorado -2. Jaime Pool to Colorado 33 for a 35 
+yard return.
+
+Grabbing Face Mask against WR Thomas Mahoney on California. The Penalty is for 15 yards, and 
+an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Colorado 48.
+
+Colorado ball, Q4, 1-10-COL48 (11:21) 23-26
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-posts
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB M. England throws an incomplete pass to WR R. Ellison. M. England made a bad pass.
+
+Colorado ball, Q4, 1-10-COL48 (11:21) 23-26
+Offense: Long Pass, Set: SingleBack, Play: SB-SE-posts
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+OT Larry Garcia (COL) was injured on the play (Finger). It doesn't look like he will return.
+
+Colorado ball, Q4, 2-10-COL48 (11:06) 23-26
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB T. Roberts runs left tackle for 4 yards (OLB N. Beach). 
+
+Colorado ball, Q4, 3-6-CAL48 (10:34) 23-26
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB M. England throws an incomplete pass to WR R. Ellison (CB J. Richards). DE J. Leblanc hurried 
+the QB. CB J. Richards broke up the pass.
+
+Colorado ball, Q4, 4-6-CAL48 (10:16) 23-26
+Henry Bartlett Punts 44 yards to the California 4 yard line, where it goes out of bounds.
+
+California ball, Q4, 1-10-CAL4 (10:01) 26-23
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+K. Moore has his 7 yard pass intercepted by V. Cleveland at the CAL 11. He returns it 11 yards 
+for the touchdown!
+
+Colorado ball, Q4, 1-10-CAL11 (09:36) 29-26
+Roger Garcia converts the PAT.
+
+Colorado ball, Q4, 1-10-COL35 (09:36) 30-26
+C Anthony Smith (CAL) was injured on the play (Nose). It doesn't look too serious and he should 
+return.
+
+Colorado ball, Q4, 1-10-COL35 (09:36) 30-26
+Roger Garcia kicks 67 from Colorado 35 to California -2. Myron Douglas to California 15 for 
+a 17 yard return.
+
+California ball, Q4, 1-10-CAL15 (09:16) 26-30
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB K. Moore completes a 29 yard post to WR J. Wilson (OOB).
+
+California ball, Q4, 1-10-CAL44 (08:58) 26-30
+Offense: Short Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+QB K. Moore completes a 6 yard out to WR M. Saunders (SS M. Bowles, SS D. Allen). 
+
+California ball, Q4, 2-4-CAL50 (08:36) 26-30
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-MZ
+QB K. Moore completes a 14 yard hook to WR C. Wilkins (OOB). OT J. Roberts earned a pancake 
+on the play. FS P. Lightfoot missed a tackle.
+
+California ball, Q4, 1-10-COL36 (08:26) 26-30
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB P. Harris runs left end for 6 yards (CB R. Peterson). 
+
+California ball, Q4, 2-4-COL30 (07:56) 26-30
+Offense: Inside Run, Set: Trips, Play: TR-QB-sneak-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB K. Moore runs right guard for 3 yards (SS M. Bowles). 
+
+California ball, Q4, 3-1-COL27 (07:29) 26-30
+Offense: Inside Run, Set: Trips, Play: TR-HB-counter-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,7,11
+RB P. Harris runs right guard for 1 yard (ILB W. Clark).  OG D. Reed missed a block that hurt 
+the play.
+
+Grabbing Face Mask against ILB Al Mack on Colorado. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Colorado 21.
+
+California ball, Q4, 1-10-COL21 (07:19) 26-30
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-slants
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB K. Moore gets sacked for a 4 yard loss (OLB G. Black).  OG D. Phillips allowed the sack.
+
+California ball, Q4, 2-14-COL25 (07:03) 26-30
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB K. Moore throws an incomplete pass to WR C. Wilkins. K. Moore made a bad pass.
+
+California ball, Q4, 3-14-COL25 (06:47) 26-30
+Offense: Short Pass, Set: Trips, Play: TR-FL-streak-WR3-in
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB K. Moore completes a 12 yard in to WR J. Wilson (CB J. Phillips).  OG D. Reed earned a 
+pancake on the play.
+
+California ball, Q4, 4-2-COL13 (06:24) 26-30
+Dennis Peterson converts the 31 yard field goal.
+
+California ball, Q4, 1-10-CAL35 (06:09) 29-30
+James Wilson kicks 66 from California 35 to Colorado -1. Jaime Pool to Colorado 30 for a 31 
+yard return.
+
+Colorado ball, Q4, 1-10-COL30 (05:54) 30-29
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB T. Roberts runs right tackle for 3 yards (SS H. Carter, DT M. Hall). 
+
+Colorado ball, Q4, 2-7-COL33 (05:22) 30-29
+Offense: Outside Run, Set: Trips, Play: TR-HB-toss-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+RB T. Roberts runs left tackle for 2 yards (ILB P. Miranda, ILB W. Davis). 
+
+Colorado ball, Q4, 3-5-COL35 (04:52) 30-29
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB M. England gets sacked for a 5 yard loss (ILB P. Miranda).  OG A. Skinner allowed the sack.
+
+Colorado ball, Q4, 3-5-COL35 (04:52) 30-29
+Offense: Medium Pass, Set: Trips, Play: TR-WR3-corner-FL-curl
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+CB John Richards (CAL) was injured on the play (Elbow). It doesn't look like he will return.
+
+Colorado ball, Q4, 4-10-COL30 (04:35) 30-29
+Henry Bartlett Punts 41 yards to the California 29 yard line, where Jonathan Burke returns 
+it to Colorado 46 for a 25 yard return.
+
+California ball, Q4, 1-10-COL46 (04:20) 29-30
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB P. Harris runs left end for -3 yards (SS D. Allen).
+
+California ball, Q4, 2-13-COL49 (03:52) 29-30
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB P. Harris runs right guard for 2 yards (CB R. Peterson). 
+
+California ball, Q4, 3-11-COL47 (03:21) 29-30
+Offense: Outside Run, Set: Quads, Play: Q-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB P. Harris runs right end for 5 yards (ILB W. Clark, ILB A. Mack). 
+
+California ball, Q4, 4-6-COL42 (02:53) 29-30
+Paul Mcdonnell Punts 36 yards to the Colorado 6 yard line, where it goes out of bounds.
+
+Colorado ball, Q4, 1-10-COL6 (02:33) 30-29
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB W. Mann runs right tackle for 2 yards (SS H. Carter, SS D. Dyer). 
+
+Colorado ball, Q4, 2-8-COL8 (02:02) 30-29
+Offense: Outside Run, Set: Trips, Play: TR-HB-pitch-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB T. Roberts runs right end for 1 yard (ILB P. Miranda). 
+
+Colorado ball, Q4, 3-7-COL9 (01:52) 30-29
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+RB T. Roberts runs right end for 2 yards (OOB).
+
+Colorado ball, Q4, 4-5-COL11 (01:37) 30-29
+Henry Bartlett Punts 53 yards to the California 36 yard line, where Jonathan Burke returns 
+it to California 42 for a 6 yard return.
+
+California ball, Q4, 1-10-CAL42 (01:20) 29-30
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+QB K. Moore completes a 58 yard out-and-up to TE H. West ****Touchdown!***** OLB J. Carlson 
+allowed the big play.
+
+California ball, Q4, 1-0-COL0 (00:52) 35-30
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-draw-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB P. Harris runs right tackle for 0 yards
+
+California ball, Q4, 1-10-CAL35 (00:52) 35-30
+James Wilson kicks 66 from California 35 to Colorado -1. Jaime Pool to Colorado 27 for a 28 
+yard return.
+
+Colorado ball, Q4, 1-10-COL27 (00:45) 30-35
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+QB M. England gets sacked for a 6 yard loss (DE J. Leblanc).  TE T. Bean allowed the sack.
+
+Colorado ball, Q4, 2-16-COL21 (00:38) 30-35
+Offense: Medium Pass, Set: Quads, Play: Q-RB-corner-WR4-str
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+Delay of Game against Colorado. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 21 at the Colorado 16.
+
+Colorado ball, Q4, 2-21-COL16 (00:38) 30-35
+Offense: Long Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB M. England completes a 45 yard streak to WR W. Romero (ILB P. Miranda).  OT J. Henry earned 
+a pancake on the play. ILB W. Davis allowed the big play.
+
+Colorado Timeout!
+
+Colorado ball, Q4, 1-10-CAL39 (00:30) 30-35
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-in-SE-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB M. England runs outside for 4 yards (SS H. Carter). 
+
+Colorado Timeout!
+
+Colorado ball, Q4, 2-6-CAL35 (00:24) 30-35
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB M. England throws an incomplete pass to RB T. Roberts.
+
+Colorado ball, Q4, 3-6-CAL35 (00:16) 30-35
+Offense: Short Pass, Set: Pro Set, Play: PS-FB-curl-TE-cor
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB M. England completes a 4 yard out to WR R. Ellison (ILB P. Miranda). 
+
+Colorado Timeout!
+
+Colorado ball, Q4, 4-2-CAL31 (00:10) 30-35
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB M. England throws an incomplete pass to WR J. Pool.
+
+Colorado ball, Q4, 4-2-CAL31 (00:10) 30-35
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+TE Thomas Bean (COL) was injured on the play (Finger). It doesn't look too serious and he 
+should return.
+
+California ball, Q4, 1-10-CAL31 (00:03) 35-30
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+The QB takes a knee.
+

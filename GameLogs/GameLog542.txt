@@ -1,0 +1,996 @@
+Louisiana Tech ball, Q1, 1-10-LATC35 (15:00) 0-0
+Willie Chandler kicks 75 from Louisiana Tech 35 to end zone, Touchback.
+
+Southern Miss ball, Q1, 1-10-SOMS20 (14:44) 0-0
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+RB E. Boggs runs left tackle for 5 yards (OLB M. Martinez). 
+
+Southern Miss ball, Q1, 2-5-SOMS25 (14:18) 0-0
+Offense: Medium Pass, Set: Strong, Play: ST-FL-playact-post
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB C. Banks throws an incomplete pass to TE T. Spain. DT D. Murray hurried the QB.
+
+Southern Miss ball, Q1, 3-5-SOMS25 (14:03) 0-0
+Offense: Short Pass, Set: Strong, Play: ST-FL-rollout-TE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB C. Banks completes a 4 yard post to TE T. Spain (SS R. Richardson). 
+
+Southern Miss ball, Q1, 4-1-SOMS29 (13:39) 0-0
+Jackie Foreman Punts 36 yards to the Louisiana Tech 35 yard line, where Lester Simon returns 
+it to Louisiana Tech 33 for a -2 yard return.
+
+Louisiana Tech ball, Q1, 1-10-LATC33 (13:19) 0-0
+Offense: Outside Run, Set: I Form Big, Play: IB-RB-power-RE
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+RB K. Lake runs right end for 7 yards (OLB D. Zavala, OLB M. Kelley).  DT R. Owens missed 
+a tackle.
+
+Louisiana Tech ball, Q1, 2-3-LATC40 (12:50) 0-0
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,7
+RB K. Lake runs left guard for 2 yards (OLB D. Zavala). 
+
+Louisiana Tech ball, Q1, 3-1-LATC42 (12:17) 0-0
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+QB A. Duncan completes a 5 yard screen to TE A. Dube (OLB D. Zavala). 
+
+Louisiana Tech ball, Q1, 1-10-LATC47 (11:53) 0-0
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+WR C. Nelson runs right end for 11 yards (OOB).
+
+Louisiana Tech ball, Q1, 1-10-SOMS42 (11:43) 0-0
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB A. Duncan throws an incomplete pass to WR L. Simon. WR L. Simon dropped the pass. DT R. 
+Owens hurried the QB.
+
+Louisiana Tech ball, Q1, 2-10-SOMS42 (11:25) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,7
+RB K. Lake runs right guard for 12 yards (OLB M. Kelley).  FS S. Kim missed a tackle.
+
+Louisiana Tech ball, Q1, 1-10-SOMS30 (10:53) 0-0
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB A. Duncan completes a 7 yard in to TE A. Dube (FS S. Kim). 
+
+Louisiana Tech ball, Q1, 2-3-SOMS23 (10:28) 0-0
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+RB K. Lake runs left tackle for 1 yard (OLB M. Kelley). 
+
+Louisiana Tech ball, Q1, 3-2-SOMS22 (09:55) 0-0
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-straight-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB K. Lake runs left end for 3 yards (OLB M. Kelley, SS M. Andrews). 
+
+Louisiana Tech ball, Q1, 1-10-SOMS19 (09:26) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB R. Sparks runs right guard for 3 yards (FS S. Kim, OLB D. Zavala). 
+
+Louisiana Tech ball, Q1, 2-7-SOMS16 (08:54) 0-0
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-straight-RG
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-Man-B5,11
+RB R. Sparks runs right guard for 5 yards (DT G. Davis). 
+
+Louisiana Tech ball, Q1, 3-2-SOMS11 (08:21) 0-0
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-run-MZ-B8
+QB A. Duncan completes a 2 yard hook to WR C. Nelson (FS S. Kim, OLB D. Zavala). 
+
+Louisiana Tech ball, Q1, 1-9-SOMS9 (07:57) 0-0
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB K. Lake runs right end for 3 yards (FS S. Kim, ILB M. Townsend). 
+
+Louisiana Tech ball, Q1, 2-6-SOMS6 (07:26) 0-0
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+QB A. Duncan completes a 4 yard screen to TE A. Dube (OLB M. Kelley, CB C. Searcy). 
+
+Louisiana Tech ball, Q1, 3-2-SOMS2 (07:05) 0-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-Man-B7,8,9
+RB K. Lake runs right guard for 2 yards ****Touchdown!*****
+
+Louisiana Tech ball, Q1, 1-0-SOMS0 (06:38) 6-0
+Billy Blackwell converts the PAT.
+
+Louisiana Tech ball, Q1, 1-10-LATC35 (06:38) 7-0
+Willie Chandler kicks 75 from Louisiana Tech 35 to end zone, Touchback.
+
+Southern Miss ball, Q1, 1-10-SOMS20 (06:20) 0-7
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-straight-LT
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB P. Lavoie runs left end for 1 yard (DE D. Gregory).  OT A. Smith missed a block that hurt 
+the play.
+
+Southern Miss ball, Q1, 2-9-SOMS21 (05:53) 0-7
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB C. Banks completes a 3 yard hook to WR D. Gatlin (ILB S. Davis). 
+
+Southern Miss ball, Q1, 3-6-SOMS24 (05:32) 0-7
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB C. Banks completes a 10 yard screen to TE T. Spain (OOB).
+
+Southern Miss ball, Q1, 1-10-SOMS34 (05:16) 0-7
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB P. Lavoie runs right guard for 2 yards (OLB M. Martinez). 
+
+Southern Miss ball, Q1, 2-8-SOMS36 (04:46) 0-7
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB P. Lavoie runs right guard for -2 yards (CB J. Barnett).
+
+Southern Miss ball, Q1, 3-10-SOMS34 (04:15) 0-7
+Offense: Long Pass, Set: I Form, Play: I-SE-streaks
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB C. Banks gets sacked for a 9 yard loss (DE W. Crooks).  C J. Andrews allowed the sack.
+
+Southern Miss ball, Q1, 4-19-SOMS25 (03:57) 0-7
+Jackie Foreman Punts 26 yards to the Louisiana Tech 49 yard line, where Joshua Murray returns 
+it to Louisiana Tech 49 for a 0 yard return.
+
+Louisiana Tech ball, Q1, 1-10-LATC49 (03:41) 7-0
+Offense: Outside Run, Set: Strong, Play: ST-HB-counter-LT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB K. Lake runs left tackle for -1 yards (SS M. Andrews). FB S. Payne missed a block that 
+hurt the play.
+
+Louisiana Tech ball, Q1, 2-11-LATC48 (03:13) 7-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+RB K. Lake runs right guard for -4 yards (OLB D. Zavala). OG P. Pierce missed a block that 
+hurt the play.
+
+Louisiana Tech ball, Q1, 3-15-LATC44 (02:46) 7-0
+Offense: Medium Pass, Set: Strong, Play: ST-TE-streak-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB A. Duncan throws an incomplete pass to WR L. Simon.
+
+Louisiana Tech ball, Q1, 3-15-LATC44 (02:46) 7-0
+Offense: Medium Pass, Set: Strong, Play: ST-TE-streak-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+FB Scott Payne (LATC) was injured on the play (Knee). It doesn't look like he will return.
+
+Louisiana Tech ball, Q1, 4-15-LATC44 (02:28) 7-0
+Kevin Smith Punts 57 yards to the end zone, Touchback.
+
+Southern Miss ball, Q1, 1-10-SOMS20 (02:10) 0-7
+Offense: Outside Run, Set: Double TE, Play: DTE-HB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB P. Lavoie runs right end for 0 yards (ILB J. Chappell).  P. Lavoie missed a hole that could 
+have resulted in a bigger gain.
+
+Southern Miss ball, Q1, 2-10-SOMS20 (01:41) 0-7
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+WR D. Martinez runs right end for -1 yards (ILB S. Davis).
+
+Southern Miss ball, Q1, 3-11-SOMS19 (01:11) 0-7
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB C. Banks completes a 14 yard hook to WR D. Gatlin (ILB J. Chappell).  OT A. Smith earned 
+a pancake on the play. FS M. Sanders missed a tackle.
+
+Southern Miss ball, Q1, 1-10-SOMS33 (00:48) 0-7
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB P. Lavoie runs left tackle for -1 yards (CB R. Mclean). OT C. Mcgee missed a block that 
+hurt the play.
+
+Southern Miss ball, Q1, 2-11-SOMS32 (00:19) 0-7
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB C. Banks runs outside for 16 yards (CB R. Mclean). 
+
+Southern Miss ball, Q1, 2-11-SOMS32 (00:19) 0-7
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB Philip Lavoie (SOMS) was injured on the play (Teeth). It doesn't look too serious and he 
+should return.
+
+Southern Miss ball, Q1, 1-10-SOMS48 (00:02) 0-7
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+WR C. Harden runs right end for -3 yards (DE D. Gregory).
+
+Southern Miss ball, Q2, 2-13-SOMS45 (15:00) 0-7
+Offense: Medium Pass, Set: Strong, Play: ST-TE-streak-SE-out
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-TMan-R
+QB C. Banks completes a 10 yard out to WR C. Harden (ILB J. Chappell). 
+
+Southern Miss ball, Q2, 3-3-LATC45 (14:35) 0-7
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB C. Banks completes a 2 yard hook to WR D. Gatlin (SS R. Richardson). 
+
+Southern Miss ball, Q2, 3-3-LATC45 (14:35) 0-7
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+CB John Barnett (LATC) was injured on the play (Teeth). It doesn't look too serious and he 
+should return.
+
+Southern Miss ball, Q2, 4-1-LATC43 (14:21) 0-7
+Jackie Foreman Punts 38 yards to the Louisiana Tech 5 yard line, where it goes out of bounds.
+
+Louisiana Tech ball, Q2, 1-10-LATC5 (14:01) 7-0
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Normal, Set: 4-6, Play: 46-norm-SZ-B6
+RB K. Lake runs right guard for 3 yards (SS M. Andrews). 
+
+Louisiana Tech ball, Q2, 2-7-LATC8 (13:33) 7-0
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B7
+RB K. Lake runs left end for 8 yards (SS M. Andrews, OLB D. Zavala). 
+
+Illegal Motion against TE Andrew Dube on Louisiana Tech. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 11 at the Louisiana Tech 4.
+
+Louisiana Tech ball, Q2, 2-11-LATC4 (13:21) 7-0
+Offense: Long Pass, Set: Strong, Play: ST-FL-playact-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB A. Duncan throws an incomplete pass to WR J. Murray. A. Duncan made a bad pass.
+
+Louisiana Tech ball, Q2, 3-11-LATC4 (13:02) 7-0
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B7
+QB A. Duncan completes a 9 yard streak to WR L. Simon (OOB).
+
+Louisiana Tech ball, Q2, 4-2-LATC13 (12:52) 7-0
+Kevin Smith Punts 45 yards to the Southern Miss 42 yard line, where Taylor Kimbrough returns 
+it to Southern Miss 50 for a 8 yard return.
+
+Southern Miss ball, Q2, 1-10-SOMS50 (12:32) 0-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB P. Lavoie runs left guard for 8 yards (SS R. Richardson).  OLB B. Robinson missed a tackle.
+
+Southern Miss ball, Q2, 2-2-LATC42 (11:59) 0-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+FB C. Ellis runs left guard for 1 yard (ILB J. Chappell).  C J. Andrews missed a block that 
+hurt the play.
+
+Southern Miss ball, Q2, 3-1-LATC41 (11:33) 0-7
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+WR C. Harden runs right tackle for -1 yards (FS D. Church).
+
+Southern Miss ball, Q2, 4-2-LATC42 (11:06) 0-7
+Offense: Medium Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB C. Banks throws an incomplete pass to WR C. Harden (SS E. Roman). C. Banks made a bad pass. 
+SS E. Roman broke up the pass.
+
+Louisiana Tech ball, Q2, 1-10-LATC42 (10:47) 7-0
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-Man-B5,11
+QB A. Duncan completes a 6 yard hook to WR C. Nelson (OOB).
+
+Louisiana Tech ball, Q2, 2-4-LATC48 (10:30) 7-0
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Stop Run, Set: Dime, Play: Dime-pass-DZ
+RB K. Lake runs left tackle for -1 yards (SS M. Andrews).
+
+Louisiana Tech ball, Q2, 2-4-LATC48 (10:30) 7-0
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Stop Run, Set: Dime, Play: Dime-pass-DZ
+TE Andrew Dube (LATC) was injured on the play (Groin). It doesn't look like he will return.
+
+Louisiana Tech ball, Q2, 3-5-LATC47 (10:14) 7-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+RB K. Lake runs right tackle for 6 yards (CB C. Searcy). 
+
+Louisiana Tech ball, Q2, 3-5-LATC47 (10:14) 7-0
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+C Gene Graves (LATC) was injured on the play (Ankle). It doesn't look too serious and he should 
+return.
+
+Louisiana Tech ball, Q2, 1-10-SOMS47 (09:57) 7-0
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB A. Duncan runs right end for 6 yards (FS S. Kim). 
+
+Louisiana Tech ball, Q2, 1-10-SOMS47 (09:57) 7-0
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+CB Clarence Searcy (SOMS) was injured on the play (Thumb). It doesn't look like he will return.
+
+Louisiana Tech ball, Q2, 2-4-SOMS41 (09:41) 7-0
+Offense: Short Pass, Set: I Form, Play: I-SE-slant-FL-str
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+QB A. Duncan completes a 6 yard dump off to RB K. Lake (ILB N. Mixon). 
+
+Louisiana Tech ball, Q2, 1-10-SOMS35 (09:18) 7-0
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-pass-Man-B10
+RB K. Lake runs left guard for 1 yard (CB S. Alvarez). 
+
+Louisiana Tech ball, Q2, 2-9-SOMS34 (08:51) 7-0
+Offense: Inside Run, Set: I Form Big, Play: IB-FB-counter-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+FB A. Hyde runs right guard for 4 yards (OLB M. Kelley). 
+
+Louisiana Tech ball, Q2, 3-5-SOMS30 (08:20) 7-0
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-straight-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB K. Lake runs right guard for 0 yards (ILB M. Townsend). 
+
+Louisiana Tech ball, Q2, 4-5-SOMS30 (07:50) 7-0
+Billy Blackwell misses the 48 yard field goal. It will be Southern Miss ball at the SOMS 30
+
+Southern Miss ball, Q2, 1-10-SOMS30 (07:34) 0-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-SZ-B5,6
+RB P. Lavoie runs right guard for 0 yards (ILB S. Davis). 
+
+Southern Miss ball, Q2, 2-10-SOMS30 (07:06) 0-7
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB P. Lavoie runs right tackle for 5 yards (OLB M. Martinez, ILB J. Chappell). 
+
+Southern Miss ball, Q2, 3-5-SOMS35 (06:33) 0-7
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+WR C. Harden runs right end for 3 yards (OOB).
+
+Southern Miss ball, Q2, 4-2-SOMS38 (06:17) 0-7
+Jackie Foreman Punts 43 yards to the Louisiana Tech 19 yard line, where Lester Simon returns 
+it to Louisiana Tech 21 for a 2 yard return.
+
+Louisiana Tech ball, Q2, 1-10-LATC21 (05:58) 7-0
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+WR C. Nelson runs right tackle for 1 yard (SS M. Andrews).  TE B. Gomez missed a block that 
+hurt the play.
+
+Louisiana Tech ball, Q2, 2-9-LATC22 (05:32) 7-0
+Offense: Medium Pass, Set: Strong, Play: ST-SE-corner-FL-out
+Defense: Stop Pass, Set: Dime, Play: Dime-run-MZ
+QB A. Duncan completes a 13 yard corner to WR C. Nelson (CB M. Shannon).  C. Nelson made a 
+great catch. FS S. Kim missed a tackle.
+
+Louisiana Tech ball, Q2, 1-10-LATC35 (05:09) 7-0
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+QB A. Duncan runs outside for 0 yards (OLB D. Zavala).  OLB M. Kelley hurried the QB.
+
+Louisiana Tech ball, Q2, 2-10-LATC35 (04:50) 7-0
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB A. Duncan throws an incomplete pass to FB A. Hyde (SS T. Barrera). SS T. Barrera broke 
+up the pass.
+
+Louisiana Tech ball, Q2, 3-10-LATC35 (04:34) 7-0
+Offense: Medium Pass, Set: Strong, Play: ST-SE-corner-FL-out
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+QB A. Duncan throws an incomplete pass to WR L. Simon.
+
+Louisiana Tech ball, Q2, 4-10-LATC35 (04:17) 7-0
+Kevin Smith Punts 36 yards to the Southern Miss 29 yard line, where Taylor Kimbrough returns 
+it to Southern Miss 44 for a 15 yard return. He fumbles the ball after a hit by L. Pearce. It's recovered by T. Spain of Southern Miss.
+
+Southern Miss ball, Q2, 1-10-SOMS44 (03:59) 0-7
+Offense: Inside Run, Set: Strong, Play: ST-HB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB P. Lavoie runs right guard for 6 yards (CB R. Mclean). 
+
+Southern Miss ball, Q2, 1-10-SOMS44 (03:59) 0-7
+Offense: Inside Run, Set: Strong, Play: ST-HB-draw-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+RB Philip Lavoie (SOMS) was injured on the play (Thumb). It doesn't look like he will return.
+
+Southern Miss ball, Q2, 2-4-SOMS50 (03:45) 0-7
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-Man-B6
+RB E. Boggs runs left tackle for 0 yards (OLB M. Martinez).  C J. Andrews missed a block that 
+hurt the play.
+
+Southern Miss ball, Q2, 3-4-SOMS50 (03:19) 0-7
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-TMan-R
+QB C. Banks completes a 6 yard post to TE T. Spain (OOB).
+
+Southern Miss ball, Q2, 1-10-LATC44 (03:06) 0-7
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB E. Boggs runs left guard for 5 yards (FS D. Church). 
+
+Southern Miss ball, Q2, 2-5-LATC39 (02:35) 0-7
+Offense: Outside Run, Set: I Form Big, Play: IB-RB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB E. Boggs runs right end for 1 yard (OLB B. Robinson). 
+
+Southern Miss ball, Q2, 3-4-LATC38 (02:04) 0-7
+Offense: Short Pass, Set: Strong, Play: ST-FL-rollout-TE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB C. Banks completes a 8 yard post to WR D. Martinez (OLB B. Robinson). 
+
+Southern Miss ball, Q2, 1-10-LATC30 (01:49) 0-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+RB C. Avila runs right guard for 5 yards (OLB B. Robinson). 
+
+Southern Miss ball, Q2, 2-5-LATC25 (01:23) 0-7
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB C. Banks completes a 6 yard dump off to FB G. Burns (CB J. Barnett). 
+
+Ineligible Receiver Downfield against OT Carlos Mcgee on Southern Miss. The Penalty is for 
+5 yards.
+The Defense will accept the penalty. It is now Second and 10 at the Louisiana Tech 30.
+
+Southern Miss ball, Q2, 2-10-LATC30 (01:13) 0-7
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB C. Banks completes a 30 yard hook to WR C. Harden ****Touchdown!***** SS R. Richardson 
+allowed the big play.
+
+Southern Miss ball, Q2, 1-0-LATC0 (01:05) 6-7
+Robert Davis converts the PAT.
+
+Southern Miss ball, Q2, 1-10-SOMS35 (01:05) 7-7
+Robert Davis kicks 55 from Southern Miss 35 to Louisiana Tech 10. Lester Simon to Louisiana 
+Tech 49 for a 39 yard return.
+
+Louisiana Tech ball, Q2, 1-10-LATC49 (00:59) 7-7
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B7
+QB A. Duncan completes a 2 yard post to WR J. Murray (OLB M. Kelley). 
+
+Louisiana Tech Timeout!
+
+Louisiana Tech ball, Q2, 2-8-SOMS49 (00:52) 7-7
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB A. Duncan completes a 2 yard screen to TE B. Gomez (OOB).
+
+Holding against OG Phillip Pierce on Louisiana Tech. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 18 at the Louisiana Tech 41.
+
+Louisiana Tech ball, Q2, 2-18-LATC41 (00:41) 7-7
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB A. Duncan throws an incomplete pass to WR C. Nelson. DE L. Franks hurried the QB.
+
+Louisiana Tech ball, Q2, 2-18-LATC41 (00:41) 7-7
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB Antonio Duncan (LATC) was injured on the play (Hand). It doesn't look too serious and he 
+should return.
+
+Louisiana Tech ball, Q2, 3-18-LATC41 (00:35) 7-7
+Offense: Medium Pass, Set: Double TE, Play: DTE-SE-playact-corner
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB A. Duncan completes a 7 yard in to TE B. Gomez (CB S. Alvarez). 
+
+Louisiana Tech ball, Q2, 4-11-LATC48 (00:18) 7-7
+Kevin Smith Punts 26 yards to the Southern Miss 26 yard line, where Charles Cunningham returns 
+it to Southern Miss 43 for a 17 yard return.
+
+Southern Miss ball, Q2, 1-10-SOMS43 (00:10) 7-7
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB C. Banks throws an incomplete pass to FB G. Burns (FS D. Church). ILB J. Chappell hurried 
+the QB. FS D. Church broke up the pass.
+
+Southern Miss ball, Q2, 1-10-SOMS43 (00:10) 7-7
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB Curtis Banks (SOMS) was injured on the play (Ankle). It doesn't look too serious and he 
+should return.
+
+Southern Miss ball, Q2, 2-10-SOMS43 (00:02) 7-7
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB C. Banks throws an incomplete pass to TE T. Spain. DE D. Gregory hurried the QB.
+
+Southern Miss ball, Q2, 2-10-SOMS43 (00:02) 7-7
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+TE Tyler Spain (SOMS) was injured on the play (Patella). It doesn't look too serious and he 
+should return.
+
+Southern Miss ball, Q3, 1-10-SOMS35 (15:00) 7-7
+Robert Davis kicks 66 from Southern Miss 35 to Louisiana Tech -1. Lester Simon to Louisiana 
+Tech 32 for a 33 yard return.
+
+Louisiana Tech ball, Q3, 1-10-LATC32 (14:41) 7-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+RB K. Lake runs right tackle for 0 yards (CB M. Shannon). 
+
+Louisiana Tech ball, Q3, 2-10-LATC32 (14:10) 7-7
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+WR C. Nelson runs right end for 1 yard (OLB D. Zavala).  TE B. Gomez missed a block that hurt 
+the play.
+
+Louisiana Tech ball, Q3, 3-9-LATC33 (13:39) 7-7
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ-B5,6,7,11
+QB A. Duncan runs outside for 18 yards (CB M. Shannon). 
+
+Louisiana Tech ball, Q3, 1-10-SOMS49 (13:18) 7-7
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+QB A. Duncan throws an incomplete pass to WR L. Simon. WR L. Simon dropped the pass.
+
+Louisiana Tech ball, Q3, 2-10-SOMS49 (13:03) 7-7
+Offense: Inside Run, Set: Strong, Play: ST-FB-power-LT
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+FB A. Hyde runs left guard for 1 yard He fumbles the ball after a hit by N. Mixon. It's recovered 
+by E. Roberson of Louisiana Tech.
+
+Louisiana Tech ball, Q3, 3-9-SOMS48 (12:30) 7-7
+Offense: Medium Pass, Set: Strong, Play: ST-SE-corner-FL-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB A. Duncan throws an incomplete pass to WR L. Simon.
+
+Holding against Louisiana Tech. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Louisiana Tech ball, Q3, 4-9-SOMS48 (12:15) 7-7
+Kevin Smith Punts 42 yards to the Southern Miss 6 yard line, where it goes out of bounds.
+
+Southern Miss ball, Q3, 1-10-SOMS6 (12:00) 7-7
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB E. Boggs runs right end for 1 yard (ILB J. Chappell).  OT C. Mcgee missed a block that 
+hurt the play.
+
+Southern Miss ball, Q3, 2-9-SOMS7 (11:27) 7-7
+Offense: Inside Run, Set: Strong, Play: ST-HB-straight-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+RB E. Boggs runs left guard for 11 yards (FS D. Church, ILB S. Davis).  E. Boggs created the 
+big run with his own skills.
+
+Southern Miss ball, Q3, 1-10-SOMS18 (10:54) 7-7
+Offense: Short Pass, Set: Strong, Play: ST-FL-rollout-TE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB C. Banks completes a 8 yard dump off to RB E. Boggs (OOB).
+
+Southern Miss ball, Q3, 2-2-SOMS26 (10:38) 7-7
+Offense: Short Pass, Set: Pro Set, Play: PS-HB-screen
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB C. Banks gets sacked for a 4 yard loss (DE W. Crooks).  OT C. Mcgee allowed the sack.
+
+Southern Miss ball, Q3, 3-6-SOMS22 (10:21) 7-7
+Offense: Medium Pass, Set: I Form, Play: I-TE-corner-FL-post
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+QB C. Banks completes a 22 yard post to WR C. Harden (SS R. Richardson).  OT A. Smith earned 
+a pancake on the play.
+
+Southern Miss ball, Q3, 1-10-SOMS44 (09:55) 7-7
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB C. Banks completes a 9 yard hook to TE T. Spain (CB J. Barnett, SS E. Roman). 
+
+Southern Miss ball, Q3, 2-1-LATC47 (09:32) 7-7
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-straight-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+FB C. Ellis runs right guard for 0 yards (OLB M. Martinez).  OT C. Mcgee missed a block that 
+hurt the play.
+
+Southern Miss ball, Q3, 3-1-LATC47 (09:06) 7-7
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-straight-RG
+Defense: Stop Run, Set: 3-4, Play: 34-run-SZ
+RB E. Boggs runs right guard for -3 yards (ILB S. Davis).
+
+Offsides against DE William Crooks on Louisiana Tech. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Louisiana Tech 42.
+
+Southern Miss ball, Q3, 1-10-LATC42 (08:52) 7-7
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+WR C. Harden runs right end for 10 yards (FS D. Church, SS R. Richardson).  FB G. Burns had 
+a key block on the run. ILB S. Davis was out of position on the play.
+
+Southern Miss ball, Q3, 1-10-LATC32 (08:26) 7-7
+Offense: Short Pass, Set: I Form Big, Play: IB-FB-screen
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+QB C. Banks completes a 7 yard screen to FB G. Burns (OLB B. Robinson). 
+
+Holding against C Joe Andrews on Southern Miss. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Louisiana Tech 42.
+
+Southern Miss ball, Q3, 1-20-LATC42 (08:15) 7-7
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+RB C. Avila runs left tackle for 8 yards (OLB B. Robinson).  DE D. Gregory was out of position 
+on the play.
+
+Southern Miss ball, Q3, 1-20-LATC42 (08:15) 7-7
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+CB John Barnett (LATC) was injured on the play (Elbow). It doesn't look like he will return.
+
+Southern Miss ball, Q3, 2-12-LATC34 (07:59) 7-7
+Offense: Medium Pass, Set: I Form, Play: I-TE-corner-FL-post
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+QB C. Banks throws an incomplete pass to TE T. Spain. C. Banks made a bad pass. OLB M. Martinez 
+hurried the QB.
+
+Southern Miss ball, Q3, 2-12-LATC34 (07:59) 7-7
+Offense: Medium Pass, Set: I Form, Play: I-TE-corner-FL-post
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+QB Curtis Banks (SOMS) was injured on the play (Finger). It doesn't look like he will return.
+
+Southern Miss ball, Q3, 3-12-LATC34 (07:42) 7-7
+Offense: Inside Run, Set: I Form, Play: I-FB-power-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+FB C. Ellis runs right guard for -2 yards (ILB S. Davis).
+
+Southern Miss ball, Q3, 4-14-LATC36 (07:13) 7-7
+Jackie Foreman Punts 32 yards to the Louisiana Tech 4 yard line, where it goes out of bounds.
+
+Louisiana Tech ball, Q3, 1-10-LATC4 (06:56) 7-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Normal, Set: 4-6, Play: 46-norm-SZ-B6
+RB K. Lake runs right guard for 10 yards (ILB N. Mixon, CB M. Shannon).  OG P. Pierce had 
+a key block on the run.
+
+Louisiana Tech ball, Q3, 1-10-LATC14 (06:27) 7-7
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-straight-RG
+Defense: Stop Run, Set: Dime, Play: Dime-pass-DZ
+RB K. Lake runs right guard for 2 yards (SS M. Andrews). 
+
+Louisiana Tech ball, Q3, 2-8-LATC16 (06:00) 7-7
+Offense: Short Pass, Set: Strong, Play: ST-TE-screen
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+QB A. Duncan completes a 2 yard screen to TE B. Gomez (FS S. Kim, OLB D. Zavala). 
+
+Holding against OLB Donald Zavala on Southern Miss. The Penalty is for 10 yards, and an automatic 
+first down.
+Louisiana Tech ball, Q3, 2-8-LATC16 (06:00) 7-7
+Offense: Short Pass, Set: Strong, Play: ST-TE-screen
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+OG Thomas Bullard (LATC) was injured on the play (Stomach). It doesn't look too serious and 
+he should return.
+
+The Offense will accept the penalty. It is now First and 10 at the Louisiana Tech 26.
+
+Louisiana Tech ball, Q3, 1-10-LATC26 (05:46) 7-7
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-counter-RG
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+RB K. Lake runs right guard for 2 yards (FS S. Kim, DT R. Owens). 
+
+Louisiana Tech ball, Q3, 2-8-LATC28 (05:18) 7-7
+Offense: Long Pass, Set: I Form Big, Play: IB-TE-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB A. Duncan throws an incomplete pass to WR C. Nelson.
+
+Louisiana Tech ball, Q3, 3-8-LATC28 (05:01) 7-7
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB A. Duncan completes a 6 yard streak to WR L. Simon (SS T. Barrera, FS S. Kim). 
+
+Louisiana Tech ball, Q3, 4-2-LATC34 (04:38) 7-7
+Kevin Smith Punts 38 yards to the Southern Miss 28 yard line, where Taylor Kimbrough returns 
+it to Southern Miss 46 for a 18 yard return.
+
+Clipping against RB Clyde Avila on Southern Miss. The Penalty is for 15 yards.
+The Defense will accept the penalty. It is now First and 10 at the Southern Miss 31.
+
+Southern Miss ball, Q3, 1-10-SOMS31 (04:23) 7-7
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B5
+RB E. Boggs runs right guard for 2 yards (FS D. Church). 
+
+Southern Miss ball, Q3, 2-8-SOMS33 (03:51) 7-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB E. Boggs runs left tackle for 3 yards (ILB S. Davis, ILB J. Chappell). 
+
+Southern Miss ball, Q3, 3-5-SOMS36 (03:22) 7-7
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-RT
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB E. Boggs runs right guard for 2 yards (OLB B. Robinson). 
+
+Southern Miss ball, Q3, 4-3-SOMS38 (02:53) 7-7
+Jackie Foreman Punts 60 yards to the Louisiana Tech 2 yard line, where it gets downed.
+
+Louisiana Tech ball, Q3, 1-10-LATC2 (02:37) 7-7
+Offense: Inside Run, Set: I Form, Play: I-FB-straight-LG
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,11
+FB A. Hyde runs left guard for 5 yards (ILB N. Mixon, OLB D. Zavala). 
+
+Louisiana Tech ball, Q3, 2-5-LATC7 (02:05) 7-7
+Offense: Inside Run, Set: Strong, Play: ST-HB-draw-RG
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+RB K. Lake runs right guard for 1 yard (OLB M. Kelley). 
+
+Louisiana Tech ball, Q3, 3-4-LATC8 (01:35) 7-7
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B10
+QB A. Duncan completes a 9 yard dump off to FB A. Hyde (OLB D. Zavala, CB M. Shannon). 
+
+Louisiana Tech ball, Q3, 1-10-LATC17 (01:12) 7-7
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB A. Duncan completes a 21 yard post to WR C. Nelson (OLB D. Zavala).  C. Nelson made a great 
+catch.
+
+Louisiana Tech ball, Q3, 1-10-LATC17 (01:12) 7-7
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+OG Thomas Bullard (LATC) was injured on the play (Elbow). It doesn't look too serious and 
+he should return.
+
+Louisiana Tech ball, Q3, 1-10-LATC38 (00:55) 7-7
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-straight-LT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+RB K. Lake runs left end for 9 yards (ILB N. Mixon).  OG P. Pierce had a key block on the run.
+
+Louisiana Tech ball, Q3, 2-1-LATC47 (00:29) 7-7
+Offense: Outside Run, Set: I Form Big, Play: IB-RB-power-RE
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+RB K. Lake runs right tackle for 12 yards (OOB).
+
+Louisiana Tech ball, Q3, 1-10-SOMS41 (00:12) 7-7
+Offense: Outside Run, Set: I Form Big, Play: IB-RB-power-RE
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,11
+RB R. Sparks runs right end for 1 yard (SS M. Andrews). 
+
+Louisiana Tech ball, Q4, 2-9-SOMS40 (15:00) 7-7
+Offense: Outside Run, Set: I Form, Play: I-HB-toss-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB R. Sparks runs right end for 12 yards (OOB).
+
+Louisiana Tech ball, Q4, 1-10-SOMS28 (14:50) 7-7
+Offense: Medium Pass, Set: Strong, Play: ST-SE-corner-FL-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB A. Duncan throws an incomplete pass to TE B. Gomez.
+
+Louisiana Tech ball, Q4, 2-10-SOMS28 (14:33) 7-7
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Normal, Set: 4-6, Play: 46-norm-TMan-Spy
+WR C. Nelson runs right end for 10 yards (OOB). OT E. Roberson had a key block on the run.
+
+Louisiana Tech ball, Q4, 1-10-SOMS18 (14:18) 7-7
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB A. Duncan completes a 18 yard streak to WR L. Simon ****Touchdown!***** OT E. Roberson 
+earned a pancake on the play.
+
+Louisiana Tech ball, Q4, 1-0-SOMS0 (13:55) 13-7
+Billy Blackwell converts the PAT.
+
+Louisiana Tech ball, Q4, 1-10-LATC35 (13:55) 14-7
+Willie Chandler kicks 57 from Louisiana Tech 35 to Southern Miss 8. Jimmy Villarreal to Southern 
+Miss 25 for a 17 yard return.
+
+Southern Miss ball, Q4, 1-10-SOMS25 (13:38) 7-14
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-straight-LT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB C. Avila runs left end for 1 yard (ILB S. Davis). 
+
+Southern Miss ball, Q4, 2-9-SOMS26 (13:08) 7-14
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-LG
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+RB E. Boggs runs left guard for 4 yards (OLB B. Robinson). 
+
+Illegal Motion against Southern Miss. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Second and 14 at the Southern Miss 21.
+
+Southern Miss ball, Q4, 2-14-SOMS21 (12:53) 7-14
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB J. Berube throws an incomplete pass to TE T. Spain. J. Berube made a bad pass.
+
+Southern Miss ball, Q4, 3-14-SOMS21 (12:35) 7-14
+Offense: Long Pass, Set: Strong, Play: ST-SE-curls
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB J. Berube completes a 41 yard hook to WR C. Harden (ILB S. Davis).  SS R. Richardson allowed 
+the big play.
+
+Southern Miss ball, Q4, 1-10-LATC38 (12:07) 7-14
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B5,7
+QB J. Berube completes a 2 yard hook to WR D. Gatlin (ILB J. Chappell, CB R. Mclean). 
+
+Southern Miss ball, Q4, 2-8-LATC36 (11:45) 7-14
+Offense: Long Pass, Set: I Form, Play: I-SE-streaks
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-SZ
+J. Berube has his 36 yard pass intercepted by L. Cullen at the LATC 0. He kneels for the touchback.
+
+Holding against Southern Miss. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Louisiana Tech ball, Q4, 1-10-LATC20 (11:34) 14-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB K. Lake runs right tackle for -1 yards (OLB M. Kelley).
+
+Louisiana Tech ball, Q4, 2-11-LATC19 (11:05) 14-7
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+RB K. Lake runs right end for -1 yards (SS M. Andrews).
+
+Louisiana Tech ball, Q4, 3-12-LATC18 (10:34) 14-7
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+WR C. Nelson runs right end for 9 yards (OLB D. Zavala). 
+
+Louisiana Tech ball, Q4, 4-3-LATC27 (10:04) 14-7
+Kevin Smith Punts 42 yards to the Southern Miss 31 yard line, where Taylor Kimbrough returns 
+it to Southern Miss 34 for a 3 yard return.
+
+Southern Miss ball, Q4, 1-10-SOMS34 (09:45) 7-14
+Offense: Outside Run, Set: I Form Big, Play: IB-RB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB C. Avila runs right end for 2 yards (ILB J. Chappell). 
+
+Southern Miss ball, Q4, 2-8-SOMS36 (09:12) 7-14
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB C. Avila runs right tackle for 9 yards (SS R. Richardson).  CB R. Mclean missed a tackle.
+
+Southern Miss ball, Q4, 1-10-SOMS45 (08:43) 7-14
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+WR C. Harden runs right tackle for 3 yards (OLB M. Martinez, CB L. Cullen). 
+
+Southern Miss ball, Q4, 2-7-SOMS48 (08:13) 7-14
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+RB E. Boggs runs right guard for 4 yards (CB L. Cullen, ILB S. Davis). 
+
+Southern Miss ball, Q4, 3-3-LATC48 (07:42) 7-14
+Offense: Long Pass, Set: I Form, Play: I-SE-streaks
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+QB J. Berube throws an incomplete pass to WR C. Harden.
+
+Southern Miss ball, Q4, 4-3-LATC48 (07:23) 7-14
+Offense: Inside Run, Set: I Form, Play: I-HB-power-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+RB E. Boggs runs right guard for 1 yard (OLB M. Martinez).  E. Boggs missed a hole that could 
+have resulted in a bigger gain.
+
+Louisiana Tech ball, Q4, 1-10-LATC47 (06:57) 14-7
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB A. Duncan completes a 9 yard hook to WR C. Nelson (SS T. Barrera).  He fumbles the ball 
+after a hit by T. Barrera. It's recovered by T. Barrera of Southern Miss. He returns it 1 yards to the Southern Miss 45.
+
+Southern Miss ball, Q4, 1-10-SOMS45 (06:35) 7-14
+Offense: Outside Run, Set: I Form, Play: I-WR-endaround-RE
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+WR C. Harden runs right end for 4 yards (FS D. Church). 
+
+Southern Miss ball, Q4, 2-6-SOMS49 (06:09) 7-14
+Offense: Long Pass, Set: I Form, Play: I-SE-streaks
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+QB J. Berube completes a 3 yard streak to WR C. Harden (SS R. Richardson). 
+
+Southern Miss ball, Q4, 3-3-LATC48 (05:44) 7-14
+Offense: Short Pass, Set: Strong, Play: ST-SE-slant-FL-str
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB J. Berube throws an incomplete pass to RB E. Boggs.
+
+Southern Miss ball, Q4, 4-3-LATC48 (05:28) 7-14
+Offense: Short Pass, Set: Double TE, Play: DTE-TE-fake-screen
+Defense: Normal, Set: 3-4, Play: 34-norm-SZ
+QB J. Berube throws an incomplete pass to TE T. Spain. J. Berube made a bad pass.
+
+Louisiana Tech ball, Q4, 1-10-LATC48 (05:09) 14-7
+Offense: Inside Run, Set: I Form, Play: I-HB-power-LG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB K. Lake runs left guard for 20 yards (CB M. Shannon).  K. Lake created the big run with 
+his own skills. OLB M. Kelley was out of position on the play.
+
+Louisiana Tech ball, Q4, 1-10-SOMS32 (04:43) 14-7
+Offense: Inside Run, Set: Strong, Play: ST-HB-straight-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B11
+RB K. Lake runs left tackle for 4 yards (SS T. Barrera, FS S. Kim). 
+
+Louisiana Tech ball, Q4, 2-6-SOMS28 (04:01) 14-7
+Offense: Medium Pass, Set: Double TE, Play: DTE-FL-rollout-str
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB A. Duncan completes a 6 yard streak to WR L. Simon (SS T. Barrera). 
+
+Ineligible Receiver Downfield against OT Robert Rubio on Louisiana Tech. The Penalty is for 
+5 yards.
+The Defense will accept the penalty. It is now Second and 11 at the Southern Miss 33.
+
+Louisiana Tech ball, Q4, 2-11-SOMS33 (03:57) 14-7
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-straight-LT
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+RB K. Lake runs left end for 5 yards (OLB D. Zavala). 
+
+Louisiana Tech ball, Q4, 3-6-SOMS28 (03:30) 14-7
+Offense: Short Pass, Set: Strong, Play: ST-HB-playact-cross
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man-B6
+QB A. Duncan throws an incomplete pass to RB K. Lake. RB K. Lake ran an incorrect route. DT 
+R. Owens hurried the QB.
+
+Louisiana Tech ball, Q4, 4-6-SOMS28 (03:11) 14-7
+Billy Blackwell converts the 46 yard field goal.
+
+Louisiana Tech ball, Q4, 1-10-LATC35 (02:51) 17-7
+Willie Chandler kicks 66 from Louisiana Tech 35 to Southern Miss -1. Taylor Kimbrough to Southern 
+Miss 10 for a 11 yard return.
+
+Southern Miss ball, Q4, 1-10-SOMS10 (02:36) 7-17
+Offense: Short Pass, Set: I Form Big, Play: IB-TE-flats
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+QB J. Berube completes a 22 yard dump off to TE T. Spain (CB L. Cullen).  T. Spain made a 
+great catch. OG D. Gunter earned a pancake on the play. FS D. Church missed a tackle.
+
+Southern Miss ball, Q4, 1-10-SOMS10 (02:36) 7-17
+Offense: Short Pass, Set: I Form Big, Play: IB-TE-flats
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,5,6,7
+ILB Stephen Davis (LATC) was injured on the play (Thumb). It doesn't look like he will return.
+
+Southern Miss ball, Q4, 1-10-SOMS32 (02:22) 7-17
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+QB J. Berube throws an incomplete pass to WR D. Gatlin (FS D. Church). FS D. Church broke 
+up the pass.
+
+Southern Miss ball, Q4, 2-10-SOMS32 (02:04) 7-17
+Offense: Short Pass, Set: I Form, Play: I-FB-playact-flat
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB J. Berube completes a 17 yard dump off to FB C. Ellis (FS M. Sanders, SS E. Roman). 
+
+Holding against OG Coleman Elliott on Southern Miss. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 20 at the Southern Miss 22.
+
+Southern Miss ball, Q4, 2-20-SOMS22 (01:50) 7-17
+Offense: Long Pass, Set: Pro Set, Play: PS-RB-cross-FB-str
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+J. Berube has his 39 yard pass intercepted by M. Sanders at the LATC 39. He returns it 10 
+yards to the Louisiana Tech 49.
+
+Louisiana Tech ball, Q4, 1-10-LATC49 (01:21) 17-7
+Offense: Outside Run, Set: I Form, Play: I-HB-power-LT
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+RB K. Lake runs left end for 7 yards (SS M. Andrews).  OG P. Pierce had a key block on the 
+run. FS S. Kim missed a tackle.
+
+Louisiana Tech ball, Q4, 2-3-SOMS44 (00:51) 17-7
+Offense: Inside Run, Set: Double TE, Play: DTE-HB-straight-RG
+Defense: Normal, Set: 4-6, Play: 46-norm-TMan-Spy
+RB K. Lake runs right guard for 2 yards (CB M. Shannon, DT G. Davis). 
+
+Grabbing Face Mask against DT George Davis on Southern Miss. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now First and 10 at the Southern Miss 37.
+
+Louisiana Tech ball, Q4, 1-10-SOMS37 (00:41) 17-7
+Offense: Inside Run, Set: I Form, Play: I-HB-counter-RG
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ-B8
+RB R. Sparks runs right guard for -1 yards (SS M. Andrews). OT R. Rubio missed a block that 
+hurt the play.
+
+Southern Miss Timeout!
+
+Louisiana Tech ball, Q4, 2-11-SOMS38 (00:33) 17-7
+Offense: Outside Run, Set: I Form, Play: I-FB-fake-LG
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+RB K. Lake runs left end for -2 yards (OLB M. Kelley).
+
+Southern Miss Timeout!
+
+Louisiana Tech ball, Q4, 3-13-SOMS40 (00:24) 17-7
+Offense: Outside Run, Set: I Form, Play: I-HB-tripoption-RE
+Defense: Normal, Set: 4-6, Play: 46-norm-TMan-Spy
+RB K. Lake runs right end for 8 yards (OOB). ILB N. Mixon missed a tackle.
+
+Louisiana Tech ball, Q4, 4-5-SOMS32 (00:14) 17-7
+Billy Blackwell misses the 50 yard field goal. It will be Southern Miss ball at the SOMS 32
+
+Southern Miss ball, Q4, 1-10-SOMS32 (00:07) 7-17
+Offense: Medium Pass, Set: Double TE, Play: DTE-TE-posts
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+QB J. Berube throws an incomplete pass to WR D. Martinez.
+

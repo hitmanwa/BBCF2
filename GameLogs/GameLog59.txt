@@ -1,0 +1,1052 @@
+Stanford ball, Q1, 1-10-STAN35 (15:00) 0-0
+David Lewis kicks 75 from Stanford 35 to end zone, Touchback.
+
+San Diego State ball, Q1, 1-10-SDSU20 (14:43) 0-0
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-tripoption-LE
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+QB K. Dominguez runs left tackle for 0 yards (SS J. Robbins). 
+
+San Diego State ball, Q1, 2-10-SDSU20 (14:10) 0-0
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Dominguez completes a 11 yard cross to WR J. Lee (OLB J. Carroll, SS P. Schmidt).  CB 
+R. Norris missed a tackle.
+
+San Diego State ball, Q1, 1-10-SDSU31 (13:47) 0-0
+Offense: Medium Pass, Set: Wishbone, Play: WB-HB-streaks
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB K. Dominguez throws an incomplete pass to RB K. Chavez. ILB R. Phillips hurried the QB.
+
+San Diego State ball, Q1, 2-10-SDSU31 (13:31) 0-0
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB K. Dominguez gets sacked for a 4 yard loss (OLB J. Carroll).  RB K. Chavez allowed the sack.
+
+San Diego State ball, Q1, 3-14-SDSU27 (13:14) 0-0
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+RB C. Davis runs right tackle for 11 yards (OLB J. Carroll, FS J. Boyer).  OG H. Mcknight 
+had a key block on the run. CB R. Norris missed a tackle.
+
+Illegal Motion against FB Edward Edwards on San Diego State. The Penalty is for 5 yards.
+The penalty will be declined.
+
+San Diego State ball, Q1, 4-3-SDSU38 (13:02) 0-0
+Lyman Paul Punts 39 yards to the Stanford 23 yard line, where it goes out of bounds.
+
+Stanford ball, Q1, 1-10-STAN23 (12:42) 0-0
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-power-RG
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B5
+RB R. Ortiz runs right guard for 32 yards (OOB). OG A. Brown had a key block on the run.
+
+Stanford ball, Q1, 1-10-SDSU45 (12:32) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+QB K. Werner completes a 2 yard hook to WR G. Brown (OLB C. Schneider). 
+
+Holding against OG Kelvin Brown on Stanford. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the Stanford 45.
+
+Stanford ball, Q1, 1-20-STAN45 (12:17) 0-0
+Offense: Medium Pass, Set: Quads, Play: Q-SE-playact-corner
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ
+QB K. Werner throws an incomplete pass to WR G. Brown.
+
+Stanford ball, Q1, 2-20-STAN45 (11:58) 0-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB K. Werner throws an incomplete pass to WR C. Glover. DE B. Mcgrath hurried the QB.
+
+Holding against CB Thomas Beck on San Diego State. The Penalty is for 10 yards, and an automatic 
+first down.
+The Offense will accept the penalty. It is now First and 10 at the San Diego State 45.
+
+Stanford ball, Q1, 1-10-SDSU45 (11:47) 0-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB M. Brannon runs right guard for 1 yard (CB B. Sanborn).  OT H. Mccarthy missed a block 
+that hurt the play.
+
+Stanford ball, Q1, 2-9-SDSU44 (11:15) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Werner completes a 10 yard out to WR G. Brown (FS J. Raines, SS S. Madden). 
+
+Stanford ball, Q1, 2-9-SDSU44 (11:15) 0-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+C James Johnson (STAN) was injured on the play (Spine). It doesn't look like he will return.
+
+Stanford ball, Q1, 1-10-SDSU34 (10:58) 0-0
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB K. Werner completes a 9 yard cross to WR C. Glover (OOB).
+
+Stanford ball, Q1, 2-1-SDSU25 (10:43) 0-0
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB H. Mcdonald throws an incomplete pass to WR C. Glover (CB B. Sanborn). CB B. Sanborn broke 
+up the pass.
+
+Stanford ball, Q1, 3-1-SDSU25 (10:28) 0-0
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-ZoneBlitz
+RB R. Ortiz runs right guard for 1 yard (OLB C. Schneider).  FB R. Thompson missed a block 
+that hurt the play.
+
+Stanford ball, Q1, 1-10-SDSU24 (09:55) 0-0
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-pitch-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB R. Ortiz runs left end for 1 yard (OLB C. Schneider). 
+
+Stanford ball, Q1, 2-9-SDSU23 (09:22) 0-0
+Offense: Short Pass, Set: Weak, Play: WK-FL-screen
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+QB K. Werner completes a 5 yard screen to WR G. Brown (SS S. Madden, ILB T. Soto). 
+
+Stanford ball, Q1, 2-9-SDSU23 (09:22) 0-0
+Offense: Short Pass, Set: Weak, Play: WK-FL-screen
+Defense: Normal, Set: 3-4, Play: 34-norm-DZ-B7
+QB Keith Werner (STAN) was injured on the play (Thumb). It doesn't look like he will return.
+
+Stanford ball, Q1, 3-4-SDSU18 (09:06) 0-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-TE-playact-SE-in
+Defense: Normal, Set: 3-4, Play: 34-norm-MZ-B4,6,7
+QB H. Mcdonald completes a 9 yard post to WR A. Best (FS J. Raines, CB T. Beck). 
+
+Stanford ball, Q1, 1-9-SDSU9 (08:38) 0-0
+Offense: Medium Pass, Set: Shotgun, Play: SG-FL-curls
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-B7,11-R
+QB H. Mcdonald throws an incomplete pass to WR A. Best.
+
+Stanford ball, Q1, 2-9-SDSU9 (08:23) 0-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB M. Brannon runs left end for 4 yards (OLB C. Schneider). 
+
+Stanford ball, Q1, 3-5-SDSU5 (07:50) 0-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB R. Ortiz runs left end for 5 yards ****Touchdown!*****
+
+Illegal Motion against Stanford. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Third and Goal at the San Diego State 10.
+
+Stanford ball, Q1, 3-10-SDSU10 (07:37) 0-0
+Offense: Short Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB H. Mcdonald throws an incomplete pass to WR A. Best.
+
+Stanford ball, Q1, 4-10-SDSU10 (07:17) 0-0
+David Lewis converts the 28 yard field goal.
+
+Stanford ball, Q1, 1-10-STAN35 (06:58) 3-0
+David Lewis kicks 75 from Stanford 35 to end zone, Touchback.
+
+San Diego State ball, Q1, 1-10-SDSU20 (06:41) 0-3
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Run, Set: 4-6, Play: 46-run-MZ-B5,6,7
+QB K. Dominguez completes a 13 yard hook to WR M. Keys (SS J. Robbins).  OG H. Mcknight earned 
+a pancake on the play.
+
+San Diego State ball, Q1, 1-10-SDSU33 (06:17) 0-3
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB R. Francis runs right guard for 1 yard (DE H. Robbins).  RB K. Chavez missed a block that 
+hurt the play.
+
+San Diego State ball, Q1, 2-9-SDSU34 (05:46) 0-3
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB C. Davis runs right guard for 4 yards (SS P. Schmidt). 
+
+San Diego State ball, Q1, 3-5-SDSU38 (05:13) 0-3
+Offense: Inside Run, Set: Wing T, Play: T-HB-power-RG
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-ZoneBlitz
+RB C. Davis runs right guard for 8 yards (OLB J. Carroll, ILB R. Phillips).  OG G. White had 
+a key block on the run. DE N. Pierce missed a tackle.
+
+San Diego State ball, Q1, 1-10-SDSU46 (04:40) 0-3
+Offense: Outside Run, Set: Flexbone, Play: FL-QB-option-LE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB K. Dominguez scrambles out of the pocket and gets sacked for a 6 yard loss (DE M. Benoit). 
+ C J. Kelly allowed the sack.
+
+San Diego State ball, Q1, 2-16-SDSU40 (04:14) 0-3
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+QB K. Dominguez throws an incomplete pass to WR J. Lee. OLB J. Carroll hurried the QB.
+
+San Diego State ball, Q1, 2-16-SDSU40 (04:14) 0-3
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+QB Kyle Dominguez (SDSU) was injured on the play (Elbow). It doesn't look like he will return.
+
+San Diego State ball, Q1, 3-16-SDSU40 (03:59) 0-3
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-option-RE
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+RB C. Davis runs right end for 2 yards (ILB R. Phillips, OLB J. Adkins). 
+
+San Diego State ball, Q1, 3-16-SDSU40 (03:59) 0-3
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-option-RE
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+DE Herbert Robbins (STAN) was injured on the play (Foot). It doesn't look too serious and 
+he should return.
+
+San Diego State ball, Q1, 4-14-SDSU42 (03:43) 0-3
+Lyman Paul Punts 52 yards to the Stanford 6 yard line, where Hector Lancaster returns it to 
+Stanford 36 for a 30 yard return.
+
+Stanford ball, Q1, 1-10-STAN36 (03:25) 3-0
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-slotrun-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+WR C. Glover runs right end for 2 yards (ILB T. Soto, OLB J. Grant). 
+
+Stanford ball, Q1, 2-8-STAN38 (02:54) 3-0
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB H. Mcdonald completes a 2 yard hook to RB R. Ortiz (OOB).
+
+Stanford ball, Q1, 3-6-STAN40 (02:44) 3-0
+Offense: Short Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-norm-Man
+QB H. Mcdonald completes a 2 yard hook to WR A. Best (ILB J. Williams). 
+
+Holding against OG Arthur Brown on Stanford. The Penalty is for 10 yards.
+The penalty will be declined.
+
+Stanford ball, Q1, 4-4-STAN42 (02:32) 3-0
+Leroy Gaddis Punts 41 yards to the San Diego State 17 yard line, where it gets downed.
+
+San Diego State ball, Q1, 1-10-SDSU17 (02:16) 0-3
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB P. Johnson completes a 8 yard dump off to RB C. Davis (OOB).
+
+San Diego State ball, Q1, 2-2-SDSU25 (02:00) 0-3
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ-B7
+FB E. Hayes runs right end for 6 yards (ILB R. Phillips, CB R. Norris). 
+
+San Diego State ball, Q1, 1-10-SDSU31 (01:33) 0-3
+Offense: Long Pass, Set: Flexbone, Play: FL-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB P. Johnson completes a 1 yard streak to RB K. Chavez (FS D. Lopes). 
+
+San Diego State ball, Q1, 2-9-SDSU32 (01:05) 0-3
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+RB R. Francis runs right end for 7 yards (OOB). FS D. Lopes was out of position on the play.
+
+San Diego State ball, Q1, 3-2-SDSU39 (00:55) 0-3
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+RB C. Davis runs left tackle for 21 yards (ILB R. Phillips, FS J. Boyer).  OG H. Mcknight 
+had a key block on the run. CB T. Maxwell missed a tackle.
+
+San Diego State ball, Q1, 1-10-STAN40 (00:24) 0-3
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ-B7
+QB P. Johnson scrambles out of the pocket and gets sacked for a 4 yard loss (DT J. Martin). 
+ C J. Kelly allowed the sack.
+
+San Diego State ball, Q2, 2-14-STAN44 (15:00) 0-3
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-RT
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ
+RB R. Francis runs right guard for 2 yards (CB R. Norris). 
+
+San Diego State ball, Q2, 3-12-STAN42 (14:29) 0-3
+Offense: Outside Run, Set: Flexbone, Play: FL-SE-optpass-corner
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB P. Johnson scrambles out of the pocket and gets sacked for a 2 yard loss (DE M. Benoit). 
+ RB K. Chavez allowed the sack.
+
+San Diego State ball, Q2, 4-14-STAN44 (14:01) 0-3
+Lyman Paul Punts 30 yards to the Stanford 14 yard line, where it goes out of bounds.
+
+Stanford ball, Q2, 1-10-STAN14 (13:46) 3-0
+Offense: Long Pass, Set: Shotgun, Play: SG-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB H. Mcdonald throws an incomplete pass to WR A. Best. WR A. Best dropped the pass. OLB J. 
+Grant hurried the QB.
+
+Stanford ball, Q2, 2-10-STAN14 (13:28) 3-0
+Offense: Outside Run, Set: Weak, Play: WK-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+RB R. Ortiz runs right end for -1 yards (FS B. Stevens).
+
+Stanford ball, Q2, 3-11-STAN13 (12:58) 3-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+H. Mcdonald has his 33 yard pass intercepted by B. Stevens at the STAN 46. He returns it -1 
+yards to the Stanford 47.
+
+Stanford ball, Q2, 3-11-STAN13 (12:58) 3-0
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+FB Antonio Harris (STAN) was injured on the play (Eye). It doesn't look like he will return.
+
+San Diego State ball, Q2, 1-10-STAN47 (12:27) 0-3
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Normal, Set: 4-6, Play: 46-norm-Man-B5,6
+RB C. Davis runs right guard for 1 yard (OLB J. Adkins).  C. Davis missed a hole that could 
+have resulted in a bigger gain.
+
+Illegal Motion against San Diego State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now First and 15 at the San Diego State 48.
+
+San Diego State ball, Q2, 1-15-SDSU48 (12:15) 0-3
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-toss-LE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+RB C. Davis runs left tackle for -5 yards (CB T. Maxwell). OT K. Alfaro missed a block that 
+hurt the play.
+
+San Diego State ball, Q2, 2-20-SDSU43 (11:43) 0-3
+Offense: Long Pass, Set: Flexbone, Play: FL-SE-streaks
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man
+QB P. Johnson throws an incomplete pass to WR M. Keys (OLB J. Carroll). OLB J. Carroll broke 
+up the pass.
+
+San Diego State ball, Q2, 3-20-SDSU43 (11:26) 0-3
+Offense: Long Pass, Set: Wing T, Play: T-TE-str-SE-out
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ-B10
+P. Johnson has his 46 yard pass intercepted by T. Maxwell at the STAN 11. He returns it 0 
+yards to the Stanford 11.
+
+Stanford ball, Q2, 1-10-STAN11 (10:56) 3-0
+Offense: Outside Run, Set: Shotgun, Play: SG-RB-straight-LT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB R. Ortiz runs left tackle for 2 yards (FS J. Raines, ILB J. Williams). 
+
+Stanford ball, Q2, 2-8-STAN13 (10:30) 3-0
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+QB H. Mcdonald throws an incomplete pass to RB R. Ortiz.
+
+Stanford ball, Q2, 3-8-STAN13 (10:11) 3-0
+Offense: Long Pass, Set: Quads, Play: Q-WR3-str-FL-slant
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+QB H. Mcdonald throws an incomplete pass to WR A. Best (FS B. Stevens). DE J. Estrada hurried 
+the QB. FS B. Stevens broke up the pass.
+
+Stanford ball, Q2, 4-8-STAN13 (09:55) 3-0
+Leroy Gaddis Punts 52 yards to the San Diego State 35 yard line, where Joseph Lee returns 
+it to San Diego State 43 for a 8 yard return.
+
+San Diego State ball, Q2, 1-10-SDSU43 (09:40) 0-3
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6
+RB C. Davis runs left guard for -1 yards (SS J. Robbins). OG G. White missed a block that 
+hurt the play.
+
+San Diego State ball, Q2, 1-10-SDSU43 (09:40) 0-3
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6
+OG George White (SDSU) was injured on the play (Lower Leg). It doesn't look too serious and 
+he should return.
+
+San Diego State ball, Q2, 2-11-SDSU42 (09:23) 0-3
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB P. Johnson completes a 2 yard dump off to RB C. Davis (FS J. Boyer). 
+
+Pass Interference against OLB Julian Adkins on Stanford. The Penalty is for 2 yards, and an 
+automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the San Diego State 44.
+
+San Diego State ball, Q2, 1-10-SDSU44 (09:09) 0-3
+Offense: Outside Run, Set: I Form Big, Play: IB-RB-power-RE
+Defense: Normal, Set: 4-6, Play: 46-norm-TMan-Spy
+RB C. Davis runs right tackle for 3 yards (CB R. Norris). 
+
+San Diego State ball, Q2, 2-7-SDSU47 (08:40) 0-3
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Normal, Set: 4-6, Play: 46-norm-SZ
+QB P. Johnson completes a 1 yard cross to WR J. Lee (FS J. Boyer). 
+
+San Diego State ball, Q2, 3-6-SDSU48 (08:19) 0-3
+Offense: Outside Run, Set: I Form Big, Play: IB-HB-straight-LT
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB C. Davis runs left end for 4 yards (DT J. Martin). 
+
+San Diego State ball, Q2, 4-2-STAN48 (07:48) 0-3
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6
+QB G. Scott completes a 6 yard hook to WR M. Keys (FS J. Boyer, OLB J. Adkins). 
+
+San Diego State ball, Q2, 1-10-STAN42 (07:26) 0-3
+Offense: Outside Run, Set: Flexbone, Play: FL-RB-power-RE
+Defense: Normal, Set: 4-6, Play: 46-norm-TMan-Spy
+RB C. Davis runs left tackle for -4 yards (CB R. Norris).
+
+San Diego State ball, Q2, 2-14-STAN46 (06:56) 0-3
+Offense: Medium Pass, Set: I Form Big, Play: IB-SE-post-TE-out
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB P. Johnson completes a 14 yard post to WR J. Lee (OLB J. Carroll).  FS J. Boyer missed 
+a tackle.
+
+San Diego State ball, Q2, 1-10-STAN32 (06:30) 0-3
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-straight-RG
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+RB R. Francis runs right guard for 10 yards (FS J. Boyer, OLB J. Carroll).  R. Francis created 
+the big run with his own skills.
+
+San Diego State ball, Q2, 1-10-STAN22 (05:59) 0-3
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Run, Set: Dime, Play: Dime-run-SZ
+QB P. Johnson completes a 15 yard hook to WR M. Keys (OOB). FS J. Boyer was out of position 
+on the play.
+
+San Diego State ball, Q2, 1-7-STAN7 (05:42) 0-3
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+RB R. Francis runs left tackle for 2 yards (OLB J. Adkins). 
+
+San Diego State ball, Q2, 2-5-STAN5 (05:12) 0-3
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-Man-B5,11
+RB C. Davis runs left guard for 1 yard (DE N. Pierce). 
+
+San Diego State ball, Q2, 3-4-STAN4 (04:44) 0-3
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ
+QB P. Johnson completes a 4 yard dump off to RB C. Davis ****Touchdown!*****
+
+San Diego State ball, Q2, 1-0-STAN0 (04:32) 6-3
+Clinton Robinson converts the PAT.
+
+San Diego State ball, Q2, 1-10-SDSU35 (04:32) 7-3
+Clinton Robinson kicks 67 from San Diego State 35 to Stanford -2. John Webb to Stanford 14 
+for a 16 yard return.
+
+Stanford ball, Q2, 1-10-STAN14 (04:16) 3-7
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-playact-curl
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan
+QB H. Mcdonald runs outside for 7 yards (ILB J. Williams). 
+
+Stanford ball, Q2, 2-3-STAN21 (03:59) 3-7
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB H. Mcdonald completes a 20 yard dump off to RB R. Ortiz (ILB J. Williams).  He fumbles 
+the ball after a hit by J. Williams. It's recovered by J. Estrada of San Diego State. He returns it 3 yards to the Stanford 38. OG A. Brown earned a pancake on the play. CB T. Beck missed a tackle.
+
+San Diego State ball, Q2, 1-10-STAN38 (03:35) 7-3
+Offense: Outside Run, Set: Wing T, Play: T-HB-option-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+RB C. Davis runs right end for 6 yards He fumbles the ball after a hit by H. Robbins. It's 
+recovered by J. Kelly of San Diego State.
+
+San Diego State ball, Q2, 2-4-STAN32 (03:02) 7-3
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-LG
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-DZ
+RB R. Francis runs left guard for -4 yards (DE M. Benoit). OT K. Alfaro missed a block that 
+hurt the play.
+
+San Diego State ball, Q2, 3-8-STAN36 (02:29) 7-3
+Offense: Medium Pass, Set: Flexbone, Play: FL-SE-optpass-corner
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-Man-B7,11
+QB P. Johnson completes a 36 yard corner to WR M. Keys ****Touchdown!*****
+
+San Diego State ball, Q2, 1-0-STAN0 (02:02) 13-3
+Clinton Robinson converts the PAT.
+
+San Diego State ball, Q2, 1-10-SDSU35 (02:02) 14-3
+Clinton Robinson kicks 66 from San Diego State 35 to Stanford -1. John Webb to Stanford 22 
+for a 23 yard return.
+
+Stanford ball, Q2, 1-10-STAN22 (01:53) 3-14
+Offense: Outside Run, Set: Quads, Play: Q-HB-straight-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+RB M. Brannon runs left end for 1 yard (OLB C. Schneider). 
+
+Stanford ball, Q2, 2-9-STAN23 (01:21) 3-14
+Offense: Short Pass, Set: Quads, Play: Q-SE-curl-WR3-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB H. Mcdonald completes a 15 yard dump off to WR J. Cole (SS S. Madden, FS B. Stevens).  
+J. Cole made a great catch.
+
+Holding against OG Arthur Brown on Stanford. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now Second and 19 at the Stanford 13.
+
+Stanford ball, Q2, 2-19-STAN13 (01:07) 3-14
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+QB H. Mcdonald throws an incomplete pass to WR A. Best (CB T. Beck). CB T. Beck broke up the 
+pass.
+
+Stanford ball, Q2, 3-19-STAN13 (01:00) 3-14
+Offense: Short Pass, Set: SingleBack, Play: SB-TE-flat-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-norm-TMan-R
+QB H. Mcdonald throws an incomplete pass to WR G. Brown. DT W. Mckinney hurried the QB.
+
+Stanford ball, Q2, 4-19-STAN13 (00:54) 3-14
+Leroy Gaddis Punts 50 yards to the San Diego State 37 yard line, where Joseph Lee returns 
+it to San Diego State 44 for a 7 yard return.
+
+San Diego State ball, Q2, 1-10-SDSU44 (00:47) 14-3
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB P. Johnson completes a 9 yard streak to RB K. Chavez (OLB J. Adkins, FS D. Lopes). 
+
+San Diego State Timeout!
+
+San Diego State ball, Q2, 2-1-STAN47 (00:39) 14-3
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B6,11
+QB G. Scott throws an incomplete pass to RB K. Chavez. RB K. Chavez ran an incorrect route.
+
+San Diego State ball, Q2, 3-1-STAN47 (00:32) 14-3
+Offense: Short Pass, Set: I Form Big, Play: IB-FB-playact-flat
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ
+QB G. Scott completes a 7 yard dump off to FB E. Hayes (OLB J. Adkins, SS P. Schmidt). 
+
+San Diego State Timeout!
+
+San Diego State ball, Q2, 1-10-STAN40 (00:25) 14-3
+Offense: Short Pass, Set: Wing T, Play: T-SE-playact-cor
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+QB P. Johnson completes a 12 yard corner to WR J. Lee (OLB J. Carroll). 
+
+San Diego State Timeout!
+
+San Diego State ball, Q2, 1-10-STAN28 (00:18) 14-3
+Clinton Robinson converts the 46 yard field goal.
+
+San Diego State ball, Q2, 1-10-SDSU35 (00:12) 17-3
+CB Robert Poole (STAN) was injured on the play (Head). It doesn't look too serious and he 
+should return.
+
+San Diego State ball, Q2, 1-10-SDSU35 (00:12) 17-3
+Clinton Robinson kicks 67 from San Diego State 35 to Stanford -2. John Webb to Stanford 18 
+for a 20 yard return.
+
+Stanford ball, Q2, 1-10-STAN18 (00:06) 3-17
+Offense: Inside Run, Set: SingleBack, Play: SB-WR3-in-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ
+The QB takes a knee.
+
+San Diego State ball, Q3, 1-10-SDSU35 (15:00) 17-3
+Clinton Robinson kicks 67 from San Diego State 35 to Stanford -2. John Webb to Stanford 23 
+for a 25 yard return.
+
+Stanford ball, Q3, 1-10-STAN23 (14:40) 3-17
+Offense: Short Pass, Set: Weak, Play: WK-SE-slant-FL-in
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+QB H. Mcdonald throws an incomplete pass to WR C. Glover (ILB J. Williams). ILB J. Williams 
+broke up the pass.
+
+Stanford ball, Q3, 2-10-STAN23 (14:22) 3-17
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-HBfake-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+WR C. Glover runs right end for -1 yards (DE J. Estrada). OT L. Morrison missed a block that 
+hurt the play.
+
+Stanford ball, Q3, 3-11-STAN22 (13:51) 3-17
+Offense: Long Pass, Set: Pro Set, Play: PS-SE-streaks
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+QB H. Mcdonald throws an incomplete pass to WR G. Brown.
+
+Stanford ball, Q3, 4-11-STAN22 (13:36) 3-17
+Leroy Gaddis Punts 42 yards to the San Diego State 36 yard line, where Joseph Lee returns 
+it to San Diego State 40 for a 4 yard return.
+
+San Diego State ball, Q3, 1-10-SDSU40 (13:19) 17-3
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Normal, Set: 4-6, Play: 46-norm-SZ-B6
+RB C. Davis runs right guard for 4 yards (OLB J. Carroll). 
+
+San Diego State ball, Q3, 2-6-SDSU44 (12:50) 17-3
+Offense: Short Pass, Set: Wing T, Play: T-SE-playact-cor
+Defense: Stop Pass, Set: 4-6, Play: 46-norm-Man-B5,6
+QB P. Johnson throws an incomplete pass to RB R. Francis. OLB J. Adkins hurried the QB.
+
+San Diego State ball, Q3, 3-6-SDSU44 (12:30) 17-3
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B6,10
+RB C. Davis runs left guard for 3 yards He fumbles the ball after a hit by H. Robbins. It's 
+recovered by J. Lee of San Diego State.
+
+San Diego State ball, Q3, 4-3-SDSU47 (11:58) 17-3
+Lyman Paul Punts 51 yards to the Stanford 2 yard line, where it gets downed.
+
+Stanford ball, Q3, 1-10-STAN2 (11:39) 3-17
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-MZ
+QB H. Mcdonald completes a 7 yard cross to WR C. Glover (OOB).
+
+Stanford ball, Q3, 2-3-STAN9 (11:28) 3-17
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-slotrun-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ
+WR C. Glover runs right end for 2 yards (CB B. Sanborn, SS S. Madden). 
+
+Stanford ball, Q3, 3-1-STAN11 (10:56) 3-17
+Offense: Medium Pass, Set: SingleBack, Play: SB-SE-slants
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB H. Mcdonald completes a 27 yard post to WR A. Best (OOB). C V. Stuckey earned a pancake 
+on the play. CB T. Beck allowed the big play.
+
+Stanford ball, Q3, 1-10-STAN38 (10:39) 3-17
+Offense: Outside Run, Set: Weak, Play: WK-HB-toss-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-B7,11-R
+RB R. Ortiz runs left tackle for 2 yards (OOB).
+
+Stanford ball, Q3, 2-8-STAN40 (10:23) 3-17
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-draw-RT
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B4,7-L
+RB R. Ortiz runs right tackle for 1 yard (ILB J. Williams). 
+
+Stanford ball, Q3, 3-7-STAN41 (09:50) 3-17
+Offense: Medium Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB H. Mcdonald completes a 26 yard out to WR C. Glover (ILB J. Williams, FS J. Raines).  OLB 
+C. Schneider allowed the big play.
+
+Stanford ball, Q3, 1-10-SDSU33 (09:24) 3-17
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-MZ-B4,6,11-R
+QB H. Mcdonald completes a 16 yard corner to WR C. Glover (ILB T. Soto, SS S. Madden).  TE 
+M. Monahan earned a pancake on the play. SS S. Madden missed a tackle.
+
+Stanford ball, Q3, 1-10-SDSU17 (08:56) 3-17
+Offense: Inside Run, Set: Pro Set, Play: PS-HB-power-RT
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB M. Brannon runs right guard for 5 yards (OLB C. Schneider). 
+
+Stanford ball, Q3, 2-5-SDSU12 (08:27) 3-17
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB M. Brannon runs left guard for 5 yards (FS B. Stevens, ILB T. Soto). 
+
+Stanford ball, Q3, 1-7-SDSU7 (07:59) 3-17
+Offense: Short Pass, Set: SingleBack, Play: SB-SE-slant-WR3-in
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-R
+QB H. Mcdonald completes a 2 yard cross to WR C. Glover (ILB T. Soto). 
+
+Stanford ball, Q3, 2-5-SDSU5 (07:36) 3-17
+Offense: Inside Run, Set: Quads, Play: Q-HB-counter-LG
+Defense: Stop Run, Set: Goal Line, Play: GL-run-BlitzAll
+RB R. Ortiz runs left guard for 1 yard (OLB C. Schneider). 
+
+Stanford ball, Q3, 3-4-SDSU4 (07:07) 3-17
+Offense: Short Pass, Set: SingleBack, Play: SB-HB-screen
+Defense: Stop Pass, Set: Goal Line, Play: GL-run-SZ-R
+QB H. Mcdonald completes a 4 yard screen to RB R. Ortiz ****Touchdown!*****
+
+Stanford ball, Q3, 1-0-SDSU0 (06:46) 9-17
+David Lewis converts the PAT.
+
+Stanford ball, Q3, 1-10-STAN35 (06:46) 10-17
+David Lewis kicks 62 from Stanford 35 to San Diego State 3. Albert Edwards to San Diego State 
+31 for a 28 yard return.
+
+San Diego State ball, Q3, 1-10-SDSU31 (06:30) 17-10
+Offense: Medium Pass, Set: Flexbone, Play: FL-FL-playact-out
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-MZ-B7,8
+QB P. Johnson throws an incomplete pass to WR J. Lee.
+
+Holding against OT Carl Stewart on San Diego State. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 20 at the San Diego State 21.
+
+San Diego State ball, Q3, 1-20-SDSU21 (06:17) 17-10
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+RB C. Davis runs right end for 1 yard (SS J. Robbins). 
+
+San Diego State ball, Q3, 1-20-SDSU21 (06:17) 17-10
+Offense: Outside Run, Set: I Form, Play: I-HB-power-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+SS John Robbins (STAN) was injured on the play (Head). It doesn't look like he will return.
+
+San Diego State ball, Q3, 2-19-SDSU22 (06:04) 17-10
+Offense: Short Pass, Set: Wing T, Play: T-SE-playact-cor
+Defense: Stop Pass, Set: Dime, Play: Dime-norm-Man
+QB P. Johnson completes a 42 yard corner to WR J. Lee (OLB J. Adkins).  OG H. Mcknight earned 
+a pancake on the play. OLB J. Adkins allowed the big play.
+
+Ineligible Receiver Downfield against OG Harvey Mcknight on San Diego State. The Penalty is 
+for 5 yards.
+The Defense will accept the penalty. It is now Second and 24 at the San Diego State 17.
+
+San Diego State ball, Q3, 2-24-SDSU17 (05:54) 17-10
+Offense: Medium Pass, Set: Wing T, Play: T-SE-corner-WB-flat
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+QB P. Johnson throws an incomplete pass to WR J. Lee.
+
+San Diego State ball, Q3, 3-24-SDSU17 (05:34) 17-10
+Offense: Outside Run, Set: Wishbone, Play: WB-HB-tripoption-LE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+RB C. Davis runs left end for 7 yards (OLB J. Adkins).  SS B. Gray missed a tackle.
+
+San Diego State ball, Q3, 4-17-SDSU24 (05:08) 17-10
+Lyman Paul Punts 53 yards to the Stanford 23 yard line, where Hector Lancaster returns it 
+to Stanford 29 for a 6 yard return.
+
+Stanford ball, Q3, 1-10-STAN29 (04:50) 10-17
+Offense: Outside Run, Set: SingleBack, Play: SB-QB-bootleg-LE
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ-B7,8
+QB H. Mcdonald runs left end for 16 yards (FS B. Stevens).  OG A. Brown had a key block on 
+the run.
+
+Stanford ball, Q3, 1-10-STAN45 (04:21) 10-17
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Pass, Set: 3-4, Play: 34-run-Man-B4,7-L
+QB H. Mcdonald completes a 12 yard out to WR C. Glover (FS J. Raines, SS S. Madden).  OG A. 
+Brown earned a pancake on the play. CB B. Sanborn was out of position on the play.
+
+Stanford ball, Q3, 1-10-SDSU43 (03:58) 10-17
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+RB R. Ortiz runs right guard for -1 yards (DE J. Estrada). C V. Stuckey missed a block that 
+hurt the play.
+
+Stanford ball, Q3, 2-11-SDSU44 (03:30) 10-17
+Offense: Long Pass, Set: Shotgun, Play: SG-FL-playact-in
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ-B6
+QB H. Mcdonald throws an incomplete pass to WR C. Glover.
+
+Stanford ball, Q3, 3-11-SDSU44 (03:14) 10-17
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB H. Mcdonald throws an incomplete pass to WR G. Brown (CB T. Beck). CB T. Beck broke up 
+the pass.
+
+Stanford ball, Q3, 4-11-SDSU44 (02:55) 10-17
+Leroy Gaddis Punts 39 yards to the San Diego State 5 yard line, where it goes out of bounds.
+
+San Diego State ball, Q3, 1-10-SDSU5 (02:39) 17-10
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+QB P. Johnson throws an incomplete pass to RB K. Chavez. P. Johnson made a bad pass.
+
+San Diego State ball, Q3, 2-10-SDSU5 (02:24) 17-10
+Offense: Medium Pass, Set: Flexbone, Play: FL-SE-optpass-corner
+Defense: Normal, Set: 4-6, Play: 46-norm-TMan-Spy
+QB P. Johnson throws an incomplete pass to WR M. Keys.
+
+San Diego State ball, Q3, 3-10-SDSU5 (02:08) 17-10
+Offense: Medium Pass, Set: Flexbone, Play: FL-FL-playact-out
+Defense: Normal, Set: Dime, Play: Dime-norm-MZ
+QB P. Johnson gets sacked for a 6 yard loss (FS D. Lopes).  He fumbles the ball after a hit 
+by D. Lopes. It's recovered by H. Robbins of Stanford. He returns it -1 yards for the touchdown! RB K. Chavez allowed the sack.
+
+Stanford ball, Q3, 1-0-SDSU0 (01:49) 16-17
+David Lewis converts the PAT.
+
+Stanford ball, Q3, 1-10-STAN35 (01:49) 17-17
+David Lewis kicks 67 from Stanford 35 to San Diego State -2. Albert Edwards to San Diego State 
+29 for a 31 yard return.
+
+San Diego State ball, Q3, 1-10-SDSU29 (01:32) 17-17
+Offense: Outside Run, Set: Flexbone, Play: FL-RB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+RB C. Davis runs left end for -4 yards (DE M. Benoit).
+
+San Diego State ball, Q3, 1-10-SDSU29 (01:32) 17-17
+Offense: Outside Run, Set: Flexbone, Play: FL-RB-power-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+OG George White (SDSU) was injured on the play (Finger). It doesn't look too serious and he 
+should return.
+
+San Diego State ball, Q3, 2-14-SDSU25 (01:16) 17-17
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-power-RT
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB C. Davis runs right guard for 9 yards (FS J. Boyer).  OT C. Stewart had a key block on 
+the run.
+
+San Diego State ball, Q3, 3-5-SDSU34 (00:46) 17-17
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6,11
+QB P. Johnson completes a 7 yard hook to WR J. Lee (OLB J. Carroll).  He fumbles the ball 
+after a hit by J. Carroll. It's recovered by N. Pierce of Stanford. He returns it 0 yards to the San Diego State 41.
+
+Stanford ball, Q3, 1-10-SDSU41 (00:25) 17-17
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-straight-LG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B10
+RB R. Ortiz runs left guard for 10 yards (FS J. Raines).  CB B. Sanborn was out of position 
+on the play.
+
+Stanford ball, Q4, 1-10-SDSU31 (15:00) 17-17
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-straight-RE
+Defense: Stop Run, Set: 3-4, Play: 34-run-MZ-B4,5,8-L
+RB R. Ortiz runs right end for 4 yards (OLB J. Grant, OLB C. Schneider). 
+
+Stanford ball, Q4, 2-6-SDSU27 (14:27) 17-17
+Offense: Short Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Normal, Set: Nickel, Play: Nickel-norm-MZ-B10,1
+QB H. Mcdonald completes a 24 yard hook to WR J. Cole (CB B. Sanborn).  H. Mcdonald with the 
+great pass. OG A. Brown earned a pancake on the play. FS B. Stevens was out of position on the play.
+
+Stanford ball, Q4, 1-3-SDSU3 (14:06) 17-17
+Offense: Medium Pass, Set: Shotgun, Play: SG-SE-outs
+Defense: Stop Run, Set: Goal Line, Play: GL-run-SZ-L
+QB H. Mcdonald completes a 3 yard post to WR A. Best ****Touchdown!*****
+
+Stanford ball, Q4, 1-0-SDSU0 (13:40) 23-17
+David Lewis converts the PAT.
+
+Stanford ball, Q4, 1-10-STAN35 (13:40) 24-17
+David Lewis kicks 43 from Stanford 35 to San Diego State 22. Michael Jimenez to San Diego 
+State 47 for a 25 yard return.
+
+Piling On after the play against TE Robert Jansen on Stanford. The Penalty is for 15 yards, 
+and an automatic first down.
+The Offense will accept the penalty. It is now First and 10 at the Stanford 38.
+
+San Diego State ball, Q4, 1-10-STAN38 (13:30) 17-24
+Offense: Inside Run, Set: Wing T, Play: T-HB-power-RG
+Defense: Normal, Set: 4-6, Play: 46-norm-Man
+RB C. Davis runs right tackle for 0 yards (DE M. Benoit). 
+
+San Diego State ball, Q4, 2-10-STAN38 (13:00) 17-24
+Offense: Short Pass, Set: Wing T, Play: T-SE-corner-WB-flat
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB P. Johnson completes a 15 yard dump off to RB K. Chavez (FS D. Lopes).  C J. Kelly earned 
+a pancake on the play.
+
+San Diego State ball, Q4, 1-10-STAN23 (12:36) 17-24
+Offense: Inside Run, Set: Flexbone, Play: FL-HB-power-RT
+Defense: Normal, Set: Nickel, Play: Nickel-norm-Man-B6
+RB C. Davis runs left guard for 3 yards (OLB J. Carroll, DT J. Martin). 
+
+San Diego State ball, Q4, 2-7-STAN20 (12:05) 17-24
+Offense: Medium Pass, Set: Wishbone, Play: WB-SE-playact-post
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-Man-B5,11
+QB P. Johnson throws an incomplete pass to WR J. Lee (CB T. Maxwell). CB T. Maxwell broke 
+up the pass.
+
+San Diego State ball, Q4, 3-7-STAN20 (11:45) 17-24
+Offense: Short Pass, Set: Wishbone, Play: WB-FB-flat-SE-slant
+Defense: Stop Pass, Set: 4-6, Play: 46-norm-Man
+QB P. Johnson throws an incomplete pass to FB E. Edwards. OLB J. Carroll hurried the QB.
+
+San Diego State ball, Q4, 4-7-STAN20 (11:25) 17-24
+Clinton Robinson converts the 38 yard field goal.
+
+San Diego State ball, Q4, 1-10-SDSU35 (11:09) 20-24
+Clinton Robinson kicks 43 from San Diego State 35 to Stanford 22. Robert Jansen to Stanford 
+47 for a 25 yard return.
+
+Illegal Use of Hands against CB Brian Allen on Stanford. The Penalty is for 10 yards.
+The Defense will accept the penalty. It is now First and 10 at the Stanford 37.
+
+Stanford ball, Q4, 1-10-STAN37 (10:54) 24-20
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-toss-LE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B5,7
+RB M. Brannon runs left end for 1 yard (DE B. Mcgrath). 
+
+Stanford ball, Q4, 2-9-STAN38 (10:22) 24-20
+Offense: Inside Run, Set: SingleBack, Play: SB-HB-counter-LG
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+RB R. Ortiz runs left guard for -2 yards (FS J. Raines).
+
+Stanford ball, Q4, 3-11-STAN36 (09:51) 24-20
+Offense: Medium Pass, Set: Pro Set, Play: PS-SE-corner-FL-curl
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB H. Mcdonald completes a 10 yard corner to WR G. Brown (FS B. Stevens). 
+
+Stanford ball, Q4, 4-1-STAN46 (09:25) 24-20
+Leroy Gaddis Punts 34 yards to the San Diego State 20 yard line, where it goes out of bounds.
+
+San Diego State ball, Q4, 1-10-SDSU20 (09:07) 20-24
+Offense: Short Pass, Set: I Form Big, Play: IB-FB-screen
+Defense: Stop Run, Set: Dime, Play: Dime-run-MZ
+QB P. Johnson completes a 15 yard screen to FB E. Hayes (CB T. Maxwell, SS B. Gray).  SS P. 
+Schmidt missed a tackle.
+
+San Diego State ball, Q4, 1-10-SDSU35 (08:53) 20-24
+Offense: Short Pass, Set: I Form Big, Play: IB-FB-playact-flat
+Defense: Stop Pass, Set: 4-6, Play: 46-pass-MZ-B5,6,7,11
+QB P. Johnson completes a 10 yard dump off to FB E. Hayes (SS P. Schmidt, ILB R. Phillips). 
+
+Ineligible Receiver Downfield against OT Carl Stewart on San Diego State. The Penalty is for 
+5 yards.
+The Defense will accept the penalty. It is now First and 15 at the San Diego State 30.
+
+San Diego State ball, Q4, 1-15-SDSU30 (08:39) 20-24
+Offense: Outside Run, Set: Wishbone, Play: WB-FB-tripoption-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-SZ
+FB E. Hayes runs right end for -2 yards (OLB J. Carroll). OT K. Alfaro missed a block that 
+hurt the play.
+
+San Diego State ball, Q4, 2-17-SDSU28 (08:12) 20-24
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Normal, Set: Dime, Play: Dime-norm-Man-B5
+QB P. Johnson completes a 23 yard hook to WR J. Lee (FS D. Lopes, CB R. Norris).  OG H. Mcknight 
+earned a pancake on the play.
+
+San Diego State ball, Q4, 1-10-STAN49 (07:49) 20-24
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Stop Run, Set: 4-6, Play: 46-run-Man-B6
+RB C. Davis runs right tackle for 3 yards (DT J. Martin). 
+
+Grabbing Face Mask against CB Toney Maxwell on Stanford. The Penalty is for 5 yards.
+The Offense will accept the penalty. It is now Second and 2 at the Stanford 41.
+
+San Diego State ball, Q4, 2-2-STAN41 (07:39) 20-24
+Offense: Inside Run, Set: Wishbone, Play: WB-HB-power-RT
+Defense: Normal, Set: 4-6, Play: 46-norm-SZ
+RB C. Davis runs right guard for 2 yards (DE H. Robbins). 
+
+San Diego State ball, Q4, 1-10-STAN39 (07:06) 20-24
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-straight-RG
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ
+RB R. Francis runs right guard for 3 yards (ILB R. Phillips). 
+
+San Diego State ball, Q4, 1-10-STAN39 (07:06) 20-24
+Offense: Inside Run, Set: I Form Big, Play: IB-HB-straight-RG
+Defense: Normal, Set: 4-6, Play: 46-norm-MZ
+RB Richard Francis (SDSU) was injured on the play (OK). It doesn't look like he will return.
+
+San Diego State ball, Q4, 2-7-STAN36 (06:49) 20-24
+Offense: Long Pass, Set: I Form, Play: I-SE-streaks
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-DZ
+QB P. Johnson throws an incomplete pass to TE M. Jimenez. DE H. Robbins hurried the QB.
+
+San Diego State ball, Q4, 3-7-STAN36 (06:31) 20-24
+Offense: Outside Run, Set: Flexbone, Play: FL-HB-tripoption-RE
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB C. Davis runs right end for 2 yards (OLB J. Carroll, DE H. Robbins). 
+
+San Diego State ball, Q4, 4-5-STAN34 (06:05) 20-24
+False Start against TE Michael Jimenez on San Diego State. The Penalty is for 5 yards.
+The Defense will accept the penalty. It is now Fourth and 10 at the Stanford 39.
+
+San Diego State ball, Q4, 4-10-STAN39 (06:05) 20-24
+Lyman Paul Punts 27 yards to the Stanford 12 yard line, where it goes out of bounds.
+
+Stanford ball, Q4, 1-10-STAN12 (05:49) 24-20
+Offense: Inside Run, Set: Shotgun, Play: SG-HB-draw-C
+Defense: Normal, Set: Dime, Play: Dime-norm-Man
+RB M. Brannon runs right guard for 5 yards (FS B. Stevens). 
+
+Stanford ball, Q4, 2-5-STAN17 (05:23) 24-20
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-DZ
+RB R. Ortiz runs right guard for 5 yards (SS S. Madden). 
+
+Stanford ball, Q4, 1-10-STAN22 (04:56) 24-20
+Offense: Inside Run, Set: Quads, Play: Q-HB-pitch-LG
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-MZ
+RB R. Ortiz runs left guard for 1 yard (SS S. Madden).  C V. Stuckey missed a block that hurt 
+the play.
+
+Stanford ball, Q4, 2-9-STAN23 (04:26) 24-20
+Offense: Long Pass, Set: Quads, Play: Q-WR3-corner-FL-post
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-ZoneBlitz
+QB H. Mcdonald throws an incomplete pass to WR A. Best.
+
+Stanford ball, Q4, 3-9-STAN23 (04:08) 24-20
+Offense: Outside Run, Set: SingleBack, Play: SB-WR-HBfake-RE
+Defense: Normal, Set: Nickel, Play: Nickel-norm-DZ-B8
+WR A. Best runs right end for 13 yards (SS S. Madden).  OG A. Brown had a key block on the 
+run. DT J. Schwartz was out of position on the play.
+
+Stanford ball, Q4, 1-10-STAN36 (03:38) 24-20
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+QB H. Mcdonald completes a 4 yard out to WR G. Brown (FS J. Raines). 
+
+Stanford ball, Q4, 1-10-STAN36 (03:38) 24-20
+Offense: Short Pass, Set: Pro Set, Play: PS-FL-outs
+Defense: Stop Run, Set: 3-4, Play: 34-run-Man-B5,7
+DE Jonathan Estrada (SDSU) was injured on the play (Lower Leg). It doesn't look too serious 
+and he should return.
+
+Stanford ball, Q4, 2-6-STAN40 (03:23) 24-20
+Offense: Short Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+QB H. Mcdonald throws an incomplete pass to RB R. Ortiz (CB B. Sanborn). CB B. Sanborn broke 
+up the pass.
+
+Stanford ball, Q4, 2-6-STAN40 (03:23) 24-20
+Offense: Short Pass, Set: SingleBack, Play: SB-FL-cross-SE-out
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man
+CB Thomas Beck (SDSU) was injured on the play (Jaw). It doesn't look like he will return.
+
+Stanford ball, Q4, 3-6-STAN40 (03:08) 24-20
+Offense: Inside Run, Set: Weak, Play: WK-HB-counter-RG
+Defense: Normal, Set: Nickel, Play: Nickel-norm-TMan
+RB R. Ortiz runs right tackle for 3 yards (ILB J. Williams). 
+
+Stanford ball, Q4, 4-3-STAN43 (02:41) 24-20
+Leroy Gaddis Punts 41 yards to the San Diego State 16 yard line, where it gets downed.
+
+San Diego State ball, Q4, 1-10-SDSU16 (02:24) 20-24
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Normal, Set: 4-6, Play: 46-norm-TMan-Spy
+QB P. Johnson throws an incomplete pass to RB K. Chavez. DE H. Robbins hurried the QB.
+
+San Diego State ball, Q4, 2-10-SDSU16 (02:04) 20-24
+Offense: Short Pass, Set: Flexbone, Play: FL-RB-flats
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-Man-B5,6
+QB P. Johnson throws an incomplete pass to FB E. Edwards (CB T. Maxwell). DE N. Pierce hurried 
+the QB. CB T. Maxwell broke up the pass.
+
+San Diego State ball, Q4, 3-10-SDSU16 (01:49) 20-24
+Offense: Short Pass, Set: I Form, Play: I-SE-curls
+Defense: Stop Pass, Set: Dime, Play: Dime-pass-Man-B5-L
+QB P. Johnson throws an incomplete pass to TE M. Jimenez.
+
+San Diego State ball, Q4, 4-10-SDSU16 (01:31) 20-24
+Lyman Paul Punts 36 yards to the Stanford 48 yard line, where Hector Lancaster returns it 
+to San Diego State 16 for a 36 yard return.
+
+Stanford ball, Q4, 1-10-SDSU16 (01:14) 24-20
+Offense: Outside Run, Set: SingleBack, Play: SB-HB-power-RE
+Defense: Normal, Set: 3-4, Play: 34-norm-TMan-R
+RB R. Ortiz runs right end for -1 yards (CB B. Sanborn).
+
+San Diego State Timeout!
+
+Stanford ball, Q4, 2-11-SDSU17 (01:06) 24-20
+Offense: Inside Run, Set: Weak, Play: WK-HB-straight-RG
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-DZ
+RB R. Ortiz runs right guard for 2 yards (CB B. Sanborn). 
+
+San Diego State Timeout!
+
+Stanford ball, Q4, 3-9-SDSU15 (00:57) 24-20
+Offense: Outside Run, Set: Pro Set, Play: PS-HB-power-RE
+Defense: Stop Pass, Set: 3-4, Play: 34-pass-Man-B7
+RB R. Ortiz runs right end for 4 yards (ILB J. Williams). 
+
+San Diego State Timeout!
+
+Stanford ball, Q4, 4-5-SDSU11 (00:50) 24-20
+David Lewis converts the 29 yard field goal.
+
+Stanford ball, Q4, 1-10-STAN35 (00:44) 27-20
+David Lewis kicks 75 from Stanford 35 to end zone, Touchback.
+
+San Diego State ball, Q4, 1-10-SDSU20 (00:36) 20-27
+Offense: Medium Pass, Set: Wishbone, Play: WB-HB-streaks
+Defense: Normal, Set: 4-6, Play: 46-norm-SZ-B6
+QB P. Johnson throws an incomplete pass to WR J. Lee.
+
+San Diego State ball, Q4, 2-10-SDSU20 (00:28) 20-27
+Offense: Long Pass, Set: Wishbone, Play: WB-SE-streaks
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+QB P. Johnson completes a 61 yard streak to WR J. Lee (CB R. Norris, OLB J. Adkins).  SS P. 
+Schmidt allowed the big play.
+
+San Diego State ball, Q4, 2-10-SDSU20 (00:20) 20-27
+Offense: Long Pass, Set: Wishbone, Play: WB-SE-streaks
+Defense: Stop Run, Set: Nickel, Play: Nickel-MZ-B5,8
+The QB spikes the ball to stop the clock!
+
+San Diego State ball, Q4, 2-10-STAN19 (00:20) 20-27
+Offense: Medium Pass, Set: Flexbone, Play: FL-FL-playact-out
+Defense: Stop Run, Set: Nickel, Play: Nickel-run-Man-B5,6-
+QB P. Johnson throws an incomplete pass to WR M. Keys. WR M. Keys ran an incorrect route.
+
+San Diego State ball, Q4, 3-10-STAN19 (00:13) 20-27
+Offense: Short Pass, Set: Wing T, Play: T-SE-playact-cor
+Defense: Stop Pass, Set: Nickel, Play: Nickel-pass-MZ-B6
+QB P. Johnson throws an incomplete pass to RB K. Chavez. DT J. Martin hurried the QB.
+
+San Diego State ball, Q4, 4-10-STAN19 (00:05) 20-27
+Offense: Long Pass, Set: I Form, Play: I-SE-streaks
+Defense: Stop Pass, Set: 4-6, Play: 46-norm-DZ
+QB P. Johnson throws an incomplete pass to WR M. Keys (CB T. Maxwell). CB T. Maxwell broke 
+up the pass.
+
